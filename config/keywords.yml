@@ -1,0 +1,26 @@
+# Job Radar — Search Configuration
+# Edit this file to customize what jobs are scraped
+
+search_keywords:
+  - "data engineer"
+  - "analytics engineer"
+  - "data engineering"
+  - "ML engineer"
+  - "machine learning engineer"
+  - "data platform engineer"
+  - "Microsoft Fabric"
+  - "ETL engineer"
+  - "dbt engineer"
+
+# Filter out jobs with these words in title (case-insensitive)
+title_exclude:
+  - "intern"
+  - "student"
+  - "fresher"
+
+# Only include jobs from these locations (empty = all locations)
+locations_include: []
+# Example: ["Ho Chi Minh", "Hanoi", "Remote", "Vietnam"]
+
+# Minimum salary filter (USD/month equivalent, 0 = no filter)
+min_salary_usd: 0

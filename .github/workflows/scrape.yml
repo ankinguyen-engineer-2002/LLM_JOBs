@@ -1,0 +1,49 @@
+name: Scrape Jobs
+
+on:
+  schedule:
+    # 3 times daily — ICT (UTC+7)
+    - cron: '0 0 * * *'    # 07:00 ICT
+    - cron: '0 7 * * *'    # 14:00 ICT
+    - cron: '0 13 * * *'   # 20:00 ICT
+  workflow_dispatch:         # allow manual trigger from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write        # needed for git push
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scrapers
+        id: scrape
+        env:
+          ITVIEC_SESSION: ${{ secrets.ITVIEC_SESSION }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python main.py && echo "new_jobs=true" >> $GITHUB_OUTPUT
+        continue-on-error: true
+
+      - name: Commit updated jobs.json
+        if: steps.scrape.outputs.new_jobs == 'true'
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "bot@job-radar"
+          git add data/jobs.json
+          git diff --staged --quiet || \
+            (git commit -m "data: update jobs $(date -u +'%Y-%m-%d %H:%M UTC')" && \
+             git push)
