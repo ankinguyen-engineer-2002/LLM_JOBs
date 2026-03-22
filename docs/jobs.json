@@ -33200,5 +33200,168 @@
     "employment_type": "Full-time",
     "clean_tags": [],
     "freshness": "today"
+  },
+  {
+    "id": "ddbbfc02fbd60580",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/win-home-inspection-senior-devops-engineer",
+    "title": "Senior DevOps Engineer",
+    "company": "WIN Home Inspection",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Delhi URL: http://wini.com Senior DevOps Engineer Location: 100% Remote &nbsp; About the Role WIN is building modern, scalable technology platforms that power our nationwide home services network. We are looking for a highly skilled DevOps Engineer who enjoys automating, troubleshootin",
+    "posted_date": "2026-02-20",
+    "scraped_at": "2026-03-22T13:41:58.427024",
+    "first_seen": "2026-03-22T13:41:58.427026"
+  },
+  {
+    "id": "739ede6cc96dfee0",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/10beauty-senior-devops-engineer",
+    "title": "Senior DevOps Engineer",
+    "company": "10Beauty",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote URL: http://10beauty.co 10Beauty is a robotics startup based in Burlington, MA. We have raised $50M+ from some of the leading venture and celebrity investors in the country to build the world’s first fully autonomous manicure machine. We have pre-sold our first 1,000 machines to",
+    "posted_date": "2026-02-20",
+    "scraped_at": "2026-03-22T13:41:58.426733",
+    "first_seen": "2026-03-22T13:41:58.426735"
+  },
+  {
+    "id": "d5cf74fe4ef80bf0",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/everai-senior-devops-engineer-full-remote-lithuania",
+    "title": "Senior DevOps Engineer (Full Remote - Lithuania)",
+    "company": "EverAI",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Lithuania URL: http://everai.ai Our Vision &amp; Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 40 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it mea",
+    "posted_date": "2026-02-20",
+    "scraped_at": "2026-03-22T13:41:58.426370",
+    "first_seen": "2026-03-22T13:41:58.426372"
+  },
+  {
+    "id": "d0d2ca8aca30fc67",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/solera-manager-cloud-devops-engineering",
+    "title": "Manager Cloud, DevOps Engineering",
+    "company": "Solera",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Virtual Mexico URL: http://solera.com Manager Software Engineering Cloud DevOps The Role We are looking for a hands on Manager to join our virtual Cloud &amp; Development Operations team supporting Solera's key cloud environments for our global market. This Manager will manage a team o",
+    "posted_date": "2026-02-20",
+    "scraped_at": "2026-03-22T13:41:58.425696",
+    "first_seen": "2026-03-22T13:41:58.425698"
+  },
+  {
+    "id": "7fac6655d0264bcb",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/gruntwork-head-of-product",
+    "title": "Head of Product",
+    "company": "Gruntwork",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Western Hemisphere (Remote) URL: http://gruntwork.io About Gruntwork Gruntwork, the company behind Terragrunt, is on a mission to transform the way DevOps is done. Let’s face it: designing, launching, and managing infrastructure is still a terrible experience for most organizations, bu",
+    "posted_date": "2026-02-20",
+    "scraped_at": "2026-03-22T13:41:58.425365",
+    "first_seen": "2026-03-22T13:41:58.425367"
+  },
+  {
+    "id": "6ceb4f40c8663b6e",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/ahu-technologies-senior-trainer-dc",
+    "title": "Senior Trainer  DC",
+    "company": "AHU Technologies",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "front-end programming"
+    ],
+    "description_snippet": "Headquarters: Washington, DC 20009 URL: http://ahutech.com Analyze, design, develop, and test industry-standard training materials in support of on-going continuing improvement and new releases. Provide hands-on support for front-line worker and their supervisors. Deliver quality training with measu",
+    "posted_date": "2026-02-20",
+    "scraped_at": "2026-03-22T13:41:58.076712",
+    "first_seen": "2026-03-22T13:41:58.076714"
+  },
+  {
+    "id": "5665653155677aa6",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=bf37f9f66403cb0b",
+    "title": "Senior Cyber Security Engineer II-Identity Governance",
+    "company": "Staples",
+    "location": "Framingham, MA, US",
+    "is_remote": false,
+    "salary": "USD 139,000 – 191,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**Staples is business to business.** You’re what binds us together.\n\n  \n\nOur Staples Digital Solutions team is redefining what it means to be an IT organization. We are passionate, collaborative, and agile professionals who thrive on innovation and creativity. Our team anticipates the needs of custo",
+    "posted_date": "2026-03-21",
+    "scraped_at": "2026-03-22T13:39:16.862713",
+    "first_seen": "2026-03-22T13:39:16.862715"
+  },
+  {
+    "id": "b66202c34b142378",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5802e7a62cd185dc",
+    "title": "Senior Software Engineer - Fullstack, Engagement Growth",
+    "company": "Uber",
+    "location": "New York, NY, US",
+    "is_remote": false,
+    "salary": "USD 202,000 – 224,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "java",
+      "scala"
+    ],
+    "description_snippet": "**About the Role**\n  \n\n  \n\nUber Eats has expanded beyond restaurants to support use cases like grocery, retail, and other emerging categories across global markets. The Early User Growth organization focuses on how new users discover, experience, and engage with Uber Eats, working across surfaces, a",
+    "posted_date": "2026-03-22",
+    "scraped_at": "2026-03-22T13:39:16.857875",
+    "first_seen": "2026-03-22T13:39:16.857877"
+  },
+  {
+    "id": "45761915ae9d0ce7",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=bfafe69b09f7f7ee",
+    "title": "Part-Time Data Entry Specialist (Bridge Inspection Records)",
+    "company": "nan",
+    "location": "Mount Horeb, WI, US",
+    "is_remote": true,
+    "salary": "USD 15 – 20/hourly",
+    "job_type": "parttime",
+    "tags": [],
+    "description_snippet": "**Overview**  \nNBI Engineering Services is seeking a detail\\-oriented and reliable Part\\-Time Data Entry Specialist to support our bridge inspection team. This role is responsible for accurately entering field\\-collected bridge inspection data into state\\-managed record systems. The ideal candidate ",
+    "posted_date": "2026-03-22",
+    "scraped_at": "2026-03-22T13:39:16.857672",
+    "first_seen": "2026-03-22T13:39:16.857680"
   }
 ]
