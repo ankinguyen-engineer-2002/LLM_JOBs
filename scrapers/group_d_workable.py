@@ -15,17 +15,15 @@ class WorkableScraper(BaseJobScraper):
     source_name = "workable"
 
     API_URL = "https://jobs.workable.com/api/v1/jobs"
-    MAX_KEYWORDS = 6   # Top N keywords to search
     PER_PAGE = 5        # Workable returns 5 jobs per page (fixed)
     MAX_PAGES = 10      # Max pages per keyword (5 × 10 = 50 jobs/keyword)
 
-    def scrape(self, keywords: list[str], max_results: int = 100) -> list[Job]:
+    def scrape(self, keywords: list[str], max_results: int = 200) -> list[Job]:
         jobs = []
         seen_ids = set()
         cutoff = datetime.now() - timedelta(days=30)
-        use_keywords = keywords[:self.MAX_KEYWORDS]
 
-        for kw in use_keywords:
+        for kw in keywords:
             page_token = None
             pages = 0
 
