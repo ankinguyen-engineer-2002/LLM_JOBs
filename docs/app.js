@@ -300,100 +300,114 @@ function destroyChart(id) { if(charts[id]) { charts[id].destroy(); delete charts
 // === BROWSE (multi-dimensional filters) ===
 function renderBrowse() { buildFilterUI(); applyFilters(); }
 
-// --- Domain Dropdown ---
-function buildDomainDropdown() {
-  const doms = {};
-  allJobs.forEach(j => { doms[j.domain]=(doms[j.domain]||0)+1; });
-  const sorted = Object.entries(doms).sort((a,b) => {
-    // Selected first, then by count
-    const aAct = activeFilters.domain.has(a[0]) ? 1 : 0;
-    const bAct = activeFilters.domain.has(b[0]) ? 1 : 0;
-    if (bAct !== aAct) return bAct - aAct;
-    return b[1] - a[1];
-  });
-  const filtered = domainSearchQuery
-    ? sorted.filter(([d]) => d.toLowerCase().includes(domainSearchQuery.toLowerCase()))
-    : sorted;
+// --- Universal Dropdowns ---
+const dropdownState = {
+  domain: { open: false, search: '' },
+  sources: { open: false, search: '' },
+  levels: { open: false, search: '' },
+  categories: { open: false, search: '' },
+  workmode: { open: false, search: '' },
+  contract: { open: false, search: '' },
+  locations: { open: false, search: '' },
+  tags: { open: false, search: '' }
+};
 
-  const selectedCount = activeFilters.domain.size;
-  const wrap = document.getElementById('f-domain-dropdown-wrap');
-  if (!wrap) return;
-
-  wrap.innerHTML = `
-    <div class="domain-dd">
-      <div class="domain-dd-trigger" onclick="toggleDomainDropdown()">
-        <div style="display:flex;align-items:center;gap:8px;flex:1;min-width:0">
-          <i data-lucide="layers" style="width:13px;height:13px;color:var(--accent);flex-shrink:0"></i>
-          <span style="font-family:var(--font-mono);font-size:10px;color:var(--text-dim);letter-spacing:0.04em;text-transform:uppercase;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">
-            ${selectedCount > 0 ? `${[...activeFilters.domain].slice(0,2).join(', ')}${selectedCount>2?` +${selectedCount-2}`:''}` : 'All domains'}
-          </span>
-          ${selectedCount > 0 ? `<span class="dd-badge">${selectedCount}</span>` : ''}
-        </div>
-        <i data-lucide="chevron-${domainDropdownOpen?'up':'down'}" style="width:13px;height:13px;color:var(--text-dim);flex-shrink:0"></i>
-      </div>
-      ${domainDropdownOpen ? `
-      <div class="domain-dd-panel">
-        <div class="domain-dd-search-wrap">
-          <i data-lucide="search" style="width:12px;height:12px;color:var(--text-faint);position:absolute;left:12px;top:50%;transform:translateY(-50%)"></i>
-          <input type="text" class="domain-dd-search" placeholder="Search domains..." value="${esc(domainSearchQuery)}"
-            oninput="domainSearchQuery=this.value;buildDomainDropdown();lucide.createIcons();"
-            onclick="event.stopPropagation()">
-        </div>
-        <div class="domain-dd-list">
-          ${filtered.length === 0 ? `<div style="padding:12px;text-align:center;font-family:var(--font-mono);font-size:10px;color:var(--text-faint)">No match</div>` : ''}
-          ${filtered.map(([d, c]) => {
-            const act = activeFilters.domain.has(d);
-            return `<div class="domain-dd-option ${act?'active':''}" onclick="event.stopPropagation();toggleFilter('domain','${d.replace(/'/g,"&apos;")}')">\n              <span class="domain-dd-check">${act ? '✓' : ''}</span>\n              <span class="domain-dd-name">${esc(d)}</span>\n              <span class="domain-dd-count">${c}</span>\n            </div>`;
-          }).join('')}
-        </div>
-        ${selectedCount > 0 ? `<div class="domain-dd-footer" onclick="event.stopPropagation();activeFilters.domain.clear();renderBrowse()">Clear domain filter</div>` : ''}
-      </div>` : ''}
-    </div>`;
-  lucide.createIcons();
-  setTimeout(setupCursorHovers, 50);
+function toggleDropdown(key) {
+  Object.keys(dropdownState).forEach(k => { if (k !== key) dropdownState[k].open = false; });
+  dropdownState[key].open = !dropdownState[key].open;
+  buildFilterUI();
 }
 
-function toggleDomainDropdown() {
-  domainDropdownOpen = !domainDropdownOpen;
-  buildDomainDropdown();
-  lucide.createIcons();
-}
-
-// Close domain dropdown when clicking outside
 document.addEventListener('click', e => {
-  if (domainDropdownOpen && !e.target.closest('#f-domain-dropdown-wrap')) {
-    domainDropdownOpen = false;
-    buildDomainDropdown();
+  if (!e.target.closest('.domain-dd')) {
+    let changed = false;
+    Object.keys(dropdownState).forEach(k => {
+      if (dropdownState[k].open) { dropdownState[k].open = false; changed = true; }
+    });
+    if (changed) buildFilterUI();
   }
 });
 
+function renderDropdown(wrapId, filterKey, title, itemsMap) {
+  const wrap = document.getElementById(wrapId);
+  if (!wrap) return;
+
+  const state = dropdownState[filterKey];
+  const activeSet = activeFilters[filterKey];
+  
+  const sorted = Object.entries(itemsMap).sort((a,b) => {
+    const aAct = activeSet.has(a[0]) ? 1 : 0;
+    const bAct = activeSet.has(b[0]) ? 1 : 0;
+    if (bAct !== aAct) return bAct - aAct;
+    return b[1] - a[1];
+  });
+  
+  const filtered = state.search ? sorted.filter(([v]) => {
+    const lbl = (filterKey === 'sources' && SRC[v]) ? SRC[v].label : v;
+    return String(lbl).toLowerCase().includes(state.search.toLowerCase());
+  }) : sorted;
+  
+  const selectedCount = activeSet.size;
+
+  let labelText = title;
+  if (selectedCount > 0) {
+    const arr = [...activeSet].map(v => (filterKey === 'sources' && SRC[v]) ? SRC[v].label : v);
+    labelText = arr.slice(0,2).join(', ') + (selectedCount > 2 ? ` +${selectedCount-2}` : '');
+  }
+
+  wrap.innerHTML = `
+    <div class="domain-dd">
+      <div class="domain-dd-trigger" onclick="event.stopPropagation(); toggleDropdown('${filterKey}')">
+        <div style="display:flex;align-items:center;gap:8px;flex:1;min-width:0">
+          <i data-lucide="layers" style="width:13px;height:13px;color:var(--accent);flex-shrink:0"></i>
+          <span style="font-family:var(--font-mono);font-size:10px;color:var(--text-dim);letter-spacing:0.04em;text-transform:uppercase;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">
+            ${labelText}
+          </span>
+          ${selectedCount > 0 ? `<span class="dd-badge">${selectedCount}</span>` : ''}
+        </div>
+        <i data-lucide="chevron-${state.open?'up':'down'}" style="width:13px;height:13px;color:var(--text-dim);flex-shrink:0"></i>
+      </div>
+      ${state.open ? `
+      <div class="domain-dd-panel" onclick="event.stopPropagation()">
+        <div class="domain-dd-search-wrap">
+          <i data-lucide="search" style="width:12px;height:12px;color:var(--text-faint);position:absolute;left:12px;top:50%;transform:translateY(-50%)"></i>
+          <input type="text" id="search-${filterKey}" class="domain-dd-search" placeholder="Search..." value="${esc(state.search)}"
+            oninput="dropdownState['${filterKey}'].search=this.value; buildFilterUI(); setTimeout(() => { const el=document.getElementById('search-${filterKey}'); if(el){el.focus(); el.selectionStart=el.selectionEnd=el.value.length;} }, 0);"
+            autofocus>
+        </div>
+        <div class="domain-dd-list">
+          ${filtered.length === 0 ? `<div style="padding:12px;text-align:center;font-family:var(--font-mono);font-size:10px;color:var(--text-faint)">No match</div>` : ''}
+          ${filtered.map(([v, c]) => {
+            const act = activeSet.has(v);
+            const lbl = (filterKey === 'sources' && SRC[v]) ? SRC[v].label : v;
+            return `<div class="domain-dd-option ${act?'active':''}" onclick="event.stopPropagation();toggleFilter('${filterKey}','${String(v).replace(/'/g,"&apos;")}')">
+              <span class="domain-dd-check">${act ? '✓' : ''}</span>
+              <span class="domain-dd-name">${esc(lbl)}</span>
+              <span class="domain-dd-count">${c}</span>
+            </div>`;
+          }).join('')}
+        </div>
+        ${selectedCount > 0 ? `<div class="domain-dd-footer" onclick="event.stopPropagation();activeFilters['${filterKey}'].clear();renderBrowse()">Clear filter</div>` : ''}
+      </div>` : ''}
+    </div>`;
+}
+
 function buildFilterUI() {
-  // Domain (searchable dropdown)
-  buildDomainDropdown();
+  // Domain
+  const doms = {}; allJobs.forEach(j => { doms[j.domain]=(doms[j.domain]||0)+1; });
+  renderDropdown('f-domain-wrap', 'domain', 'All domains', doms);
 
   // Sources
-  const sources = [...new Set(allJobs.map(j=>j.source))].sort();
-  document.getElementById('f-sources').innerHTML = sources.map(s => {
-    const c = SRC[s]||{label:s}; const act = activeFilters.sources.has(s)?'active':'';
-    return `<button class="chip ${act}" onclick="toggleFilter('sources','${s}')">${c.label}<span class="count">${allJobs.filter(j=>j.source===s).length}</span></button>`;
-  }).join('');
-  updateCollapsibleBadge('f-sources', activeFilters.sources);
+  const srcs = {}; allJobs.forEach(j => { srcs[j.source]=(srcs[j.source]||0)+1; });
+  renderDropdown('f-sources-wrap', 'sources', 'All sources', srcs);
 
   // Levels
-  const levels = {}; allJobs.forEach(j => { const l=j.level||'N/A'; levels[l]=(levels[l]||0)+1; });
-  document.getElementById('f-levels').innerHTML = Object.entries(levels).sort((a,b)=>b[1]-a[1]).map(([l,c]) => {
-    const act = activeFilters.levels.has(l)?'active':'';
-    return `<button class="chip ${act}" onclick="toggleFilter('levels','${l}')">${l}<span class="count">${c}</span></button>`;
-  }).join('');
-  updateCollapsibleBadge('f-levels', activeFilters.levels);
+  const lvls = {}; allJobs.forEach(j => { const l=j.level||'N/A'; lvls[l]=(lvls[l]||0)+1; });
+  renderDropdown('f-levels-wrap', 'levels', 'All levels', lvls);
 
   // Categories
   const cats = {}; allJobs.forEach(j => { const c=j.job_category||'Other'; cats[c]=(cats[c]||0)+1; });
-  document.getElementById('f-categories').innerHTML = Object.entries(cats).sort((a,b)=>b[1]-a[1]).map(([c,n]) => {
-    const act = activeFilters.categories.has(c)?'active':'';
-    return `<button class="chip ${act}" onclick="toggleFilter('categories','${c}')">${c}<span class="count">${n}</span></button>`;
-  }).join('');
-  updateCollapsibleBadge('f-categories', activeFilters.categories);
+  renderDropdown('f-categories-wrap', 'categories', 'All categories', cats);
 
   // Work Mode
   const wmodes = {}; allJobs.forEach(j => {
@@ -403,13 +417,9 @@ function buildFilterUI() {
     else if(loc.includes('hybrid')) mode = 'Hybrid';
     wmodes[mode] = (wmodes[mode]||0)+1;
   });
-  document.getElementById('f-workmode').innerHTML = Object.entries(wmodes).sort((a,b)=>b[1]-a[1]).map(([m,c]) => {
-    const act = activeFilters.workmode.has(m)?'active':'';
-    return `<button class="chip ${act}" onclick="toggleFilter('workmode','${m}')">${m}<span class="count">${c}</span></button>`;
-  }).join('');
-  updateCollapsibleBadge('f-workmode', activeFilters.workmode);
+  renderDropdown('f-workmode-wrap', 'workmode', 'All work modes', wmodes);
 
-  // Contract Type
+  // Contract
   const ctypes = {}; allJobs.forEach(j => {
     const et = (j.employment_type||j.job_type||'').toLowerCase();
     let ct = 'Other';
@@ -418,40 +428,18 @@ function buildFilterUI() {
     else if(et.includes('contract') || et.includes('freelance')) ct = 'Contract';
     ctypes[ct] = (ctypes[ct]||0)+1;
   });
-  document.getElementById('f-contract').innerHTML = Object.entries(ctypes).sort((a,b)=>b[1]-a[1]).map(([c,n]) => {
-    const act = activeFilters.contract.has(c)?'active':'';
-    return `<button class="chip ${act}" onclick="toggleFilter('contract','${c}')">${c}<span class="count">${n}</span></button>`;
-  }).join('');
-  updateCollapsibleBadge('f-contract', activeFilters.contract);
+  renderDropdown('f-contract-wrap', 'contract', 'All contracts', ctypes);
 
-  // Locations (top 8)
+  // Locations
   const locs = {}; allJobs.forEach(j => { const l=(j.location||'N/A').split(',')[0].trim(); if(l.toLowerCase()!=='remote') locs[l]=(locs[l]||0)+1; });
-  const topLocs = Object.entries(locs).sort((a,b)=>b[1]-a[1]).slice(0,8);
-  document.getElementById('f-locations').innerHTML = topLocs.map(([l,c]) => {
-    const act = activeFilters.locations.has(l)?'active':'';
-    return `<button class="chip ${act}" onclick="toggleFilter('locations','${l}')">${l}<span class="count">${c}</span></button>`;
-  }).join('');
-  updateCollapsibleBadge('f-locations', activeFilters.locations);
+  renderDropdown('f-locations-wrap', 'locations', 'All locations', locs);
 
-  // Tags (clean_tags, top 12)
+  // Tags
   const tagC = {}; allJobs.forEach(j => (j.clean_tags||j.tags||[]).forEach(t => { tagC[t]=(tagC[t]||0)+1; }));
-  const topTags = Object.entries(tagC).sort((a,b)=>b[1]-a[1]).slice(0,12);
-  document.getElementById('f-tags').innerHTML = topTags.map(([t,c]) => {
-    const act = activeFilters.tags.has(t)?'active':'';
-    return `<button class="chip ${act}" onclick="toggleFilter('tags','${esc(t)}')">${t}<span class="count">${c}</span></button>`;
-  }).join('');
-  updateCollapsibleBadge('f-tags', activeFilters.tags);
-}
+  renderDropdown('f-tags-wrap', 'tags', 'All tech skills', tagC);
 
-function updateCollapsibleBadge(chipContainerId, filterSet) {
-  const section = document.getElementById(chipContainerId)?.closest('.filter-section.collapsible');
-  if (!section) return;
-  const badge = section.querySelector('.collapse-badge');
-  if (badge) { badge.textContent = filterSet.size > 0 ? filterSet.size : ''; badge.style.display = filterSet.size > 0 ? 'inline-flex' : 'none'; }
-}
-
-function toggleCollapsible(sectionEl) {
-  sectionEl.classList.toggle('collapsed');
+  try { lucide.createIcons(); } catch(e) {}
+  setTimeout(setupCursorHovers, 50);
 }
 
 function toggleFilter(type,val) {
@@ -460,7 +448,14 @@ function toggleFilter(type,val) {
   else renderBrowse();
 }
 function addSourceFilter(s) { activeFilters.sources.clear(); activeFilters.sources.add(s); switchTab('browse'); }
-function clearFilters() { Object.values(activeFilters).forEach(s=>s.clear()); domainSearchQuery=''; document.getElementById('search-input').value=''; document.getElementById('f-freshness').value='all'; document.getElementById('f-salary').checked=false; renderBrowse(); }
+function clearFilters() {
+  Object.values(activeFilters).forEach(s=>s.clear()); 
+  Object.values(dropdownState).forEach(s=>s.search='');
+  document.getElementById('search-input').value='';
+  document.getElementById('f-freshness').value='all';
+  document.getElementById('f-salary').checked=false;
+  renderBrowse();
+}
 
 function applyFilters() {
   const search = (document.getElementById('search-input').value||'').toLowerCase();

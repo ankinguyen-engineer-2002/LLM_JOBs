@@ -103,91 +103,19 @@
           </select>
         </div>
 
-        <div class="filter-section">
-          <p class="filter-label">Domain Pattern</p>
-          <div id="f-domain-dropdown-wrap"></div>
-        </div>
-
-        <div class="filter-section collapsible" id="fs-sources">
-          <p class="filter-label" onclick="toggleCollapsible(this.closest('.filter-section'))" style="cursor:none;justify-content:space-between">
-            <span>Source</span>
-            <span style="display:flex;align-items:center;gap:6px">
-              <span class="collapse-badge" style="display:none"></span>
-              <i data-lucide="chevron-down" class="collapse-icon" style="width:12px;height:12px"></i>
-            </span>
-          </p>
-          <div id="f-sources" class="filter-chips"></div>
-        </div>
-
-        <div class="filter-section collapsible collapsed" id="fs-levels">
-          <p class="filter-label" onclick="toggleCollapsible(this.closest('.filter-section'))" style="cursor:none;justify-content:space-between">
-            <span>Level</span>
-            <span style="display:flex;align-items:center;gap:6px">
-              <span class="collapse-badge" style="display:none"></span>
-              <i data-lucide="chevron-down" class="collapse-icon" style="width:12px;height:12px"></i>
-            </span>
-          </p>
-          <div id="f-levels" class="filter-chips"></div>
-        </div>
-
-        <div class="filter-section collapsible collapsed" id="fs-categories">
-          <p class="filter-label" onclick="toggleCollapsible(this.closest('.filter-section'))" style="cursor:none;justify-content:space-between">
-            <span>Category</span>
-            <span style="display:flex;align-items:center;gap:6px">
-              <span class="collapse-badge" style="display:none"></span>
-              <i data-lucide="chevron-down" class="collapse-icon" style="width:12px;height:12px"></i>
-            </span>
-          </p>
-          <div id="f-categories" class="filter-chips"></div>
-        </div>
-
-        <div class="filter-section collapsible collapsed" id="fs-workmode">
-          <p class="filter-label" onclick="toggleCollapsible(this.closest('.filter-section'))" style="cursor:none;justify-content:space-between">
-            <span>Work Mode</span>
-            <span style="display:flex;align-items:center;gap:6px">
-              <span class="collapse-badge" style="display:none"></span>
-              <i data-lucide="chevron-down" class="collapse-icon" style="width:12px;height:12px"></i>
-            </span>
-          </p>
-          <div id="f-workmode" class="filter-chips"></div>
-        </div>
-
-        <div class="filter-section collapsible collapsed" id="fs-contract">
-          <p class="filter-label" onclick="toggleCollapsible(this.closest('.filter-section'))" style="cursor:none;justify-content:space-between">
-            <span>Contract Type</span>
-            <span style="display:flex;align-items:center;gap:6px">
-              <span class="collapse-badge" style="display:none"></span>
-              <i data-lucide="chevron-down" class="collapse-icon" style="width:12px;height:12px"></i>
-            </span>
-          </p>
-          <div id="f-contract" class="filter-chips"></div>
-        </div>
-
-        <div class="filter-section collapsible collapsed" id="fs-locations">
-          <p class="filter-label" onclick="toggleCollapsible(this.closest('.filter-section'))" style="cursor:none;justify-content:space-between">
-            <span>Location</span>
-            <span style="display:flex;align-items:center;gap:6px">
-              <span class="collapse-badge" style="display:none"></span>
-              <i data-lucide="chevron-down" class="collapse-icon" style="width:12px;height:12px"></i>
-            </span>
-          </p>
-          <div id="f-locations" class="filter-chips"></div>
-        </div>
+        <div class="filter-section"><p class="filter-label">Domain Pattern</p><div id="f-domain-wrap"></div></div>
+        <div class="filter-section"><p class="filter-label">Source</p><div id="f-sources-wrap"></div></div>
+        <div class="filter-section"><p class="filter-label">Level</p><div id="f-levels-wrap"></div></div>
+        <div class="filter-section"><p class="filter-label">Category</p><div id="f-categories-wrap"></div></div>
+        <div class="filter-section"><p class="filter-label">Work Mode</p><div id="f-workmode-wrap"></div></div>
+        <div class="filter-section"><p class="filter-label">Contract Type</p><div id="f-contract-wrap"></div></div>
+        <div class="filter-section"><p class="filter-label">Location</p><div id="f-locations-wrap"></div></div>
 
         <div style="display:flex;flex-direction:column;gap:8px;margin:12px 0;padding:12px;background:var(--bg);border:1px solid var(--border)">
           <label style="display:flex;align-items:center;gap:8px;font-family:var(--font-mono);font-size:10px;color:var(--text-dim);cursor:none;letter-spacing:0.04em"><input type="checkbox" id="f-salary" onchange="applyFilters()" style="accent-color:var(--accent3)"> Has salary info</label>
         </div>
 
-        <div class="filter-section collapsible collapsed" id="fs-tags">
-          <p class="filter-label" onclick="toggleCollapsible(this.closest('.filter-section'))" style="cursor:none;justify-content:space-between">
-            <span>Tech Skills</span>
-            <span style="display:flex;align-items:center;gap:6px">
-              <span class="collapse-badge" style="display:none"></span>
-              <i data-lucide="chevron-down" class="collapse-icon" style="width:12px;height:12px"></i>
-            </span>
-          </p>
-          <div id="f-tags" class="filter-chips" style="max-height:160px;overflow-y:auto"></div>
-        </div>
+        <div class="filter-section"><p class="filter-label">Tech Skills</p><div id="f-tags-wrap"></div></div>
       </div>
     </aside>
 
