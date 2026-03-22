@@ -104,17 +104,29 @@
         <div class="filter-section"><p class="filter-label">Source</p><div id="f-sources" class="filter-chips"></div></div>
         <div class="filter-section"><p class="filter-label">Level</p><div id="f-levels" class="filter-chips"></div></div>
         <div class="filter-section"><p class="filter-label">Category</p><div id="f-categories" class="filter-chips"></div></div>
-        <div class="filter-section"><p class="filter-label">Employment Type</p><div id="f-types" class="filter-chips"></div></div>
-        <div class="filter-section"><p class="filter-label">Location</p><div id="f-locations" class="filter-chips"></div></div>
-
-        <div class="filter-section" style="margin-bottom:12px">
-          <label style="display:flex;align-items:center;gap:8px;font-family:var(--font-mono);font-size:10px;color:var(--text-dim);cursor:none;letter-spacing:0.04em"><input type="checkbox" id="f-remote" onchange="applyFilters()"> Remote only</label>
-        </div>
-        <div class="filter-section" style="margin-bottom:12px">
-          <label style="display:flex;align-items:center;gap:8px;font-family:var(--font-mono);font-size:10px;color:var(--text-dim);cursor:none;letter-spacing:0.04em"><input type="checkbox" id="f-salary" onchange="applyFilters()"> Has salary info</label>
+        <div class="filter-section">
+          <p class="filter-label">Work Mode</p>
+          <div id="f-workmode" class="filter-chips"></div>
         </div>
 
-        <div class="filter-section"><p class="filter-label">Tech Skills</p><div id="f-tags" class="filter-chips" style="max-height:200px;overflow-y:auto"></div></div>
+        <div class="filter-section">
+          <p class="filter-label">Contract Type</p>
+          <div id="f-contract" class="filter-chips"></div>
+        </div>
+
+        <div class="filter-section">
+          <p class="filter-label">Location</p>
+          <div id="f-locations" class="filter-chips"></div>
+        </div>
+
+        <div style="display:flex;flex-direction:column;gap:8px;margin:12px 0;padding:12px;background:var(--bg);border:1px solid var(--border)">
+          <label style="display:flex;align-items:center;gap:8px;font-family:var(--font-mono);font-size:10px;color:var(--text-dim);cursor:none;letter-spacing:0.04em"><input type="checkbox" id="f-salary" onchange="applyFilters()" style="accent-color:var(--accent3)"> Has salary info</label>
+        </div>
+
+        <div class="filter-section">
+          <p class="filter-label">Tech Skills</p>
+          <div id="f-tags" class="filter-chips" style="max-height:160px;overflow-y:auto"></div>
+        </div>
       </div>
     </aside>
 

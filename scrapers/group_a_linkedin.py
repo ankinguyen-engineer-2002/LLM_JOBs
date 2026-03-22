@@ -1,6 +1,6 @@
 """
-LinkedIn scraper — uses python-jobspy library to search LinkedIn jobs.
-Separate from the multi-source JobSpy scraper for better control.
+LinkedIn scraper — global scope, 30-day window.
+Uses python-jobspy. Scrapes all locations worldwide.
 """
 
 import time
@@ -33,10 +33,10 @@ TECH_KEYWORDS = [
 class LinkedInScraper(BaseJobScraper):
     source_name = "linkedin"
 
-    # Limit keywords to stay within timeout
-    MAX_KEYWORDS = 4
+    # Keyword batches to stay under timeout
+    MAX_KEYWORDS = 6
 
-    def scrape(self, keywords: list[str], max_results: int = 25) -> list[Job]:
+    def scrape(self, keywords: list[str], max_results: int = 50) -> list[Job]:
         if not JOBSPY_AVAILABLE:
             print("[linkedin] python-jobspy not installed — skipping")
             return []
@@ -47,35 +47,38 @@ class LinkedInScraper(BaseJobScraper):
         limited_kws = keywords[:self.MAX_KEYWORDS]
 
         for keyword in limited_kws:
+            # Global search (no location restriction)
             time.sleep(random.uniform(2, 4))
             try:
                 df = scrape_jobs(
                     site_name=["linkedin"],
                     search_term=keyword,
-                    location="Vietnam",
-                    results_wanted=min(max_results, 10),
-                    hours_old=72,
+                    results_wanted=min(max_results, 25),
+                    hours_old=720,  # 30 days
                     description_format="markdown",
                 )
                 all_jobs.extend(self._df_to_jobs(df, seen_urls))
+                print(f"[linkedin] global '{keyword}': {len(df) if df is not None else 0} results")
             except Exception as e:
-                print(f"[linkedin] keyword={keyword} (Vietnam) failed: {e}")
+                print(f"[linkedin] keyword={keyword} (global) failed: {e}")
 
+            # Also search explicitly remote
             time.sleep(random.uniform(1, 3))
             try:
                 df2 = scrape_jobs(
                     site_name=["linkedin"],
                     search_term=keyword,
-                    location="Remote",
                     is_remote=True,
-                    results_wanted=min(max_results, 10),
-                    hours_old=72,
+                    results_wanted=min(max_results, 25),
+                    hours_old=720,  # 30 days
                     description_format="markdown",
                 )
                 all_jobs.extend(self._df_to_jobs(df2, seen_urls))
+                print(f"[linkedin] remote '{keyword}': {len(df2) if df2 is not None else 0} results")
             except Exception as e:
-                print(f"[linkedin] keyword={keyword} (Remote) failed: {e}")
+                print(f"[linkedin] keyword={keyword} (remote) failed: {e}")
 
+        print(f"[linkedin] Total: {len(all_jobs)} jobs")
         return all_jobs
 
     def _df_to_jobs(self, df, seen_urls: set) -> list[Job]:

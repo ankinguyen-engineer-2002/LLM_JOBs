@@ -1,36 +1,37 @@
 """
 Himalayas scraper — public REST API at himalayas.app/jobs/api.
-NOTE: This API does NOT support keyword search — it returns all jobs sorted
-by recency. We fetch multiple pages and filter client-side.
+Fetches ALL jobs, filters client-side by keywords.
+Increased fetch pages for broader coverage.
 """
 
 import requests
 from scrapers.base import BaseJobScraper
 from processor.normalizer import Job, generate_job_id, strip_html
-from datetime import datetime
+from datetime import datetime, timedelta
 
 
 class HimalayasScraper(BaseJobScraper):
     source_name = "himalayas"
     BASE_URL = "https://himalayas.app/jobs/api"
 
-    def scrape(self, keywords: list[str], max_results: int = 50) -> list[Job]:
+    def scrape(self, keywords: list[str], max_results: int = 100) -> list[Job]:
         jobs = []
         seen_urls = set()
+        cutoff = datetime.now() - timedelta(days=30)
 
-        # Broader keyword terms for client-side filtering
+        # Broad keyword terms for matching
         search_terms = set()
         for kw in keywords:
             search_terms.update(kw.lower().split())
-        # Add common related terms
-        search_terms.update(["data", "engineer", "analytics", "ml",
-                             "machine", "learning", "etl", "dbt", "platform"])
+        search_terms.update(["data", "engineer", "analytics", "ml", "ai",
+                             "machine", "learning", "etl", "dbt", "platform",
+                             "llm", "prompt", "nlp", "python", "sql"])
 
         offset = 0
         batch_size = 50
-        max_pages = 5  # Fetch up to 250 jobs to find matches
+        max_pages = 10  # Fetch up to 500 raw jobs
 
-        for _ in range(max_pages):
+        for page in range(max_pages):
             try:
                 resp = requests.get(
                     self.BASE_URL,
@@ -39,6 +40,7 @@ class HimalayasScraper(BaseJobScraper):
                     headers={"User-Agent": "JobRadar/1.0"},
                 )
                 if resp.status_code != 200:
+                    print(f"[himalayas] HTTP {resp.status_code} at offset {offset}")
                     break
             except requests.RequestException as e:
                 print(f"[himalayas] Request failed at offset {offset}: {e}")
@@ -54,8 +56,8 @@ class HimalayasScraper(BaseJobScraper):
                 company = raw.get("companyName", "") or "N/A"
                 categories = [str(c).lower() for c in (raw.get("categories", []) or []) if c]
 
-                # Match against title + categories
-                searchable = f"{title} {' '.join(categories)}".lower()
+                # Match against title + categories + company
+                searchable = f"{title} {' '.join(categories)} {company}".lower()
                 if not any(term in searchable for term in search_terms):
                     continue
 
@@ -85,13 +87,15 @@ class HimalayasScraper(BaseJobScraper):
                 ))
 
                 if len(jobs) >= max_results:
+                    print(f"[himalayas] Total: {len(jobs)} jobs (hit max)")
                     return jobs
 
             offset += batch_size
             if len(raw_jobs) < batch_size:
                 break
 
-        return jobs[:max_results]
+        print(f"[himalayas] Total: {len(jobs)} jobs")
+        return jobs
 
     def _build_salary(self, raw: dict) -> str:
         min_s = raw.get("salaryMin")

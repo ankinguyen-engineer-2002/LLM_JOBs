@@ -1,6 +1,6 @@
 """
-JobSpy scraper — covers LinkedIn, Indeed, Google Jobs concurrently.
-Uses python-jobspy library. Only scrapes first 3 keywords to stay under timeout.
+JobSpy scraper — covers Indeed + Google Jobs globally.
+No location restrictions, 30-day window only.
 """
 
 import time
@@ -25,17 +25,17 @@ TECH_KEYWORDS = [
     "pandas", "numpy", "postgres", "bigquery", "snowflake", "databricks",
     "microsoft fabric", "synapse", "data warehouse", "medallion",
     "kubernetes", "ci/cd", "java", "scala", "golang", "rust",
-    "react", "node.js", "typescript", "javascript",
+    "llm", "gpt", "langchain", "openai", "prompt engineering",
+    "generative ai", "nlp", "huggingface",
 ]
 
 
 class JobSpyScraper(BaseJobScraper):
     source_name = "jobspy_multi"
 
-    # Limit keywords to avoid timeout (60s budget)
-    MAX_KEYWORDS = 3
+    MAX_KEYWORDS = 5
 
-    def scrape(self, keywords: list[str], max_results: int = 25) -> list[Job]:
+    def scrape(self, keywords: list[str], max_results: int = 50) -> list[Job]:
         if not JOBSPY_AVAILABLE:
             print("[jobspy] python-jobspy not installed — skipping")
             return []
@@ -43,26 +43,42 @@ class JobSpyScraper(BaseJobScraper):
         all_jobs = []
         seen_urls = set()
 
-        # Only use the first few keywords to stay within timeout
         limited_kws = keywords[:self.MAX_KEYWORDS]
 
         for keyword in limited_kws:
+            # Global Indeed search — no country restriction
             time.sleep(random.uniform(1, 3))
             try:
                 df = scrape_jobs(
-                    site_name=["indeed"],  # LinkedIn is slow, use Indeed only
+                    site_name=["indeed"],
                     search_term=keyword,
-                    location="Vietnam",
-                    results_wanted=min(max_results, 15),
-                    hours_old=72,  # 3 days
+                    results_wanted=min(max_results, 20),
+                    hours_old=720,  # 30 days
                     description_format="markdown",
-                    country_indeed="vietnam",
                 )
                 jobs = self._df_to_jobs(df, seen_urls)
                 all_jobs.extend(jobs)
+                print(f"[jobspy] indeed global '{keyword}': {len(jobs)} results")
             except Exception as e:
-                print(f"[jobspy] keyword={keyword} (Vietnam) failed: {e}")
+                print(f"[jobspy] keyword={keyword} (global) failed: {e}")
 
+            # Also search Google Jobs
+            time.sleep(random.uniform(1, 2))
+            try:
+                df2 = scrape_jobs(
+                    site_name=["google"],
+                    search_term=keyword,
+                    results_wanted=min(max_results, 15),
+                    hours_old=720,
+                    description_format="markdown",
+                )
+                jobs2 = self._df_to_jobs(df2, seen_urls)
+                all_jobs.extend(jobs2)
+                print(f"[jobspy] google '{keyword}': {len(jobs2)} results")
+            except Exception as e:
+                print(f"[jobspy] keyword={keyword} (google) failed: {e}")
+
+        print(f"[jobspy] Total: {len(all_jobs)} jobs")
         return all_jobs
 
     def _df_to_jobs(self, df, seen_urls: set) -> list[Job]:

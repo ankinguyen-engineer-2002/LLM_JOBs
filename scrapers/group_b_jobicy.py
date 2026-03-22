@@ -1,6 +1,6 @@
 """
 Jobicy scraper — public REST API for remote jobs.
-Endpoint: GET https://jobicy.com/api/v2/remote-jobs
+Increased max results per keyword.
 """
 
 import requests
@@ -13,17 +13,23 @@ class JobicyScraper(BaseJobScraper):
     source_name = "jobicy"
     BASE_URL = "https://jobicy.com/api/v2/remote-jobs"
 
-    def scrape(self, keywords: list[str], max_results: int = 50) -> list[Job]:
+    def scrape(self, keywords: list[str], max_results: int = 100) -> list[Job]:
         jobs = []
         seen_urls = set()
 
         for keyword in keywords:
             params = {"count": 50, "tag": keyword}
-            response = requests.get(self.BASE_URL, params=params, timeout=30)
-            if response.status_code != 200:
+            try:
+                response = requests.get(self.BASE_URL, params=params, timeout=30)
+                if response.status_code != 200:
+                    print(f"[jobicy] HTTP {response.status_code} for '{keyword}'")
+                    continue
+            except Exception as e:
+                print(f"[jobicy] Request failed for '{keyword}': {e}")
                 continue
 
             data = response.json()
+            batch = 0
             for raw in data.get("jobs", []):
                 url = raw.get("url", "")
                 if not url or url in seen_urls:
@@ -56,10 +62,14 @@ class JobicyScraper(BaseJobScraper):
                     scraped_at=datetime.now().isoformat(),
                     first_seen=datetime.now().isoformat(),
                 ))
+                batch += 1
+
+            print(f"[jobicy] '{keyword}': {batch} results")
 
             if len(jobs) >= max_results:
                 break
 
+        print(f"[jobicy] Total: {len(jobs)} jobs")
         return jobs[:max_results]
 
     def _build_salary(self, raw: dict) -> str:

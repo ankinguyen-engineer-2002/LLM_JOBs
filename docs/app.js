@@ -6,22 +6,23 @@
 let allJobs = [], filteredJobs = [], currentPage = 1, currentView = 'table';
 const PAGE_SIZE = 25;
 let savedIds = new Set(JSON.parse(localStorage.getItem('savedJobs') || '[]'));
-let activeFilters = { sources: new Set(), tags: new Set(), levels: new Set(), categories: new Set(), types: new Set(), locations: new Set() };
+let activeFilters = { sources: new Set(), tags: new Set(), levels: new Set(), categories: new Set(), workmode: new Set(), contract: new Set(), locations: new Set() };
 let charts = {};
 let debounceTimer = null;
 
 const SRC = {
-  itviec:       { label:'ITviec',       color:'#e11d48', bg:'rgba(225,29,72,0.12)' },
-  vietnamworks: { label:'VietnamWorks',  color:'#0284c7', bg:'rgba(2,132,199,0.12)' },
-  topcv:        { label:'TopCV',         color:'#16a34a', bg:'rgba(22,163,74,0.12)' },
-  linkedin:     { label:'LinkedIn',      color:'#63c8ff', bg:'rgba(99,200,255,0.12)' },
-  indeed:       { label:'Indeed',        color:'#b06cff', bg:'rgba(176,108,255,0.12)' },
-  google:       { label:'Google',        color:'#fbbf24', bg:'rgba(251,191,36,0.12)' },
-  remoteok:     { label:'RemoteOK',      color:'#00ffb2', bg:'rgba(0,255,178,0.12)' },
-  himalayas:    { label:'Himalayas',     color:'#0891b2', bg:'rgba(8,145,178,0.12)' },
-  jobicy:       { label:'Jobicy',        color:'#ea580c', bg:'rgba(234,88,12,0.12)' },
-  wellfound:    { label:'Wellfound',     color:'#9333ea', bg:'rgba(147,51,234,0.12)' },
-  turing:       { label:'Turing',        color:'#059669', bg:'rgba(5,150,105,0.12)' },
+  itviec:           { label:'ITviec',       color:'#e11d48', bg:'rgba(225,29,72,0.12)' },
+  vietnamworks:     { label:'VietnamWorks',  color:'#0284c7', bg:'rgba(2,132,199,0.12)' },
+  topcv:            { label:'TopCV',         color:'#16a34a', bg:'rgba(22,163,74,0.12)' },
+  linkedin:         { label:'LinkedIn',      color:'#63c8ff', bg:'rgba(99,200,255,0.12)' },
+  indeed:           { label:'Indeed',        color:'#b06cff', bg:'rgba(176,108,255,0.12)' },
+  google:           { label:'Google',        color:'#fbbf24', bg:'rgba(251,191,36,0.12)' },
+  remoteok:         { label:'RemoteOK',      color:'#00ffb2', bg:'rgba(0,255,178,0.12)' },
+  himalayas:        { label:'Himalayas',     color:'#0891b2', bg:'rgba(8,145,178,0.12)' },
+  jobicy:           { label:'Jobicy',        color:'#ea580c', bg:'rgba(234,88,12,0.12)' },
+  wellfound:        { label:'Wellfound',     color:'#9333ea', bg:'rgba(147,51,234,0.12)' },
+  turing:           { label:'Turing',        color:'#059669', bg:'rgba(5,150,105,0.12)' },
+  weworkremotely:   { label:'WWRemotely',    color:'#38bdf8', bg:'rgba(56,189,248,0.12)' },
 };
 
 // === CUSTOM CURSOR ===
@@ -227,24 +228,44 @@ function buildFilterUI() {
     return `<button class="chip ${act}" onclick="toggleFilter('categories','${c}')">${c}<span class="count">${n}</span></button>`;
   }).join('');
 
-  // Employment Types
-  const etypes = {}; allJobs.forEach(j => { const t=j.employment_type||'N/A'; etypes[t]=(etypes[t]||0)+1; });
-  document.getElementById('f-types').innerHTML = Object.entries(etypes).sort((a,b)=>b[1]-a[1]).map(([t,n]) => {
-    const act = activeFilters.types.has(t)?'active':'';
-    return `<button class="chip ${act}" onclick="toggleFilter('types','${t}')">${t}<span class="count">${n}</span></button>`;
+  // Work Mode (Remote / Onsite / Hybrid)
+  const wmodes = {}; allJobs.forEach(j => {
+    const loc = (j.location||'').toLowerCase();
+    let mode = 'Onsite';
+    if(j.is_remote || loc.includes('remote')) mode = 'Remote';
+    else if(loc.includes('hybrid')) mode = 'Hybrid';
+    wmodes[mode] = (wmodes[mode]||0)+1;
+  });
+  document.getElementById('f-workmode').innerHTML = Object.entries(wmodes).sort((a,b)=>b[1]-a[1]).map(([m,c]) => {
+    const act = activeFilters.workmode.has(m)?'active':'';
+    return `<button class="chip ${act}" onclick="toggleFilter('workmode','${m}')">${m}<span class="count">${c}</span></button>`;
   }).join('');
 
-  // Locations (top 10)
+  // Contract Type (Full-time / Part-time / Other)
+  const ctypes = {}; allJobs.forEach(j => {
+    const et = (j.employment_type||j.job_type||'').toLowerCase();
+    let ct = 'Other';
+    if(et.includes('full')) ct = 'Full-time';
+    else if(et.includes('part')) ct = 'Part-time';
+    else if(et.includes('contract') || et.includes('freelance')) ct = 'Contract';
+    ctypes[ct] = (ctypes[ct]||0)+1;
+  });
+  document.getElementById('f-contract').innerHTML = Object.entries(ctypes).sort((a,b)=>b[1]-a[1]).map(([c,n]) => {
+    const act = activeFilters.contract.has(c)?'active':'';
+    return `<button class="chip ${act}" onclick="toggleFilter('contract','${c}')">${c}<span class="count">${n}</span></button>`;
+  }).join('');
+
+  // Locations (top 8)
   const locs = {}; allJobs.forEach(j => { const l=(j.location||'N/A').split(',')[0].trim(); locs[l]=(locs[l]||0)+1; });
-  const topLocs = Object.entries(locs).sort((a,b)=>b[1]-a[1]).slice(0,10);
+  const topLocs = Object.entries(locs).sort((a,b)=>b[1]-a[1]).slice(0,8);
   document.getElementById('f-locations').innerHTML = topLocs.map(([l,c]) => {
     const act = activeFilters.locations.has(l)?'active':'';
     return `<button class="chip ${act}" onclick="toggleFilter('locations','${l}')">${l}<span class="count">${c}</span></button>`;
   }).join('');
 
-  // Tags (clean_tags, top 15)
+  // Tags (clean_tags, top 12)
   const tagC = {}; allJobs.forEach(j => (j.clean_tags||j.tags||[]).forEach(t => { tagC[t]=(tagC[t]||0)+1; }));
-  const topTags = Object.entries(tagC).sort((a,b)=>b[1]-a[1]).slice(0,15);
+  const topTags = Object.entries(tagC).sort((a,b)=>b[1]-a[1]).slice(0,12);
   document.getElementById('f-tags').innerHTML = topTags.map(([t,c]) => {
     const act = activeFilters.tags.has(t)?'active':'';
     return `<button class="chip ${act}" onclick="toggleFilter('tags','${esc(t)}')">${t}<span class="count">${c}</span></button>`;
@@ -253,12 +274,11 @@ function buildFilterUI() {
 
 function toggleFilter(type,val) { activeFilters[type].has(val)?activeFilters[type].delete(val):activeFilters[type].add(val); renderBrowse(); }
 function addSourceFilter(s) { activeFilters.sources.clear(); activeFilters.sources.add(s); switchTab('browse'); }
-function clearFilters() { Object.values(activeFilters).forEach(s=>s.clear()); document.getElementById('search-input').value=''; document.getElementById('f-freshness').value='all'; document.getElementById('f-remote').checked=false; document.getElementById('f-salary').checked=false; renderBrowse(); }
+function clearFilters() { Object.values(activeFilters).forEach(s=>s.clear()); document.getElementById('search-input').value=''; document.getElementById('f-freshness').value='all'; document.getElementById('f-salary').checked=false; renderBrowse(); }
 
 function applyFilters() {
   const search = (document.getElementById('search-input').value||'').toLowerCase();
   const freshness = document.getElementById('f-freshness').value;
-  const remoteOnly = document.getElementById('f-remote').checked;
   const hasSalary = document.getElementById('f-salary').checked;
   const sortBy = document.getElementById('sort-select').value;
 
@@ -267,10 +287,25 @@ function applyFilters() {
     if(activeFilters.sources.size>0 && !activeFilters.sources.has(j.source)) return false;
     if(activeFilters.levels.size>0 && !activeFilters.levels.has(j.level||'N/A')) return false;
     if(activeFilters.categories.size>0 && !activeFilters.categories.has(j.job_category||'Other')) return false;
-    if(activeFilters.types.size>0 && !activeFilters.types.has(j.employment_type||'N/A')) return false;
+    // Work Mode filter
+    if(activeFilters.workmode.size>0) {
+      const loc = (j.location||'').toLowerCase();
+      let mode = 'Onsite';
+      if(j.is_remote || loc.includes('remote')) mode = 'Remote';
+      else if(loc.includes('hybrid')) mode = 'Hybrid';
+      if(!activeFilters.workmode.has(mode)) return false;
+    }
+    // Contract Type filter
+    if(activeFilters.contract.size>0) {
+      const et = (j.employment_type||j.job_type||'').toLowerCase();
+      let ct = 'Other';
+      if(et.includes('full')) ct = 'Full-time';
+      else if(et.includes('part')) ct = 'Part-time';
+      else if(et.includes('contract') || et.includes('freelance')) ct = 'Contract';
+      if(!activeFilters.contract.has(ct)) return false;
+    }
     if(activeFilters.locations.size>0) { const loc=(j.location||'').split(',')[0].trim(); if(!activeFilters.locations.has(loc)) return false; }
     if(activeFilters.tags.size>0) { const t=(j.clean_tags||j.tags||[]).map(x=>x.toLowerCase()); if(![...activeFilters.tags].every(f=>t.includes(f))) return false; }
-    if(remoteOnly && !j.is_remote) return false;
     if(hasSalary && (!j.salary || j.salary==='N/A')) return false;
     if(freshness !== 'all') {
       const daysMap = {today:1,'3d':3,'7d':7,'14d':14,'30d':30};
