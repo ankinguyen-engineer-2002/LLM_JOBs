@@ -255,21 +255,200 @@ main {
 .filter-chips { display: flex; flex-wrap: wrap; gap: 6px; }
 
 .chip {
-  padding: 4px 12px;
+  padding: 4px 10px;
   font-family: var(--font-mono);
   font-size: 10px;
   font-weight: 400;
-  border: 1px solid var(--border);
-  background: transparent;
-  color: var(--text-dim);
+  border: 1px solid rgba(255,255,255,0.10);
+  background: rgba(255,255,255,0.03);
+  color: rgba(232,232,240,0.6);
   cursor: none;
-  transition: all 0.25s;
+  transition: all 0.2s;
   white-space: nowrap;
   letter-spacing: 0.04em;
 }
-.chip:hover { border-color: var(--accent); color: var(--accent); background: rgba(99,200,255,0.05); }
-.chip.active { background: rgba(99,200,255,0.1); border-color: var(--accent); color: var(--accent); }
-.chip .count { color: var(--text-faint); margin-left: 4px; font-size: 9px; }
+.chip:hover {
+  border-color: rgba(99,200,255,0.5);
+  color: var(--accent);
+  background: rgba(99,200,255,0.06);
+}
+.chip.active {
+  background: rgba(99,200,255,0.12);
+  border-color: var(--accent);
+  color: var(--accent);
+  box-shadow: 0 0 8px rgba(99,200,255,0.15), inset 0 0 8px rgba(99,200,255,0.05);
+  font-weight: 700;
+}
+.chip .count { color: var(--text-faint); margin-left: 5px; font-size: 9px; }
+
+/* ============= COLLAPSIBLE FILTER SECTION ============= */
+.filter-section.collapsible > .filter-label { cursor: none !important; }
+.filter-section.collapsible > .filter-label .collapse-icon {
+  transition: transform 0.2s;
+  color: var(--text-faint);
+}
+.filter-section.collapsible.collapsed > .filter-label .collapse-icon {
+  transform: rotate(-90deg);
+}
+.filter-section.collapsible > .filter-chips,
+.filter-section.collapsible > div[id^="f-"] {
+  max-height: 200px;
+  overflow: hidden;
+  transition: max-height 0.25s ease, opacity 0.2s;
+  opacity: 1;
+}
+.filter-section.collapsible.collapsed > .filter-chips,
+.filter-section.collapsible.collapsed > div[id^="f-"] {
+  max-height: 0 !important;
+  opacity: 0;
+  pointer-events: none;
+}
+.collapse-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 16px;
+  height: 16px;
+  padding: 0 4px;
+  background: var(--accent);
+  color: var(--bg);
+  font-family: var(--font-mono);
+  font-size: 9px;
+  font-weight: 700;
+  border-radius: 8px;
+}
+
+/* ============= DOMAIN DROPDOWN ============= */
+.domain-dd { position: relative; }
+.domain-dd-trigger {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 8px 12px;
+  background: rgba(99,200,255,0.04);
+  border: 1px solid rgba(99,200,255,0.2);
+  cursor: none;
+  transition: all 0.2s;
+  user-select: none;
+}
+.domain-dd-trigger:hover {
+  background: rgba(99,200,255,0.08);
+  border-color: rgba(99,200,255,0.4);
+  box-shadow: 0 0 12px rgba(99,200,255,0.08);
+}
+.domain-dd-panel {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0; right: 0;
+  background: var(--surface2);
+  border: 1px solid rgba(99,200,255,0.25);
+  box-shadow: 0 12px 40px rgba(0,0,0,0.6), 0 0 0 1px rgba(99,200,255,0.06);
+  z-index: 200;
+  animation: fadeIn 0.15s ease;
+}
+.domain-dd-search-wrap {
+  position: relative;
+  border-bottom: 1px solid var(--border);
+}
+.domain-dd-search {
+  width: 100%;
+  padding: 9px 12px 9px 32px;
+  background: transparent;
+  border: none;
+  color: var(--text);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  outline: none;
+}
+.domain-dd-search::placeholder { color: var(--text-faint); }
+.domain-dd-list {
+  max-height: 200px;
+  overflow-y: auto;
+}
+.domain-dd-option {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 14px;
+  cursor: none;
+  transition: all 0.15s;
+  border-bottom: 1px solid rgba(255,255,255,0.03);
+}
+.domain-dd-option:hover {
+  background: rgba(99,200,255,0.06);
+}
+.domain-dd-option.active {
+  background: rgba(99,200,255,0.1);
+  box-shadow: inset 2px 0 0 var(--accent);
+}
+.domain-dd-check {
+  width: 16px;
+  height: 16px;
+  border: 1px solid rgba(255,255,255,0.12);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  flex-shrink: 0;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  color: var(--text-faint);
+  transition: all 0.15s;
+}
+.domain-dd-option.active .domain-dd-check {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--bg);
+  box-shadow: 0 0 8px rgba(99,200,255,0.4);
+}
+.domain-dd-name {
+  flex: 1;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.04em;
+  color: rgba(232,232,240,0.65);
+  transition: color 0.15s;
+}
+.domain-dd-option.active .domain-dd-name {
+  color: var(--accent);
+  font-weight: 700;
+}
+.domain-dd-option:hover .domain-dd-name { color: var(--text); }
+.domain-dd-count {
+  font-family: var(--font-mono);
+  font-size: 9px;
+  color: var(--text-faint);
+}
+.domain-dd-option.active .domain-dd-count { color: rgba(99,200,255,0.6); }
+.domain-dd-footer {
+  padding: 7px 14px;
+  font-family: var(--font-mono);
+  font-size: 9px;
+  color: var(--accent);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  border-top: 1px solid var(--border);
+  cursor: none;
+  text-align: center;
+  transition: background 0.15s;
+}
+.domain-dd-footer:hover { background: rgba(99,200,255,0.06); }
+.dd-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 18px;
+  height: 18px;
+  padding: 0 5px;
+  background: var(--accent);
+  color: var(--bg);
+  font-family: var(--font-mono);
+  font-size: 9px;
+  font-weight: 700;
+  border-radius: 9px;
+  flex-shrink: 0;
+}
 
 /* ============= SEARCH ============= */
 .search-wrap { position: relative; margin-bottom: 16px; }

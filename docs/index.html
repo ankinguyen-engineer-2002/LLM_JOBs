@@ -103,22 +103,74 @@
           </select>
         </div>
 
-        <div class="filter-section"><p class="filter-label">Domain Pattern</p><div id="f-domains" class="filter-chips"></div></div>
-        <div class="filter-section"><p class="filter-label">Source</p><div id="f-sources" class="filter-chips"></div></div>
-        <div class="filter-section"><p class="filter-label">Level</p><div id="f-levels" class="filter-chips"></div></div>
-        <div class="filter-section"><p class="filter-label">Category</p><div id="f-categories" class="filter-chips"></div></div>
         <div class="filter-section">
-          <p class="filter-label">Work Mode</p>
+          <p class="filter-label">Domain Pattern</p>
+          <div id="f-domain-dropdown-wrap"></div>
+        </div>
+
+        <div class="filter-section collapsible" id="fs-sources">
+          <p class="filter-label" onclick="toggleCollapsible(this.closest('.filter-section'))" style="cursor:none;justify-content:space-between">
+            <span>Source</span>
+            <span style="display:flex;align-items:center;gap:6px">
+              <span class="collapse-badge" style="display:none"></span>
+              <i data-lucide="chevron-down" class="collapse-icon" style="width:12px;height:12px"></i>
+            </span>
+          </p>
+          <div id="f-sources" class="filter-chips"></div>
+        </div>
+
+        <div class="filter-section collapsible collapsed" id="fs-levels">
+          <p class="filter-label" onclick="toggleCollapsible(this.closest('.filter-section'))" style="cursor:none;justify-content:space-between">
+            <span>Level</span>
+            <span style="display:flex;align-items:center;gap:6px">
+              <span class="collapse-badge" style="display:none"></span>
+              <i data-lucide="chevron-down" class="collapse-icon" style="width:12px;height:12px"></i>
+            </span>
+          </p>
+          <div id="f-levels" class="filter-chips"></div>
+        </div>
+
+        <div class="filter-section collapsible collapsed" id="fs-categories">
+          <p class="filter-label" onclick="toggleCollapsible(this.closest('.filter-section'))" style="cursor:none;justify-content:space-between">
+            <span>Category</span>
+            <span style="display:flex;align-items:center;gap:6px">
+              <span class="collapse-badge" style="display:none"></span>
+              <i data-lucide="chevron-down" class="collapse-icon" style="width:12px;height:12px"></i>
+            </span>
+          </p>
+          <div id="f-categories" class="filter-chips"></div>
+        </div>
+
+        <div class="filter-section collapsible collapsed" id="fs-workmode">
+          <p class="filter-label" onclick="toggleCollapsible(this.closest('.filter-section'))" style="cursor:none;justify-content:space-between">
+            <span>Work Mode</span>
+            <span style="display:flex;align-items:center;gap:6px">
+              <span class="collapse-badge" style="display:none"></span>
+              <i data-lucide="chevron-down" class="collapse-icon" style="width:12px;height:12px"></i>
+            </span>
+          </p>
           <div id="f-workmode" class="filter-chips"></div>
         </div>
 
-        <div class="filter-section">
-          <p class="filter-label">Contract Type</p>
+        <div class="filter-section collapsible collapsed" id="fs-contract">
+          <p class="filter-label" onclick="toggleCollapsible(this.closest('.filter-section'))" style="cursor:none;justify-content:space-between">
+            <span>Contract Type</span>
+            <span style="display:flex;align-items:center;gap:6px">
+              <span class="collapse-badge" style="display:none"></span>
+              <i data-lucide="chevron-down" class="collapse-icon" style="width:12px;height:12px"></i>
+            </span>
+          </p>
           <div id="f-contract" class="filter-chips"></div>
         </div>
 
-        <div class="filter-section">
-          <p class="filter-label">Location</p>
+        <div class="filter-section collapsible collapsed" id="fs-locations">
+          <p class="filter-label" onclick="toggleCollapsible(this.closest('.filter-section'))" style="cursor:none;justify-content:space-between">
+            <span>Location</span>
+            <span style="display:flex;align-items:center;gap:6px">
+              <span class="collapse-badge" style="display:none"></span>
+              <i data-lucide="chevron-down" class="collapse-icon" style="width:12px;height:12px"></i>
+            </span>
+          </p>
           <div id="f-locations" class="filter-chips"></div>
         </div>
 
@@ -126,8 +178,14 @@
           <label style="display:flex;align-items:center;gap:8px;font-family:var(--font-mono);font-size:10px;color:var(--text-dim);cursor:none;letter-spacing:0.04em"><input type="checkbox" id="f-salary" onchange="applyFilters()" style="accent-color:var(--accent3)"> Has salary info</label>
         </div>
 
-        <div class="filter-section">
-          <p class="filter-label">Tech Skills</p>
+        <div class="filter-section collapsible collapsed" id="fs-tags">
+          <p class="filter-label" onclick="toggleCollapsible(this.closest('.filter-section'))" style="cursor:none;justify-content:space-between">
+            <span>Tech Skills</span>
+            <span style="display:flex;align-items:center;gap:6px">
+              <span class="collapse-badge" style="display:none"></span>
+              <i data-lucide="chevron-down" class="collapse-icon" style="width:12px;height:12px"></i>
+            </span>
+          </p>
           <div id="f-tags" class="filter-chips" style="max-height:160px;overflow-y:auto"></div>
         </div>
       </div>
@@ -210,9 +268,16 @@
           <button class="page-btn" onclick="adminAddKeyword()">Add</button>
         </div>
         <div id="admin-kw-list" style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:24px;min-height:60px;align-content:flex-start"></div>
-        <div style="display:flex;gap:8px">
+        <div style="display:flex;gap:8px;margin-bottom:20px">
           <button class="page-btn" onclick="adminSaveKeywords()" style="flex:1;justify-content:center;background:var(--accent);color:#000;border-color:var(--accent)"><i data-lucide="save" style="width:14px;height:14px;margin-right:8px"></i> Save Keywords</button>
           <button class="page-btn" onclick="adminResetKeywords()" title="Reset to default keywords" style="justify-content:center;border-color:var(--border-lit);color:var(--text-dim)" onmouseover="this.style.color='var(--text)'" onmouseout="this.style.color='var(--text-dim)'"><i data-lucide="rotate-ccw" style="width:14px;height:14px"></i></button>
+        </div>
+        <hr style="border:none;border-top:1px solid var(--border);margin-bottom:16px">
+        <h4 style="font-family:var(--font-mono);font-size:10px;color:var(--text-faint);letter-spacing:0.12em;text-transform:uppercase;margin-bottom:10px">[ Gemini API Key ]</h4>
+        <p style="color:var(--text-dim);font-size:12px;margin-bottom:10px">Used for domain classification &amp; enrichment. Stored locally only.</p>
+        <div style="display:flex;gap:8px">
+          <input type="password" id="admin-gemini-key" class="search-input" style="flex:1" placeholder="AIza..." oninput="localStorage.setItem('gemini_api_key',this.value)">
+          <button class="page-btn" onclick="adminRefreshDomains()" title="Re-classify domains with Gemini"><i data-lucide="sparkles" style="width:14px;height:14px"></i></button>
         </div>
       </div>
 

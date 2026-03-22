@@ -9,6 +9,9 @@ let savedIds = new Set(JSON.parse(localStorage.getItem('savedJobs') || '[]'));
 let activeFilters = { domain: new Set(), sources: new Set(), tags: new Set(), levels: new Set(), categories: new Set(), workmode: new Set(), contract: new Set(), locations: new Set() };
 let charts = {};
 let debounceTimer = null;
+let domainTaxonomy = null; // Gemini-generated domain taxonomy
+let domainDropdownOpen = false;
+let domainSearchQuery = '';
 
 const SRC = {
   itviec:           { label:'ITviec',       color:'#e11d48', bg:'rgba(225,29,72,0.12)' },
@@ -64,19 +67,101 @@ function setupReveal() {
   reveals.forEach(el => observer.observe(el));
 }
 
+// === DOMAIN TAXONOMY (Hardcoded fallback, no "Other") ===
+const DOMAIN_TAXONOMY = [
+  { name: 'Data Engineering',    keywords: ['data engineer','data engineering','data platform engineer','etl engineer','dbt engineer','microsoft fabric','big data','data warehouse','data pipeline'] },
+  { name: 'Machine Learning',    keywords: ['machine learning engineer','ml engineer','mlops engineer','mlops','machine learning'] },
+  { name: 'AI / LLM',            keywords: ['ai engineer','ai developer','llm engineer','generative ai','prompt engineer','nlp engineer','large language model','foundation model'] },
+  { name: 'Analytics',           keywords: ['analytics engineer','data analyst','business analyst','bi engineer','business intelligence','analytics'] },
+  { name: 'AI Trainer / RLHF',   keywords: ['ai trainer','ai annotator','rlhf','data labeler','annotation'] },
+  { name: 'Data Science',        keywords: ['data scientist','data science','statistical','statistician'] },
+  { name: 'Supply Chain / Ops',  keywords: ['supply chain','logistics','operations'] },
+  { name: 'Software Engineering',keywords: ['software engineer','backend engineer','full stack','fullstack','frontend engineer','developer'] },
+  { name: 'DevOps / Cloud',      keywords: ['devops','cloud engineer','platform engineer','infrastructure','kubernetes','docker','sre'] },
+  { name: 'Database / DBA',      keywords: ['database engineer','dba','database admin','database administrator','sql developer'] },
+];
+
+function classifyJobDomain(j, taxonomy) {
+  const str = ((j.title||'') + ' ' + (j.job_category||'') + ' ' + (j.clean_tags||[]).join(' ')).toLowerCase();
+  for (const cat of taxonomy) {
+    for (const kw of cat.keywords) {
+      if (str.includes(kw.toLowerCase())) return cat.name;
+    }
+  }
+  // Fallback: use job_category if available
+  if (j.job_category && j.job_category !== 'Other' && j.job_category !== 'N/A') return j.job_category;
+  // Last resort: title-based guess
+  const title = (j.title||'').toLowerCase();
+  if (title.includes('engineer')) return 'Software Engineering';
+  if (title.includes('analyst')) return 'Analytics';
+  if (title.includes('scientist')) return 'Data Science';
+  return 'Other';
+}
+
+// === GEMINI DOMAIN CLASSIFICATION ===
+async function classifyDomainsWithGemini(jobs) {
+  const apiKey = localStorage.getItem('gemini_api_key') || '';
+  if (!apiKey) return null;
+
+  // Build a summary: unique job_categories + sample titles
+  const cats = [...new Set(jobs.map(j => j.job_category).filter(Boolean))];
+  const sampleTitles = [...new Set(jobs.map(j => j.title).filter(Boolean))].slice(0, 60);
+  const kwList = defaultKeywords.join(', ');
+
+  const prompt = `You are categorizing tech job types. Given these search keywords: [${kwList}]
+And these sample job titles: ${sampleTitles.slice(0,40).join('; ')}
+
+Generate a list of 8-12 precise domain category names that cover ALL these jobs with NO "Other" category.
+Return ONLY a valid JSON array of strings, nothing else. Example: ["Data Engineering", "Machine Learning", "Analytics"]`;
+
+  try {
+    const resp = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
+    });
+    if (!resp.ok) return null;
+    const data = await resp.json();
+    const text = data?.candidates?.[0]?.content?.parts?.[0]?.text || '';
+    const match = text.match(/\[.*\]/s);
+    if (!match) return null;
+    const names = JSON.parse(match[0]);
+    if (!Array.isArray(names) || names.length === 0) return null;
+    // Build taxonomy from Gemini names, merging with hardcoded keywords where name matches
+    return names.map(name => {
+      const existing = DOMAIN_TAXONOMY.find(d => d.name.toLowerCase() === name.toLowerCase());
+      return existing || { name, keywords: [name.toLowerCase()] };
+    });
+  } catch(e) { return null; }
+}
+
 // === INIT ===
 async function init() {
   try {
     const resp = await fetch('./jobs.json');
     if (resp.ok) allJobs = await resp.json();
   } catch(e) { console.warn('No jobs data'); }
-  allJobs.forEach(j => {
-    j.domain = 'Other';
-    const str = ((j.title||'') + ' ' + (j.clean_tags||[]).join(' ')).toLowerCase();
-    for (const k of defaultKeywords) {
-      if (str.includes(k.toLowerCase())) { j.domain = k; break; }
+
+  // Load taxonomy: try cache first, then Gemini, then hardcoded
+  const kwHash = defaultKeywords.join('|');
+  const cached = localStorage.getItem('domain_taxonomy');
+  const cachedHash = localStorage.getItem('domain_taxonomy_kwHash');
+  if (cached && cachedHash === kwHash) {
+    try { domainTaxonomy = JSON.parse(cached); } catch(e) {}
+  }
+  if (!domainTaxonomy) {
+    const geminiResult = await classifyDomainsWithGemini(allJobs);
+    if (geminiResult) {
+      domainTaxonomy = geminiResult;
+      localStorage.setItem('domain_taxonomy', JSON.stringify(domainTaxonomy));
+      localStorage.setItem('domain_taxonomy_kwHash', kwHash);
+    } else {
+      domainTaxonomy = DOMAIN_TAXONOMY;
     }
-  });
+  }
+
+  allJobs.forEach(j => { j.domain = classifyJobDomain(j, domainTaxonomy); });
+
   if (allJobs.length && allJobs[0].scraped_at) {
     document.getElementById('last-updated').textContent = 'Updated ' + timeAgo(allJobs[0].scraped_at);
   }
@@ -215,13 +300,76 @@ function destroyChart(id) { if(charts[id]) { charts[id].destroy(); delete charts
 // === BROWSE (multi-dimensional filters) ===
 function renderBrowse() { buildFilterUI(); applyFilters(); }
 
+// --- Domain Dropdown ---
+function buildDomainDropdown() {
+  const doms = {};
+  allJobs.forEach(j => { doms[j.domain]=(doms[j.domain]||0)+1; });
+  const sorted = Object.entries(doms).sort((a,b) => {
+    // Selected first, then by count
+    const aAct = activeFilters.domain.has(a[0]) ? 1 : 0;
+    const bAct = activeFilters.domain.has(b[0]) ? 1 : 0;
+    if (bAct !== aAct) return bAct - aAct;
+    return b[1] - a[1];
+  });
+  const filtered = domainSearchQuery
+    ? sorted.filter(([d]) => d.toLowerCase().includes(domainSearchQuery.toLowerCase()))
+    : sorted;
+
+  const selectedCount = activeFilters.domain.size;
+  const wrap = document.getElementById('f-domain-dropdown-wrap');
+  if (!wrap) return;
+
+  wrap.innerHTML = `
+    <div class="domain-dd">
+      <div class="domain-dd-trigger" onclick="toggleDomainDropdown()">
+        <div style="display:flex;align-items:center;gap:8px;flex:1;min-width:0">
+          <i data-lucide="layers" style="width:13px;height:13px;color:var(--accent);flex-shrink:0"></i>
+          <span style="font-family:var(--font-mono);font-size:10px;color:var(--text-dim);letter-spacing:0.04em;text-transform:uppercase;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">
+            ${selectedCount > 0 ? `${[...activeFilters.domain].slice(0,2).join(', ')}${selectedCount>2?` +${selectedCount-2}`:''}` : 'All domains'}
+          </span>
+          ${selectedCount > 0 ? `<span class="dd-badge">${selectedCount}</span>` : ''}
+        </div>
+        <i data-lucide="chevron-${domainDropdownOpen?'up':'down'}" style="width:13px;height:13px;color:var(--text-dim);flex-shrink:0"></i>
+      </div>
+      ${domainDropdownOpen ? `
+      <div class="domain-dd-panel">
+        <div class="domain-dd-search-wrap">
+          <i data-lucide="search" style="width:12px;height:12px;color:var(--text-faint);position:absolute;left:12px;top:50%;transform:translateY(-50%)"></i>
+          <input type="text" class="domain-dd-search" placeholder="Search domains..." value="${esc(domainSearchQuery)}"
+            oninput="domainSearchQuery=this.value;buildDomainDropdown();lucide.createIcons();"
+            onclick="event.stopPropagation()">
+        </div>
+        <div class="domain-dd-list">
+          ${filtered.length === 0 ? `<div style="padding:12px;text-align:center;font-family:var(--font-mono);font-size:10px;color:var(--text-faint)">No match</div>` : ''}
+          ${filtered.map(([d, c]) => {
+            const act = activeFilters.domain.has(d);
+            return `<div class="domain-dd-option ${act?'active':''}" onclick="event.stopPropagation();toggleFilter('domain','${d.replace(/'/g,"&apos;")}')">\n              <span class="domain-dd-check">${act ? '✓' : ''}</span>\n              <span class="domain-dd-name">${esc(d)}</span>\n              <span class="domain-dd-count">${c}</span>\n            </div>`;
+          }).join('')}
+        </div>
+        ${selectedCount > 0 ? `<div class="domain-dd-footer" onclick="event.stopPropagation();activeFilters.domain.clear();renderBrowse()">Clear domain filter</div>` : ''}
+      </div>` : ''}
+    </div>`;
+  lucide.createIcons();
+  setTimeout(setupCursorHovers, 50);
+}
+
+function toggleDomainDropdown() {
+  domainDropdownOpen = !domainDropdownOpen;
+  buildDomainDropdown();
+  lucide.createIcons();
+}
+
+// Close domain dropdown when clicking outside
+document.addEventListener('click', e => {
+  if (domainDropdownOpen && !e.target.closest('#f-domain-dropdown-wrap')) {
+    domainDropdownOpen = false;
+    buildDomainDropdown();
+  }
+});
+
 function buildFilterUI() {
-  // Domains
-  const doms = {}; allJobs.forEach(j => { doms[j.domain]=(doms[j.domain]||0)+1; });
-  document.getElementById('f-domains').innerHTML = Object.entries(doms).sort((a,b)=>b[1]-a[1]).map(([d,c]) => {
-    const act = activeFilters.domain.has(d)?'active':'';
-    return `<button class="chip ${act}" onclick="toggleFilter('domain','${d}')">${d}<span class="count">${c}</span></button>`;
-  }).join('');
+  // Domain (searchable dropdown)
+  buildDomainDropdown();
 
   // Sources
   const sources = [...new Set(allJobs.map(j=>j.source))].sort();
@@ -229,6 +377,7 @@ function buildFilterUI() {
     const c = SRC[s]||{label:s}; const act = activeFilters.sources.has(s)?'active':'';
     return `<button class="chip ${act}" onclick="toggleFilter('sources','${s}')">${c.label}<span class="count">${allJobs.filter(j=>j.source===s).length}</span></button>`;
   }).join('');
+  updateCollapsibleBadge('f-sources', activeFilters.sources);
 
   // Levels
   const levels = {}; allJobs.forEach(j => { const l=j.level||'N/A'; levels[l]=(levels[l]||0)+1; });
@@ -236,6 +385,7 @@ function buildFilterUI() {
     const act = activeFilters.levels.has(l)?'active':'';
     return `<button class="chip ${act}" onclick="toggleFilter('levels','${l}')">${l}<span class="count">${c}</span></button>`;
   }).join('');
+  updateCollapsibleBadge('f-levels', activeFilters.levels);
 
   // Categories
   const cats = {}; allJobs.forEach(j => { const c=j.job_category||'Other'; cats[c]=(cats[c]||0)+1; });
@@ -243,8 +393,9 @@ function buildFilterUI() {
     const act = activeFilters.categories.has(c)?'active':'';
     return `<button class="chip ${act}" onclick="toggleFilter('categories','${c}')">${c}<span class="count">${n}</span></button>`;
   }).join('');
+  updateCollapsibleBadge('f-categories', activeFilters.categories);
 
-  // Work Mode (Remote / Onsite / Hybrid)
+  // Work Mode
   const wmodes = {}; allJobs.forEach(j => {
     const loc = (j.location||'').toLowerCase();
     let mode = 'Onsite';
@@ -256,8 +407,9 @@ function buildFilterUI() {
     const act = activeFilters.workmode.has(m)?'active':'';
     return `<button class="chip ${act}" onclick="toggleFilter('workmode','${m}')">${m}<span class="count">${c}</span></button>`;
   }).join('');
+  updateCollapsibleBadge('f-workmode', activeFilters.workmode);
 
-  // Contract Type (Full-time / Part-time / Other)
+  // Contract Type
   const ctypes = {}; allJobs.forEach(j => {
     const et = (j.employment_type||j.job_type||'').toLowerCase();
     let ct = 'Other';
@@ -270,6 +422,7 @@ function buildFilterUI() {
     const act = activeFilters.contract.has(c)?'active':'';
     return `<button class="chip ${act}" onclick="toggleFilter('contract','${c}')">${c}<span class="count">${n}</span></button>`;
   }).join('');
+  updateCollapsibleBadge('f-contract', activeFilters.contract);
 
   // Locations (top 8)
   const locs = {}; allJobs.forEach(j => { const l=(j.location||'N/A').split(',')[0].trim(); if(l.toLowerCase()!=='remote') locs[l]=(locs[l]||0)+1; });
@@ -278,6 +431,7 @@ function buildFilterUI() {
     const act = activeFilters.locations.has(l)?'active':'';
     return `<button class="chip ${act}" onclick="toggleFilter('locations','${l}')">${l}<span class="count">${c}</span></button>`;
   }).join('');
+  updateCollapsibleBadge('f-locations', activeFilters.locations);
 
   // Tags (clean_tags, top 12)
   const tagC = {}; allJobs.forEach(j => (j.clean_tags||j.tags||[]).forEach(t => { tagC[t]=(tagC[t]||0)+1; }));
@@ -286,11 +440,27 @@ function buildFilterUI() {
     const act = activeFilters.tags.has(t)?'active':'';
     return `<button class="chip ${act}" onclick="toggleFilter('tags','${esc(t)}')">${t}<span class="count">${c}</span></button>`;
   }).join('');
+  updateCollapsibleBadge('f-tags', activeFilters.tags);
 }
 
-function toggleFilter(type,val) { activeFilters[type].has(val)?activeFilters[type].delete(val):activeFilters[type].add(val); renderBrowse(); }
+function updateCollapsibleBadge(chipContainerId, filterSet) {
+  const section = document.getElementById(chipContainerId)?.closest('.filter-section.collapsible');
+  if (!section) return;
+  const badge = section.querySelector('.collapse-badge');
+  if (badge) { badge.textContent = filterSet.size > 0 ? filterSet.size : ''; badge.style.display = filterSet.size > 0 ? 'inline-flex' : 'none'; }
+}
+
+function toggleCollapsible(sectionEl) {
+  sectionEl.classList.toggle('collapsed');
+}
+
+function toggleFilter(type,val) {
+  activeFilters[type].has(val)?activeFilters[type].delete(val):activeFilters[type].add(val);
+  if (type === 'domain') { buildDomainDropdown(); applyFilters(); }
+  else renderBrowse();
+}
 function addSourceFilter(s) { activeFilters.sources.clear(); activeFilters.sources.add(s); switchTab('browse'); }
-function clearFilters() { Object.values(activeFilters).forEach(s=>s.clear()); document.getElementById('search-input').value=''; document.getElementById('f-freshness').value='all'; document.getElementById('f-salary').checked=false; renderBrowse(); }
+function clearFilters() { Object.values(activeFilters).forEach(s=>s.clear()); domainSearchQuery=''; document.getElementById('search-input').value=''; document.getElementById('f-freshness').value='all'; document.getElementById('f-salary').checked=false; renderBrowse(); }
 
 function applyFilters() {
   const search = (document.getElementById('search-input').value||'').toLowerCase();
@@ -546,6 +716,27 @@ if (adminKeywords.length <= 6) {
 function initAdmin() {
   renderAdminStats();
   renderAdminKeywords();
+  // Pre-fill Gemini API key
+  const keyEl = document.getElementById('admin-gemini-key');
+  if (keyEl) keyEl.value = localStorage.getItem('gemini_api_key') || '';
+}
+
+async function adminRefreshDomains() {
+  localStorage.removeItem('domain_taxonomy');
+  localStorage.removeItem('domain_taxonomy_kwHash');
+  const t = document.getElementById('admin-terminal');
+  t.style.display = 'block';
+  t.innerHTML = `<span style="color:var(--text-dim)">[GEMINI]</span> Re-classifying domains...\n`;
+  const result = await classifyDomainsWithGemini(allJobs);
+  if (result) {
+    domainTaxonomy = result;
+    localStorage.setItem('domain_taxonomy', JSON.stringify(domainTaxonomy));
+    localStorage.setItem('domain_taxonomy_kwHash', defaultKeywords.join('|'));
+    allJobs.forEach(j => { j.domain = classifyJobDomain(j, domainTaxonomy); });
+    t.innerHTML += `<span style="color:var(--accent)">[SUCCESS]</span> Generated ${result.length} domain categories. Reload Browse tab to see updated filters.\n`;
+  } else {
+    t.innerHTML += `<span style="color:#ef4444">[ERROR]</span> Gemini classification failed. Check your API key and try again.\n`;
+  }
 }
 
 function renderAdminStats() {
