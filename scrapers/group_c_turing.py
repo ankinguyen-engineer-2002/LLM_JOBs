@@ -46,6 +46,11 @@ class TuringScraper(BaseJobScraper):
                 viewport={"width": 1280, "height": 800},
             )
             page = context.new_page()
+            try:
+                from playwright_stealth import stealth_sync
+                stealth_sync(page)
+            except ImportError:
+                pass
 
             for search_url in self.SEARCH_URLS:
                 try:

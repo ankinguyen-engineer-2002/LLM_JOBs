@@ -43,6 +43,11 @@ class WellfoundScraper(BaseJobScraper):
 
             # Block unnecessary resources for speed
             page = context.new_page()
+            try:
+                from playwright_stealth import stealth_sync
+                stealth_sync(page)
+            except ImportError:
+                pass
 
             for slug in self.ROLE_SLUGS:
                 url = f"https://wellfound.com/role/r/{slug}"
