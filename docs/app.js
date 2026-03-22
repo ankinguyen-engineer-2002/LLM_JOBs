@@ -604,6 +604,17 @@ function adminSaveKeywords() {
   setTimeout(() => { t.innerHTML += `<span style="color:var(--accent)">[SUCCESS]</span> Registry updated. Ready for next sequence.\n`; }, 600);
 }
 
+function adminResetKeywords() {
+  if (confirm("Reset to the official default list of 18 keywords?")) {
+    adminKeywords = [...defaultKeywords];
+    localStorage.setItem('admin_keywords', JSON.stringify(adminKeywords));
+    renderAdminKeywords();
+    const t = document.getElementById('admin-terminal');
+    t.style.display = 'block';
+    t.innerHTML = `<span style="color:var(--text-dim)">[SYSTEM]</span> Restored default configuration (${adminKeywords.length} keywords).\n`;
+  }
+}
+
 let adminScraping = false;
 function adminTriggerScrape() {
   if (adminScraping) return;
