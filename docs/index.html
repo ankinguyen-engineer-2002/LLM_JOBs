@@ -1,551 +1,165 @@
 <!DOCTYPE html>
-<html lang="en" class="dark">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Job Radar — Automated Job Intelligence Dashboard</title>
-<meta name="description" content="Real-time job aggregation dashboard scraping 9+ sources for data engineering, ML, and analytics roles.">
+<title>Job Radar — AI-Powered Job Intelligence Dashboard</title>
+<meta name="description" content="Real-time job aggregation dashboard with AI enrichment. Scraping 10+ sources for data engineering, ML, AI, and analytics roles.">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-<script src="https://cdn.tailwindcss.com"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 <script src="https://unpkg.com/lucide@latest"></script>
-<script>
-tailwind.config = {
-  darkMode: 'class',
-  theme: {
-    extend: {
-      fontFamily: { inter: ['Inter', 'system-ui', 'sans-serif'] },
-      colors: {
-        slate: { 850: '#172033' },
-      },
-      animation: {
-        'fade-in': 'fadeIn 0.3s ease-out',
-        'slide-in': 'slideIn 0.3s ease-out',
-        'pulse-dot': 'pulseDot 2s infinite',
-      },
-      keyframes: {
-        fadeIn: { from: { opacity: '0', transform: 'translateY(8px)' }, to: { opacity: '1', transform: 'translateY(0)' } },
-        slideIn: { from: { transform: 'translateX(100%)' }, to: { transform: 'translateX(0)' } },
-        pulseDot: { '0%, 100%': { opacity: '1' }, '50%': { opacity: '0.4' } },
-      }
-    }
-  }
-}
-</script>
-<style>
-body { font-family: 'Inter', system-ui, sans-serif; }
-::-webkit-scrollbar { width: 6px; height: 6px; }
-::-webkit-scrollbar-track { background: #1e293b; }
-::-webkit-scrollbar-thumb { background: #475569; border-radius: 3px; }
-::-webkit-scrollbar-thumb:hover { background: #64748b; }
-.glass { background: rgba(30, 41, 59, 0.8); backdrop-filter: blur(12px); border: 1px solid rgba(51, 65, 85, 0.5); }
-.card-hover { transition: all 0.2s ease; }
-.card-hover:hover { transform: translateY(-2px); box-shadow: 0 8px 25px rgba(0,0,0,0.3); border-color: #3b82f6; }
-.tab-active { border-bottom: 2px solid #3b82f6; color: #f1f5f9; }
-.tag-pill { display: inline-flex; align-items: center; padding: 2px 8px; border-radius: 9999px; font-size: 0.7rem; font-weight: 500; cursor: pointer; transition: all 0.15s; }
-.tag-pill:hover { transform: scale(1.05); }
-.filter-chip { cursor: pointer; transition: all 0.15s; }
-.filter-chip:hover { border-color: #3b82f6; }
-.filter-chip.active { background: #1e3a5f; border-color: #3b82f6; color: #93c5fd; }
-.heatmap-cell { width: 12px; height: 12px; border-radius: 2px; }
-@media (max-width: 640px) { .mobile-hide { display: none; } .mobile-full { width: 100%; } }
-</style>
+<link rel="stylesheet" href="style.css">
 </head>
-<body class="bg-slate-900 text-slate-100 min-h-screen">
+<body>
 
 <!-- NAV -->
-<nav class="sticky top-0 z-40 glass border-b border-slate-700/50">
-<div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
-  <div class="flex items-center gap-2">
-    <span class="text-2xl">📡</span>
-    <h1 class="text-xl font-bold bg-gradient-to-r from-blue-400 to-violet-400 bg-clip-text text-transparent">Job Radar</h1>
-    <span class="hidden sm:inline-flex items-center gap-1 ml-2 px-2 py-0.5 rounded-full bg-green-900/50 text-green-400 text-xs"><span class="w-1.5 h-1.5 rounded-full bg-green-400 animate-pulse-dot"></span>Live</span>
+<nav class="nav-bar">
+<div class="nav-inner">
+  <div class="logo">
+    <span style="font-size:1.4rem">📡</span>
+    <h1>Job Radar</h1>
+    <span class="live-badge"><span class="live-dot"></span>Live</span>
   </div>
-  <div class="flex items-center gap-1 overflow-x-auto" id="nav-tabs">
-    <button onclick="switchTab('dashboard')" class="px-3 py-1.5 text-sm rounded-lg hover:bg-slate-800 transition tab-btn tab-active" data-tab="dashboard"><i data-lucide="layout-dashboard" class="w-4 h-4 inline mr-1"></i><span class="mobile-hide">Dashboard</span></button>
-    <button onclick="switchTab('browse')" class="px-3 py-1.5 text-sm rounded-lg hover:bg-slate-800 transition tab-btn" data-tab="browse"><i data-lucide="search" class="w-4 h-4 inline mr-1"></i><span class="mobile-hide">Browse</span></button>
-    <button onclick="switchTab('analytics')" class="px-3 py-1.5 text-sm rounded-lg hover:bg-slate-800 transition tab-btn" data-tab="analytics"><i data-lucide="bar-chart-3" class="w-4 h-4 inline mr-1"></i><span class="mobile-hide">Analytics</span></button>
-    <button onclick="switchTab('saved')" class="px-3 py-1.5 text-sm rounded-lg hover:bg-slate-800 transition tab-btn" data-tab="saved"><i data-lucide="heart" class="w-4 h-4 inline mr-1"></i><span class="mobile-hide">Saved</span><span id="saved-count-badge" class="ml-1 px-1.5 py-0.5 text-xs rounded-full bg-blue-600 hidden">0</span></button>
-    <button onclick="switchTab('about')" class="px-3 py-1.5 text-sm rounded-lg hover:bg-slate-800 transition tab-btn" data-tab="about"><i data-lucide="info" class="w-4 h-4 inline mr-1"></i><span class="mobile-hide">About</span></button>
+  <div class="nav-tabs">
+    <button class="tab-btn active" data-tab="dashboard" onclick="switchTab('dashboard')"><i data-lucide="layout-dashboard" style="width:15px;height:15px"></i><span>Dashboard</span></button>
+    <button class="tab-btn" data-tab="browse" onclick="switchTab('browse')"><i data-lucide="search" style="width:15px;height:15px"></i><span>Browse</span></button>
+    <button class="tab-btn" data-tab="analytics" onclick="switchTab('analytics')"><i data-lucide="bar-chart-3" style="width:15px;height:15px"></i><span>Analytics</span></button>
+    <button class="tab-btn" data-tab="saved" onclick="switchTab('saved')"><i data-lucide="heart" style="width:15px;height:15px"></i><span>Saved</span><span id="saved-badge" style="margin-left:4px;padding:1px 6px;border-radius:99px;background:#6366f1;font-size:0.65rem;display:none">0</span></button>
+    <button class="tab-btn" data-tab="about" onclick="switchTab('about')"><i data-lucide="info" style="width:15px;height:15px"></i><span>About</span></button>
   </div>
-  <div class="flex items-center gap-2">
-    <span id="last-updated" class="text-xs text-slate-500 mobile-hide"></span>
-    <button onclick="toggleTheme()" class="p-2 rounded-lg hover:bg-slate-800 transition" title="Toggle theme"><i data-lucide="moon" class="w-4 h-4" id="theme-icon"></i></button>
-  </div>
+  <span id="last-updated" style="font-size:0.7rem;color:var(--text-muted)" class="mobile-hide"></span>
 </div>
 </nav>
 
 <!-- MAIN -->
-<main class="max-w-7xl mx-auto px-4 py-6">
+<main style="max-width:1280px;margin:0 auto;padding:24px 20px">
 
-<!-- DASHBOARD TAB -->
-<section id="tab-dashboard">
-  <div id="stats-cards" class="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-6"></div>
-  <div class="mb-6"><h2 class="text-lg font-semibold mb-3 flex items-center gap-2"><i data-lucide="zap" class="w-5 h-5 text-yellow-400"></i>Latest Today</h2><div id="top-today" class="space-y-2"></div></div>
-  <div class="grid md:grid-cols-2 gap-6 mb-6">
-    <div><h2 class="text-lg font-semibold mb-3">Top 10 This Week</h2><div id="top-week"></div></div>
-    <div><h2 class="text-lg font-semibold mb-3">Top 10 This Month</h2><div id="top-month"></div></div>
+<!-- DASHBOARD -->
+<section id="tab-dashboard" class="tab-section">
+  <div id="stats-cards" class="stat-grid"></div>
+  <div style="margin-bottom:24px"><h2 style="font-size:1.1rem;font-weight:700;margin-bottom:12px;display:flex;align-items:center;gap:8px"><i data-lucide="zap" style="width:18px;height:18px;color:#f59e0b"></i>Latest Today</h2><div id="top-today"></div></div>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px;margin-bottom:24px">
+    <div><h2 style="font-size:1rem;font-weight:600;margin-bottom:12px">Top 10 This Week</h2><div id="top-week"></div></div>
+    <div><h2 style="font-size:1rem;font-weight:600;margin-bottom:12px">Top 10 This Month</h2><div id="top-month"></div></div>
   </div>
-  <div class="grid md:grid-cols-2 gap-6">
-    <div class="bg-slate-800 rounded-xl p-4 border border-slate-700"><h3 class="text-sm font-semibold mb-3 text-slate-400">Jobs Per Day (14d)</h3><canvas id="chart-daily"></canvas></div>
-    <div class="bg-slate-800 rounded-xl p-4 border border-slate-700"><h3 class="text-sm font-semibold mb-3 text-slate-400">By Source</h3><canvas id="chart-source-dash"></canvas></div>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:16px">
+    <div class="chart-card"><p class="chart-title">Jobs Per Day (14d)</p><canvas id="chart-daily"></canvas></div>
+    <div class="chart-card"><p class="chart-title">By Source</p><canvas id="chart-source-dash"></canvas></div>
   </div>
 </section>
 
-<!-- BROWSE TAB -->
-<section id="tab-browse" class="hidden">
-  <div class="flex flex-col lg:flex-row gap-6">
-    <aside id="filter-sidebar" class="lg:w-72 shrink-0 space-y-4">
-      <div class="bg-slate-800 rounded-xl p-4 border border-slate-700">
-        <div class="flex items-center justify-between mb-3"><h3 class="font-semibold text-sm">Filters</h3><button onclick="clearFilters()" class="text-xs text-blue-400 hover:text-blue-300">Clear all</button></div>
-        <input type="text" id="search-input" placeholder="Search title, company, tags..." class="w-full px-3 py-2 bg-slate-900 border border-slate-700 rounded-lg text-sm focus:border-blue-500 focus:outline-none mb-3" oninput="debounceFilter()">
-        <div class="mb-3"><label class="text-xs text-slate-400 font-medium mb-1 block">Source</label><div id="filter-sources" class="flex flex-wrap gap-1.5"></div></div>
-        <div class="mb-3"><label class="text-xs text-slate-400 font-medium mb-1 block">Posted Within</label>
-          <select id="filter-posted" onchange="applyFilters()" class="w-full px-3 py-1.5 bg-slate-900 border border-slate-700 rounded-lg text-sm focus:border-blue-500 focus:outline-none">
-            <option value="all">All time</option><option value="today">Today</option><option value="3d">Last 3 days</option><option value="7d">Last 7 days</option><option value="30d">Last 30 days</option>
+<!-- BROWSE -->
+<section id="tab-browse" class="tab-section hidden">
+  <div style="display:flex;gap:24px" class="browse-layout">
+    <!-- FILTER SIDEBAR -->
+    <aside class="filter-sidebar">
+      <div class="card" style="padding:16px">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px">
+          <h3 style="font-size:0.9rem;font-weight:700">Filters</h3>
+          <button onclick="clearFilters()" style="border:none;background:none;color:#6366f1;font-size:0.72rem;cursor:pointer;font-weight:600">Clear all</button>
+        </div>
+        <div class="search-wrap">
+          <i data-lucide="search" style="width:16px;height:16px" class="search-icon"></i>
+          <input type="text" id="search-input" class="search-input" placeholder="Search title, company, tags..." oninput="debounceFilter()">
+        </div>
+        <div class="filter-section">
+          <p class="filter-label"><i data-lucide="clock" style="width:12px;height:12px"></i>Freshness</p>
+          <select id="f-freshness" class="select-input" style="width:100%" onchange="applyFilters()">
+            <option value="all">All time</option>
+            <option value="today">Today</option>
+            <option value="3d">Last 3 days</option>
+            <option value="7d">Last 7 days</option>
+            <option value="14d">Last 14 days</option>
+            <option value="30d">Last 30 days</option>
           </select>
         </div>
-        <div class="mb-3"><label class="flex items-center gap-2 text-sm cursor-pointer"><input type="checkbox" id="filter-remote" onchange="applyFilters()" class="rounded bg-slate-900 border-slate-700 text-blue-600"><span>Remote only</span></label></div>
-        <div class="mb-3"><label class="flex items-center gap-2 text-sm cursor-pointer"><input type="checkbox" id="filter-salary" onchange="applyFilters()" class="rounded bg-slate-900 border-slate-700 text-blue-600"><span>Has salary info</span></label></div>
-        <div><label class="text-xs text-slate-400 font-medium mb-1 block">Popular Tags</label><div id="filter-tags" class="flex flex-wrap gap-1.5 max-h-40 overflow-y-auto"></div></div>
+        <div class="filter-section"><p class="filter-label"><i data-lucide="layers" style="width:12px;height:12px"></i>Source</p><div id="f-sources" class="filter-chips"></div></div>
+        <div class="filter-section"><p class="filter-label"><i data-lucide="bar-chart" style="width:12px;height:12px"></i>Level</p><div id="f-levels" class="filter-chips"></div></div>
+        <div class="filter-section"><p class="filter-label"><i data-lucide="folder" style="width:12px;height:12px"></i>Category</p><div id="f-categories" class="filter-chips"></div></div>
+        <div class="filter-section"><p class="filter-label"><i data-lucide="map-pin" style="width:12px;height:12px"></i>Location</p><div id="f-locations" class="filter-chips"></div></div>
+        <div class="filter-section" style="margin-bottom:12px">
+          <label style="display:flex;align-items:center;gap:8px;font-size:0.82rem;cursor:pointer"><input type="checkbox" id="f-remote" onchange="applyFilters()"> Remote only</label>
+        </div>
+        <div class="filter-section" style="margin-bottom:12px">
+          <label style="display:flex;align-items:center;gap:8px;font-size:0.82rem;cursor:pointer"><input type="checkbox" id="f-salary" onchange="applyFilters()"> Has salary info</label>
+        </div>
+        <div class="filter-section"><p class="filter-label"><i data-lucide="tag" style="width:12px;height:12px"></i>Tech Skills</p><div id="f-tags" class="filter-chips" style="max-height:200px;overflow-y:auto"></div></div>
       </div>
     </aside>
-    <div class="flex-1 min-w-0">
-      <div class="flex items-center justify-between mb-4">
-        <p class="text-sm text-slate-400"><span id="job-count" class="text-white font-semibold">0</span> jobs found</p>
-        <div class="flex items-center gap-2">
-          <button onclick="setView('table')" id="view-table-btn" class="p-1.5 rounded hover:bg-slate-800 text-blue-400"><i data-lucide="table" class="w-4 h-4"></i></button>
-          <button onclick="setView('cards')" id="view-cards-btn" class="p-1.5 rounded hover:bg-slate-800 text-slate-500"><i data-lucide="layout-grid" class="w-4 h-4"></i></button>
-          <select id="sort-select" onchange="applyFilters()" class="px-2 py-1 bg-slate-800 border border-slate-700 rounded text-xs"><option value="scraped_at">Newest</option><option value="title">Title A-Z</option><option value="company">Company</option><option value="posted_date">Posted Date</option></select>
+    <!-- JOB LIST -->
+    <div style="flex:1;min-width:0">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px">
+        <p style="font-size:0.85rem;color:var(--text-muted)"><span id="job-count" style="color:var(--text-primary);font-weight:700">0</span> jobs found</p>
+        <div style="display:flex;align-items:center;gap:8px">
+          <button id="view-table-btn" class="tab-btn active" onclick="setView('table')" style="padding:4px 8px"><i data-lucide="table" style="width:15px;height:15px"></i></button>
+          <button id="view-cards-btn" class="tab-btn" onclick="setView('cards')" style="padding:4px 8px"><i data-lucide="layout-grid" style="width:15px;height:15px"></i></button>
+          <select id="sort-select" class="select-input" onchange="applyFilters()">
+            <option value="scraped_at">Newest</option>
+            <option value="title">Title A-Z</option>
+            <option value="company">Company</option>
+            <option value="level">Level</option>
+            <option value="posted_date">Posted Date</option>
+          </select>
         </div>
       </div>
       <div id="jobs-container"></div>
-      <div id="pagination" class="flex items-center justify-center gap-2 mt-6"></div>
+      <div id="pagination" class="pagination"></div>
     </div>
   </div>
 </section>
 
-<!-- ANALYTICS TAB -->
-<section id="tab-analytics" class="hidden">
-  <div class="grid md:grid-cols-2 gap-6 mb-6">
-    <div class="bg-slate-800 rounded-xl p-4 border border-slate-700"><h3 class="text-sm font-semibold mb-3 text-slate-400">Jobs Per Day (30d)</h3><canvas id="chart-daily-30"></canvas></div>
-    <div class="bg-slate-800 rounded-xl p-4 border border-slate-700"><h3 class="text-sm font-semibold mb-3 text-slate-400">Top 15 Tags</h3><canvas id="chart-tags"></canvas></div>
+<!-- ANALYTICS -->
+<section id="tab-analytics" class="tab-section hidden">
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:16px;margin-bottom:16px">
+    <div class="chart-card"><p class="chart-title">Jobs Per Day (30d)</p><canvas id="chart-daily-30"></canvas></div>
+    <div class="chart-card"><p class="chart-title">Top 15 Tech Skills</p><canvas id="chart-tags"></canvas></div>
   </div>
-  <div class="grid md:grid-cols-2 gap-6 mb-6">
-    <div class="bg-slate-800 rounded-xl p-4 border border-slate-700"><h3 class="text-sm font-semibold mb-3 text-slate-400">Jobs by Source</h3><canvas id="chart-source"></canvas></div>
-    <div class="bg-slate-800 rounded-xl p-4 border border-slate-700"><h3 class="text-sm font-semibold mb-3 text-slate-400">Remote vs On-site</h3><canvas id="chart-remote"></canvas></div>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:16px">
+    <div class="chart-card"><p class="chart-title">By Level</p><canvas id="chart-levels"></canvas></div>
+    <div class="chart-card"><p class="chart-title">By Category</p><canvas id="chart-categories"></canvas></div>
   </div>
-  <div class="bg-slate-800 rounded-xl p-4 border border-slate-700">
-    <h3 class="text-sm font-semibold mb-3 text-slate-400">Posting Activity (6 months)</h3>
-    <div id="heatmap-container" class="overflow-x-auto"></div>
-  </div>
+  <div class="chart-card" style="margin-top:16px"><p class="chart-title">Jobs by Source</p><canvas id="chart-source"></canvas></div>
 </section>
 
-<!-- SAVED TAB -->
-<section id="tab-saved" class="hidden">
-  <div class="flex items-center justify-between mb-4">
-    <h2 class="text-lg font-semibold">Saved Jobs (<span id="saved-total">0</span>)</h2>
-    <div class="flex gap-2">
-      <button onclick="exportCSV()" class="px-3 py-1.5 bg-blue-600 hover:bg-blue-500 text-sm rounded-lg transition flex items-center gap-1"><i data-lucide="download" class="w-4 h-4"></i>Export CSV</button>
-      <button onclick="clearSaved()" class="px-3 py-1.5 bg-slate-700 hover:bg-slate-600 text-sm rounded-lg transition">Clear All</button>
+<!-- SAVED -->
+<section id="tab-saved" class="tab-section hidden">
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px">
+    <h2 style="font-size:1.1rem;font-weight:700">Saved Jobs (<span id="saved-total">0</span>)</h2>
+    <div style="display:flex;gap:8px">
+      <button onclick="exportCSV()" style="padding:8px 16px;background:#6366f1;color:white;border:none;border-radius:8px;font-size:0.82rem;cursor:pointer;display:flex;align-items:center;gap:6px"><i data-lucide="download" style="width:14px;height:14px"></i>Export CSV</button>
+      <button onclick="clearSaved()" style="padding:8px 16px;background:rgba(30,41,59,0.8);color:var(--text-secondary);border:1px solid var(--border);border-radius:8px;font-size:0.82rem;cursor:pointer">Clear All</button>
     </div>
   </div>
   <div id="saved-container"></div>
-  <div id="saved-empty" class="hidden text-center py-16 text-slate-500"><i data-lucide="heart" class="w-12 h-12 mx-auto mb-3 opacity-30"></i><p>No saved jobs yet. Click the heart icon on any job to save it.</p></div>
+  <div id="saved-empty" class="empty-state" style="display:none"><i data-lucide="heart" style="width:48px;height:48px;margin:0 auto 12px;display:block;opacity:0.3"></i><p>No saved jobs yet. Click the heart icon on any job to save it.</p></div>
 </section>
 
-<!-- ABOUT TAB -->
-<section id="tab-about" class="hidden">
-  <div class="max-w-3xl mx-auto space-y-6">
-    <div class="bg-slate-800 rounded-xl p-6 border border-slate-700">
-      <h2 class="text-xl font-bold mb-4">About Job Radar</h2>
-      <p class="text-slate-300 mb-4">Job Radar is an automated job intelligence system that scrapes <strong class="text-white">9+ job sources</strong> three times daily, deduplicates results, and serves this dashboard via GitHub Pages — all at <strong class="text-green-400">zero cost</strong>.</p>
-      <div class="grid sm:grid-cols-2 gap-4">
-        <div><h3 class="font-semibold text-sm text-slate-400 mb-2">Update Schedule</h3><p class="text-sm">07:00, 14:00, 20:00 ICT daily</p></div>
-        <div><h3 class="font-semibold text-sm text-slate-400 mb-2">Tech Stack</h3><p class="text-sm">Python 3.11, GitHub Actions, Tailwind CSS, Chart.js</p></div>
+<!-- ABOUT -->
+<section id="tab-about" class="tab-section hidden">
+  <div style="max-width:720px;margin:0 auto">
+    <div class="card" style="padding:28px;margin-bottom:16px">
+      <h2 style="font-size:1.25rem;font-weight:800;margin-bottom:12px;background:var(--gradient-hero);-webkit-background-clip:text;-webkit-text-fill-color:transparent">About Job Radar</h2>
+      <p style="color:var(--text-secondary);font-size:0.88rem;line-height:1.7;margin-bottom:16px">Job Radar is an <strong style="color:var(--text-primary)">AI-powered</strong> job intelligence system that scrapes <strong style="color:var(--text-primary)">10+ job sources</strong> three times daily. Jobs are enriched using <strong style="color:#10b981">Gemini Flash 2.5</strong> to normalize levels, categories, and tech skills — all at <strong style="color:#10b981">zero cost</strong>.</p>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
+        <div><p style="font-size:0.7rem;color:var(--text-muted);text-transform:uppercase;margin-bottom:4px">Update Schedule</p><p style="font-size:0.85rem">07:00, 14:00, 20:00 ICT daily</p></div>
+        <div><p style="font-size:0.7rem;color:var(--text-muted);text-transform:uppercase;margin-bottom:4px">Tech Stack</p><p style="font-size:0.85rem">Python 3.11, Playwright, Gemini 2.5, Chart.js</p></div>
       </div>
     </div>
-    <div class="bg-slate-800 rounded-xl p-6 border border-slate-700">
-      <h3 class="font-semibold mb-3">Data Sources</h3>
-      <div id="sources-list" class="grid sm:grid-cols-2 gap-2"></div>
+    <div class="card" style="padding:28px;margin-bottom:16px">
+      <h3 style="font-weight:700;margin-bottom:12px">Data Sources</h3>
+      <div id="sources-list" style="display:grid;grid-template-columns:1fr 1fr;gap:8px"></div>
     </div>
-    <div class="text-center text-sm text-slate-500 pb-8">
-      <p>Built with ❤️ | <a href="https://github.com" class="text-blue-400 hover:text-blue-300">View on GitHub</a></p>
-    </div>
+    <p style="text-align:center;font-size:0.78rem;color:var(--text-muted);padding:20px">Built with ❤️ | <a href="https://github.com/ankinguyen-engineer-2002/LLM_JOBs" style="color:#6366f1">View on GitHub</a></p>
   </div>
 </section>
 
 </main>
 
 <!-- DETAIL PANEL -->
-<div id="backdrop" class="fixed inset-0 bg-black/60 z-50 hidden transition-opacity" onclick="closeDetail()"></div>
-<aside id="detail-panel" class="fixed right-0 top-0 h-full w-full sm:w-[420px] bg-slate-800 border-l border-slate-700 z-50 hidden overflow-y-auto">
-  <div class="p-6" id="detail-content"></div>
-</aside>
+<div id="backdrop" class="detail-backdrop" onclick="closeDetail()"></div>
+<aside id="detail-panel" class="detail-panel"><div style="padding:24px" id="detail-content"></div></aside>
 
-<!-- ALL APP LOGIC -->
-<script>
-// === STATE ===
-let allJobs = [], filteredJobs = [], currentPage = 1, currentView = 'table';
-const PAGE_SIZE = 25;
-let savedIds = new Set(JSON.parse(localStorage.getItem('savedJobs') || '[]'));
-let activeSourceFilters = new Set(), activeTagFilters = new Set();
-let charts = {};
-let debounceTimer = null;
-
-const SRC = {
-  itviec:       { label:'ITviec',       bg:'bg-rose-900/60',    text:'text-rose-300',   hex:'#e11d48' },
-  vietnamworks: { label:'VietnamWorks',  bg:'bg-sky-900/60',     text:'text-sky-300',    hex:'#0284c7' },
-  topcv:        { label:'TopCV',         bg:'bg-green-900/60',   text:'text-green-300',  hex:'#16a34a' },
-  linkedin:     { label:'LinkedIn',      bg:'bg-blue-900/60',    text:'text-blue-300',   hex:'#2563eb' },
-  indeed:       { label:'Indeed',        bg:'bg-indigo-900/60',  text:'text-indigo-300', hex:'#4f46e5' },
-  google:       { label:'Google',        bg:'bg-yellow-900/60',  text:'text-yellow-300', hex:'#ca8a04' },
-  remoteok:     { label:'RemoteOK',      bg:'bg-violet-900/60',  text:'text-violet-300', hex:'#7c3aed' },
-  himalayas:    { label:'Himalayas',     bg:'bg-cyan-900/60',    text:'text-cyan-300',   hex:'#0891b2' },
-  jobicy:       { label:'Jobicy',        bg:'bg-orange-900/60',  text:'text-orange-300', hex:'#ea580c' },
-  wellfound:    { label:'Wellfound',     bg:'bg-purple-900/60',  text:'text-purple-300', hex:'#9333ea' },
-  turing:       { label:'Turing',        bg:'bg-emerald-900/60', text:'text-emerald-300',hex:'#059669' },
-  jobspy_multi: { label:'JobSpy',        bg:'bg-pink-900/60',    text:'text-pink-300',   hex:'#db2777' },
-};
-
-// === INIT ===
-async function init() {
-  const theme = localStorage.getItem('theme') || 'dark';
-  document.documentElement.classList.toggle('dark', theme === 'dark');
-  try {
-    const resp = await fetch('./jobs.json');
-    if (resp.ok) allJobs = await resp.json();
-  } catch(e) { console.warn('No jobs.json found, using empty dataset'); }
-  if (allJobs.length && allJobs[0].scraped_at) {
-    document.getElementById('last-updated').textContent = 'Updated ' + timeAgo(allJobs[0].scraped_at);
-  }
-  const lastTab = localStorage.getItem('lastTab') || 'dashboard';
-  switchTab(lastTab);
-  updateSavedBadge();
-  lucide.createIcons();
-}
-
-// === TABS ===
-function switchTab(name) {
-  document.querySelectorAll('[id^="tab-"]').forEach(s => { if(s.id.startsWith('tab-')) s.classList.add('hidden'); });
-  const el = document.getElementById('tab-' + name);
-  if (el) el.classList.remove('hidden');
-  document.querySelectorAll('.tab-btn').forEach(b => { b.classList.toggle('tab-active', b.dataset.tab === name); });
-  localStorage.setItem('lastTab', name);
-  // Render tab content
-  if (name === 'dashboard') renderDashboard();
-  else if (name === 'browse') renderBrowse();
-  else if (name === 'analytics') renderAnalytics();
-  else if (name === 'saved') renderSaved();
-  else if (name === 'about') renderAbout();
-  lucide.createIcons();
-}
-
-// === UTILITIES ===
-function timeAgo(dateStr) {
-  if (!dateStr) return '';
-  const diff = (Date.now() - new Date(dateStr).getTime()) / 1000;
-  if (diff < 60) return 'just now';
-  if (diff < 3600) return Math.floor(diff/60) + 'm ago';
-  if (diff < 86400) return Math.floor(diff/3600) + 'h ago';
-  if (diff < 604800) return Math.floor(diff/86400) + 'd ago';
-  return new Date(dateStr).toLocaleDateString();
-}
-function isToday(j) { const d = j.first_seen || j.scraped_at; if(!d) return false; const t = new Date(d); const n = new Date(); return t.toDateString() === n.toDateString(); }
-function isThisWeek(j) { const d = j.first_seen || j.scraped_at; if(!d) return false; return (Date.now() - new Date(d).getTime()) < 7*86400000; }
-function isThisMonth(j) { const d = j.first_seen || j.scraped_at; if(!d) return false; return (Date.now() - new Date(d).getTime()) < 30*86400000; }
-function srcBadge(s) { const c = SRC[s] || SRC.indeed; return `<span class="tag-pill ${c.bg} ${c.text}" onclick="addSourceFilter('${s}')">${c.label}</span>`; }
-function toggleTheme() { const d = document.documentElement; d.classList.toggle('dark'); localStorage.setItem('theme', d.classList.contains('dark') ? 'dark' : 'light'); }
-function debounceFilter() { clearTimeout(debounceTimer); debounceTimer = setTimeout(applyFilters, 300); }
-
-// === DASHBOARD ===
-function renderDashboard() {
-  const today = allJobs.filter(isToday), week = allJobs.filter(isThisWeek), month = allJobs.filter(isThisMonth);
-  const remote = allJobs.filter(j => j.is_remote);
-  const sources = new Set(allJobs.map(j => j.source));
-  document.getElementById('stats-cards').innerHTML = [
-    statCard('database', 'Total Jobs', allJobs.length, 'text-blue-400', 'bg-blue-900/30'),
-    statCard('zap', 'Today', today.length, today.length > 0 ? 'text-green-400' : 'text-slate-400', 'bg-green-900/30'),
-    statCard('globe', 'Remote', remote.length, 'text-cyan-400', 'bg-cyan-900/30'),
-    statCard('layers', 'Sources', sources.size, 'text-violet-400', 'bg-violet-900/30'),
-  ].join('');
-  // Top today
-  const todaySorted = [...today].sort((a,b) => (b.scraped_at||'').localeCompare(a.scraped_at||'')).slice(0, 5);
-  document.getElementById('top-today').innerHTML = todaySorted.length ? todaySorted.map((j,i) => jobRow(j, i+1)).join('') : '<p class="text-slate-500 text-sm py-4">No new jobs scraped today yet.</p>';
-  // Top week/month
-  const ws = [...week].sort((a,b) => (b.scraped_at||'').localeCompare(a.scraped_at||'')).slice(0,10);
-  const ms = [...month].sort((a,b) => (b.scraped_at||'').localeCompare(a.scraped_at||'')).slice(0,10);
-  document.getElementById('top-week').innerHTML = ws.length ? '<div class="space-y-1">' + ws.map((j,i) => jobRowCompact(j,i+1)).join('') + '</div>' : '<p class="text-slate-500 text-sm">No jobs this week.</p>';
-  document.getElementById('top-month').innerHTML = ms.length ? '<div class="space-y-1">' + ms.map((j,i) => jobRowCompact(j,i+1)).join('') + '</div>' : '<p class="text-slate-500 text-sm">No jobs this month.</p>';
-  renderDashCharts();
-  lucide.createIcons();
-}
-function statCard(icon, label, value, color, bg) {
-  return `<div class="bg-slate-800 rounded-xl p-4 border border-slate-700 card-hover"><div class="flex items-center gap-3"><div class="p-2 rounded-lg ${bg}"><i data-lucide="${icon}" class="w-5 h-5 ${color}"></i></div><div><p class="text-2xl font-bold">${value.toLocaleString()}</p><p class="text-xs text-slate-400">${label}</p></div></div></div>`;
-}
-function jobRow(j, rank) {
-  const saved = savedIds.has(j.id);
-  return `<div class="bg-slate-800 rounded-lg p-3 border border-slate-700 card-hover flex items-center gap-3 cursor-pointer animate-fade-in" onclick='openDetail(${JSON.stringify(j).replace(/'/g,"&#39;")})'>
-    <span class="text-lg font-bold text-slate-600 w-6 text-center">${rank}</span>
-    <div class="flex-1 min-w-0"><p class="font-medium text-sm truncate">${esc(j.title)}</p><p class="text-xs text-slate-400 truncate">${esc(j.company)} · ${esc(j.location)}</p></div>
-    ${srcBadge(j.source)}
-    <span class="text-xs text-slate-500 mobile-hide">${timeAgo(j.scraped_at)}</span>
-    <button onclick="event.stopPropagation();toggleSave('${j.id}')" class="p-1 hover:text-red-400 transition ${saved?'text-red-400':'text-slate-600'}"><i data-lucide="${saved?'heart':'heart'}" class="w-4 h-4" ${saved?'fill="currentColor"':''}></i></button>
-  </div>`;
-}
-function jobRowCompact(j, rank) {
-  return `<div class="flex items-center gap-2 py-1.5 px-2 rounded hover:bg-slate-700/50 cursor-pointer text-sm" onclick='openDetail(${JSON.stringify(j).replace(/'/g,"&#39;")})'>
-    <span class="text-xs text-slate-600 w-4">${rank}</span><span class="flex-1 truncate">${esc(j.title)}</span><span class="text-xs text-slate-500 truncate max-w-[100px]">${esc(j.company)}</span>${srcBadge(j.source)}
-  </div>`;
-}
-function renderDashCharts() {
-  // Daily bar chart (14 days)
-  const days = {};
-  for (let i = 13; i >= 0; i--) { const d = new Date(); d.setDate(d.getDate()-i); days[d.toISOString().slice(0,10)] = 0; }
-  allJobs.forEach(j => { const d = (j.first_seen||j.scraped_at||'').slice(0,10); if (d in days) days[d]++; });
-  destroyChart('chart-daily');
-  charts['chart-daily'] = new Chart(document.getElementById('chart-daily'), {
-    type: 'bar', data: { labels: Object.keys(days).map(d => d.slice(5)), datasets: [{ data: Object.values(days), backgroundColor: '#3b82f6', borderRadius: 4 }] },
-    options: { responsive: true, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#94a3b8', font: { size: 10 } }, grid: { display: false } }, y: { ticks: { color: '#94a3b8' }, grid: { color: '#1e293b' } } } }
-  });
-  // Source donut
-  const srcCounts = {};
-  allJobs.forEach(j => { srcCounts[j.source] = (srcCounts[j.source]||0) + 1; });
-  const srcLabels = Object.keys(srcCounts).sort((a,b) => srcCounts[b]-srcCounts[a]);
-  destroyChart('chart-source-dash');
-  charts['chart-source-dash'] = new Chart(document.getElementById('chart-source-dash'), {
-    type: 'doughnut', data: { labels: srcLabels.map(s => (SRC[s]||{}).label||s), datasets: [{ data: srcLabels.map(s => srcCounts[s]), backgroundColor: srcLabels.map(s => (SRC[s]||{}).hex||'#475569'), borderWidth: 0 }] },
-    options: { responsive: true, plugins: { legend: { position: 'right', labels: { color: '#94a3b8', font: { size: 11 }, padding: 8, usePointStyle: true } } }, cutout: '60%' }
-  });
-}
-function destroyChart(id) { if (charts[id]) { charts[id].destroy(); delete charts[id]; } }
-
-// === BROWSE ===
-function renderBrowse() { buildFilterUI(); applyFilters(); }
-function buildFilterUI() {
-  const sources = [...new Set(allJobs.map(j => j.source))].sort();
-  document.getElementById('filter-sources').innerHTML = sources.map(s => {
-    const c = SRC[s]||SRC.indeed;
-    const active = activeSourceFilters.has(s) ? 'active' : '';
-    return `<button class="filter-chip text-xs px-2 py-1 rounded-full border border-slate-700 ${active}" onclick="toggleSourceFilter('${s}')">${c.label}</button>`;
-  }).join('');
-  const tagCounts = {};
-  allJobs.forEach(j => (j.tags||[]).forEach(t => { tagCounts[t] = (tagCounts[t]||0)+1; }));
-  const topTags = Object.entries(tagCounts).sort((a,b)=>b[1]-a[1]).slice(0,20);
-  document.getElementById('filter-tags').innerHTML = topTags.map(([t,c]) => {
-    const active = activeTagFilters.has(t) ? 'active' : '';
-    return `<button class="filter-chip text-xs px-2 py-0.5 rounded-full border border-slate-700 ${active}" onclick="toggleTagFilter('${t}')">${t} <span class="text-slate-500">${c}</span></button>`;
-  }).join('');
-}
-function toggleSourceFilter(s) { activeSourceFilters.has(s) ? activeSourceFilters.delete(s) : activeSourceFilters.add(s); renderBrowse(); }
-function toggleTagFilter(t) { activeTagFilters.has(t) ? activeTagFilters.delete(t) : activeTagFilters.add(t); renderBrowse(); }
-function addSourceFilter(s) { activeSourceFilters.clear(); activeSourceFilters.add(s); switchTab('browse'); }
-function clearFilters() { activeSourceFilters.clear(); activeTagFilters.clear(); document.getElementById('search-input').value=''; document.getElementById('filter-posted').value='all'; document.getElementById('filter-remote').checked=false; document.getElementById('filter-salary').checked=false; renderBrowse(); }
-
-function applyFilters() {
-  const search = (document.getElementById('search-input').value||'').toLowerCase();
-  const posted = document.getElementById('filter-posted').value;
-  const remoteOnly = document.getElementById('filter-remote').checked;
-  const hasSalary = document.getElementById('filter-salary').checked;
-  const sortBy = document.getElementById('sort-select').value;
-
-  filteredJobs = allJobs.filter(j => {
-    if (search) { const s = `${j.title} ${j.company} ${(j.tags||[]).join(' ')} ${j.description_snippet||''}`.toLowerCase(); if (!s.includes(search)) return false; }
-    if (activeSourceFilters.size > 0 && !activeSourceFilters.has(j.source)) return false;
-    if (remoteOnly && !j.is_remote) return false;
-    if (hasSalary && (!j.salary || j.salary === 'N/A')) return false;
-    if (activeTagFilters.size > 0) { const t = (j.tags||[]).map(x=>x.toLowerCase()); if (![...activeTagFilters].every(f => t.includes(f))) return false; }
-    if (posted !== 'all') {
-      const days = {today:1,'3d':3,'7d':7,'30d':30}[posted]||999;
-      const cutoff = Date.now() - days*86400000;
-      if (new Date(j.scraped_at||j.first_seen||0).getTime() < cutoff) return false;
-    }
-    return true;
-  });
-  // Sort
-  filteredJobs.sort((a,b) => {
-    if (sortBy === 'title') return (a.title||'').localeCompare(b.title||'');
-    if (sortBy === 'company') return (a.company||'').localeCompare(b.company||'');
-    if (sortBy === 'posted_date') return (b.posted_date||'').localeCompare(a.posted_date||'');
-    return (b.scraped_at||'').localeCompare(a.scraped_at||'');
-  });
-  currentPage = 1;
-  renderJobsList();
-}
-
-function renderJobsList() {
-  document.getElementById('job-count').textContent = filteredJobs.length;
-  const start = (currentPage-1)*PAGE_SIZE, end = start+PAGE_SIZE;
-  const page = filteredJobs.slice(start, end);
-  const container = document.getElementById('jobs-container');
-  if (currentView === 'table') {
-    container.innerHTML = `<div class="overflow-x-auto"><table class="w-full text-sm"><thead><tr class="text-left text-xs text-slate-400 border-b border-slate-700">
-      <th class="py-2 px-2 cursor-pointer" onclick="sortCol('title')">Title</th><th class="py-2 px-2 cursor-pointer mobile-hide" onclick="sortCol('company')">Company</th>
-      <th class="py-2 px-2 mobile-hide">Location</th><th class="py-2 px-2 mobile-hide">Salary</th><th class="py-2 px-2">Source</th><th class="py-2 px-2 mobile-hide">Posted</th><th class="py-2 px-1 w-8"></th>
-    </tr></thead><tbody>${page.map(j => tableRow(j)).join('')}</tbody></table></div>`;
-  } else {
-    container.innerHTML = `<div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-3">${page.map(j => jobCard(j)).join('')}</div>`;
-  }
-  renderPagination();
-  lucide.createIcons();
-}
-function tableRow(j) {
-  const saved = savedIds.has(j.id);
-  return `<tr class="border-b border-slate-800 hover:bg-slate-800/50 cursor-pointer transition" onclick='openDetail(${JSON.stringify(j).replace(/'/g,"&#39;")})'>
-    <td class="py-2.5 px-2"><div class="font-medium truncate max-w-[250px]">${esc(j.title)}</div><div class="text-xs text-slate-500 flex gap-1 mt-0.5 flex-wrap">${(j.tags||[]).slice(0,3).map(t=>`<span class="tag-pill bg-slate-700/50 text-slate-400">${t}</span>`).join('')}</div></td>
-    <td class="py-2.5 px-2 text-slate-300 mobile-hide truncate max-w-[150px]">${esc(j.company)}</td>
-    <td class="py-2.5 px-2 text-slate-400 text-xs mobile-hide">${esc(j.location)}</td>
-    <td class="py-2.5 px-2 text-xs mobile-hide ${j.salary&&j.salary!=='N/A'?'text-green-400':'text-slate-600'}">${esc(j.salary||'N/A')}</td>
-    <td class="py-2.5 px-2">${srcBadge(j.source)}</td>
-    <td class="py-2.5 px-2 text-xs text-slate-500 mobile-hide">${timeAgo(j.scraped_at)}</td>
-    <td class="py-2.5 px-1"><button onclick="event.stopPropagation();toggleSave('${j.id}')" class="p-1 hover:text-red-400 ${saved?'text-red-400':'text-slate-600'}"><i data-lucide="heart" class="w-3.5 h-3.5" ${saved?'fill="currentColor"':''}></i></button></td>
-  </tr>`;
-}
-function jobCard(j) {
-  const saved = savedIds.has(j.id);
-  return `<div class="bg-slate-800 rounded-xl p-4 border border-slate-700 card-hover cursor-pointer animate-fade-in" onclick='openDetail(${JSON.stringify(j).replace(/'/g,"&#39;")})'>
-    <div class="flex justify-between items-start mb-2"><div class="flex-1 min-w-0"><p class="font-medium text-sm truncate">${esc(j.title)}</p><p class="text-xs text-slate-400">${esc(j.company)}</p></div>
-    <button onclick="event.stopPropagation();toggleSave('${j.id}')" class="p-1 hover:text-red-400 ${saved?'text-red-400':'text-slate-600'}"><i data-lucide="heart" class="w-4 h-4" ${saved?'fill="currentColor"':''}></i></button></div>
-    <div class="flex items-center gap-2 text-xs text-slate-400 mb-2"><span>${esc(j.location)}</span>${j.is_remote?'<span class="text-cyan-400">Remote</span>':''}</div>
-    <div class="flex items-center justify-between"><div class="flex gap-1 flex-wrap">${(j.tags||[]).slice(0,3).map(t=>`<span class="tag-pill bg-slate-700/50 text-slate-400">${t}</span>`).join('')}</div>${srcBadge(j.source)}</div>
-    ${j.salary&&j.salary!=='N/A'?`<p class="text-xs text-green-400 mt-2">${esc(j.salary)}</p>`:''}
-  </div>`;
-}
-function renderPagination() {
-  const total = Math.ceil(filteredJobs.length / PAGE_SIZE);
-  if (total <= 1) { document.getElementById('pagination').innerHTML = ''; return; }
-  let html = `<button onclick="goPage(${currentPage-1})" class="px-3 py-1 rounded bg-slate-800 text-sm ${currentPage===1?'opacity-30':'hover:bg-slate-700'}" ${currentPage===1?'disabled':''}>Prev</button>`;
-  for (let i = 1; i <= total; i++) {
-    if (total > 7 && i > 2 && i < total - 1 && Math.abs(i-currentPage) > 1) { if(i===3||i===total-2) html += '<span class="text-slate-600">…</span>'; continue; }
-    html += `<button onclick="goPage(${i})" class="px-3 py-1 rounded text-sm ${i===currentPage?'bg-blue-600':'bg-slate-800 hover:bg-slate-700'}">${i}</button>`;
-  }
-  html += `<button onclick="goPage(${currentPage+1})" class="px-3 py-1 rounded bg-slate-800 text-sm ${currentPage===total?'opacity-30':'hover:bg-slate-700'}" ${currentPage===total?'disabled':''}>Next</button>`;
-  document.getElementById('pagination').innerHTML = html;
-}
-function goPage(p) { const total = Math.ceil(filteredJobs.length/PAGE_SIZE); if(p<1||p>total) return; currentPage=p; renderJobsList(); window.scrollTo(0,0); }
-function setView(v) { currentView = v; document.getElementById('view-table-btn').className = `p-1.5 rounded hover:bg-slate-800 ${v==='table'?'text-blue-400':'text-slate-500'}`; document.getElementById('view-cards-btn').className = `p-1.5 rounded hover:bg-slate-800 ${v==='cards'?'text-blue-400':'text-slate-500'}`; renderJobsList(); }
-function sortCol(col) { const sel = document.getElementById('sort-select'); sel.value = col; applyFilters(); }
-
-// === ANALYTICS ===
-function renderAnalytics() {
-  // 30-day chart
-  const days30 = {};
-  for (let i=29;i>=0;i--) { const d=new Date(); d.setDate(d.getDate()-i); days30[d.toISOString().slice(0,10)]=0; }
-  allJobs.forEach(j => { const d=(j.first_seen||j.scraped_at||'').slice(0,10); if(d in days30) days30[d]++; });
-  destroyChart('chart-daily-30');
-  charts['chart-daily-30'] = new Chart(document.getElementById('chart-daily-30'), {
-    type:'bar', data:{ labels:Object.keys(days30).map(d=>d.slice(5)), datasets:[{data:Object.values(days30),backgroundColor:'#3b82f6',borderRadius:3}]},
-    options:{responsive:true,plugins:{legend:{display:false}},scales:{x:{ticks:{color:'#94a3b8',font:{size:9}},grid:{display:false}},y:{ticks:{color:'#94a3b8'},grid:{color:'#1e293b'}}}}
-  });
-  // Tags
-  const tagC = {};
-  allJobs.forEach(j=>(j.tags||[]).forEach(t=>{tagC[t]=(tagC[t]||0)+1;}));
-  const topT = Object.entries(tagC).sort((a,b)=>b[1]-a[1]).slice(0,15);
-  destroyChart('chart-tags');
-  charts['chart-tags'] = new Chart(document.getElementById('chart-tags'), {
-    type:'bar', data:{ labels:topT.map(t=>t[0]), datasets:[{data:topT.map(t=>t[1]),backgroundColor:'#8b5cf6',borderRadius:3}]},
-    options:{indexAxis:'y',responsive:true,plugins:{legend:{display:false}},scales:{x:{ticks:{color:'#94a3b8'},grid:{color:'#1e293b'}},y:{ticks:{color:'#94a3b8',font:{size:10}},grid:{display:false}}}}
-  });
-  // Source donut
-  const sCounts = {};
-  allJobs.forEach(j=>{sCounts[j.source]=(sCounts[j.source]||0)+1;});
-  const sKeys = Object.keys(sCounts).sort((a,b)=>sCounts[b]-sCounts[a]);
-  destroyChart('chart-source');
-  charts['chart-source'] = new Chart(document.getElementById('chart-source'), {
-    type:'doughnut', data:{ labels:sKeys.map(s=>(SRC[s]||{}).label||s), datasets:[{data:sKeys.map(s=>sCounts[s]),backgroundColor:sKeys.map(s=>(SRC[s]||{}).hex||'#475569'),borderWidth:0}]},
-    options:{responsive:true,plugins:{legend:{position:'right',labels:{color:'#94a3b8',font:{size:11},padding:8,usePointStyle:true}}},cutout:'60%'}
-  });
-  // Remote vs on-site
-  const rem = allJobs.filter(j=>j.is_remote).length;
-  destroyChart('chart-remote');
-  charts['chart-remote'] = new Chart(document.getElementById('chart-remote'), {
-    type:'doughnut', data:{ labels:['Remote','On-site'], datasets:[{data:[rem,allJobs.length-rem],backgroundColor:['#06b6d4','#475569'],borderWidth:0}]},
-    options:{responsive:true,plugins:{legend:{position:'right',labels:{color:'#94a3b8',usePointStyle:true}}},cutout:'60%'}
-  });
-  // Heatmap
-  renderHeatmap();
-}
-function renderHeatmap() {
-  const container = document.getElementById('heatmap-container');
-  const dayData = {};
-  allJobs.forEach(j => { const d = (j.first_seen||j.scraped_at||'').slice(0,10); if(d) dayData[d]=(dayData[d]||0)+1; });
-  const end = new Date(), start = new Date(); start.setMonth(start.getMonth() - 6);
-  let html = '<div class="flex gap-0.5 flex-wrap">';
-  for (let d = new Date(start); d <= end; d.setDate(d.getDate()+1)) {
-    const key = d.toISOString().slice(0,10);
-    const count = dayData[key] || 0;
-    let color = 'bg-slate-800';
-    if (count >= 6) color = 'bg-blue-500';
-    else if (count >= 3) color = 'bg-blue-600/70';
-    else if (count >= 1) color = 'bg-blue-800/60';
-    html += `<div class="heatmap-cell ${color}" title="${key}: ${count} jobs"></div>`;
-  }
-  html += '</div><div class="flex items-center gap-2 mt-2 text-xs text-slate-500"><span>Less</span><div class="heatmap-cell bg-slate-800"></div><div class="heatmap-cell bg-blue-800/60"></div><div class="heatmap-cell bg-blue-600/70"></div><div class="heatmap-cell bg-blue-500"></div><span>More</span></div>';
-  container.innerHTML = html;
-}
-
-// === SAVED ===
-function toggleSave(id) { savedIds.has(id)?savedIds.delete(id):savedIds.add(id); localStorage.setItem('savedJobs',JSON.stringify([...savedIds])); updateSavedBadge(); rerender(); }
-function updateSavedBadge() { const b = document.getElementById('saved-count-badge'); b.textContent=savedIds.size; b.classList.toggle('hidden',savedIds.size===0); }
-function renderSaved() {
-  const saved = allJobs.filter(j => savedIds.has(j.id));
-  document.getElementById('saved-total').textContent = saved.length;
-  document.getElementById('saved-empty').classList.toggle('hidden', saved.length > 0);
-  document.getElementById('saved-container').innerHTML = saved.length ? `<div class="space-y-2">${saved.map((j,i) => jobRow(j,i+1)).join('')}</div>` : '';
-  lucide.createIcons();
-}
-function clearSaved() { if(!confirm('Clear all saved jobs?')) return; savedIds.clear(); localStorage.setItem('savedJobs','[]'); updateSavedBadge(); renderSaved(); }
-function exportCSV() {
-  const saved = allJobs.filter(j => savedIds.has(j.id));
-  if (!saved.length) return alert('No saved jobs to export.');
-  const headers = ['Title','Company','Location','Salary','Source','URL','Tags','Posted'];
-  const rows = saved.map(j => [j.title,j.company,j.location,j.salary,j.source,j.url,(j.tags||[]).join(';'),j.posted_date].map(v=>'"'+(v||'').replace(/"/g,'""')+'"'));
-  const csv = [headers.join(','), ...rows.map(r=>r.join(','))].join('\n');
-  const blob = new Blob([csv],{type:'text/csv'});
-  const a = document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='saved_jobs.csv'; a.click();
-}
-
-// === ABOUT ===
-function renderAbout() {
-  document.getElementById('sources-list').innerHTML = Object.entries(SRC).map(([k,v]) =>
-    `<div class="flex items-center gap-2 p-2 rounded-lg bg-slate-900/50"><span class="tag-pill ${v.bg} ${v.text}">${v.label}</span><span class="text-xs text-slate-400">${allJobs.filter(j=>j.source===k).length} jobs</span></div>`
-  ).join('');
-}
-
-// === DETAIL PANEL ===
-function openDetail(j) {
-  const saved = savedIds.has(j.id);
-  document.getElementById('detail-content').innerHTML = `
-    <div class="flex items-center justify-between mb-4"><button onclick="closeDetail()" class="p-1 hover:bg-slate-700 rounded"><i data-lucide="x" class="w-5 h-5"></i></button><button onclick="toggleSave('${j.id}');openDetail(${JSON.stringify(j).replace(/'/g,'&#39;')})" class="p-1 hover:text-red-400 ${saved?'text-red-400':'text-slate-400'}"><i data-lucide="heart" class="w-5 h-5" ${saved?'fill="currentColor"':''}></i></button></div>
-    <h2 class="text-xl font-bold mb-1">${esc(j.title)}</h2>
-    <p class="text-slate-400 mb-4">${esc(j.company)}</p>
-    <div class="space-y-3 mb-4">
-      <div class="flex items-center gap-2 text-sm"><i data-lucide="map-pin" class="w-4 h-4 text-slate-500"></i>${esc(j.location)} ${j.is_remote?'<span class="text-cyan-400 text-xs">(Remote)</span>':''}</div>
-      <div class="flex items-center gap-2 text-sm"><i data-lucide="banknote" class="w-4 h-4 text-slate-500"></i><span class="${j.salary&&j.salary!=='N/A'?'text-green-400':''}">${esc(j.salary||'N/A')}</span></div>
-      <div class="flex items-center gap-2 text-sm"><i data-lucide="briefcase" class="w-4 h-4 text-slate-500"></i>${esc(j.job_type||'N/A')}</div>
-      <div class="flex items-center gap-2 text-sm"><i data-lucide="calendar" class="w-4 h-4 text-slate-500"></i>${j.posted_date||'N/A'} · First seen ${timeAgo(j.first_seen)}</div>
-    </div>
-    <div class="flex flex-wrap gap-1.5 mb-4">${(j.tags||[]).map(t=>`<span class="tag-pill bg-slate-700 text-slate-300">${t}</span>`).join('')}</div>
-    ${j.description_snippet?`<div class="bg-slate-900 rounded-lg p-3 text-sm text-slate-300 mb-4 leading-relaxed">${esc(j.description_snippet)}</div>`:''}
-    <div class="flex gap-2">
-      <a href="${j.url}" target="_blank" rel="noopener" class="flex-1 py-2 bg-blue-600 hover:bg-blue-500 text-center rounded-lg text-sm font-medium transition flex items-center justify-center gap-1"><i data-lucide="external-link" class="w-4 h-4"></i>Apply</a>
-      <button onclick="navigator.clipboard.writeText('${j.url}');this.textContent='Copied!'" class="px-4 py-2 bg-slate-700 hover:bg-slate-600 rounded-lg text-sm transition">Copy Link</button>
-    </div>
-    <div class="mt-3 flex items-center gap-2">${srcBadge(j.source)}<span class="text-xs text-slate-500">Scraped ${timeAgo(j.scraped_at)}</span></div>`;
-  document.getElementById('detail-panel').classList.remove('hidden');
-  document.getElementById('detail-panel').classList.add('animate-slide-in');
-  document.getElementById('backdrop').classList.remove('hidden');
-  lucide.createIcons();
-}
-function closeDetail() { document.getElementById('detail-panel').classList.add('hidden'); document.getElementById('backdrop').classList.add('hidden'); }
-document.addEventListener('keydown', e => { if(e.key==='Escape') closeDetail(); });
-
-function rerender() { const tab = localStorage.getItem('lastTab')||'dashboard'; switchTab(tab); }
-function esc(s) { if(!s) return ''; const d=document.createElement('div'); d.textContent=s; return d.innerHTML; }
-
-// Boot
-init();
-</script>
+<script src="app.js"></script>
 </body>
 </html>
