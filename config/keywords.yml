@@ -29,6 +29,7 @@ search_keywords:
   - "generative AI"
   - "AI developer"
   - "NLP engineer"
+  - "supply chain"
 
 # Filter out jobs with these words in title (case-insensitive)
 title_exclude:
