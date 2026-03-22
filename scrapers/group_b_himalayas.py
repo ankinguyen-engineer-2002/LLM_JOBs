@@ -1,13 +1,14 @@
 """
 Himalayas scraper — public REST API at himalayas.app/jobs/api.
-Fetches ALL jobs, filters client-side by keywords.
-Increased fetch pages for broader coverage.
+The API has 90K+ total jobs, no server-side search.
+Strategy: fetch recent pages, broad keyword matching on title.
 """
 
 import requests
 from scrapers.base import BaseJobScraper
 from processor.normalizer import Job, generate_job_id, strip_html
 from datetime import datetime, timedelta
+import time
 
 
 class HimalayasScraper(BaseJobScraper):
@@ -19,25 +20,26 @@ class HimalayasScraper(BaseJobScraper):
         seen_urls = set()
         cutoff = datetime.now() - timedelta(days=30)
 
-        # Broad keyword terms for matching
+        # Build keyword terms for matching (whole words and short phrases)
         search_terms = set()
         for kw in keywords:
-            search_terms.update(kw.lower().split())
-        search_terms.update(["data", "engineer", "analytics", "ml", "ai",
-                             "machine", "learning", "etl", "dbt", "platform",
-                             "llm", "prompt", "nlp", "python", "sql"])
+            search_terms.add(kw.lower())
+            for word in kw.lower().split():
+                if len(word) >= 3:  # skip tiny words
+                    search_terms.add(word)
 
         offset = 0
         batch_size = 50
-        max_pages = 10  # Fetch up to 500 raw jobs
+        max_pages = 20  # Fetch up to 1000 raw jobs
+        matched = 0
 
-        for page in range(max_pages):
+        for page_num in range(max_pages):
             try:
                 resp = requests.get(
                     self.BASE_URL,
                     params={"limit": batch_size, "offset": offset},
                     timeout=(5, 15),
-                    headers={"User-Agent": "JobRadar/1.0"},
+                    headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"},
                 )
                 if resp.status_code != 200:
                     print(f"[himalayas] HTTP {resp.status_code} at offset {offset}")
@@ -54,11 +56,10 @@ class HimalayasScraper(BaseJobScraper):
             for raw in raw_jobs:
                 title = raw.get("title", "")
                 company = raw.get("companyName", "") or "N/A"
-                categories = [str(c).lower() for c in (raw.get("categories", []) or []) if c]
 
-                # Match against title + categories + company
-                searchable = f"{title} {' '.join(categories)} {company}".lower()
-                if not any(term in searchable for term in search_terms):
+                # Match against title (case-insensitive)
+                title_lower = title.lower()
+                if not any(term in title_lower for term in search_terms):
                     continue
 
                 slug = raw.get("slug", "")
@@ -67,8 +68,31 @@ class HimalayasScraper(BaseJobScraper):
                     continue
                 seen_urls.add(url)
 
+                # 30-day cutoff
+                pub_date = str(raw.get("pubDate", "") or "")[:10]
+                if pub_date:
+                    try:
+                        dt = datetime.strptime(pub_date, "%Y-%m-%d")
+                        if dt < cutoff:
+                            continue
+                    except ValueError:
+                        pass
+
                 salary = self._build_salary(raw)
-                location = raw.get("location", "") or "Remote"
+
+                # Location handling
+                loc_restrictions = raw.get("locationRestrictions", []) or []
+                if loc_restrictions:
+                    location = ", ".join(loc_restrictions[:3])
+                else:
+                    location = "Worldwide"
+
+                # Categories as tags
+                categories = raw.get("categories", []) or []
+                tags = [str(c).lower() for c in categories if c][:10]
+
+                # Employment type
+                emp_type = raw.get("employmentType", "N/A") or "N/A"
 
                 jobs.append(Job(
                     id=generate_job_id(self.source_name, url),
@@ -76,34 +100,40 @@ class HimalayasScraper(BaseJobScraper):
                     url=url,
                     title=title.strip(),
                     company=company,
-                    location=location if isinstance(location, str) else "Remote",
+                    location=location,
                     is_remote=True,
                     salary=salary,
-                    tags=categories[:10],
+                    job_type=emp_type,
+                    tags=tags,
                     description_snippet=strip_html(raw.get("description", ""))[:300],
-                    posted_date=str(raw.get("pubDate", "") or "")[:10],
+                    posted_date=pub_date,
                     scraped_at=datetime.now().isoformat(),
                     first_seen=datetime.now().isoformat(),
                 ))
+                matched += 1
 
-                if len(jobs) >= max_results:
-                    print(f"[himalayas] Total: {len(jobs)} jobs (hit max)")
+                if matched >= max_results:
+                    print(f"[himalayas] Total: {matched} jobs (hit max at page {page_num+1})")
                     return jobs
 
             offset += batch_size
             if len(raw_jobs) < batch_size:
                 break
 
-        print(f"[himalayas] Total: {len(jobs)} jobs")
+            time.sleep(0.3)  # Rate limit
+
+        print(f"[himalayas] Total: {len(jobs)} jobs (scanned {offset} raw)")
         return jobs
 
     def _build_salary(self, raw: dict) -> str:
-        min_s = raw.get("salaryMin")
-        max_s = raw.get("salaryMax")
-        cur = raw.get("salaryCurrency", "USD") or "USD"
+        min_s = raw.get("minSalary") or raw.get("salaryMin")
+        max_s = raw.get("maxSalary") or raw.get("salaryMax")
+        cur = raw.get("currency") or raw.get("salaryCurrency") or "USD"
         try:
             if min_s and max_s:
                 return f"{cur} {int(min_s):,} – {int(max_s):,}/year"
+            elif min_s:
+                return f"{cur} {int(min_s):,}+/year"
         except (ValueError, TypeError):
             pass
         return "N/A"

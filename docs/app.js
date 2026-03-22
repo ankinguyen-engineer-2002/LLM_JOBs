@@ -257,7 +257,7 @@ function buildFilterUI() {
   }).join('');
 
   // Locations (top 8)
-  const locs = {}; allJobs.forEach(j => { const l=(j.location||'N/A').split(',')[0].trim(); locs[l]=(locs[l]||0)+1; });
+  const locs = {}; allJobs.forEach(j => { const l=(j.location||'N/A').split(',')[0].trim(); if(l.toLowerCase()!=='remote') locs[l]=(locs[l]||0)+1; });
   const topLocs = Object.entries(locs).sort((a,b)=>b[1]-a[1]).slice(0,8);
   document.getElementById('f-locations').innerHTML = topLocs.map(([l,c]) => {
     const act = activeFilters.locations.has(l)?'active':'';

@@ -1,11 +1,11 @@
 """
-Wellfound (AngelList) scraper — uses Playwright to bypass anti-bot 403.
-Navigates to role-specific pages and extracts job listings.
+Wellfound (AngelList) scraper — uses Playwright with stealth settings.
+Navigates to role-specific pages, extracts job listings via DOM parsing.
 """
 
 import time
 from scrapers.base import BaseJobScraper
-from processor.normalizer import Job, generate_job_id
+from processor.normalizer import Job, generate_job_id, strip_html
 from datetime import datetime
 
 try:
@@ -18,17 +18,11 @@ except ImportError:
 class WellfoundScraper(BaseJobScraper):
     source_name = "wellfound"
 
-    ROLE_MAP = {
-        "data engineer": "data-engineer",
-        "data engineering": "data-engineer",
-        "analytics engineer": "data-analyst",
-        "ML engineer": "machine-learning-engineer",
-        "machine learning engineer": "machine-learning-engineer",
-        "AI engineer": "artificial-intelligence-engineer",
-        "data scientist": "data-scientist",
-        "prompt engineer": "machine-learning-engineer",
-        "LLM engineer": "machine-learning-engineer",
-    }
+    ROLE_SLUGS = [
+        "data-engineer",
+        "machine-learning-engineer",
+        "data-scientist",
+    ]
 
     def scrape(self, keywords: list[str], max_results: int = 50) -> list[Job]:
         if not PLAYWRIGHT_OK:
@@ -38,99 +32,120 @@ class WellfoundScraper(BaseJobScraper):
         jobs = []
         seen_urls = set()
 
-        slugs = set()
-        for kw in keywords:
-            slug = self.ROLE_MAP.get(kw.lower())
-            if slug:
-                slugs.add(slug)
-        if not slugs:
-            slugs = {"data-engineer", "machine-learning-engineer"}
-
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
             context = browser.new_context(
                 user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
                            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+                viewport={"width": 1280, "height": 800},
+                java_script_enabled=True,
             )
+
+            # Block unnecessary resources for speed
             page = context.new_page()
 
-            for slug in slugs:
+            for slug in self.ROLE_SLUGS:
                 url = f"https://wellfound.com/role/r/{slug}"
 
                 try:
-                    page.goto(url, timeout=20000)
-                    page.wait_for_selector("a[href*='/jobs/'], [class*='job'], [class*='startup']", timeout=10000)
-                    time.sleep(2)
+                    page.goto(url, timeout=30000, wait_until="domcontentloaded")
+                    # Wait for any content to load
+                    time.sleep(5)
+
+                    # Check if we hit Cloudflare challenge
+                    content = page.content()
+                    if "challenge" in content.lower() and "cloudflare" in content.lower():
+                        print(f"[wellfound] Cloudflare blocked for {slug}")
+                        continue
 
                     # Scroll to load lazy content
                     for _ in range(3):
                         page.evaluate("window.scrollBy(0, 1000)")
-                        time.sleep(0.5)
-                except Exception as e:
-                    print(f"[wellfound] Page load failed for {slug}: {e}")
-                    continue
+                        time.sleep(1)
 
-                # Find job links
-                links = page.query_selector_all("a[href*='/jobs/']")
+                    # Try multiple selector strategies
+                    selectors = [
+                        "a[href*='/jobs/']",
+                        "a[href*='/l/']",
+                        "[data-test='JobListing'] a",
+                        ".styles_component__ICDIx a",
+                        "main a[href*='wellfound.com']",
+                    ]
 
-                for link in links:
-                    try:
-                        href = link.get_attribute("href") or ""
-                        if not href or "/jobs/" not in href:
+                    links = []
+                    for sel in selectors:
+                        try:
+                            found = page.query_selector_all(sel)
+                            if found:
+                                links = found
+                                break
+                        except Exception:
                             continue
 
-                        job_url = href if href.startswith("http") else f"https://wellfound.com{href}"
+                    if not links:
+                        print(f"[wellfound] No job links found for {slug}")
+                        continue
 
-                        # Filter non-job URLs
-                        parts = href.rstrip("/").split("/")
-                        if len(parts) < 3:
-                            continue
+                    batch = 0
+                    for link in links:
+                        try:
+                            href = link.get_attribute("href") or ""
+                            if not href:
+                                continue
 
-                        if job_url in seen_urls:
-                            continue
-                        seen_urls.add(job_url)
+                            # Filter navigation/non-job links
+                            if any(x in href for x in ["/login", "/signup", "/role/", "javascript:", "#"]):
+                                continue
 
-                        title = link.inner_text().strip()
-                        if not title or len(title) < 5:
-                            continue
+                            job_url = href if href.startswith("http") else f"https://wellfound.com{href}"
 
-                        # Try to get company + salary from parent
-                        company = "N/A"
-                        salary = "N/A"
-                        parent = link.evaluate_handle("el => el.closest('div')")
-                        if parent:
+                            if job_url in seen_urls:
+                                continue
+                            seen_urls.add(job_url)
+
+                            title = link.inner_text().strip()
+                            if not title or len(title) < 5 or len(title) > 200:
+                                continue
+
+                            # Extract company from parent
+                            company = "N/A"
                             try:
-                                parent_text = parent.as_element().inner_text()
-                                lines = [l.strip() for l in parent_text.split("\n") if l.strip()]
-                                # Usually: [Title, Company, Salary range, ...]
-                                for line in lines:
-                                    if "$" in line or "k" in line.lower():
-                                        salary = line
-                                    elif line != title and len(line) > 2 and not line.startswith("http"):
-                                        company = line
-                                        break
+                                parent = link.evaluate_handle("el => el.closest('[class*=\"styles\"]') || el.parentElement")
+                                if parent:
+                                    text = parent.as_element().inner_text()
+                                    lines = [l.strip() for l in text.split("\n") if l.strip() and l.strip() != title]
+                                    if lines:
+                                        company = lines[0][:100]
                             except Exception:
                                 pass
 
-                        jobs.append(Job(
-                            id=generate_job_id(self.source_name, job_url),
-                            source=self.source_name,
-                            url=job_url,
-                            title=title,
-                            company=company,
-                            location="Remote",
-                            is_remote=True,
-                            salary=salary,
-                            tags=[slug.replace("-", " ")],
-                            scraped_at=datetime.now().isoformat(),
-                            first_seen=datetime.now().isoformat(),
-                        ))
-                    except Exception:
-                        continue
+                            jobs.append(Job(
+                                id=generate_job_id(self.source_name, job_url),
+                                source=self.source_name,
+                                url=job_url,
+                                title=title,
+                                company=company,
+                                location="N/A",
+                                is_remote=True,
+                                salary="N/A",
+                                tags=[slug.replace("-", " ")],
+                                scraped_at=datetime.now().isoformat(),
+                                first_seen=datetime.now().isoformat(),
+                            ))
+                            batch += 1
+                        except Exception:
+                            continue
+
+                    print(f"[wellfound] {slug}: {batch} jobs")
+
+                except Exception as e:
+                    print(f"[wellfound] Error for {slug}: {e}")
+                    continue
 
                 if len(jobs) >= max_results:
                     break
 
             browser.close()
 
+        print(f"[wellfound] Total: {len(jobs)} jobs")
         return jobs[:max_results]
