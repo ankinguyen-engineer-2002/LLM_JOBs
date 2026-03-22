@@ -16,6 +16,7 @@ from scrapers.group_c_itviec import ITviecScraper
 from scrapers.group_c_topcv import TopCVScraper
 from scrapers.group_c_turing import TuringScraper
 from scrapers.group_d_weworkremotely import WeWorkRemotelyScraper
+from scrapers.group_d_workable import WorkableScraper
 from processor.filter import apply_filters
 from processor.dedup import load_existing_jobs, find_new_jobs, merge_and_save
 from enricher.gemini import enrich_jobs_batch
@@ -30,7 +31,7 @@ def main():
     config = load_config()
     keywords = config.get("search_keywords", [])
 
-    print(f"[main] Starting scrape for {len(keywords)} keywords across 11 sources")
+    print(f"[main] Starting scrape for {len(keywords)} keywords across 12 sources")
     print(f"[main] Keywords: {', '.join(keywords[:5])}{'...' if len(keywords) > 5 else ''}")
 
     all_scraped = []
@@ -51,6 +52,7 @@ def main():
         TuringScraper(),  # Playwright - may fail on CI
         # Group D: New sources
         WeWorkRemotelyScraper(),
+        WorkableScraper(),
     ]
 
     for scraper in scrapers:

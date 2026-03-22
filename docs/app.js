@@ -23,6 +23,7 @@ const SRC = {
   wellfound:        { label:'Wellfound',     color:'#9333ea', bg:'rgba(147,51,234,0.12)' },
   turing:           { label:'Turing',        color:'#059669', bg:'rgba(5,150,105,0.12)' },
   weworkremotely:   { label:'WWRemotely',    color:'#38bdf8', bg:'rgba(56,189,248,0.12)' },
+  workable:         { label:'Workable',      color:'#00756a', bg:'rgba(0,117,106,0.12)' },
 };
 
 // === CUSTOM CURSOR ===
