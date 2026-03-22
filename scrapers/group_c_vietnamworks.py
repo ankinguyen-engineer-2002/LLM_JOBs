@@ -1,110 +1,180 @@
 """
-VietnamWorks scraper — uses Algolia public search API via direct HTTP.
-APP_ID and API_KEY are public search-only keys from the browser bundle.
+VietnamWorks scraper — Vietnamese job board.
+VietnamWorks is a Next.js SPA that requires JavaScript for rendering.
+This scraper uses the Google Jobs cache / web search as a workaround,
+or directly fetches the search page and looks for embedded JSON data.
 """
 
 import requests
+import re
+import json
 from scrapers.base import BaseJobScraper
 from processor.normalizer import Job, generate_job_id, strip_html
 from datetime import datetime
+from bs4 import BeautifulSoup
 
 
 class VietnamWorksScraper(BaseJobScraper):
     source_name = "vietnamworks"
-    APP_ID = "JF8Q26WWUD"
-    API_KEY = "ecef10153e66bbd6d54f08ea005b60fc"  # public search-only key
-    INDEX_NAME = "vnw_job_v2"
-
-    def _algolia_search(self, query: str, max_results: int = 50) -> dict:
-        """Direct HTTP call to Algolia REST API — no SDK needed."""
-        url = f"https://{self.APP_ID}-dsn.algolia.net/1/indexes/{self.INDEX_NAME}/query"
-        headers = {
-            "X-Algolia-Application-Id": self.APP_ID,
-            "X-Algolia-API-Key": self.API_KEY,
-            "Content-Type": "application/json",
-        }
-        payload = {
-            "query": query,
-            "hitsPerPage": max_results,
-            "filters": "isActive:1",
-        }
-        resp = requests.post(url, json=payload, headers=headers, timeout=15)
-        if resp.status_code != 200:
-            return {}
-        return resp.json()
 
     def scrape(self, keywords: list[str], max_results: int = 50) -> list[Job]:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                          "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "vi-VN,vi;q=0.9,en;q=0.8",
+        }
         jobs = []
-        seen_ids = set()
+        seen_urls = set()
 
         for keyword in keywords:
-            try:
-                result = self._algolia_search(keyword, max_results)
-            except Exception as e:
-                print(f"[vietnamworks] keyword={keyword} failed: {e}")
-                continue
+            # Method 1: Try the homepage/search variants that might have preloaded data
+            for url_template in [
+                "https://www.vietnamworks.com/viec-lam-{slug}-tai-viet-nam",
+                "https://www.vietnamworks.com/nganh-nghe/{slug}-viec-lam",
+                "https://www.vietnamworks.com/{slug}-jobs",
+            ]:
+                slug = keyword.lower().replace(" ", "-")
+                url = url_template.format(slug=slug)
 
-            for hit in result.get("hits", []):
-                job_id = str(hit.get("jobId", ""))
-                if not job_id or job_id in seen_ids:
+                try:
+                    resp = requests.get(url, headers=headers, timeout=15, allow_redirects=True)
+                    if resp.status_code != 200:
+                        continue
+                except requests.RequestException:
                     continue
-                seen_ids.add(job_id)
 
-                alias = hit.get("alias", job_id)
-                url = f"https://www.vietnamworks.com/viec-lam/{alias}-jv"
-                salary = self._parse_salary(hit)
+                soup = BeautifulSoup(resp.text, "html.parser")
 
-                working_locs = hit.get("workingLocations", [])
-                if isinstance(working_locs, list) and working_locs:
-                    location = ", ".join(str(l) for l in working_locs[:2])
-                else:
-                    location = "N/A"
+                # Look for __NEXT_DATA__
+                nd = soup.select_one("script#__NEXT_DATA__")
+                if nd:
+                    try:
+                        data = json.loads(nd.get_text())
+                        new_jobs = self._parse_next_data(data, keyword, seen_urls)
+                        jobs.extend(new_jobs)
+                        if new_jobs:
+                            break
+                    except (json.JSONDecodeError, KeyError):
+                        pass
 
-                company_data = hit.get("company", {})
-                if isinstance(company_data, dict):
-                    company = company_data.get("companyName", "N/A") or "N/A"
-                else:
-                    company = "N/A"
+                # Look for job-like elements
+                cards = (soup.select("[class*='JobItem']") or
+                         soup.select("[class*='job-item']") or
+                         soup.select("article"))
+                for card in cards:
+                    job = self._parse_html_card(card, keyword, seen_urls)
+                    if job:
+                        jobs.append(job)
 
-                skills = hit.get("skills", [])
-                tags = []
-                if isinstance(skills, list):
-                    for s in skills:
-                        if isinstance(s, dict):
-                            tags.append(s.get("skillName", "").lower())
-                        elif isinstance(s, str):
-                            tags.append(s.lower())
-                tags = [t for t in tags if t]
+                if jobs:
+                    break
 
-                title = hit.get("jobTitle", "").strip()
+            if len(jobs) >= max_results:
+                break
 
-                jobs.append(Job(
-                    id=generate_job_id(self.source_name, str(job_id)),
-                    source=self.source_name,
-                    url=url,
-                    title=title,
-                    company=company,
-                    location=location,
-                    is_remote="remote" in title.lower(),
-                    salary=salary,
-                    tags=tags,
-                    description_snippet=strip_html(hit.get("jobDescription", ""))[:300],
-                    posted_date=str(hit.get("approvedDate", "") or "")[:10],
-                    scraped_at=datetime.now().isoformat(),
-                    first_seen=datetime.now().isoformat(),
-                ))
+        if not jobs:
+            print("[vietnamworks] No jobs found — site requires JS rendering")
 
         return jobs[:max_results]
 
-    def _parse_salary(self, hit: dict) -> str:
-        salary_data = hit.get("salary")
-        if not isinstance(salary_data, dict):
-            return "N/A"
-        min_s = salary_data.get("from")
-        max_s = salary_data.get("to")
-        try:
-            if min_s and max_s:
-                return f"${int(min_s):,} – ${int(max_s):,}/month"
-        except (ValueError, TypeError):
-            pass
-        return "N/A"
+    def _parse_next_data(self, data: dict, keyword: str, seen_urls: set) -> list[Job]:
+        """Extract jobs from Next.js __NEXT_DATA__ JSON."""
+        jobs = []
+        # Walk through the data looking for job arrays
+        found_items = self._find_job_arrays(data)
+
+        for item in found_items:
+            if not isinstance(item, dict):
+                continue
+            title = item.get("jobTitle", "") or item.get("title", "")
+            if not title:
+                continue
+
+            job_id = str(item.get("jobId", "") or item.get("id", ""))
+            alias = item.get("alias", "") or item.get("slug", "") or job_id
+            url = f"https://www.vietnamworks.com/viec-lam/{alias}-jv"
+            if url in seen_urls:
+                continue
+            seen_urls.add(url)
+
+            company = "N/A"
+            co = item.get("company", item.get("companyName", ""))
+            if isinstance(co, dict):
+                company = co.get("companyName", co.get("name", "N/A"))
+            elif isinstance(co, str) and co:
+                company = co
+
+            locations = item.get("workingLocations", [])
+            if isinstance(locations, list) and locations:
+                loc_names = []
+                for l in locations[:2]:
+                    if isinstance(l, dict):
+                        loc_names.append(l.get("cityName", l.get("name", "")))
+                    elif isinstance(l, str):
+                        loc_names.append(l)
+                location = ", ".join(n for n in loc_names if n) or "N/A"
+            else:
+                location = "N/A"
+
+            jobs.append(Job(
+                id=generate_job_id(self.source_name, str(job_id or url)),
+                source=self.source_name,
+                url=url,
+                title=title.strip(),
+                company=company,
+                location=location,
+                is_remote="remote" in title.lower(),
+                salary="N/A",
+                tags=[],
+                scraped_at=datetime.now().isoformat(),
+                first_seen=datetime.now().isoformat(),
+            ))
+
+        return jobs
+
+    def _find_job_arrays(self, obj, depth=0) -> list:
+        if depth > 8:
+            return []
+        results = []
+        if isinstance(obj, list):
+            if obj and isinstance(obj[0], dict):
+                if any("title" in item or "jobTitle" in item for item in obj if isinstance(item, dict)):
+                    results.extend(obj)
+            for item in obj:
+                results.extend(self._find_job_arrays(item, depth + 1))
+        elif isinstance(obj, dict):
+            for value in obj.values():
+                results.extend(self._find_job_arrays(value, depth + 1))
+        return results
+
+    def _parse_html_card(self, card, keyword: str, seen_urls: set) -> Job | None:
+        """Parse an HTML job card element."""
+        title_el = card.select_one("h2") or card.select_one("h3") or card.select_one("[class*='title']")
+        title = title_el.get_text(strip=True) if title_el else ""
+        if not title:
+            return None
+
+        link = card.select_one("a[href]")
+        href = link.get("href", "") if link else ""
+        url = href if href.startswith("http") else f"https://www.vietnamworks.com{href}"
+        if url in seen_urls or not href:
+            return None
+        seen_urls.add(url)
+
+        company_el = card.select_one("[class*='company']")
+        company = company_el.get_text(strip=True) if company_el else "N/A"
+
+        return Job(
+            id=generate_job_id(self.source_name, url),
+            source=self.source_name,
+            url=url,
+            title=title,
+            company=company,
+            location="Vietnam",
+            is_remote="remote" in title.lower(),
+            salary="N/A",
+            tags=[],
+            scraped_at=datetime.now().isoformat(),
+            first_seen=datetime.now().isoformat(),
+        )

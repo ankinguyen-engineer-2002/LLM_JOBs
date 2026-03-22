@@ -1,6 +1,7 @@
 """
-Himalayas scraper — public search API with pagination.
-Endpoint: GET https://himalayas.app/jobs/api
+Himalayas scraper — public REST API at himalayas.app/jobs/api.
+NOTE: This API does NOT support keyword search — it returns all jobs sorted
+by recency. We fetch multiple pages and filter client-side.
 """
 
 import requests
@@ -17,58 +18,77 @@ class HimalayasScraper(BaseJobScraper):
         jobs = []
         seen_urls = set()
 
-        for keyword in keywords:
-            page = 1
-            while len(jobs) < max_results:
-                params = {"limit": 20, "offset": (page - 1) * 20}
-                response = requests.get(self.BASE_URL, params=params, timeout=30)
-                if response.status_code != 200:
+        # Broader keyword terms for client-side filtering
+        search_terms = set()
+        for kw in keywords:
+            search_terms.update(kw.lower().split())
+        # Add common related terms
+        search_terms.update(["data", "engineer", "analytics", "ml",
+                             "machine", "learning", "etl", "dbt", "platform"])
+
+        offset = 0
+        batch_size = 50
+        max_pages = 5  # Fetch up to 250 jobs to find matches
+
+        for _ in range(max_pages):
+            try:
+                resp = requests.get(
+                    self.BASE_URL,
+                    params={"limit": batch_size, "offset": offset},
+                    timeout=(5, 15),
+                    headers={"User-Agent": "JobRadar/1.0"},
+                )
+                if resp.status_code != 200:
                     break
-                data = response.json()
-                raw_jobs = data.get("jobs", [])
-                if not raw_jobs:
-                    break
+            except requests.RequestException as e:
+                print(f"[himalayas] Request failed at offset {offset}: {e}")
+                break
 
-                for raw in raw_jobs:
-                    title = raw.get("title", "")
-                    company_name = raw.get("companyName", "N/A") or "N/A"
-                    tags = [c.lower() for c in raw.get("categories", []) if c]
+            data = resp.json()
+            raw_jobs = data.get("jobs", [])
+            if not raw_jobs:
+                break
 
-                    # Keyword match
-                    searchable = f"{title} {company_name} {' '.join(tags)}".lower()
-                    if not any(kw.lower() in searchable for kw in keywords):
-                        continue
+            for raw in raw_jobs:
+                title = raw.get("title", "")
+                company = raw.get("companyName", "") or "N/A"
+                categories = [str(c).lower() for c in (raw.get("categories", []) or []) if c]
 
-                    slug = raw.get("slug", "")
-                    url = f"https://himalayas.app/jobs/{slug}" if slug else ""
-                    if not url or url in seen_urls:
-                        continue
-                    seen_urls.add(url)
+                # Match against title + categories
+                searchable = f"{title} {' '.join(categories)}".lower()
+                if not any(term in searchable for term in search_terms):
+                    continue
 
-                    salary = self._build_salary(raw)
+                slug = raw.get("slug", "")
+                url = f"https://himalayas.app/jobs/{slug}" if slug else ""
+                if not url or url in seen_urls:
+                    continue
+                seen_urls.add(url)
 
-                    jobs.append(Job(
-                        id=generate_job_id(self.source_name, url),
-                        source=self.source_name,
-                        url=url,
-                        title=title.strip(),
-                        company=company_name,
-                        location=raw.get("location", "Remote") or "Remote",
-                        is_remote=True,
-                        salary=salary,
-                        job_type=self._map_job_type(raw.get("jobType", "")),
-                        tags=tags,
-                        description_snippet=strip_html(raw.get("description", ""))[:300],
-                        posted_date=str(raw.get("pubDate", "") or "")[:10],
-                        scraped_at=datetime.now().isoformat(),
-                        first_seen=datetime.now().isoformat(),
-                    ))
+                salary = self._build_salary(raw)
+                location = raw.get("location", "") or "Remote"
 
-                page += 1
-                if len(raw_jobs) < 20:
-                    break
+                jobs.append(Job(
+                    id=generate_job_id(self.source_name, url),
+                    source=self.source_name,
+                    url=url,
+                    title=title.strip(),
+                    company=company,
+                    location=location if isinstance(location, str) else "Remote",
+                    is_remote=True,
+                    salary=salary,
+                    tags=categories[:10],
+                    description_snippet=strip_html(raw.get("description", ""))[:300],
+                    posted_date=str(raw.get("pubDate", "") or "")[:10],
+                    scraped_at=datetime.now().isoformat(),
+                    first_seen=datetime.now().isoformat(),
+                ))
 
-            if len(jobs) >= max_results:
+                if len(jobs) >= max_results:
+                    return jobs
+
+            offset += batch_size
+            if len(raw_jobs) < batch_size:
                 break
 
         return jobs[:max_results]
@@ -83,14 +103,3 @@ class HimalayasScraper(BaseJobScraper):
         except (ValueError, TypeError):
             pass
         return "N/A"
-
-    def _map_job_type(self, raw: str) -> str:
-        if not raw:
-            return "N/A"
-        mapping = {
-            "Full Time": "full_time", "full_time": "full_time",
-            "Part Time": "part_time", "part_time": "part_time",
-            "Contract": "contract", "contract": "contract",
-            "Internship": "internship", "internship": "internship",
-        }
-        return mapping.get(raw, "N/A")

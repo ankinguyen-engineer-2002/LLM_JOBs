@@ -1,108 +1,122 @@
 """
-ITviec scraper — server-rendered HTML, requires session cookie.
-Set ITVIEC_SESSION environment variable with cookie value.
+ITviec scraper — Vietnamese IT job board, publicly accessible HTML.
+URL format: https://itviec.com/it-jobs/{keyword}
+No login required for listings. Salary hidden behind sign-in.
 """
 
 import requests
-import os
 import time
 from bs4 import BeautifulSoup
 from scrapers.base import BaseJobScraper
-from processor.normalizer import Job, generate_job_id, strip_html
+from processor.normalizer import Job, generate_job_id
 from datetime import datetime
 
 
 class ITviecScraper(BaseJobScraper):
     source_name = "itviec"
-    BASE_URL = "https://itviec.com/it-jobs"
-
-    def __init__(self):
-        self.session_cookie = os.environ.get("ITVIEC_SESSION", "")
 
     def scrape(self, keywords: list[str], max_results: int = 50) -> list[Job]:
-        if not self.session_cookie:
-            print("[itviec] ITVIEC_SESSION not set — skipping")
-            return []
-
         headers = {
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
                           "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Accept-Language": "en-US,en;q=0.9",
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9,vi;q=0.8",
         }
-        cookies = {"_ITViec_session": self.session_cookie}
         jobs = []
         seen_urls = set()
 
         for keyword in keywords:
-            for page in range(1, 4):  # max 3 pages per keyword
-                time.sleep(1.5)
-                url = f"{self.BASE_URL}?q={keyword}&page={page}"
-                try:
-                    resp = requests.get(url, headers=headers, cookies=cookies, timeout=30)
-                    if resp.status_code != 200:
+            slug = keyword.lower().replace(" ", "-")
+            url = f"https://itviec.com/it-jobs/{slug}"
+
+            try:
+                time.sleep(1)
+                resp = requests.get(url, headers=headers, timeout=15)
+                if resp.status_code != 200:
+                    print(f"[itviec] HTTP {resp.status_code} for {slug}")
+                    continue
+            except requests.RequestException as e:
+                print(f"[itviec] Request failed for {slug}: {e}")
+                continue
+
+            soup = BeautifulSoup(resp.text, "html.parser")
+            cards = soup.select(".job-card")
+
+            for card in cards:
+                # Title — directly in h3 text, URL in h3's data-url attribute
+                h3 = card.select_one("h3")
+                if not h3:
+                    continue
+                title = h3.get_text(strip=True)
+                if not title:
+                    continue
+
+                # URL from data-url attribute or from card's data attribute
+                job_url = h3.get("data-url", "")
+                if not job_url:
+                    # Fallback: construct from slug
+                    card_slug = card.get("data-search--job-selection-job-slug-value", "")
+                    if card_slug:
+                        job_url = f"https://itviec.com/it-jobs/{card_slug}"
+                if not job_url:
+                    continue
+
+                # Clean URL (remove tracking params)
+                if "?" in job_url:
+                    job_url = job_url.split("?")[0]
+
+                if job_url in seen_urls:
+                    continue
+                seen_urls.add(job_url)
+
+                # Company — in a[href*=/companies/] with text
+                company = "N/A"
+                company_links = card.select("a[href*='/companies/']")
+                for cl in company_links:
+                    text = cl.get_text(strip=True)
+                    if text:
+                        company = text
                         break
-                except requests.RequestException:
-                    break
 
-                soup = BeautifulSoup(resp.text, "html.parser")
-                # ITviec uses various card selectors
-                cards = (soup.select("[data-job-id]") or
-                         soup.select(".job_content") or
-                         soup.select(".job-item"))
-                if not cards:
-                    break
+                # Posted time
+                posted = ""
+                time_span = card.select_one("span.small-text")
+                if time_span:
+                    posted = time_span.get_text(strip=True).replace("Posted", "").strip()
 
-                for card in cards:
-                    # Extract URL
-                    link_el = card.select_one("a[href*='/it-jobs/']") or card.select_one("h3 a") or card.select_one("a[href]")
-                    if not link_el:
-                        continue
-                    job_href = link_el.get("href", "")
-                    if not job_href:
-                        continue
-                    job_url = job_href if job_href.startswith("http") else f"https://itviec.com{job_href}"
+                # Tags/skills
+                tag_els = card.select(".itag-light") or card.select("[class*='itag']")
+                tags = [t.get_text(strip=True).lower() for t in tag_els if t.get_text(strip=True)]
 
-                    if job_url in seen_urls:
-                        continue
-                    seen_urls.add(job_url)
+                # Location — look for address/location indicators
+                location = "Vietnam"
+                all_spans = card.select("span")
+                for span in all_spans:
+                    text = span.get_text(strip=True)
+                    if any(loc in text for loc in ["Ha Noi", "Ho Chi Minh", "Da Nang",
+                                                     "Hà Nội", "Hồ Chí Minh", "Đà Nẵng",
+                                                     "Remote", "Hà Nội"]):
+                        location = text
+                        break
 
-                    # Extract fields
-                    title_el = (card.select_one("h3.title") or card.select_one(".job-name") or
-                                card.select_one("h3 a") or card.select_one("h2 a"))
-                    company_el = (card.select_one(".employer-name") or card.select_one(".company-name") or
-                                  card.select_one("[class*='company']"))
-                    salary_el = card.select_one(".salary") or card.select_one("[class*='salary']")
-                    location_el = card.select_one(".location") or card.select_one("[class*='location']")
-                    tag_els = card.select(".tag-item") or card.select(".skills span") or card.select("[class*='tag']")
+                is_remote = "remote" in f"{title} {location}".lower()
 
-                    title = title_el.get_text(strip=True) if title_el else ""
-                    if not title:
-                        continue
-
-                    company = company_el.get_text(strip=True) if company_el else "N/A"
-                    salary = salary_el.get_text(strip=True) if salary_el else "N/A"
-                    location = location_el.get_text(strip=True) if location_el else "N/A"
-                    tags = [t.get_text(strip=True).lower() for t in tag_els if t.get_text(strip=True)]
-
-                    jobs.append(Job(
-                        id=generate_job_id(self.source_name, job_url),
-                        source=self.source_name,
-                        url=job_url,
-                        title=title,
-                        company=company,
-                        location=location,
-                        is_remote="remote" in location.lower(),
-                        salary=salary,
-                        tags=tags,
-                        posted_date="",
-                        scraped_at=datetime.now().isoformat(),
-                        first_seen=datetime.now().isoformat(),
-                    ))
+                jobs.append(Job(
+                    id=generate_job_id(self.source_name, job_url),
+                    source=self.source_name,
+                    url=job_url,
+                    title=title,
+                    company=company,
+                    location=location,
+                    is_remote=is_remote,
+                    salary="Sign in to view",
+                    tags=tags[:10],
+                    posted_date=posted,
+                    scraped_at=datetime.now().isoformat(),
+                    first_seen=datetime.now().isoformat(),
+                ))
 
                 if len(jobs) >= max_results:
-                    break
-            if len(jobs) >= max_results:
-                break
+                    return jobs
 
         return jobs[:max_results]

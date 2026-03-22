@@ -1,6 +1,6 @@
 """
 JobSpy scraper — covers LinkedIn, Indeed, Google Jobs concurrently.
-Uses python-jobspy library.
+Uses python-jobspy library. Only scrapes first 3 keywords to stay under timeout.
 """
 
 import time
@@ -32,57 +32,50 @@ TECH_KEYWORDS = [
 class JobSpyScraper(BaseJobScraper):
     source_name = "jobspy_multi"
 
+    # Limit keywords to avoid timeout (60s budget)
+    MAX_KEYWORDS = 3
+
     def scrape(self, keywords: list[str], max_results: int = 25) -> list[Job]:
         if not JOBSPY_AVAILABLE:
             print("[jobspy] python-jobspy not installed — skipping")
             return []
 
         all_jobs = []
+        seen_urls = set()
 
-        for keyword in keywords:
-            time.sleep(random.uniform(3, 7))
+        # Only use the first few keywords to stay within timeout
+        limited_kws = keywords[:self.MAX_KEYWORDS]
+
+        for keyword in limited_kws:
+            time.sleep(random.uniform(1, 3))
             try:
-                # Scrape Vietnam-based jobs
                 df = scrape_jobs(
-                    site_name=["linkedin", "indeed", "google"],
+                    site_name=["indeed"],  # LinkedIn is slow, use Indeed only
                     search_term=keyword,
                     location="Vietnam",
-                    results_wanted=max_results,
-                    hours_old=24,
+                    results_wanted=min(max_results, 15),
+                    hours_old=72,  # 3 days
                     description_format="markdown",
                     country_indeed="vietnam",
                 )
-                all_jobs.extend(self._df_to_jobs(df))
+                jobs = self._df_to_jobs(df, seen_urls)
+                all_jobs.extend(jobs)
             except Exception as e:
                 print(f"[jobspy] keyword={keyword} (Vietnam) failed: {e}")
 
-            time.sleep(random.uniform(2, 4))
-            try:
-                # Scrape remote international
-                df_remote = scrape_jobs(
-                    site_name=["linkedin", "indeed"],
-                    search_term=keyword,
-                    location="Remote",
-                    is_remote=True,
-                    results_wanted=max_results,
-                    hours_old=24,
-                    description_format="markdown",
-                )
-                all_jobs.extend(self._df_to_jobs(df_remote))
-            except Exception as e:
-                print(f"[jobspy] keyword={keyword} (Remote) failed: {e}")
-
         return all_jobs
 
-    def _df_to_jobs(self, df) -> list[Job]:
+    def _df_to_jobs(self, df, seen_urls: set) -> list[Job]:
         if df is None or df.empty:
             return []
 
         jobs = []
         for _, row in df.iterrows():
             url = str(row.get("job_url", "") or "")
-            if not url:
+            if not url or url in seen_urls:
                 continue
+            seen_urls.add(url)
+
             source = str(row.get("site", "indeed")).lower()
             if source not in ("linkedin", "indeed", "google"):
                 source = "indeed"
