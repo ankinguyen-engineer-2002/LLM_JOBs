@@ -6,7 +6,7 @@
 let allJobs = [], filteredJobs = [], currentPage = 1, currentView = 'table';
 const PAGE_SIZE = 25;
 let savedIds = new Set(JSON.parse(localStorage.getItem('savedJobs') || '[]'));
-let activeFilters = { sources: new Set(), tags: new Set(), levels: new Set(), categories: new Set(), workmode: new Set(), contract: new Set(), locations: new Set() };
+let activeFilters = { domain: new Set(), sources: new Set(), tags: new Set(), levels: new Set(), categories: new Set(), workmode: new Set(), contract: new Set(), locations: new Set() };
 let charts = {};
 let debounceTimer = null;
 
@@ -70,6 +70,13 @@ async function init() {
     const resp = await fetch('./jobs.json');
     if (resp.ok) allJobs = await resp.json();
   } catch(e) { console.warn('No jobs data'); }
+  allJobs.forEach(j => {
+    j.domain = 'Other';
+    const str = ((j.title||'') + ' ' + (j.clean_tags||[]).join(' ')).toLowerCase();
+    for (const k of defaultKeywords) {
+      if (str.includes(k.toLowerCase())) { j.domain = k; break; }
+    }
+  });
   if (allJobs.length && allJobs[0].scraped_at) {
     document.getElementById('last-updated').textContent = 'Updated ' + timeAgo(allJobs[0].scraped_at);
   }
@@ -209,6 +216,13 @@ function destroyChart(id) { if(charts[id]) { charts[id].destroy(); delete charts
 function renderBrowse() { buildFilterUI(); applyFilters(); }
 
 function buildFilterUI() {
+  // Domains
+  const doms = {}; allJobs.forEach(j => { doms[j.domain]=(doms[j.domain]||0)+1; });
+  document.getElementById('f-domains').innerHTML = Object.entries(doms).sort((a,b)=>b[1]-a[1]).map(([d,c]) => {
+    const act = activeFilters.domain.has(d)?'active':'';
+    return `<button class="chip ${act}" onclick="toggleFilter('domain','${d}')">${d}<span class="count">${c}</span></button>`;
+  }).join('');
+
   // Sources
   const sources = [...new Set(allJobs.map(j=>j.source))].sort();
   document.getElementById('f-sources').innerHTML = sources.map(s => {
@@ -286,6 +300,7 @@ function applyFilters() {
 
   filteredJobs = allJobs.filter(j => {
     if(search) { const s=`${j.title} ${j.company} ${(j.clean_tags||j.tags||[]).join(' ')} ${j.description_snippet||''}`.toLowerCase(); if(!s.includes(search)) return false; }
+    if(activeFilters.domain.size>0 && !activeFilters.domain.has(j.domain)) return false;
     if(activeFilters.sources.size>0 && !activeFilters.sources.has(j.source)) return false;
     if(activeFilters.levels.size>0 && !activeFilters.levels.has(j.level||'N/A')) return false;
     if(activeFilters.categories.size>0 && !activeFilters.categories.has(j.job_category||'Other')) return false;
@@ -356,7 +371,7 @@ function tableRow(j) {
   const tags = (j.clean_tags||j.tags||[]).slice(0,3);
   const postedDisplay = j.posted_date||'—';
   return `<tr onclick='openDetail(${JSON.stringify(j).replace(/'/g,"&#39;")})'>
-    <td class="title-cell"><span class="title">${esc(j.title)}</span><div class="tags">${tags.map(t=>`<span class="tag-sm">${t}</span>`).join('')}</div></td>
+    <td class="title-cell"><span class="title">${esc(j.title)}</span><div class="tags"><span class="tag-sm" style="border-color:var(--accent2);color:var(--accent2)">${esc(j.domain)}</span>${tags.map(t=>`<span class="tag-sm">${t}</span>`).join('')}</div></td>
     <td class="mobile-hide" style="color:var(--text-dim);max-width:140px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:12px">${esc(j.company)}</td>
     <td class="mobile-hide">${levelBadge(j.level)}</td>
     <td class="mobile-hide" style="color:var(--text-faint);font-size:11px">${esc(j.location)}</td>
@@ -375,7 +390,7 @@ function jobCard(j) {
     <div style="display:flex;justify-content:space-between;margin-bottom:10px"><div style="flex:1;min-width:0"><p style="font-weight:700;font-size:14px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${esc(j.title)}</p><p style="font-size:12px;color:var(--text-faint);margin-top:2px">${esc(j.company)}</p></div>
     <button class="save-btn ${saved?'saved':''}" onclick="event.stopPropagation();toggleSave('${j.id}')"><i data-lucide="heart" style="width:16px;height:16px" ${saved?'fill="currentColor"':''}></i></button></div>
     <div style="display:flex;gap:8px;align-items:center;margin-bottom:10px;flex-wrap:wrap">${levelBadge(j.level)} <span style="color:var(--text-faint);font-size:10px">·</span> <span style="font-size:11px;color:var(--text-faint)">${esc(j.location)}</span>${j.is_remote?'<span style="font-family:var(--font-mono);font-size:9px;color:var(--accent3);border:1px solid rgba(0,255,178,0.2);padding:1px 6px">REMOTE</span>':''}</div>
-    <div style="display:flex;gap:4px;flex-wrap:wrap;margin-bottom:10px">${tags.map(t=>`<span class="tag-sm">${t}</span>`).join('')}</div>
+    <div style="display:flex;gap:4px;flex-wrap:wrap;margin-bottom:10px"><span class="tag-sm" style="border-color:var(--accent2);color:var(--accent2)">${esc(j.domain)}</span>${tags.map(t=>`<span class="tag-sm">${t}</span>`).join('')}</div>
     <div style="display:flex;justify-content:space-between;align-items:center">${srcBadge(j.source)} ${freshBadge(j.freshness||'unknown')}</div>
     ${j.salary&&j.salary!=='N/A'?`<p style="font-family:var(--font-mono);font-size:11px;color:var(--accent3);margin-top:8px">${esc(j.salary)}</p>`:''}
   </div>`;
