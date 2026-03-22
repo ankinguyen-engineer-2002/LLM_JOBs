@@ -5,66 +5,92 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Job Radar — AI-Powered Job Intelligence Dashboard</title>
 <meta name="description" content="Real-time job aggregation dashboard with AI enrichment. Scraping 10+ sources for data engineering, ML, AI, and analytics roles.">
-<link rel="icon" href="favicon.svg" type="image/svg+xml">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=Space+Mono:ital,wght@0,400;0,700;1,400&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 <script src="https://unpkg.com/lucide@latest"></script>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
+<!-- CUSTOM CURSOR -->
+<div class="cursor" id="cursor"></div>
+<div class="cursor-ring" id="cursorRing"></div>
+
 <!-- NAV -->
-<nav class="nav-bar">
+<nav>
 <div class="nav-inner">
   <div class="logo">
-    <span style="font-size:1.4rem">📡</span>
-    <h1>Job Radar</h1>
+    <h1>JOB RADAR<span>.</span></h1>
     <span class="live-badge"><span class="live-dot"></span>Live</span>
   </div>
   <div class="nav-tabs">
-    <button class="tab-btn active" data-tab="dashboard" onclick="switchTab('dashboard')"><i data-lucide="layout-dashboard" style="width:15px;height:15px"></i><span>Dashboard</span></button>
-    <button class="tab-btn" data-tab="browse" onclick="switchTab('browse')"><i data-lucide="search" style="width:15px;height:15px"></i><span>Browse</span></button>
-    <button class="tab-btn" data-tab="analytics" onclick="switchTab('analytics')"><i data-lucide="bar-chart-3" style="width:15px;height:15px"></i><span>Analytics</span></button>
-    <button class="tab-btn" data-tab="saved" onclick="switchTab('saved')"><i data-lucide="heart" style="width:15px;height:15px"></i><span>Saved</span><span id="saved-badge" style="margin-left:4px;padding:1px 6px;border-radius:99px;background:#6366f1;font-size:0.65rem;display:none">0</span></button>
-    <button class="tab-btn" data-tab="about" onclick="switchTab('about')"><i data-lucide="info" style="width:15px;height:15px"></i><span>About</span></button>
+    <button class="tab-btn active" data-tab="dashboard" onclick="switchTab('dashboard')"><i data-lucide="layout-dashboard" style="width:14px;height:14px"></i><span>Dashboard</span></button>
+    <button class="tab-btn" data-tab="browse" onclick="switchTab('browse')"><i data-lucide="search" style="width:14px;height:14px"></i><span>Browse</span></button>
+    <button class="tab-btn" data-tab="analytics" onclick="switchTab('analytics')"><i data-lucide="bar-chart-3" style="width:14px;height:14px"></i><span>Analytics</span></button>
+    <button class="tab-btn" data-tab="saved" onclick="switchTab('saved')"><i data-lucide="heart" style="width:14px;height:14px"></i><span>Saved</span><span id="saved-badge" style="margin-left:4px;padding:1px 6px;background:rgba(99,200,255,0.2);color:#63c8ff;font-size:9px;display:none"></span></button>
+    <button class="tab-btn" data-tab="about" onclick="switchTab('about')"><i data-lucide="info" style="width:14px;height:14px"></i><span>About</span></button>
   </div>
-  <span id="last-updated" style="font-size:0.7rem;color:var(--text-muted)" class="mobile-hide"></span>
+  <span id="last-updated" style="font-family:var(--font-mono);font-size:10px;color:var(--text-faint);letter-spacing:0.06em" class="mobile-hide"></span>
 </div>
 </nav>
 
 <!-- MAIN -->
-<main style="max-width:1280px;margin:0 auto;padding:24px 20px">
+<main>
 
-<!-- DASHBOARD -->
+<!-- ============ DASHBOARD ============ -->
 <section id="tab-dashboard" class="tab-section">
+  <div class="section-tag">Intelligence Overview</div>
+  <h2 class="section-title">Dashboard</h2>
   <div id="stats-cards" class="stat-grid"></div>
-  <div style="margin-bottom:24px"><h2 style="font-size:1.1rem;font-weight:700;margin-bottom:12px;display:flex;align-items:center;gap:8px"><i data-lucide="zap" style="width:18px;height:18px;color:#f59e0b"></i>Latest Today</h2><div id="top-today"></div></div>
-  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px;margin-bottom:24px">
-    <div><h2 style="font-size:1rem;font-weight:600;margin-bottom:12px">Top 10 This Week</h2><div id="top-week"></div></div>
-    <div><h2 style="font-size:1rem;font-weight:600;margin-bottom:12px">Top 10 This Month</h2><div id="top-month"></div></div>
+
+  <div class="section-divider"></div>
+
+  <div style="margin-bottom:32px">
+    <div class="section-tag" style="margin-bottom:16px">⚡ Latest Today</div>
+    <div id="top-today"></div>
   </div>
-  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:16px">
+
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:32px;margin-bottom:32px">
+    <div>
+      <div class="section-tag" style="margin-bottom:12px">Top 10 This Week</div>
+      <div id="top-week"></div>
+    </div>
+    <div>
+      <div class="section-tag" style="margin-bottom:12px">Top 10 This Month</div>
+      <div id="top-month"></div>
+    </div>
+  </div>
+
+  <div class="section-divider"></div>
+
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
     <div class="chart-card"><p class="chart-title">Jobs Per Day (14d)</p><canvas id="chart-daily"></canvas></div>
     <div class="chart-card"><p class="chart-title">By Source</p><canvas id="chart-source-dash"></canvas></div>
   </div>
 </section>
 
-<!-- BROWSE -->
+<!-- ============ BROWSE ============ -->
 <section id="tab-browse" class="tab-section hidden">
-  <div style="display:flex;gap:24px" class="browse-layout">
+  <div class="section-tag">Job Explorer</div>
+  <h2 class="section-title">Browse Jobs</h2>
+
+  <div class="browse-layout">
     <!-- FILTER SIDEBAR -->
     <aside class="filter-sidebar">
-      <div class="card" style="padding:16px">
-        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px">
-          <h3 style="font-size:0.9rem;font-weight:700">Filters</h3>
-          <button onclick="clearFilters()" style="border:none;background:none;color:#6366f1;font-size:0.72rem;cursor:pointer;font-weight:600">Clear all</button>
+      <div class="card" style="padding:20px">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:20px">
+          <span style="font-family:var(--font-display);font-size:16px;font-weight:700">Filters</span>
+          <button onclick="clearFilters()" style="border:none;background:none;color:var(--accent);font-family:var(--font-mono);font-size:10px;cursor:none;letter-spacing:0.08em;text-transform:uppercase">Clear all</button>
         </div>
+
         <div class="search-wrap">
-          <i data-lucide="search" style="width:16px;height:16px" class="search-icon"></i>
+          <i data-lucide="search" style="width:14px;height:14px" class="search-icon"></i>
           <input type="text" id="search-input" class="search-input" placeholder="Search title, company, tags..." oninput="debounceFilter()">
         </div>
+
         <div class="filter-section">
-          <p class="filter-label"><i data-lucide="clock" style="width:12px;height:12px"></i>Freshness</p>
+          <p class="filter-label">Freshness</p>
           <select id="f-freshness" class="select-input" style="width:100%" onchange="applyFilters()">
             <option value="all">All time</option>
             <option value="today">Today</option>
@@ -74,26 +100,31 @@
             <option value="30d">Last 30 days</option>
           </select>
         </div>
-        <div class="filter-section"><p class="filter-label"><i data-lucide="layers" style="width:12px;height:12px"></i>Source</p><div id="f-sources" class="filter-chips"></div></div>
-        <div class="filter-section"><p class="filter-label"><i data-lucide="bar-chart" style="width:12px;height:12px"></i>Level</p><div id="f-levels" class="filter-chips"></div></div>
-        <div class="filter-section"><p class="filter-label"><i data-lucide="folder" style="width:12px;height:12px"></i>Category</p><div id="f-categories" class="filter-chips"></div></div>
-        <div class="filter-section"><p class="filter-label"><i data-lucide="map-pin" style="width:12px;height:12px"></i>Location</p><div id="f-locations" class="filter-chips"></div></div>
+
+        <div class="filter-section"><p class="filter-label">Source</p><div id="f-sources" class="filter-chips"></div></div>
+        <div class="filter-section"><p class="filter-label">Level</p><div id="f-levels" class="filter-chips"></div></div>
+        <div class="filter-section"><p class="filter-label">Category</p><div id="f-categories" class="filter-chips"></div></div>
+        <div class="filter-section"><p class="filter-label">Employment Type</p><div id="f-types" class="filter-chips"></div></div>
+        <div class="filter-section"><p class="filter-label">Location</p><div id="f-locations" class="filter-chips"></div></div>
+
         <div class="filter-section" style="margin-bottom:12px">
-          <label style="display:flex;align-items:center;gap:8px;font-size:0.82rem;cursor:pointer"><input type="checkbox" id="f-remote" onchange="applyFilters()"> Remote only</label>
+          <label style="display:flex;align-items:center;gap:8px;font-family:var(--font-mono);font-size:10px;color:var(--text-dim);cursor:none;letter-spacing:0.04em"><input type="checkbox" id="f-remote" onchange="applyFilters()"> Remote only</label>
         </div>
         <div class="filter-section" style="margin-bottom:12px">
-          <label style="display:flex;align-items:center;gap:8px;font-size:0.82rem;cursor:pointer"><input type="checkbox" id="f-salary" onchange="applyFilters()"> Has salary info</label>
+          <label style="display:flex;align-items:center;gap:8px;font-family:var(--font-mono);font-size:10px;color:var(--text-dim);cursor:none;letter-spacing:0.04em"><input type="checkbox" id="f-salary" onchange="applyFilters()"> Has salary info</label>
         </div>
-        <div class="filter-section"><p class="filter-label"><i data-lucide="tag" style="width:12px;height:12px"></i>Tech Skills</p><div id="f-tags" class="filter-chips" style="max-height:200px;overflow-y:auto"></div></div>
+
+        <div class="filter-section"><p class="filter-label">Tech Skills</p><div id="f-tags" class="filter-chips" style="max-height:200px;overflow-y:auto"></div></div>
       </div>
     </aside>
+
     <!-- JOB LIST -->
     <div style="flex:1;min-width:0">
       <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px">
-        <p style="font-size:0.85rem;color:var(--text-muted)"><span id="job-count" style="color:var(--text-primary);font-weight:700">0</span> jobs found</p>
+        <p style="font-family:var(--font-mono);font-size:11px;color:var(--text-dim);letter-spacing:0.06em"><span id="job-count" style="color:var(--accent);font-family:var(--font-display);font-weight:800;font-size:18px">0</span> <span style="text-transform:uppercase">jobs found</span></p>
         <div style="display:flex;align-items:center;gap:8px">
-          <button id="view-table-btn" class="tab-btn active" onclick="setView('table')" style="padding:4px 8px"><i data-lucide="table" style="width:15px;height:15px"></i></button>
-          <button id="view-cards-btn" class="tab-btn" onclick="setView('cards')" style="padding:4px 8px"><i data-lucide="layout-grid" style="width:15px;height:15px"></i></button>
+          <button id="view-table-btn" class="tab-btn active" onclick="setView('table')" style="padding:4px 8px"><i data-lucide="table" style="width:14px;height:14px"></i></button>
+          <button id="view-cards-btn" class="tab-btn" onclick="setView('cards')" style="padding:4px 8px"><i data-lucide="layout-grid" style="width:14px;height:14px"></i></button>
           <select id="sort-select" class="select-input" onchange="applyFilters()">
             <option value="scraped_at">Newest</option>
             <option value="title">Title A-Z</option>
@@ -109,48 +140,71 @@
   </div>
 </section>
 
-<!-- ANALYTICS -->
+<!-- ============ ANALYTICS ============ -->
 <section id="tab-analytics" class="tab-section hidden">
-  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:16px;margin-bottom:16px">
+  <div class="section-tag">Data Insights</div>
+  <h2 class="section-title">Analytics</h2>
+
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px">
     <div class="chart-card"><p class="chart-title">Jobs Per Day (30d)</p><canvas id="chart-daily-30"></canvas></div>
     <div class="chart-card"><p class="chart-title">Top 15 Tech Skills</p><canvas id="chart-tags"></canvas></div>
   </div>
-  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:16px">
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px">
     <div class="chart-card"><p class="chart-title">By Level</p><canvas id="chart-levels"></canvas></div>
     <div class="chart-card"><p class="chart-title">By Category</p><canvas id="chart-categories"></canvas></div>
   </div>
-  <div class="chart-card" style="margin-top:16px"><p class="chart-title">Jobs by Source</p><canvas id="chart-source"></canvas></div>
+  <div class="chart-card"><p class="chart-title">Jobs by Source</p><canvas id="chart-source"></canvas></div>
 </section>
 
-<!-- SAVED -->
+<!-- ============ SAVED ============ -->
 <section id="tab-saved" class="tab-section hidden">
-  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px">
-    <h2 style="font-size:1.1rem;font-weight:700">Saved Jobs (<span id="saved-total">0</span>)</h2>
-    <div style="display:flex;gap:8px">
-      <button onclick="exportCSV()" style="padding:8px 16px;background:#6366f1;color:white;border:none;border-radius:8px;font-size:0.82rem;cursor:pointer;display:flex;align-items:center;gap:6px"><i data-lucide="download" style="width:14px;height:14px"></i>Export CSV</button>
-      <button onclick="clearSaved()" style="padding:8px 16px;background:rgba(30,41,59,0.8);color:var(--text-secondary);border:1px solid var(--border);border-radius:8px;font-size:0.82rem;cursor:pointer">Clear All</button>
-    </div>
+  <div class="section-tag">Your Collection</div>
+  <h2 class="section-title">Saved Jobs <span style="font-size:20px;color:var(--accent)">(<span id="saved-total">0</span>)</span></h2>
+
+  <div style="display:flex;gap:8px;margin-bottom:24px">
+    <button onclick="exportCSV()" style="padding:10px 20px;background:var(--accent);color:var(--bg);border:none;font-family:var(--font-mono);font-size:10px;letter-spacing:0.08em;text-transform:uppercase;cursor:none;display:flex;align-items:center;gap:8px;font-weight:700"><i data-lucide="download" style="width:14px;height:14px"></i>Export CSV</button>
+    <button onclick="clearSaved()" style="padding:10px 20px;background:transparent;color:var(--text-dim);border:1px solid var(--border);font-family:var(--font-mono);font-size:10px;letter-spacing:0.08em;text-transform:uppercase;cursor:none">Clear All</button>
   </div>
   <div id="saved-container"></div>
-  <div id="saved-empty" class="empty-state" style="display:none"><i data-lucide="heart" style="width:48px;height:48px;margin:0 auto 12px;display:block;opacity:0.3"></i><p>No saved jobs yet. Click the heart icon on any job to save it.</p></div>
+  <div id="saved-empty" class="empty-state" style="display:none">
+    <i data-lucide="heart" style="width:48px;height:48px;margin:0 auto 16px;display:block;opacity:0.3"></i>
+    <p>No saved jobs yet. Click the heart icon on any job to save it.</p>
+  </div>
 </section>
 
-<!-- ABOUT -->
+<!-- ============ ABOUT ============ -->
 <section id="tab-about" class="tab-section hidden">
   <div style="max-width:720px;margin:0 auto">
-    <div class="card" style="padding:28px;margin-bottom:16px">
-      <h2 style="font-size:1.25rem;font-weight:800;margin-bottom:12px;background:var(--gradient-hero);-webkit-background-clip:text;-webkit-text-fill-color:transparent">About Job Radar</h2>
-      <p style="color:var(--text-secondary);font-size:0.88rem;line-height:1.7;margin-bottom:16px">Job Radar is an <strong style="color:var(--text-primary)">AI-powered</strong> job intelligence system that scrapes <strong style="color:var(--text-primary)">10+ job sources</strong> three times daily. Jobs are enriched using <strong style="color:#10b981">Gemini Flash 2.5</strong> to normalize levels, categories, and tech skills — all at <strong style="color:#10b981">zero cost</strong>.</p>
+    <div class="card" style="padding:32px;margin-bottom:16px;position:relative">
+      <div style="position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--accent),var(--accent2),var(--accent3))"></div>
+      <div class="section-tag">About This Project</div>
+      <h2 style="font-family:var(--font-display);font-size:28px;font-weight:800;letter-spacing:-0.03em;margin-bottom:16px">Job Radar</h2>
+      <p style="color:var(--text-dim);font-size:14px;line-height:1.8;margin-bottom:20px">
+        Job Radar is an <strong style="color:var(--text)">AI-powered</strong> job intelligence system that scrapes
+        <strong style="color:var(--accent)">10+ job sources</strong> three times daily. Jobs are enriched using
+        <strong style="color:var(--accent3)">Gemini Flash 2.5</strong> to normalize levels, categories, and tech skills
+        — all at <strong style="color:var(--accent3)">zero cost</strong>.
+      </p>
       <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
-        <div><p style="font-size:0.7rem;color:var(--text-muted);text-transform:uppercase;margin-bottom:4px">Update Schedule</p><p style="font-size:0.85rem">07:00, 14:00, 20:00 ICT daily</p></div>
-        <div><p style="font-size:0.7rem;color:var(--text-muted);text-transform:uppercase;margin-bottom:4px">Tech Stack</p><p style="font-size:0.85rem">Python 3.11, Playwright, Gemini 2.5, Chart.js</p></div>
+        <div style="padding:16px;background:var(--bg);border:1px solid var(--border)">
+          <p style="font-family:var(--font-mono);font-size:9px;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.12em;margin-bottom:6px">Schedule</p>
+          <p style="font-size:13px;color:var(--text)">07:00, 14:00, 20:00 ICT</p>
+        </div>
+        <div style="padding:16px;background:var(--bg);border:1px solid var(--border)">
+          <p style="font-family:var(--font-mono);font-size:9px;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.12em;margin-bottom:6px">Tech Stack</p>
+          <p style="font-size:13px;color:var(--text)">Python · Playwright · Gemini 2.5 · Chart.js</p>
+        </div>
       </div>
     </div>
-    <div class="card" style="padding:28px;margin-bottom:16px">
-      <h3 style="font-weight:700;margin-bottom:12px">Data Sources</h3>
+
+    <div class="card" style="padding:32px;margin-bottom:16px">
+      <div class="section-tag" style="margin-bottom:16px">Data Sources</div>
       <div id="sources-list" style="display:grid;grid-template-columns:1fr 1fr;gap:8px"></div>
     </div>
-    <p style="text-align:center;font-size:0.78rem;color:var(--text-muted);padding:20px">Built with ❤️ | <a href="https://github.com/ankinguyen-engineer-2002/LLM_JOBs" style="color:#6366f1">View on GitHub</a></p>
+
+    <p style="text-align:center;font-family:var(--font-mono);font-size:10px;color:var(--text-faint);letter-spacing:0.06em;padding:24px">
+      Built with ❤️ | <a href="https://github.com/ankinguyen-engineer-2002/LLM_JOBs" style="color:var(--accent);text-decoration:none">View on GitHub</a>
+    </p>
   </div>
 </section>
 
@@ -158,7 +212,7 @@
 
 <!-- DETAIL PANEL -->
 <div id="backdrop" class="detail-backdrop" onclick="closeDetail()"></div>
-<aside id="detail-panel" class="detail-panel"><div style="padding:24px" id="detail-content"></div></aside>
+<aside id="detail-panel" class="detail-panel"><div style="padding:28px" id="detail-content"></div></aside>
 
 <script src="app.js"></script>
 </body>
