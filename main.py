@@ -69,12 +69,26 @@ def main():
     print(f"[main] New jobs (not seen before): {len(new_jobs)}")
 
     if new_jobs:
-        # Optional: enrich with Gemini (silently skips if no API key)
-        new_jobs = enrich_jobs_batch(new_jobs)
+        # Convert Job dataclass objects to dicts for enrichment + saving
+        from dataclasses import asdict
+        new_dicts = [asdict(j) for j in new_jobs]
 
-        count = merge_and_save(new_jobs, existing)
-        print(f"\n[main] ✅ Saved {count} new jobs to data/jobs.json")
-        print(f"[main] Total jobs in database: {count + len(existing)}")
+        # Enrich with Gemini (silently skips if no API key)
+        new_dicts = enrich_jobs_batch(new_dicts)
+
+        # Merge with existing and save
+        all_jobs = new_dicts + list(existing.values())
+        all_jobs.sort(key=lambda x: x.get("scraped_at", ""), reverse=True)
+
+        from pathlib import Path
+        jobs_file = Path("data/jobs.json")
+        jobs_file.parent.mkdir(exist_ok=True)
+        import json
+        with open(jobs_file, "w", encoding="utf-8") as f:
+            json.dump(all_jobs, f, ensure_ascii=False, indent=2)
+
+        print(f"\n[main] ✅ Saved {len(new_dicts)} new jobs to data/jobs.json")
+        print(f"[main] Total jobs in database: {len(all_jobs)}")
     else:
         print("\n[main] No new jobs found. Skipping commit.")
         sys.exit(1)  # Signal no change to GitHub Actions
