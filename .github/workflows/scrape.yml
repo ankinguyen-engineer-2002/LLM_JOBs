@@ -45,9 +45,10 @@ jobs:
       - name: Commit updated jobs.json
         if: steps.scrape.outputs.new_jobs == 'true'
         run: |
+          cp data/jobs.json docs/jobs.json
           git config user.name "job-radar-bot"
           git config user.email "bot@job-radar"
-          git add data/jobs.json
+          git add data/jobs.json docs/jobs.json
           git diff --staged --quiet || \
             (git commit -m "data: update jobs $(date -u +'%Y-%m-%d %H:%M UTC')" && \
-             git push
+             git push)
