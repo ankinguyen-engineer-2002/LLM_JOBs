@@ -514,10 +514,19 @@ document.addEventListener('keydown', e => { if(e.key==='Escape') closeDetail(); 
 function rerender() { switchTab(localStorage.getItem('lastTab')||'dashboard'); }
 
 // === ADMIN ===
-let adminKeywords = JSON.parse(localStorage.getItem('admin_keywords')) || [
-  'data engineer', 'analytics engineer', 'data engineering',
-  'machine learning engineer', 'dbt engineer', 'BI engineer'
+let adminKeywords = JSON.parse(localStorage.getItem('admin_keywords')) || [];
+const defaultKeywords = [
+  "data engineer", "analytics engineer", "data engineering",
+  "data platform engineer", "ETL engineer", "dbt engineer",
+  "Microsoft Fabric", "ML engineer", "machine learning engineer",
+  "MLOps engineer", "AI engineer", "AI trainer", "AI annotator",
+  "prompt engineer", "LLM engineer", "generative AI", "AI developer",
+  "NLP engineer"
 ];
+if (adminKeywords.length <= 6) {
+  adminKeywords = [...defaultKeywords];
+  localStorage.setItem('admin_keywords', JSON.stringify(adminKeywords));
+}
 
 function initAdmin() {
   renderAdminStats();
