@@ -1,22 +1,39 @@
+# ============================================================
 # Job Radar — Search Configuration
-# Edit this file to customize what jobs are scraped
+# ============================================================
+# Edit this file to customize what jobs are scraped.
+# Keywords are used by ALL scrapers. Add/remove as needed.
+# The pipeline runs 3x/day — duplicates are automatically skipped.
 
 search_keywords:
+  # === Data Engineering ===
   - "data engineer"
   - "analytics engineer"
   - "data engineering"
-  - "ML engineer"
-  - "machine learning engineer"
   - "data platform engineer"
-  - "Microsoft Fabric"
   - "ETL engineer"
   - "dbt engineer"
+  - "Microsoft Fabric"
+
+  # === Machine Learning ===
+  - "ML engineer"
+  - "machine learning engineer"
+  - "MLOps engineer"
+
+  # === AI / LLM ===
+  - "AI engineer"
+  - "AI trainer"
+  - "AI annotator"
+  - "prompt engineer"
+  - "LLM engineer"
+  - "generative AI"
+  - "AI developer"
+  - "NLP engineer"
 
 # Filter out jobs with these words in title (case-insensitive)
 title_exclude:
   - "intern"
   - "student"
-  - "fresher"
 
 # Only include jobs from these locations (empty = all locations)
 locations_include: []

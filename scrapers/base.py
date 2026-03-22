@@ -7,7 +7,7 @@ from typing import List
 from threading import Thread
 from processor.normalizer import Job
 
-SCRAPER_TIMEOUT = 60  # seconds per scraper
+SCRAPER_TIMEOUT = 90  # seconds per scraper (needs to be higher for Playwright)
 
 
 class BaseJobScraper(ABC):

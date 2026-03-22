@@ -6,6 +6,7 @@ Entry point: scrape all sources → filter → dedup → save to data/jobs.json
 import sys
 import yaml
 from scrapers.group_a_jobspy import JobSpyScraper
+from scrapers.group_a_linkedin import LinkedInScraper
 from scrapers.group_b_remoteok import RemoteOKScraper
 from scrapers.group_b_himalayas import HimalayasScraper
 from scrapers.group_b_jobicy import JobicyScraper
@@ -38,6 +39,7 @@ def main():
         HimalayasScraper(),
         JobicyScraper(),
         WellfoundScraper(),
+        LinkedInScraper(),
         JobSpyScraper(),
         VietnamWorksScraper(),
         ITviecScraper(),

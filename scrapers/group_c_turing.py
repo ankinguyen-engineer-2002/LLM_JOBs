@@ -1,17 +1,17 @@
 """
-Turing.com scraper — public jobs page at work.turing.com/jobs.
-Since it's a Next.js SPA, we attempt to extract from the __NEXT_DATA__ JSON blob
-embedded in the initial HTML, which often contains the pre-rendered job data.
-Falls back gracefully if the data structure changes.
+Turing.com scraper — uses Playwright to render work.turing.com/jobs SPA.
 """
 
-import requests
-import json
-import re
 import time
 from scrapers.base import BaseJobScraper
 from processor.normalizer import Job, generate_job_id
 from datetime import datetime
+
+try:
+    from playwright.sync_api import sync_playwright
+    PLAYWRIGHT_OK = True
+except ImportError:
+    PLAYWRIGHT_OK = False
 
 
 class TuringScraper(BaseJobScraper):
@@ -19,163 +19,113 @@ class TuringScraper(BaseJobScraper):
     BASE_URL = "https://work.turing.com/jobs"
 
     def scrape(self, keywords: list[str], max_results: int = 50) -> list[Job]:
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-                          "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        }
+        if not PLAYWRIGHT_OK:
+            print("[turing] playwright not installed — skipping")
+            return []
+
         jobs = []
         seen_urls = set()
 
-        try:
-            time.sleep(1)
-            resp = requests.get(self.BASE_URL, headers=headers, timeout=30)
-            if resp.status_code != 200:
-                print(f"[turing] HTTP {resp.status_code}")
-                return []
-        except requests.RequestException as e:
-            print(f"[turing] Request failed: {e}")
-            return []
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            context = browser.new_context(
+                user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                           "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+            )
+            page = context.new_page()
 
-        html = resp.text
-
-        # Strategy 1: Look for __NEXT_DATA__ JSON which often contains pre-rendered data
-        next_data_match = re.search(
-            r'<script\s+id="__NEXT_DATA__"\s+type="application/json">(.*?)</script>',
-            html, re.DOTALL
-        )
-
-        if next_data_match:
             try:
-                next_data = json.loads(next_data_match.group(1))
-                jobs = self._parse_next_data(next_data, keywords, max_results)
-                if jobs:
-                    return jobs
-            except (json.JSONDecodeError, KeyError) as e:
-                print(f"[turing] Could not parse __NEXT_DATA__: {e}")
+                page.goto(self.BASE_URL, timeout=20000)
+                # Wait for job cards or links to appear
+                page.wait_for_selector("a[href*='/jobs/'], [class*='job'], [class*='card']", timeout=10000)
+                time.sleep(2)
 
-        # Strategy 2: Try JSON embedded in script tags (common for SSR hydration)
-        script_matches = re.findall(
-            r'<script[^>]*>(.*?)</script>', html, re.DOTALL
-        )
-        for script_text in script_matches:
-            # Look for arrays of job-like objects
-            json_matches = re.findall(r'\[{.*?"title".*?}\]', script_text)
-            for jm in json_matches:
+                # Scroll to load more
+                for _ in range(5):
+                    page.evaluate("window.scrollBy(0, 1500)")
+                    time.sleep(0.5)
+            except Exception as e:
+                print(f"[turing] Page load failed: {e}")
+                browser.close()
+                return []
+
+            # Strategy 1: Find direct job links
+            all_links = page.query_selector_all("a[href*='/jobs/']")
+
+            for link in all_links:
                 try:
-                    data = json.loads(jm)
-                    if isinstance(data, list) and len(data) > 0:
-                        for item in data:
-                            if 'title' in item:
-                                job = self._item_to_job(item, keywords, seen_urls)
-                                if job:
-                                    jobs.append(job)
-                                    if len(jobs) >= max_results:
-                                        return jobs
-                except (json.JSONDecodeError, TypeError):
+                    href = link.get_attribute("href") or ""
+                    if not href or href == "/jobs/" or href == "/jobs":
+                        continue
+
+                    job_url = href if href.startswith("http") else f"https://work.turing.com{href}"
+                    if job_url in seen_urls:
+                        continue
+                    seen_urls.add(job_url)
+
+                    title = link.inner_text().strip()
+                    if not title or len(title) < 5:
+                        continue
+
+                    # Keyword matching
+                    if not any(kw.lower() in title.lower() for kw in keywords):
+                        continue
+
+                    jobs.append(Job(
+                        id=generate_job_id(self.source_name, job_url),
+                        source=self.source_name,
+                        url=job_url,
+                        title=title,
+                        company="Turing",
+                        location="Remote",
+                        is_remote=True,
+                        salary="N/A",
+                        tags=["remote"],
+                        scraped_at=datetime.now().isoformat(),
+                        first_seen=datetime.now().isoformat(),
+                    ))
+                except Exception:
                     continue
 
-        if not jobs:
-            print(f"[turing] No jobs found — page may require JavaScript rendering")
+            # Strategy 2: Find job cards with data
+            if not jobs:
+                cards = page.query_selector_all("[class*='job-card'], [class*='JobCard'], [class*='card']")
+                for card in cards:
+                    try:
+                        title_el = card.query_selector("h2, h3, [class*='title']")
+                        title = title_el.inner_text().strip() if title_el else ""
+                        if not title or len(title) < 5:
+                            continue
 
-        return jobs
+                        if not any(kw.lower() in title.lower() for kw in keywords):
+                            continue
 
-    def _parse_next_data(self, data: dict, keywords: list[str], max_results: int) -> list[Job]:
-        """Try to find job listings in the Next.js pre-rendered data."""
-        jobs = []
-        seen_urls = set()
+                        link_el = card.query_selector("a[href]")
+                        href = link_el.get_attribute("href") if link_el else ""
+                        job_url = href if href and href.startswith("http") else f"https://work.turing.com/jobs/{title.lower().replace(' ', '-')}"
+                        if job_url in seen_urls:
+                            continue
+                        seen_urls.add(job_url)
 
-        # Walk the nested structure looking for job-like arrays
-        job_items = self._find_job_arrays(data)
+                        salary_el = card.query_selector("[class*='salary'], [class*='comp']")
+                        salary = salary_el.inner_text().strip() if salary_el else "N/A"
 
-        for item in job_items:
-            job = self._item_to_job(item, keywords, seen_urls)
-            if job:
-                jobs.append(job)
-                if len(jobs) >= max_results:
-                    break
+                        jobs.append(Job(
+                            id=generate_job_id(self.source_name, job_url),
+                            source=self.source_name,
+                            url=job_url,
+                            title=title,
+                            company="Turing",
+                            location="Remote",
+                            is_remote=True,
+                            salary=salary,
+                            tags=["remote"],
+                            scraped_at=datetime.now().isoformat(),
+                            first_seen=datetime.now().isoformat(),
+                        ))
+                    except Exception:
+                        continue
 
-        return jobs
+            browser.close()
 
-    def _find_job_arrays(self, obj, depth=0) -> list:
-        """Recursively search for arrays of objects that look like job listings."""
-        if depth > 10:
-            return []
-
-        results = []
-
-        if isinstance(obj, list):
-            # Check if this looks like a job array
-            if len(obj) > 0 and isinstance(obj[0], dict):
-                has_title = any('title' in item for item in obj if isinstance(item, dict))
-                if has_title:
-                    results.extend(obj)
-            for item in obj:
-                results.extend(self._find_job_arrays(item, depth + 1))
-        elif isinstance(obj, dict):
-            for key, value in obj.items():
-                results.extend(self._find_job_arrays(value, depth + 1))
-
-        return results
-
-    def _item_to_job(self, item: dict, keywords: list[str], seen_urls: set) -> Job | None:
-        """Convert a raw dict item to a Job, or None if it doesn't match."""
-        if not isinstance(item, dict):
-            return None
-
-        title = item.get('title', '') or item.get('jobTitle', '') or item.get('name', '')
-        if not title:
-            return None
-
-        # Keyword matching
-        if keywords and not any(kw.lower() in title.lower() for kw in keywords):
-            return None
-
-        # Build URL
-        slug = item.get('slug', '') or item.get('id', '') or item.get('jobId', '')
-        url = item.get('url', '') or item.get('applyUrl', '')
-        if not url and slug:
-            url = f"https://work.turing.com/jobs/{slug}"
-        elif not url:
-            url = f"https://work.turing.com/jobs/{title.lower().replace(' ', '-')}"
-
-        if url in seen_urls:
-            return None
-        seen_urls.add(url)
-
-        company = (item.get('company', '') or item.get('companyName', '')
-                   or item.get('organization', '') or 'Turing')
-        if isinstance(company, dict):
-            company = company.get('name', 'Turing')
-
-        location = item.get('location', '') or item.get('jobLocation', '') or 'Remote'
-        salary = item.get('salary', '') or item.get('compensation', '') or 'N/A'
-        if isinstance(salary, dict):
-            salary = f"{salary.get('min', '')} - {salary.get('max', '')} {salary.get('currency', 'USD')}"
-
-        tags = item.get('skills', []) or item.get('tags', []) or item.get('technologies', [])
-        if isinstance(tags, list):
-            tags = [str(t).lower() if isinstance(t, str) else str(t.get('name', '')).lower()
-                    for t in tags if t]
-        else:
-            tags = []
-
-        description = item.get('description', '') or item.get('jobDescription', '') or ''
-        if len(description) > 200:
-            description = description[:200] + '...'
-
-        return Job(
-            id=generate_job_id(self.source_name, url),
-            source=self.source_name,
-            url=url,
-            title=title.strip(),
-            company=company if isinstance(company, str) else 'Turing',
-            location=location if isinstance(location, str) else 'Remote',
-            is_remote=True,
-            salary=str(salary) if salary else 'N/A',
-            tags=tags[:10],
-            description_snippet=description,
-            posted_date=item.get('postedDate', '') or item.get('createdAt', ''),
-            scraped_at=datetime.now().isoformat(),
-            first_seen=datetime.now().isoformat(),
-        )
+        return jobs[:max_results]

@@ -1,16 +1,18 @@
 """
-Wellfound (AngelList) scraper — HTML role pages.
-Wellfound blocks automated requests with 403 Forbidden.
-This scraper attempts with browser-like headers and falls back gracefully.
+Wellfound (AngelList) scraper — uses Playwright to bypass anti-bot 403.
+Navigates to role-specific pages and extracts job listings.
 """
 
-import requests
 import time
-import re
-from bs4 import BeautifulSoup
 from scrapers.base import BaseJobScraper
 from processor.normalizer import Job, generate_job_id
 from datetime import datetime
+
+try:
+    from playwright.sync_api import sync_playwright
+    PLAYWRIGHT_OK = True
+except ImportError:
+    PLAYWRIGHT_OK = False
 
 
 class WellfoundScraper(BaseJobScraper):
@@ -22,120 +24,113 @@ class WellfoundScraper(BaseJobScraper):
         "analytics engineer": "data-analyst",
         "ML engineer": "machine-learning-engineer",
         "machine learning engineer": "machine-learning-engineer",
-        "data platform engineer": "data-engineer",
+        "AI engineer": "artificial-intelligence-engineer",
         "data scientist": "data-scientist",
-        "ETL engineer": "data-engineer",
-        "dbt engineer": "data-engineer",
+        "prompt engineer": "machine-learning-engineer",
+        "LLM engineer": "machine-learning-engineer",
     }
 
     def scrape(self, keywords: list[str], max_results: int = 50) -> list[Job]:
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-                          "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,*/*;q=0.8",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Accept-Encoding": "gzip, deflate, br",
-            "Connection": "keep-alive",
-            "Sec-Fetch-Dest": "document",
-            "Sec-Fetch-Mode": "navigate",
-            "Sec-Fetch-Site": "none",
-            "Sec-Fetch-User": "?1",
-        }
+        if not PLAYWRIGHT_OK:
+            print("[wellfound] playwright not installed — skipping")
+            return []
+
         jobs = []
         seen_urls = set()
 
-        # Get unique role slugs
         slugs = set()
         for kw in keywords:
             slug = self.ROLE_MAP.get(kw.lower())
             if slug:
                 slugs.add(slug)
         if not slugs:
-            slugs = {"data-engineer"}
+            slugs = {"data-engineer", "machine-learning-engineer"}
 
-        for slug in slugs:
-            # Try both /role/r/ (remote) and /role/ (all)
-            for url_pattern in [
-                f"https://wellfound.com/role/r/{slug}",
-                f"https://wellfound.com/role/{slug}",
-            ]:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            context = browser.new_context(
+                user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                           "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+            )
+            page = context.new_page()
+
+            for slug in slugs:
+                url = f"https://wellfound.com/role/r/{slug}"
+
                 try:
+                    page.goto(url, timeout=20000)
+                    page.wait_for_selector("a[href*='/jobs/'], [class*='job'], [class*='startup']", timeout=10000)
                     time.sleep(2)
-                    resp = requests.get(url_pattern, headers=headers, timeout=15)
-                    if resp.status_code == 403:
-                        print(f"[wellfound] 403 Forbidden for {slug} — anti-bot protection")
-                        continue
-                    if resp.status_code != 200:
-                        continue
-                except requests.RequestException as e:
-                    print(f"[wellfound] Request failed for {slug}: {e}")
+
+                    # Scroll to load lazy content
+                    for _ in range(3):
+                        page.evaluate("window.scrollBy(0, 1000)")
+                        time.sleep(0.5)
+                except Exception as e:
+                    print(f"[wellfound] Page load failed for {slug}: {e}")
                     continue
 
-                soup = BeautifulSoup(resp.text, "html.parser")
+                # Find job links
+                links = page.query_selector_all("a[href*='/jobs/']")
 
-                # Method 1: Find Apollo state / JSON data
-                scripts = soup.select("script")
-                for script in scripts:
-                    text = script.get_text()
-                    if "startup" in text.lower() or "job" in text.lower():
-                        # Try to find JSON job data
-                        json_matches = re.findall(r'"title"\s*:\s*"([^"]+)"', text)
-                        url_matches = re.findall(r'"(https?://wellfound\.com/jobs/[^"]+)"', text)
-                        for i, title in enumerate(json_matches):
-                            if len(title) < 5:
-                                continue
-                            job_url = url_matches[i] if i < len(url_matches) else f"https://wellfound.com/role/{slug}#{i}"
-                            if job_url in seen_urls:
-                                continue
-                            seen_urls.add(job_url)
-                            jobs.append(Job(
-                                id=generate_job_id(self.source_name, job_url),
-                                source=self.source_name,
-                                url=job_url,
-                                title=title,
-                                company="N/A",
-                                location="Remote",
-                                is_remote=True,
-                                salary="N/A",
-                                tags=[slug.replace("-", " ")],
-                                scraped_at=datetime.now().isoformat(),
-                                first_seen=datetime.now().isoformat(),
-                            ))
+                for link in links:
+                    try:
+                        href = link.get_attribute("href") or ""
+                        if not href or "/jobs/" not in href:
+                            continue
 
-                # Method 2: Find job links in HTML
-                job_links = soup.find_all("a", href=re.compile(r"/jobs/\d"))
-                for link in job_links:
-                    href = link.get("href", "")
-                    job_url = href if href.startswith("http") else f"https://wellfound.com{href}"
-                    if job_url in seen_urls:
+                        job_url = href if href.startswith("http") else f"https://wellfound.com{href}"
+
+                        # Filter non-job URLs
+                        parts = href.rstrip("/").split("/")
+                        if len(parts) < 3:
+                            continue
+
+                        if job_url in seen_urls:
+                            continue
+                        seen_urls.add(job_url)
+
+                        title = link.inner_text().strip()
+                        if not title or len(title) < 5:
+                            continue
+
+                        # Try to get company + salary from parent
+                        company = "N/A"
+                        salary = "N/A"
+                        parent = link.evaluate_handle("el => el.closest('div')")
+                        if parent:
+                            try:
+                                parent_text = parent.as_element().inner_text()
+                                lines = [l.strip() for l in parent_text.split("\n") if l.strip()]
+                                # Usually: [Title, Company, Salary range, ...]
+                                for line in lines:
+                                    if "$" in line or "k" in line.lower():
+                                        salary = line
+                                    elif line != title and len(line) > 2 and not line.startswith("http"):
+                                        company = line
+                                        break
+                            except Exception:
+                                pass
+
+                        jobs.append(Job(
+                            id=generate_job_id(self.source_name, job_url),
+                            source=self.source_name,
+                            url=job_url,
+                            title=title,
+                            company=company,
+                            location="Remote",
+                            is_remote=True,
+                            salary=salary,
+                            tags=[slug.replace("-", " ")],
+                            scraped_at=datetime.now().isoformat(),
+                            first_seen=datetime.now().isoformat(),
+                        ))
+                    except Exception:
                         continue
-                    seen_urls.add(job_url)
 
-                    title = link.get_text(strip=True)
-                    if not title or len(title) < 5:
-                        continue
-
-                    jobs.append(Job(
-                        id=generate_job_id(self.source_name, job_url),
-                        source=self.source_name,
-                        url=job_url,
-                        title=title,
-                        company="N/A",
-                        location="Remote",
-                        is_remote=True,
-                        salary="N/A",
-                        tags=[slug.replace("-", " ")],
-                        scraped_at=datetime.now().isoformat(),
-                        first_seen=datetime.now().isoformat(),
-                    ))
-
-                if jobs:
+                if len(jobs) >= max_results:
                     break
 
-            if len(jobs) >= max_results:
-                break
-
-        if not jobs:
-            print("[wellfound] No jobs found — site blocks automated requests (403)")
+            browser.close()
 
         return jobs[:max_results]
