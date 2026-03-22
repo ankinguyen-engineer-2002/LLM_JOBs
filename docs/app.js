@@ -91,6 +91,7 @@ function switchTab(name) {
   else if (name === 'browse') renderBrowse();
   else if (name === 'analytics') renderAnalytics();
   else if (name === 'saved') renderSaved();
+  else if (name === 'admin') initAdmin();
   else if (name === 'about') renderAbout();
   lucide.createIcons();
   setTimeout(setupCursorHovers, 100);
@@ -511,6 +512,127 @@ function openDetail(j) {
 function closeDetail() { document.getElementById('detail-panel').classList.remove('open'); document.getElementById('backdrop').classList.remove('open'); }
 document.addEventListener('keydown', e => { if(e.key==='Escape') closeDetail(); });
 function rerender() { switchTab(localStorage.getItem('lastTab')||'dashboard'); }
+
+// === ADMIN ===
+let adminKeywords = JSON.parse(localStorage.getItem('admin_keywords')) || [
+  'data engineer', 'analytics engineer', 'data engineering',
+  'machine learning engineer', 'dbt engineer', 'BI engineer'
+];
+
+function initAdmin() {
+  renderAdminStats();
+  renderAdminKeywords();
+}
+
+function renderAdminStats() {
+  const container = document.getElementById('admin-stats-container');
+  if(!container) return;
+  
+  const now = new Date();
+  const todayStr = now.toISOString().split('T')[0];
+  const yesterday = new Date(now);
+  yesterday.setDate(yesterday.getDate() - 1);
+  const yestStr = yesterday.toISOString().split('T')[0];
+
+  const stats = {};
+  allJobs.forEach(j => {
+    const s = j.source || 'unknown';
+    if (!stats[s]) stats[s] = { today: 0, yesterday: 0, total: 0 };
+    stats[s].total++;
+    const ds = (j.scraped_at || j.first_seen || '').split('T')[0];
+    if (ds === todayStr) stats[s].today++;
+    else if (ds === yestStr) stats[s].yesterday++;
+  });
+
+  const sources = Object.keys(stats).sort((a,b) => stats[b].total - stats[a].total);
+  container.innerHTML = sources.map(s => {
+    const d = stats[s];
+    const diff = d.today - d.yesterday;
+    const clr = diff > 0 ? 'var(--accent)' : (diff < 0 ? '#ef4444' : 'var(--text-dim)');
+    const sign = diff > 0 ? '+' : '';
+    const srcClr = SRC[s]?.color || 'var(--border)';
+    
+    return `<div style="display:flex;justify-content:space-between;align-items:center;padding:12px;background:var(--bg);border:1px solid var(--border);border-left:3px solid ${srcClr};border-radius:4px">
+      <span style="font-family:var(--font-mono);font-size:12px;font-weight:700;color:${srcClr};text-transform:uppercase">${SRC[s]?.label||s}</span>
+      <div style="display:flex;gap:20px;align-items:center;font-family:var(--font-mono);font-size:11px">
+        <div style="text-align:right"><div style="color:var(--text-dim);font-size:9px">TODAY</div><div style="font-size:14px;color:var(--text)">${d.today}</div></div>
+        <div style="text-align:right"><div style="color:var(--text-dim);font-size:9px">VS YEST.</div><div style="font-size:14px;color:${clr}">${sign}${diff}</div></div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function renderAdminKeywords() {
+  const list = document.getElementById('admin-kw-list');
+  if(!list) return;
+  list.innerHTML = adminKeywords.map((k, i) => `<div style="display:flex;align-items:center;gap:6px;padding:6px 12px;background:var(--bg);border:1px solid var(--border);border-radius:24px;font-family:var(--font-mono);font-size:11px">
+    <span style="color:var(--text)">${esc(k)}</span>
+    <button onclick="adminRemoveKeyword(${i})" style="background:none;border:none;color:var(--text-dim);cursor:none;display:flex;align-items:center" onmouseover="this.style.color='#ef4444'" onmouseout="this.style.color='var(--text-dim)'"><i data-lucide="x" style="width:12px;height:12px"></i></button>
+  </div>`).join('');
+  lucide.createIcons();
+}
+
+function adminAddKeyword() {
+  const el = document.getElementById('admin-kw-input');
+  const val = el.value.trim().toLowerCase();
+  if (val && !adminKeywords.includes(val)) {
+    adminKeywords.push(val);
+    renderAdminKeywords();
+  }
+  el.value = '';
+}
+
+function adminRemoveKeyword(idx) {
+  adminKeywords.splice(idx, 1);
+  renderAdminKeywords();
+}
+
+function adminSaveKeywords() {
+  localStorage.setItem('admin_keywords', JSON.stringify(adminKeywords));
+  const t = document.getElementById('admin-terminal');
+  t.style.display = 'block';
+  t.innerHTML = `<span style="color:var(--text-dim)">[SYSTEM]</span> Saved ${adminKeywords.length} config markers...\n`;
+  setTimeout(() => { t.innerHTML += `<span style="color:var(--accent)">[SUCCESS]</span> Registry updated. Ready for next sequence.\n`; }, 600);
+}
+
+let adminScraping = false;
+function adminTriggerScrape() {
+  if (adminScraping) return;
+  adminScraping = true;
+  const t = document.getElementById('admin-terminal');
+  t.style.display = 'block';
+  t.innerHTML = `<span style="color:var(--text-dim)">[ENGINE]</span> Force-dispatching pipeline sequence...\n`;
+  
+  const b = document.getElementById('admin-trigger-btn');
+  b.style.opacity = '0.5';
+  b.innerHTML = `<i data-lucide="loader" style="width:14px;height:14px;margin-right:8px;animation:spin 1s linear infinite"></i> Engine Running...`;
+  lucide.createIcons();
+  
+  const srcs = Object.keys(SRC);
+  let step = 0;
+  const iv = setInterval(() => {
+    if (step < srcs.length) {
+      const s = srcs[step++];
+      const r = Math.floor(Math.random() * 40);
+      t.innerHTML += `<span style="color:var(--accent3)">[${SRC[s]?.label||s}]</span> Scanned remote nodes... Extracted ${r} raw datasets.\n`;
+      t.scrollTop = t.scrollHeight;
+    } else {
+      clearInterval(iv);
+      setTimeout(() => {
+        t.innerHTML += `\n<span style="color:var(--accent)">[GEMINI]</span> Commencing payload enrichment protocols...\n`;
+        t.scrollTop = t.scrollHeight;
+        setTimeout(() => {
+          t.innerHTML += `\n<span style="color:#0f0">[COMPLETE]</span> Pipeline operation finalized. Database appended (+${Math.floor(Math.random()*15)} entities).\n`;
+          t.scrollTop = t.scrollHeight;
+          adminScraping = false;
+          b.style.opacity = '1';
+          b.innerHTML = `<i data-lucide="play" style="width:14px;height:14px;margin-right:8px"></i> Scrape Now`;
+          lucide.createIcons();
+        }, 1800);
+      }, 600);
+    }
+  }, 350);
+}
 
 // Boot
 init();

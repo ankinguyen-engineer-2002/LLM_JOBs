@@ -29,6 +29,7 @@
     <button class="tab-btn" data-tab="browse" onclick="switchTab('browse')"><i data-lucide="search" style="width:14px;height:14px"></i><span>Browse</span></button>
     <button class="tab-btn" data-tab="analytics" onclick="switchTab('analytics')"><i data-lucide="bar-chart-3" style="width:14px;height:14px"></i><span>Analytics</span></button>
     <button class="tab-btn" data-tab="saved" onclick="switchTab('saved')"><i data-lucide="heart" style="width:14px;height:14px"></i><span>Saved</span><span id="saved-badge" style="margin-left:4px;padding:1px 6px;background:rgba(99,200,255,0.2);color:#63c8ff;font-size:9px;display:none"></span></button>
+    <button class="tab-btn" data-tab="admin" onclick="switchTab('admin')"><i data-lucide="settings" style="width:14px;height:14px"></i><span>Admin</span></button>
     <button class="tab-btn" data-tab="about" onclick="switchTab('about')"><i data-lucide="info" style="width:14px;height:14px"></i><span>About</span></button>
   </div>
   <span id="last-updated" style="font-family:var(--font-mono);font-size:10px;color:var(--text-faint);letter-spacing:0.06em" class="mobile-hide"></span>
@@ -181,6 +182,42 @@
   <div id="saved-empty" class="empty-state" style="display:none">
     <i data-lucide="heart" style="width:48px;height:48px;margin:0 auto 16px;display:block;opacity:0.3"></i>
     <p>No saved jobs yet. Click the heart icon on any job to save it.</p>
+  </div>
+</section>
+
+<!-- ============ ADMIN ============ -->
+<section id="tab-admin" class="tab-section hidden">
+  <div class="section-tag">System Control</div>
+  <h2 class="section-title">Admin Dashboard</h2>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:32px">
+    <!-- Left: Stats -->
+    <div>
+      <div class="card" style="padding:24px;margin-bottom:24px">
+        <h3 style="font-family:var(--font-display);font-size:18px;margin-bottom:16px;display:flex;align-items:center;gap:8px"><i data-lucide="activity"></i> Scrape Daily Stats</h3>
+        <p style="color:var(--text-dim);font-size:13px;margin-bottom:16px">New jobs scraped today compared to yesterday.</p>
+        <div id="admin-stats-container" style="display:flex;flex-direction:column;gap:12px"></div>
+      </div>
+    </div>
+    <!-- Right: Keywords & Trigger -->
+    <div>
+      <div class="card" style="padding:24px;margin-bottom:24px">
+        <h3 style="font-family:var(--font-display);font-size:18px;margin-bottom:16px;display:flex;align-items:center;gap:8px"><i data-lucide="key"></i> Keyword Management</h3>
+        <p style="color:var(--text-dim);font-size:13px;margin-bottom:16px">Add or remove target keywords. These will be used in the next scrape.</p>
+        <div style="display:flex;gap:8px;margin-bottom:16px">
+          <input type="text" id="admin-kw-input" class="search-input" style="flex:1" placeholder="Add new keyword..." onkeypress="if(event.key==='Enter') adminAddKeyword()">
+          <button class="page-btn" onclick="adminAddKeyword()">Add</button>
+        </div>
+        <div id="admin-kw-list" style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:24px;min-height:60px;align-content:flex-start"></div>
+        <button class="page-btn" onclick="adminSaveKeywords()" style="width:100%;justify-content:center;background:var(--accent);color:#000;border-color:var(--accent)"><i data-lucide="save" style="width:14px;height:14px;margin-right:8px"></i> Save Keywords to System</button>
+      </div>
+
+      <div class="card" style="padding:24px">
+        <h3 style="font-family:var(--font-display);font-size:18px;margin-bottom:16px;display:flex;align-items:center;gap:8px"><i data-lucide="zap"></i> Scrape Trigger</h3>
+        <p style="color:var(--text-dim);font-size:13px;margin-bottom:16px">Manually start the scraping engine. Skips if last run was &lt; 1 hour ago unless forced.</p>
+        <button class="page-btn" onclick="adminTriggerScrape()" id="admin-trigger-btn" style="width:100%;justify-content:center;border-color:var(--accent2);color:var(--accent2);margin-bottom:16px"><i data-lucide="play" style="width:14px;height:14px;margin-right:8px"></i> Scrape Now</button>
+        <div id="admin-terminal" style="background:rgba(0,0,0,0.5);border:1px solid rgba(255,255,255,0.1);border-radius:6px;padding:12px;font-family:var(--font-mono);font-size:11px;color:var(--accent2);height:150px;overflow-y:auto;white-space:pre-wrap;display:none;box-shadow:inset 0 0 20px rgba(0,0,0,0.8)"></div>
+      </div>
+    </div>
   </div>
 </section>
 
