@@ -255,8 +255,10 @@ function jobRow(j, rank) {
   return `<div class="job-row" onclick='openDetail(${JSON.stringify(j).replace(/'/g,"&#39;")})'>
     <span class="rank">${rank}</span>
     <div class="info"><p class="name">${esc(j.title)}</p><p class="meta">${esc(j.company)} · ${esc(j.location)}</p></div>
-    ${srcBadge(j.source)} <span style="font-family:var(--font-mono);font-size:10px;color:var(--text-faint);letter-spacing:0.04em" class="mobile-hide">${timeAgo(j.scraped_at)}</span>
-    <button class="save-btn ${saved?'saved':''}" onclick="event.stopPropagation();toggleSave('${j.id}')"><i data-lucide="heart" style="width:16px;height:16px" ${saved?'fill="currentColor"':''}></i></button>
+    <div class="job-meta-group">
+      ${srcBadge(j.source)} <span style="font-family:var(--font-mono);font-size:10px;color:var(--text-faint);letter-spacing:0.04em" class="mobile-hide">${timeAgo(j.scraped_at)}</span>
+      <button class="save-btn ${saved?'saved':''}" onclick="event.stopPropagation();toggleSave('${j.id}')"><i data-lucide="heart" style="width:16px;height:16px" ${saved?'fill="currentColor"':''}></i></button>
+    </div>
   </div>`;
 }
 

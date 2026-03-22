@@ -707,17 +707,62 @@ tr:hover .tag-sm, .card:hover .tag-sm {
 }
 
 /* ============= RESPONSIVE ============= */
+.job-meta-group { display: flex; align-items: center; gap: 14px; }
+
 @media (max-width: 1024px) {
   nav { padding: 0; }
-  .nav-inner { padding: 12px 16px; }
-  main { padding: 64px 16px 32px; }
-  .filter-sidebar { display: none; }
-  .browse-layout { flex-direction: column; }
-  .stat-grid { grid-template-columns: repeat(3, 1fr); }
+  .nav-inner { padding: 12px 16px; flex-direction: column; align-items: stretch; gap: 12px; }
+  .nav-menu {
+    overflow-x: auto;
+    white-space: nowrap;
+    padding-bottom: 4px;
+    width: 100%;
+    justify-content: flex-start;
+    -webkit-overflow-scrolling: touch;
+  }
+  .nav-menu::-webkit-scrollbar { display: none; }
+  
+  main { padding: 24px 16px 32px; }
+  .browse-layout { flex-direction: column; align-items: stretch; }
+  
+  .filter-sidebar { 
+    display: block; 
+    width: 100%; 
+    position: static; 
+    height: auto; 
+    padding: 16px;
+    margin-bottom: 24px;
+    border: none;
+    border-bottom: 1px solid var(--border);
+  }
+  .filters-scroll {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+    max-height: none;
+    overflow-y: visible;
+  }
+  
+  .stat-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
 }
+
 @media (max-width: 768px) {
   .mobile-hide { display: none !important; }
   .tab-btn span { display: none; }
+  .tab-btn { padding: 8px 12px; }
   .detail-panel { width: 100%; }
-  .stat-grid { grid-template-columns: repeat(2, 1fr); }
+  .stat-grid { grid-template-columns: 1fr; }
+  .filters-scroll { grid-template-columns: 1fr; gap: 12px; }
+  
+  /* Job Row Mobile Optimization */
+  .job-row {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px;
+    gap: 12px;
+    position: relative;
+  }
+  .job-row .info { width: 100%; padding-right: 32px; }
+  .job-row .job-meta-group { width: 100%; justify-content: space-between; }
+  .job-row .save-btn { position: absolute; top: 16px; right: 16px; }
 }
