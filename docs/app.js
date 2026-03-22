@@ -75,7 +75,7 @@ const DOMAIN_TAXONOMY = [
   { name: 'Analytics',           keywords: ['analytics engineer','data analyst','business analyst','bi engineer','business intelligence','analytics'] },
   { name: 'AI Trainer / RLHF',   keywords: ['ai trainer','ai annotator','rlhf','data labeler','annotation'] },
   { name: 'Data Science',        keywords: ['data scientist','data science','statistical','statistician'] },
-  { name: 'Supply Chain / Ops',  keywords: ['supply chain','logistics','operations'] },
+  { name: 'Supply Chain & Commerce', keywords: ['supply chain','logistics','operations','purchasing','sales','buyer','procurement'] },
   { name: 'Software Engineering',keywords: ['software engineer','backend engineer','full stack','fullstack','frontend engineer','developer'] },
   { name: 'DevOps / Cloud',      keywords: ['devops','cloud engineer','platform engineer','infrastructure','kubernetes','docker','sre'] },
   { name: 'Database / DBA',      keywords: ['database engineer','dba','database admin','database administrator','sql developer'] },
@@ -444,8 +444,7 @@ function buildFilterUI() {
 
 function toggleFilter(type,val) {
   activeFilters[type].has(val)?activeFilters[type].delete(val):activeFilters[type].add(val);
-  if (type === 'domain') { buildDomainDropdown(); applyFilters(); }
-  else renderBrowse();
+  renderBrowse();
 }
 function addSourceFilter(s) { activeFilters.sources.clear(); activeFilters.sources.add(s); switchTab('browse'); }
 function clearFilters() {
@@ -701,7 +700,7 @@ const defaultKeywords = [
   "Microsoft Fabric", "ML engineer", "machine learning engineer",
   "MLOps engineer", "AI engineer", "AI trainer", "AI annotator",
   "prompt engineer", "LLM engineer", "generative AI", "AI developer",
-  "NLP engineer"
+  "NLP engineer", "supply chain", "logistics", "purchasing", "sales"
 ];
 if (adminKeywords.length <= 6) {
   adminKeywords = [...defaultKeywords];
