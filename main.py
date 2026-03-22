@@ -18,7 +18,7 @@ from scrapers.group_c_turing import TuringScraper
 from scrapers.group_d_weworkremotely import WeWorkRemotelyScraper
 from processor.filter import apply_filters
 from processor.dedup import load_existing_jobs, find_new_jobs, merge_and_save
-from enricher.gemini import enrich_jobs
+from enricher.gemini import enrich_jobs_batch
 
 
 def load_config() -> dict:
@@ -70,7 +70,7 @@ def main():
 
     if new_jobs:
         # Optional: enrich with Gemini (silently skips if no API key)
-        new_jobs = enrich_jobs(new_jobs)
+        new_jobs = enrich_jobs_batch(new_jobs)
 
         count = merge_and_save(new_jobs, existing)
         print(f"\n[main] ✅ Saved {count} new jobs to data/jobs.json")
