@@ -780,9 +780,16 @@ const defaultKeywords = [
   "tối ưu tồn kho", "điều phối logistics", "quản lý kho",
   "thông quan", "phân tích chuỗi cung ứng"
 ];
-if (adminKeywords.length <= 6) {
+if (adminKeywords.length < 30) {
   adminKeywords = [...defaultKeywords];
   localStorage.setItem('admin_keywords', JSON.stringify(adminKeywords));
+}
+
+function adminResetKeywords() {
+  if (!confirm("Reset all keywords to default?")) return;
+  adminKeywords = [...defaultKeywords];
+  localStorage.setItem('admin_keywords', JSON.stringify(adminKeywords));
+  renderAdminKeywords();
 }
 
 function initAdmin() {

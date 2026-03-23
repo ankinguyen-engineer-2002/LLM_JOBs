@@ -189,7 +189,10 @@
     <!-- Right: Keywords & Trigger -->
     <div>
       <div class="card" style="padding:24px;margin-bottom:24px">
-        <h3 style="font-family:var(--font-display);font-size:18px;margin-bottom:16px;display:flex;align-items:center;gap:8px"><i data-lucide="key"></i> Keyword Management</h3>
+        <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:16px">
+          <h3 style="font-family:var(--font-display);font-size:18px;display:flex;align-items:center;gap:8px"><i data-lucide="key"></i> Keyword Management</h3>
+          <button onclick="adminResetKeywords()" style="background:none;border:none;color:var(--text-faint);cursor:none;font-family:var(--font-mono);font-size:10px;text-transform:uppercase;letter-spacing:0.1em;border-bottom:1px dashed var(--border);transition:color 0.2s" onmouseover="this.style.color='var(--text)'" onmouseout="this.style.color='var(--text-faint)'">Reset Defaults</button>
+        </div>
         <p style="color:var(--text-dim);font-size:13px;margin-bottom:16px">Add or remove target keywords. These will be used in the next scrape.</p>
         <div style="display:flex;gap:8px;margin-bottom:16px">
           <input type="text" id="admin-kw-input" class="search-input" style="flex:1" placeholder="Add new keyword..." onkeypress="if(event.key==='Enter') adminAddKeyword()">
