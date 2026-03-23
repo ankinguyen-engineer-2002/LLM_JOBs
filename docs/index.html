@@ -298,6 +298,32 @@
 <aside id="detail-panel" class="detail-panel"><div style="padding:28px" id="detail-content"></div></aside>
 
 <script src="app.js?v=20260324"></script>
+
+<!-- ADMIN LOGIN MODAL -->
+<div id="admin-login-modal" style="display:none;position:fixed;inset:0;z-index:900;background:rgba(7,7,9,0.96);backdrop-filter:blur(20px);align-items:center;justify-content:center;flex-direction:column">
+  <div style="position:absolute;inset:0;background-image:linear-gradient(rgba(99,200,255,0.02) 1px,transparent 1px),linear-gradient(90deg,rgba(99,200,255,0.02) 1px,transparent 1px);background-size:40px 40px;pointer-events:none"></div>
+  <div style="position:relative;width:100%;max-width:400px;padding:20px">
+    <div style="background:var(--surface);border:1px solid rgba(99,200,255,0.2);padding:40px;position:relative;box-shadow:0 0 80px rgba(99,200,255,0.08)">
+      <div style="position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--accent),var(--accent2),var(--accent3))"></div>
+      <div style="text-align:center;margin-bottom:32px">
+        <div style="font-family:var(--font-mono);font-size:10px;color:var(--accent);letter-spacing:0.2em;text-transform:uppercase;margin-bottom:12px">[ RESTRICTED AREA ]</div>
+        <h2 style="font-family:var(--font-display);font-size:28px;font-weight:800;letter-spacing:-0.03em">Admin Access</h2>
+        <p style="font-family:var(--font-mono);font-size:11px;color:var(--text-dim);margin-top:8px">Enter credentials to continue</p>
+      </div>
+      <div style="margin-bottom:16px">
+        <p style="font-family:var(--font-mono);font-size:10px;color:var(--text-faint);letter-spacing:0.1em;text-transform:uppercase;margin-bottom:6px">Username</p>
+        <input type="text" id="login-username" class="search-input" style="padding-left:16px" placeholder="admin" autocomplete="off" onkeydown="if(event.key==='Enter')document.getElementById('login-password').focus()">
+      </div>
+      <div style="margin-bottom:24px">
+        <p style="font-family:var(--font-mono);font-size:10px;color:var(--text-faint);letter-spacing:0.1em;text-transform:uppercase;margin-bottom:6px">Password</p>
+        <input type="password" id="login-password" class="search-input" style="padding-left:16px" placeholder="••••••••" onkeydown="if(event.key==='Enter')adminLogin()">
+      </div>
+      <div id="login-error" style="display:none;margin-bottom:16px;padding:10px 14px;background:rgba(239,68,68,0.1);border:1px solid rgba(239,68,68,0.3);font-family:var(--font-mono);font-size:11px;color:#ef4444"></div>
+      <button onclick="adminLogin()" style="width:100%;padding:14px;background:var(--accent);color:var(--bg);border:none;font-family:var(--font-mono);font-size:12px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;cursor:none;transition:box-shadow 0.2s" onmouseover="this.style.boxShadow='0 0 30px rgba(99,200,255,0.4)'" onmouseout="this.style.boxShadow='none'">Authenticate →</button>
+      <p style="font-family:var(--font-mono);font-size:9px;color:var(--text-faint);text-align:center;margin-top:16px;letter-spacing:0.06em">Default: admin / radar2026</p>
+    </div>
+  </div>
+</div>
 </body>
 </html>
 /* redeploy 202603221102 */

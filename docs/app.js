@@ -135,6 +135,55 @@ Return ONLY a valid JSON array of strings, nothing else. Example: ["Data Enginee
   } catch(e) { return null; }
 }
 
+// === ADMIN AUTH ===
+const ADMIN_DEFAULT_USER = 'admin';
+const ADMIN_DEFAULT_PASS = 'radar2026';
+
+function isAdminAuthed() {
+  return sessionStorage.getItem('admin_authed') === '1';
+}
+
+function showAdminLoginModal() {
+  const modal = document.getElementById('admin-login-modal');
+  modal.style.display = 'flex';
+  setTimeout(() => {
+    const u = document.getElementById('login-username');
+    if (u) u.focus();
+  }, 100);
+}
+
+function adminLogin() {
+  const user = (document.getElementById('login-username').value || '').trim();
+  const pass = (document.getElementById('login-password').value || '');
+  const expectedUser = localStorage.getItem('admin_user') || ADMIN_DEFAULT_USER;
+  const expectedPass = localStorage.getItem('admin_pass') || ADMIN_DEFAULT_PASS;
+  const errEl = document.getElementById('login-error');
+
+  if (user === expectedUser && pass === expectedPass) {
+    sessionStorage.setItem('admin_authed', '1');
+    document.getElementById('admin-login-modal').style.display = 'none';
+    document.getElementById('login-password').value = '';
+    errEl.style.display = 'none';
+    // Navigate to admin tab
+    const tabs = document.querySelectorAll('.tab-section');
+    tabs.forEach(s => s.classList.add('hidden'));
+    document.getElementById('tab-admin').classList.remove('hidden');
+    document.querySelectorAll('.tab-btn[data-tab]').forEach(b => b.classList.toggle('active', b.dataset.tab === 'admin'));
+    localStorage.setItem('lastTab', 'admin');
+    initAdmin();
+    lucide.createIcons();
+    setTimeout(setupCursorHovers, 100);
+  } else {
+    errEl.textContent = '⚠ Invalid credentials. Try again.';
+    errEl.style.display = 'block';
+    document.getElementById('login-password').value = '';
+    document.getElementById('login-password').focus();
+    // Shake animation
+    errEl.style.animation = 'none';
+    setTimeout(() => { errEl.style.animation = ''; }, 10);
+  }
+}
+
 // === INIT ===
 async function init() {
   try {
@@ -165,7 +214,8 @@ async function init() {
   if (allJobs.length && allJobs[0].scraped_at) {
     document.getElementById('last-updated').textContent = 'Updated ' + timeAgo(allJobs[0].scraped_at);
   }
-  switchTab(localStorage.getItem('lastTab') || 'dashboard');
+  const lastTab = localStorage.getItem('lastTab') || 'dashboard';
+  switchTab(lastTab === 'admin' && !isAdminAuthed() ? 'dashboard' : lastTab);
   updateSavedBadge();
   lucide.createIcons();
   setupCursorHovers();
@@ -174,6 +224,11 @@ async function init() {
 
 // === TABS ===
 function switchTab(name) {
+  // Gate admin tab
+  if (name === 'admin' && !isAdminAuthed()) {
+    showAdminLoginModal();
+    return;
+  }
   document.querySelectorAll('.tab-section').forEach(s => s.classList.add('hidden'));
   const el = document.getElementById('tab-' + name);
   if (el) el.classList.remove('hidden');
