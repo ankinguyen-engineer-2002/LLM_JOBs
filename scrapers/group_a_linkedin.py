@@ -33,9 +33,6 @@ TECH_KEYWORDS = [
 class LinkedInScraper(BaseJobScraper):
     source_name = "linkedin"
 
-    # Keyword batches to stay under timeout
-    MAX_KEYWORDS = 6
-
     def scrape(self, keywords: list[str], max_results: int = 50) -> list[Job]:
         if not JOBSPY_AVAILABLE:
             print("[linkedin] python-jobspy not installed — skipping")
@@ -44,16 +41,15 @@ class LinkedInScraper(BaseJobScraper):
         all_jobs = []
         seen_urls = set()
 
-        limited_kws = keywords[:self.MAX_KEYWORDS]
-
-        for keyword in limited_kws:
+        # Scrape ALL keywords — no cap
+        for keyword in keywords:
             # Global search (no location restriction)
             time.sleep(random.uniform(2, 4))
             try:
                 df = scrape_jobs(
                     site_name=["linkedin"],
                     search_term=keyword,
-                    results_wanted=min(max_results, 25),
+                    results_wanted=40,  # deeper: 40 results/keyword global
                     hours_old=720,  # 30 days
                     description_format="markdown",
                 )
@@ -69,7 +65,7 @@ class LinkedInScraper(BaseJobScraper):
                     site_name=["linkedin"],
                     search_term=keyword,
                     is_remote=True,
-                    results_wanted=min(max_results, 25),
+                    results_wanted=30,  # deeper: 30 results/keyword remote
                     hours_old=720,  # 30 days
                     description_format="markdown",
                 )
@@ -105,7 +101,7 @@ class LinkedInScraper(BaseJobScraper):
                 salary=salary,
                 job_type=str(row.get("job_type", "N/A") or "N/A").lower(),
                 tags=self._extract_tags(str(row.get("description", "") or "")),
-                description_snippet=str(row.get("description", "") or "")[:300],
+                description_snippet=str(row.get("description", "") or "")[:500],
                 posted_date=str(row.get("date_posted", "") or "")[:10],
                 scraped_at=datetime.now().isoformat(),
                 first_seen=datetime.now().isoformat(),

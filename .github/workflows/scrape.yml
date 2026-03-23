@@ -2,11 +2,20 @@ name: Scrape Jobs
 
 on:
   schedule:
-    # 3 times daily — ICT (UTC+7)
+    # Every 2 hours — ICT (UTC+7)
     - cron: '0 0 * * *'    # 07:00 ICT
-    - cron: '0 7 * * *'    # 14:00 ICT
-    - cron: '0 13 * * *'   # 20:00 ICT
-  workflow_dispatch:         # allow manual trigger from GitHub UI
+    - cron: '0 2 * * *'    # 09:00 ICT
+    - cron: '0 4 * * *'    # 11:00 ICT
+    - cron: '0 6 * * *'    # 13:00 ICT
+    - cron: '0 8 * * *'    # 15:00 ICT
+    - cron: '0 10 * * *'   # 17:00 ICT
+    - cron: '0 12 * * *'   # 19:00 ICT
+    - cron: '0 14 * * *'   # 21:00 ICT
+    - cron: '0 16 * * *'   # 23:00 ICT
+    - cron: '0 18 * * *'   # 01:00 ICT
+    - cron: '0 20 * * *'   # 03:00 ICT
+    - cron: '0 22 * * *'   # 05:00 ICT
+  workflow_dispatch:         # allow manual trigger from GitHub UI or web UI
 
 jobs:
   scrape:

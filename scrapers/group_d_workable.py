@@ -16,7 +16,7 @@ class WorkableScraper(BaseJobScraper):
 
     API_URL = "https://jobs.workable.com/api/v1/jobs"
     PER_PAGE = 5        # Workable returns 5 jobs per page (fixed)
-    MAX_PAGES = 10      # Max pages per keyword (5 × 10 = 50 jobs/keyword)
+    MAX_PAGES = 20      # Deep scrape: 20 pages per keyword (5 × 20 = 100 jobs/keyword)
 
     def scrape(self, keywords: list[str], max_results: int = 200) -> list[Job]:
         jobs = []
@@ -93,7 +93,7 @@ class WorkableScraper(BaseJobScraper):
 
                         # Description snippet
                         desc_html = j.get("description", "")
-                        desc_text = strip_html(desc_html)[:300] if desc_html else ""
+                        desc_text = strip_html(desc_html)[:500] if desc_html else ""
 
                         # Employment type
                         emp_type = j.get("employmentType", "N/A")
@@ -132,11 +132,7 @@ class WorkableScraper(BaseJobScraper):
                     print(f"[workable] Error on '{kw}' page {pages+1}: {e}")
                     break
 
-            kw_count = sum(1 for j in jobs if j.title)  # rough count
             print(f"[workable] '{kw}': found {len(seen_ids)} total unique so far")
-
-            if len(jobs) >= max_results:
-                break
 
             time.sleep(0.5)
 

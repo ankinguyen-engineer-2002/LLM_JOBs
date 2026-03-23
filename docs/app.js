@@ -715,6 +715,13 @@ function initAdmin() {
   // Pre-fill Gemini API key
   const keyEl = document.getElementById('admin-gemini-key');
   if (keyEl) keyEl.value = localStorage.getItem('gemini_api_key') || '';
+  // Pre-fill GitHub config
+  const ownerEl = document.getElementById('admin-gh-owner');
+  const repoEl  = document.getElementById('admin-gh-repo');
+  const tokenEl = document.getElementById('admin-gh-token');
+  if (ownerEl) ownerEl.value = localStorage.getItem('github_owner') || '';
+  if (repoEl)  repoEl.value  = localStorage.getItem('github_repo')  || '';
+  if (tokenEl) tokenEl.value = localStorage.getItem('github_token') || '';
 }
 
 async function adminRefreshDomains() {
@@ -818,43 +825,135 @@ function adminResetKeywords() {
 }
 
 let adminScraping = false;
-function adminTriggerScrape() {
+let scrapeStatusPollInterval = null;
+
+// === GITHUB ACTIONS TRIGGER ===
+async function adminTriggerScrape() {
   if (adminScraping) return;
-  adminScraping = true;
+
+  const token = localStorage.getItem('github_token') || '';
+  const owner = localStorage.getItem('github_owner') || '';
+  const repo  = localStorage.getItem('github_repo')  || '';
+
   const t = document.getElementById('admin-terminal');
   t.style.display = 'block';
-  t.innerHTML = `<span style="color:var(--text-dim)">[ENGINE]</span> Force-dispatching pipeline sequence...\n`;
-  
+
+  if (!token || !owner || !repo) {
+    t.innerHTML = `<span style="color:#ef4444">[ERROR]</span> Missing GitHub config.\n` +
+      `<span style="color:var(--text-dim)">→ Fill in Owner, Repo, and Token fields below first.</span>\n`;
+    return;
+  }
+
+  adminScraping = true;
   const b = document.getElementById('admin-trigger-btn');
   b.style.opacity = '0.5';
-  b.innerHTML = `<i data-lucide="loader" style="width:14px;height:14px;margin-right:8px;animation:spin 1s linear infinite"></i> Engine Running...`;
+  b.innerHTML = `<i data-lucide="loader" style="width:14px;height:14px;margin-right:8px;animation:spin 1s linear infinite"></i> Triggering...`;
   lucide.createIcons();
-  
-  const srcs = Object.keys(SRC);
-  let step = 0;
-  const iv = setInterval(() => {
-    if (step < srcs.length) {
-      const s = srcs[step++];
-      const r = Math.floor(Math.random() * 40);
-      t.innerHTML += `<span style="color:var(--accent3)">[${SRC[s]?.label||s}]</span> Scanned remote nodes... Extracted ${r} raw datasets.\n`;
-      t.scrollTop = t.scrollHeight;
+
+  t.innerHTML = `<span style="color:var(--text-dim)">[GITHUB]</span> Dispatching workflow to <span style="color:var(--accent)">${owner}/${repo}</span>...\n`;
+
+  try {
+    const resp = await fetch(
+      `https://api.github.com/repos/${owner}/${repo}/actions/workflows/scrape.yml/dispatches`,
+      {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${token}`,
+          'Accept': 'application/vnd.github+json',
+          'Content-Type': 'application/json',
+          'X-GitHub-Api-Version': '2022-11-28'
+        },
+        body: JSON.stringify({ ref: 'main' })
+      }
+    );
+
+    if (resp.status === 204) {
+      t.innerHTML += `<span style="color:var(--accent)">[SUCCESS]</span> Workflow dispatched! Polling status...\n\n`;
+      pollScrapeStatus(owner, repo, token, t);
     } else {
-      clearInterval(iv);
-      setTimeout(() => {
-        t.innerHTML += `\n<span style="color:var(--accent)">[GEMINI]</span> Commencing payload enrichment protocols...\n`;
-        t.scrollTop = t.scrollHeight;
-        setTimeout(() => {
-          t.innerHTML += `\n<span style="color:#0f0">[COMPLETE]</span> Pipeline operation finalized. Database appended (+${Math.floor(Math.random()*15)} entities).\n`;
-          t.scrollTop = t.scrollHeight;
-          adminScraping = false;
-          b.style.opacity = '1';
-          b.innerHTML = `<i data-lucide="play" style="width:14px;height:14px;margin-right:8px"></i> Scrape Now`;
-          lucide.createIcons();
-        }, 1800);
-      }, 600);
+      const err = await resp.json().catch(() => ({}));
+      t.innerHTML += `<span style="color:#ef4444">[HTTP ${resp.status}]</span> ${err.message || 'Dispatch failed'}\n`;
+      t.innerHTML += `<span style="color:var(--text-dim)">→ Check your token has 'Actions: write' permission.</span>\n`;
+      resetTriggerBtn();
     }
-  }, 350);
+  } catch (e) {
+    t.innerHTML += `<span style="color:#ef4444">[NETWORK ERROR]</span> ${e.message}\n`;
+    resetTriggerBtn();
+  }
 }
+
+async function pollScrapeStatus(owner, repo, token, t) {
+  if (scrapeStatusPollInterval) clearInterval(scrapeStatusPollInterval);
+  let attempts = 0;
+  const MAX_POLLS = 30; // Poll for up to 5 minutes
+
+  scrapeStatusPollInterval = setInterval(async () => {
+    attempts++;
+    if (attempts > MAX_POLLS) {
+      clearInterval(scrapeStatusPollInterval);
+      t.innerHTML += `<span style="color:var(--text-dim)">[TIMEOUT]</span> Stopped polling after 5 minutes. Check GitHub Actions manually.\n`;
+      resetTriggerBtn();
+      return;
+    }
+
+    try {
+      const resp = await fetch(
+        `https://api.github.com/repos/${owner}/${repo}/actions/runs?workflow_id=scrape.yml&per_page=3`,
+        {
+          headers: {
+            'Authorization': `Bearer ${token}`,
+            'Accept': 'application/vnd.github+json',
+            'X-GitHub-Api-Version': '2022-11-28'
+          }
+        }
+      );
+      const data = await resp.json();
+      const runs = data.workflow_runs || [];
+      const latest = runs[0];
+      if (!latest) return;
+
+      const status   = latest.status;   // queued, in_progress, completed
+      const conclusion = latest.conclusion; // success, failure, null
+      const url = latest.html_url;
+
+      // Update last line
+      const lines = t.innerHTML.split('\n').filter(l => !l.includes('[STATUS]'));
+      t.innerHTML = lines.join('\n');
+
+      if (status === 'completed') {
+        clearInterval(scrapeStatusPollInterval);
+        const clr = conclusion === 'success' ? '#0f0' : '#ef4444';
+        const icon = conclusion === 'success' ? '✅' : '❌';
+        t.innerHTML += `<span style="color:${clr}">[STATUS]</span> ${icon} Run ${conclusion.toUpperCase()}\n`;
+        t.innerHTML += `<span style="color:var(--text-dim)">→ <a href="${url}" target="_blank" style="color:var(--accent)">View run on GitHub</a></span>\n`;
+        resetTriggerBtn();
+        // Auto-refresh jobs data
+        if (conclusion === 'success') {
+          setTimeout(() => {
+            t.innerHTML += `\n<span style="color:var(--accent)">[REFRESH]</span> Reload page to see new jobs...\n`;
+          }, 2000);
+        }
+      } else {
+        const statusClr = status === 'in_progress' ? 'var(--accent3)' : 'var(--text-dim)';
+        t.innerHTML += `<span style="color:${statusClr}">[STATUS]</span> ${status.replace('_',' ')} · polling...\n`;
+      }
+      t.scrollTop = t.scrollHeight;
+    } catch(e) {
+      // Silent retry
+    }
+  }, 10000); // Poll every 10s
+}
+
+function resetTriggerBtn() {
+  adminScraping = false;
+  const b = document.getElementById('admin-trigger-btn');
+  if (b) {
+    b.style.opacity = '1';
+    b.innerHTML = `<i data-lucide="play" style="width:14px;height:14px;margin-right:8px"></i> Scrape Now`;
+    lucide.createIcons();
+  }
+}
+
 
 // Boot
 init();

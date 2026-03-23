@@ -10,7 +10,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=Space+Mono:ital,wght@0,400;0,700;1,400&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 <script src="https://unpkg.com/lucide@latest"></script>
-<link rel="stylesheet" href="style.css?v=20260325">
+<link rel="stylesheet" href="style.css?v=20260324">
 </head>
 <body>
 
@@ -210,14 +210,50 @@
       </div>
 
       <div class="card" style="padding:24px">
-        <h3 style="font-family:var(--font-display);font-size:18px;margin-bottom:16px;display:flex;align-items:center;gap:8px"><i data-lucide="zap"></i> Scrape Trigger</h3>
-        <p style="color:var(--text-dim);font-size:13px;margin-bottom:16px">Manually start the scraping engine. Skips if last run was &lt; 1 hour ago unless forced.</p>
+        <h3 style="font-family:var(--font-display);font-size:18px;margin-bottom:8px;display:flex;align-items:center;gap:8px"><i data-lucide="zap"></i> Scrape Trigger</h3>
+        <p style="color:var(--text-dim);font-size:12px;margin-bottom:16px">Trigger a live scrape via GitHub Actions. Requires a <strong style="color:var(--text)">Classic PAT</strong> or <strong style="color:var(--text)">Fine-grained token</strong> with <code style="font-size:10px;padding:1px 4px;background:rgba(255,255,255,0.07);border-radius:3px">Actions: write</code> permission.</p>
+
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:8px">
+          <div>
+            <p style="font-family:var(--font-mono);font-size:10px;color:var(--text-faint);letter-spacing:0.1em;text-transform:uppercase;margin-bottom:4px">Owner</p>
+            <input type="text" id="admin-gh-owner" class="search-input" style="width:100%" placeholder="e.g. ankinguyen-engineer-2002"
+              oninput="localStorage.setItem('github_owner',this.value)" value="">
+          </div>
+          <div>
+            <p style="font-family:var(--font-mono);font-size:10px;color:var(--text-faint);letter-spacing:0.1em;text-transform:uppercase;margin-bottom:4px">Repository</p>
+            <input type="text" id="admin-gh-repo" class="search-input" style="width:100%" placeholder="e.g. LLM_JOBs"
+              oninput="localStorage.setItem('github_repo',this.value)" value="">
+          </div>
+        </div>
+        <div style="margin-bottom:16px">
+          <p style="font-family:var(--font-mono);font-size:10px;color:var(--text-faint);letter-spacing:0.1em;text-transform:uppercase;margin-bottom:4px">GitHub Token</p>
+          <input type="password" id="admin-gh-token" class="search-input" style="width:100%" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx"
+            oninput="localStorage.setItem('github_token',this.value)">
+        </div>
+
         <button class="page-btn" onclick="adminTriggerScrape()" id="admin-trigger-btn" style="width:100%;justify-content:center;border-color:var(--accent2);color:var(--accent2);margin-bottom:16px"><i data-lucide="play" style="width:14px;height:14px;margin-right:8px"></i> Scrape Now</button>
-        <div id="admin-terminal" style="background:rgba(0,0,0,0.5);border:1px solid rgba(255,255,255,0.1);border-radius:6px;padding:12px;font-family:var(--font-mono);font-size:11px;color:var(--accent2);height:150px;overflow-y:auto;white-space:pre-wrap;display:none;box-shadow:inset 0 0 20px rgba(0,0,0,0.8)"></div>
+
+        <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:6px;margin-bottom:16px">
+          <div style="padding:8px;background:var(--bg);border:1px solid var(--border);text-align:center">
+            <p style="font-family:var(--font-mono);font-size:9px;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.1em;margin-bottom:2px">Schedule</p>
+            <p style="font-size:11px;color:var(--accent3)">Every 2h</p>
+          </div>
+          <div style="padding:8px;background:var(--bg);border:1px solid var(--border);text-align:center">
+            <p style="font-family:var(--font-mono);font-size:9px;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.1em;margin-bottom:2px">ICT Times</p>
+            <p style="font-size:11px;color:var(--accent)">01:00 → 23:00</p>
+          </div>
+          <div style="padding:8px;background:var(--bg);border:1px solid var(--border);text-align:center">
+            <p style="font-family:var(--font-mono);font-size:9px;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.1em;margin-bottom:2px">Runs/Day</p>
+            <p style="font-size:11px;color:var(--accent2)">12×</p>
+          </div>
+        </div>
+
+        <div id="admin-terminal" style="background:rgba(0,0,0,0.6);border:1px solid rgba(255,255,255,0.08);border-radius:6px;padding:12px;font-family:var(--font-mono);font-size:11px;color:var(--accent2);height:160px;overflow-y:auto;white-space:pre-wrap;display:none;box-shadow:inset 0 0 20px rgba(0,0,0,0.8)"></div>
       </div>
     </div>
   </div>
 </section>
+
 
 <!-- ============ ABOUT ============ -->
 <section id="tab-about" class="tab-section hidden">
@@ -235,7 +271,7 @@
       <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
         <div style="padding:16px;background:var(--bg);border:1px solid var(--border)">
           <p style="font-family:var(--font-mono);font-size:9px;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.12em;margin-bottom:6px">Schedule</p>
-          <p style="font-size:13px;color:var(--text)">07:00, 14:00, 20:00 ICT</p>
+          <p style="font-size:13px;color:var(--text)">Every 2h — 01:00→23:00 ICT<br><span style="font-family:var(--font-mono);font-size:10px;color:var(--text-faint)">12× daily via GitHub Actions</span></p>
         </div>
         <div style="padding:16px;background:var(--bg);border:1px solid var(--border)">
           <p style="font-family:var(--font-mono);font-size:9px;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.12em;margin-bottom:6px">Tech Stack</p>
@@ -261,7 +297,7 @@
 <div id="backdrop" class="detail-backdrop" onclick="closeDetail()"></div>
 <aside id="detail-panel" class="detail-panel"><div style="padding:28px" id="detail-content"></div></aside>
 
-<script src="app.js?v=20260325"></script>
+<script src="app.js?v=20260324"></script>
 </body>
 </html>
 /* redeploy 202603221102 */
