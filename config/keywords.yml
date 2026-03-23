@@ -3,7 +3,7 @@
 # ============================================================
 # Edit this file to customize what jobs are scraped.
 # Keywords are used by ALL scrapers. Add/remove as needed.
-# The pipeline runs 3x/day — duplicates are automatically skipped.
+# The pipeline runs ~7x/day (every 3.5h) — duplicates are automatically skipped.
 
 search_keywords:
   # === Data Engineering ===
@@ -29,11 +29,59 @@ search_keywords:
   - "generative AI"
   - "AI developer"
   - "NLP engineer"
+
   # === Supply Chain & Commerce ===
   - "supply chain"
   - "logistics"
   - "purchasing"
   - "sales"
+
+  # === Procurement & Sourcing ===
+  - "sourcing"
+  - "strategic sourcing"
+  - "procurement"
+  - "SRM"
+  - "vendor management"
+  - "RFQ"
+  - "RFP"
+
+  # === Planning & Forecasting ===
+  - "demand planning"
+  - "supply planning"
+  - "production scheduling"
+  - "MRP"
+  - "S&OP"
+  - "inventory optimization"
+  - "safety stock"
+
+  # === Logistics & Transportation ===
+  - "WMS"
+  - "TMS"
+  - "inbound logistics"
+  - "outbound logistics"
+  - "last-mile delivery"
+  - "freight forwarding"
+  - "customs clearance"
+
+  # === Supply Chain Analytics ===
+  - "SCM analytics"
+  - "supply chain analytics"
+  - "E2E visibility"
+  - "lead time optimization"
+  - "cost-to-serve"
+
+  # === Vietnamese keywords ===
+  - "tìm kiếm nguồn hàng"
+  - "thu mua"
+  - "quản lý nhà cung cấp"
+  - "lập kế hoạch nhu cầu"
+  - "lập kế hoạch cung ứng"
+  - "điều độ sản xuất"
+  - "tối ưu tồn kho"
+  - "điều phối logistics"
+  - "quản lý kho"
+  - "thông quan"
+  - "phân tích chuỗi cung ứng"
 
 # Filter out jobs with these words in title (case-insensitive)
 title_exclude:

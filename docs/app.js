@@ -752,12 +752,33 @@ function rerender() { switchTab(localStorage.getItem('lastTab')||'dashboard'); }
 // === ADMIN ===
 let adminKeywords = JSON.parse(localStorage.getItem('admin_keywords')) || [];
 const defaultKeywords = [
+  // Data Engineering
   "data engineer", "analytics engineer", "data engineering",
-  "data platform engineer", "ETL engineer", "dbt engineer",
-  "Microsoft Fabric", "ML engineer", "machine learning engineer",
-  "MLOps engineer", "AI engineer", "AI trainer", "AI annotator",
-  "prompt engineer", "LLM engineer", "generative AI", "AI developer",
-  "NLP engineer", "supply chain", "logistics", "purchasing", "sales"
+  "data platform engineer", "ETL engineer", "dbt engineer", "Microsoft Fabric",
+  // Machine Learning
+  "ML engineer", "machine learning engineer", "MLOps engineer",
+  // AI / LLM
+  "AI engineer", "AI trainer", "AI annotator", "prompt engineer",
+  "LLM engineer", "generative AI", "AI developer", "NLP engineer",
+  // Supply Chain & Commerce
+  "supply chain", "logistics", "purchasing", "sales",
+  // Procurement & Sourcing
+  "sourcing", "strategic sourcing", "procurement", "SRM",
+  "vendor management", "RFQ", "RFP",
+  // Planning & Forecasting
+  "demand planning", "supply planning", "production scheduling",
+  "MRP", "S&OP", "inventory optimization", "safety stock",
+  // Logistics & Transportation
+  "WMS", "TMS", "inbound logistics", "outbound logistics",
+  "last-mile delivery", "freight forwarding", "customs clearance",
+  // Supply Chain Analytics
+  "SCM analytics", "supply chain analytics", "E2E visibility",
+  "lead time optimization", "cost-to-serve",
+  // Vietnamese
+  "tìm kiếm nguồn hàng", "thu mua", "quản lý nhà cung cấp",
+  "lập kế hoạch nhu cầu", "lập kế hoạch cung ứng", "điều độ sản xuất",
+  "tối ưu tồn kho", "điều phối logistics", "quản lý kho",
+  "thông quan", "phân tích chuỗi cung ứng"
 ];
 if (adminKeywords.length <= 6) {
   adminKeywords = [...defaultKeywords];
