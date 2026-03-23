@@ -968,13 +968,13 @@ async function adminTriggerScrape() {
 async function pollScrapeStatus(owner, repo, token, t) {
   if (scrapeStatusPollInterval) clearInterval(scrapeStatusPollInterval);
   let attempts = 0;
-  const MAX_POLLS = 30; // Poll for up to 5 minutes
+  const MAX_POLLS = 120; // Poll for up to 20 minutes (10s interval)
 
   scrapeStatusPollInterval = setInterval(async () => {
     attempts++;
     if (attempts > MAX_POLLS) {
       clearInterval(scrapeStatusPollInterval);
-      t.innerHTML += `<span style="color:var(--text-dim)">[TIMEOUT]</span> Stopped polling after 5 minutes. Check GitHub Actions manually.\n`;
+      t.innerHTML += `<span style="color:var(--text-dim)">[TIMEOUT]</span> Stopped polling after 20 minutes. Check GitHub Actions manually.\n`;
       resetTriggerBtn();
       return;
     }
