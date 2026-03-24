@@ -1,5 +1,113 @@
 [
   {
+    "id": "042fce71c1a9756a",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/knack-senior-frontend-engineer-react-next-js-full-time-contract",
+    "title": "Senior Frontend Engineer (React / Next.js) — Full-Time, Contract",
+    "company": "Knack",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "front-end programming"
+    ],
+    "description_snippet": "Headquarters: US URL: https://knack.com About Knack Knack &nbsp;is an AI-powered no-code software development platform enabling organizations to manage, analyze, and share business data. The no-code market is growing at over 30% annually and projected to be almost $200B by 2030. Founded in 2012, Kna",
+    "posted_date": "2026-03-24",
+    "scraped_at": "2026-03-24T21:08:59.612321",
+    "first_seen": "2026-03-24T21:08:59.612330"
+  },
+  {
+    "id": "d9c192897594b1e3",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/action1-senior-product-manager-endpoint-management-patching",
+    "title": "Senior Product Manager - Endpoint Management & Patching",
+    "company": "Action1",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: United States About Action1 Action1 is an autonomous endpoint management platform trusted by many Fortune 500 companies. Cloud-native, infinitely scalable, highly secure, and configurable in 5 minutes—it just works and is always free for the first 200 endpoints, with no functional limi",
+    "posted_date": "2026-03-24",
+    "scraped_at": "2026-03-24T21:08:59.175771",
+    "first_seen": "2026-03-24T21:08:59.175774"
+  },
+  {
+    "id": "b42314d1ae36557b",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/jobgether-instructional-design-lead-remote",
+    "title": "Instructional Design Lead (Remote)",
+    "company": "Jobgether",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Philippines This position is posted by Jobgether on behalf of a partner company. We are currently looking for a Instructional Designer - REMOTE. In this role, you will be responsible for designing, delivering, and maintaining high-quality learning experiences that enable customers and ",
+    "posted_date": "2026-03-24",
+    "scraped_at": "2026-03-24T21:08:59.174912",
+    "first_seen": "2026-03-24T21:08:59.174921"
+  },
+  {
+    "id": "13c6b6422098eb50",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/140508-accounts-payable-vendor-management-officer-xero-work-from-home-dayshift",
+    "title": "Accounts Payable & Vendor Management Officer | Xero – Work from home/Dayshift",
+    "company": "Twoconnect",
+    "location": "Philippines",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance &amp; accounting"
+    ],
+    "description_snippet": "Position Outline The Accounts Payable Officer is responsible for the end-to-end processing and control of accounts payable, vendor onboarding and compliance, and corporate credit card transactions. The role supports the Senior Accountant by ensuring supplier payments, records, and reconciliations ar",
+    "posted_date": "2026-03-11",
+    "scraped_at": "2026-03-24T21:04:28.139906",
+    "first_seen": "2026-03-24T21:04:28.139915"
+  },
+  {
+    "id": "8749435bc5ecf997",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/141126-salesforce-administrator-app-builder",
+    "title": "Salesforce Administrator (App Builder)",
+    "company": "UCAS",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops &amp; infrastructure"
+    ],
+    "description_snippet": "General information Reference 002118 Publication start date 23/03/2026 Publication end date 07/04/2026 Post Description Salesforce Administrator (App Builder) Vacancy location Location South West, Gloucestershire, Rosehill - Hybrid Vacancy details Job Profile Digital Services - Technical Teams Title",
+    "posted_date": "2026-03-24",
+    "scraped_at": "2026-03-24T21:04:25.833780",
+    "first_seen": "2026-03-24T21:04:25.833782"
+  },
+  {
+    "id": "675c4e269c572004",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/141127-salesforce-developer",
+    "title": "Salesforce Developer",
+    "company": "UCAS",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "programming"
+    ],
+    "description_snippet": "General information Reference 002116 Publication start date 23/03/2026 Publication end date 07/04/2026 Post Description Salesforce Developer Vacancy location Location South West, Gloucestershire, Rosehill - Hybrid Vacancy details Job Profile Digital Services - Technical Teams Title Salesforce Develo",
+    "posted_date": "2026-03-24",
+    "scraped_at": "2026-03-24T21:04:25.833531",
+    "first_seen": "2026-03-24T21:04:25.833540"
+  },
+  {
     "id": "5e0adda32eace154",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/141150-account-manager-senior-scm-wms-scp-nexus",
