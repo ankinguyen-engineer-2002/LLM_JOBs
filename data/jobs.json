@@ -1,5 +1,41 @@
 [
   {
+    "id": "293ddcff6416ff1e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c950864331846b00",
+    "title": "Power Plant Gas Turbine Engineer - Monitoring and Diagnostic Analysis",
+    "company": "Hanwha Power",
+    "location": "Houston, TX, USA",
+    "is_remote": false,
+    "salary": "USD 130,000 – 190,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "scala"
+    ],
+    "description_snippet": "**Job Summary**\n\nGas Turbine Power Plant Monitoring Shift Engineer\n\n**Location:** Jupiter, Florida or Houston Energy Corridor Area (Hybrid: 50% Home / 50% In-Office) **Employment Type:** Full-Time, Hourly (Non-Exempt)\n\n**Position Overview** We are an industry-leading aftermarket energy services prov",
+    "posted_date": "2026-09-24",
+    "scraped_at": "2026-10-10T23:44:21.387508",
+    "first_seen": "2026-10-10T23:44:21.387510"
+  },
+  {
+    "id": "f6ef30a49d7edddd",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=e43df5955f0d196a",
+    "title": "Senior propulsion and instrumentation specialist/CTO",
+    "company": "ZEPHYR-1 AEROSPACE INC.(ENTITY UNDER FORMATION)",
+    "location": "Van Buren, MO, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python"
+    ],
+    "description_snippet": "**Job Overview**\n\nWe are seeking a highly skilled and visionary Senior Propulsion and Instrumentation Specialist/Chief Technology Officer (CTO) to lead our advanced propulsion systems and instrumentation development initiatives. This pivotal role combines technical expertise with strategic leadershi",
+    "posted_date": "2026-09-29",
+    "scraped_at": "2026-10-10T23:44:21.387219",
+    "first_seen": "2026-10-10T23:44:21.387221"
+  },
+  {
     "id": "862061bf84e0f26e",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/154961-appsec-sales-engineer",
