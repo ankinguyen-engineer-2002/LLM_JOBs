@@ -1,5 +1,24 @@
 [
   {
+    "id": "0cd8593f5b86870d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=39d372aedccf2ec7",
+    "title": "Senior SCADA / Software Engineer",
+    "company": "Archon Systems Integration, LLC",
+    "location": "Carlsbad, NM, USA",
+    "is_remote": false,
+    "salary": "USD 65 – 75/hourly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql"
+    ],
+    "description_snippet": "**Senior SCADA / Software Engineer**\n\n**Pay:** $65.00–$75.00 per hour  \n**Schedule:** Full-Time | 40–60 hours per week  \n**Travel:** Approximately 25%  \n**Work Location:** 75% Remote / 25% On-Site Project Support\n\n**Position Overview**\n\nArchon Systems Integration is seeking a Senior SCADA / Software",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-10-11T16:26:15.753755",
+    "first_seen": "2026-10-11T16:26:15.753757"
+  },
+  {
     "id": "3d71dbb06e6ee9f9",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/155048-platform-engineering",
