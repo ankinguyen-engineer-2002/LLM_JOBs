@@ -1,5 +1,48 @@
 [
   {
+    "id": "1d9856ea69c048b6",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b618cf47fa595102",
+    "title": "Data Engineer",
+    "company": "The Amatriot Group",
+    "location": "Norfolk, VA, USA",
+    "is_remote": false,
+    "salary": "USD 145,000 – 165,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "power bi",
+      "data engineering",
+      "databricks",
+      "synapse",
+      "data warehouse",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**Clearance:** Secret Clearance  \n**Location:** Norfolk, VA  \n**Job Type:** Full-Time\n  \n**Target Salary Range\\*:**$145,000 - $165,000  \n*\\*This represents the potential salary range for this position depending on education level, years of experience and/or certifications in addition to other positi",
+    "posted_date": "2026-09-21",
+    "scraped_at": "2026-10-11T23:49:28.571478",
+    "first_seen": "2026-10-11T23:49:28.571479"
+  },
+  {
+    "id": "f58b28f1f3cc93e9",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=a175194bd9f31345",
+    "title": "Principal Data Center Facilities Engineer",
+    "company": "Rollout AI - San Francisco Managed IT Services Company",
+    "location": "San Francisco, CA, USA",
+    "is_remote": false,
+    "salary": "USD 150,000 – 195,000/yearly",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "Job Description\n\nRollout AI is seeking an experienced Principal Data Center Facilities Engineer to support the design, operation, and optimization of mission-critical data center facilities. This role focuses on infrastructure reliability, power and cooling systems, facility performance, and enginee",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T23:49:28.568081",
+    "first_seen": "2026-10-11T23:49:28.568085"
+  },
+  {
     "id": "d7484d96b12a1f73",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=777e233f361c26db",
