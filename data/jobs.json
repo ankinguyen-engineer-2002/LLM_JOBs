@@ -1,5 +1,160 @@
 [
   {
+    "id": "3d71dbb06e6ee9f9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155048-platform-engineering",
+    "title": "Platform Engineering",
+    "company": "Polar",
+    "location": "Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Platform Engineering at Polar Platform engineering at Polar is about building and evolving the systems that power our product – keeping them fast, resilient and simple as we scale. We’re rethinking how billing works for a world of usage-based software, programmable pricing and AI agents – from real-",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T13:54:36.296514",
+    "first_seen": "2026-10-11T13:54:36.296516"
+  },
+  {
+    "id": "5a7d630f67b70805",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155049-community-manager-french-speaking-contract",
+    "title": "Community Manager, French Speaking (Contract)",
+    "company": "Reddit",
+    "location": "Ireland,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T13:54:36.296348",
+    "first_seen": "2026-10-11T13:54:36.296350"
+  },
+  {
+    "id": "abd37c0ab85cd3ac",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155056-staff-machine-learning-engineer-ads-foundational-representations",
+    "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
+    "company": "Reddit",
+    "location": "Netherlands,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T13:54:36.296148",
+    "first_seen": "2026-10-11T13:54:36.296163"
+  },
+  {
+    "id": "f0c52dde90ca2218",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7a6d50e7bf01da20",
+    "title": "Environmental Qualification Engineer",
+    "company": "Schneller",
+    "location": "Vergennes, VT, USA",
+    "is_remote": false,
+    "salary": "USD 105,000 – 135,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "rust"
+    ],
+    "description_snippet": "**Build What's Next in Aerospace**\n\nFor nearly a century, Simmonds Precision has been helping shape the future of flight from our home in Vergennes, Vermont. Today, our technologies are trusted across hundreds of commercial and military aircraft platforms worldwide, helping aircraft operate safely, ",
+    "posted_date": "2026-09-28",
+    "scraped_at": "2026-10-11T13:54:23.696702",
+    "first_seen": "2026-10-11T13:54:23.696704"
+  },
+  {
+    "id": "6c439542c1c92012",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b57600eef0dc4be3",
+    "title": "Motorsports Aerodynamics Engineer",
+    "company": "Ford Motor Company",
+    "location": "Allen Park, MI, USA",
+    "is_remote": false,
+    "salary": "USD 65,100 – 166,200/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "pandas"
+    ],
+    "description_snippet": "**Overview**\n------------\n\nAt Ford, you’ll work on ideas that matter, alongside passionate people who want to make a global impact. Together, we’re shaping the next era of transportation—grounded in purpose, driven by progress. Make your move.\n\n* Job Type: Full time\n* Work Type: Hybrid\n\n  \n\nRacing i",
+    "posted_date": "2026-10-05",
+    "scraped_at": "2026-10-11T13:54:23.694907",
+    "first_seen": "2026-10-11T13:54:23.694909"
+  },
+  {
+    "id": "1d9721677fc96cc9",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=6e495f80093a69a1",
+    "title": "Robotics Engineer",
+    "company": "Material in Motion Inc",
+    "location": "Fairburn, GA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python"
+    ],
+    "description_snippet": "**Robotics Engineer**\n\n**Fairburn, GA** **Material in Motion**\n\n**Employment Type**\n\nFull-Time\n\nMaterial in Motion is looking for a Robotics Engineer to be part of the R&D technical team with responsibility for developing new assembly methods using advanced technology and processes.\n\nThe Robotics En",
+    "posted_date": "2026-10-05",
+    "scraped_at": "2026-10-11T13:54:23.694565",
+    "first_seen": "2026-10-11T13:54:23.694566"
+  },
+  {
+    "id": "c76b69763ed82c55",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=8872ffc1b7f8c09a",
+    "title": "Microsoft Modern Work Engineer",
+    "company": "Continental Resources, Inc",
+    "location": "Bedford, MA, USA",
+    "is_remote": false,
+    "salary": "USD 155,000 – 175,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "azure",
+      "power bi",
+      "scala",
+      "llm"
+    ],
+    "description_snippet": "ConRes is seeking an experienced Microsoft Modern Work Engineer to deliver Microsoft 365, endpoint, security, collaboration, and infrastructure solutions.\n\nThe ideal candidate has hands-on experience with Microsoft Modern Work technologies and strong expertise in SCCM/MECM, Hyper-V, and SCVMM.\n\nThis",
+    "posted_date": "2026-09-15",
+    "scraped_at": "2026-10-11T13:54:18.769382",
+    "first_seen": "2026-10-11T13:54:18.769383"
+  },
+  {
+    "id": "40b1252ad0907ba5",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=583387f8c61d39de",
+    "title": "Lead Backup & Recovery Engineer (Remote)",
+    "company": "Ferguson",
+    "location": "Richmond, VA, USA",
+    "is_remote": true,
+    "salary": "USD 6,805 – 11,921/monthly",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "azure",
+      "aws",
+      "gcp",
+      "postgres",
+      "kubernetes",
+      "scala"
+    ],
+    "description_snippet": "**Job Posting:**\n\nSince 1953, Ferguson has been a source of quality supplies for a variety of industries. Together We Build Better infrastructure, better homes and better businesses. We exist to make our customers’ complex projects simple, successful, and sustainable. We proactively solve problems, ",
+    "posted_date": "2026-09-24",
+    "scraped_at": "2026-10-11T13:54:18.766689",
+    "first_seen": "2026-10-11T13:54:18.766690"
+  },
+  {
     "id": "41da52832854d4ae",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
