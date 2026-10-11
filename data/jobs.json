@@ -1,5 +1,1010 @@
 [
   {
+    "id": "41da52832854d4ae",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
+    "title": "Software Engineer, Backend",
+    "company": "Vercel",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our ",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:20:37.595775",
+    "first_seen": "2026-10-11T10:20:37.595777"
+  },
+  {
+    "id": "815607769807de41",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
+    "title": "Software Engineer - Data Platform",
+    "company": "Vercel",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote - United States About Vercel: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our ",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:20:37.595462",
+    "first_seen": "2026-10-11T10:20:37.595473"
+  },
+  {
+    "id": "3179c34f50a3648b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150359-customer-success-manager-12",
+    "title": "Customer Success Manager",
+    "company": "TRM Labs",
+    "location": "EMEA,  Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and ",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:22.725108",
+    "first_seen": "2026-10-11T10:16:22.725109"
+  },
+  {
+    "id": "ad8e0030c3812edb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150361-embedded-linux-consultant-japan",
+    "title": "Embedded Linux Consultant - Japan",
+    "company": "Canonical",
+    "location": "Japan",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Job Description Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our ",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:22.190794",
+    "first_seen": "2026-10-11T10:16:22.190796"
+  },
+  {
+    "id": "110f73bb76f21394",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150363-partner-sales-manager-hewlett-packard-enterprise-india",
+    "title": "Partner Sales Manager - Hewlett Packard Enterprise, India",
+    "company": "Canonical",
+    "location": "APAC",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:22.190565",
+    "first_seen": "2026-10-11T10:16:22.190573"
+  },
+  {
+    "id": "672942d7956841d4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150367-partner-sales-manager-dell",
+    "title": "Partner Sales Manager - Dell",
+    "company": "Canonical",
+    "location": "APAC,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.150632",
+    "first_seen": "2026-10-11T10:16:21.150633"
+  },
+  {
+    "id": "eae5096dfb9ef71c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150368-regional-hr-manager-emea",
+    "title": "Regional HR Manager - EMEA",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.150463",
+    "first_seen": "2026-10-11T10:16:21.150465"
+  },
+  {
+    "id": "43be4fe4a3eda055",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150369-junior-project-manager",
+    "title": "Junior Project Manager",
+    "company": "Canonical",
+    "location": "APAC,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.150288",
+    "first_seen": "2026-10-11T10:16:21.150289"
+  },
+  {
+    "id": "2aaa5ed11a553da6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150373-project-manager-ubuntu-embedded-systems",
+    "title": "Project Manager - Ubuntu Embedded Systems",
+    "company": "Canonical",
+    "location": "APAC",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.150124",
+    "first_seen": "2026-10-11T10:16:21.150125"
+  },
+  {
+    "id": "6f24a0b27e22f17d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/145652-senior-product-manager-smart-metering-steering-m-f-d",
+    "title": "(Senior) Product Manager Smart Metering & Steering (m/f/d)",
+    "company": "1KOMMA5°",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it?We bring together regional craftsmanship and scalable software: We don't think of solar, ba",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.149309",
+    "first_seen": "2026-10-11T10:16:21.149310"
+  },
+  {
+    "id": "3b1fd6e62362ed33",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/152989-technical-support-specialist-german-speaking",
+    "title": "Technical Support Specialist - German Speaking",
+    "company": "Synthesia",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance vi",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.148877",
+    "first_seen": "2026-10-11T10:16:21.148878"
+  },
+  {
+    "id": "71a0d4ff09553203",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150357-talent-acquisition-strategist",
+    "title": "Talent Acquisition Strategist",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "Canonical has re-imagined hiring. We have created a Talent Science team that has a mission to ensure that we follow objective, scientifically rigorous and efficient processes to select the very best new colleagues regardless of location, culture or background. We are not recruiters, but our work con",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.148759",
+    "first_seen": "2026-10-11T10:16:21.148760"
+  },
+  {
+    "id": "436b66baf42b9543",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150358-partner-sales-executive-anz-channel",
+    "title": "Partner Sales Executive, ANZ Channel",
+    "company": "Canonical",
+    "location": "APAC",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.148592",
+    "first_seen": "2026-10-11T10:16:21.148593"
+  },
+  {
+    "id": "74bb56b469f1b40d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149033-strategic-customer-success-manager-martech-adtech-us",
+    "title": "Strategic Customer Success Manager - MarTech / AdTech, US",
+    "company": "Branch",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "At Branch , we power every touchpoint with links that work and insights that prove it. From click to conversion, we make growth measurable. Our unparalleled attribution, backed by AI-enhanced linking, is trusted to deliver seamless experiences that increase ROI, decrease wasted spend, and eliminate ",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.148427",
+    "first_seen": "2026-10-11T10:16:21.148428"
+  },
+  {
+    "id": "e293fc1f82bbfa0f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150371-graduate-hr-generalist-apac",
+    "title": "Graduate HR Generalist - APAC",
+    "company": "Canonical",
+    "location": "APAC",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.148149",
+    "first_seen": "2026-10-11T10:16:21.148150"
+  },
+  {
+    "id": "8c3f2515283886e0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/152965-accounting-specialist-latam",
+    "title": "Accounting Specialist - LATAM",
+    "company": "Cloudbeds",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "What Makes Cloudbeds Unique At Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform o",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.147700",
+    "first_seen": "2026-10-11T10:16:21.147702"
+  },
+  {
+    "id": "a3d74ec09c447f54",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/152974-business-development-rep-bdr",
+    "title": "Business Development Rep (BDR)",
+    "company": "Cloudbeds",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "What Makes Cloudbeds Unique At Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform o",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.147228",
+    "first_seen": "2026-10-11T10:16:21.147229"
+  },
+  {
+    "id": "744934ff76bb9b69",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/152969-customer-success-advisor",
+    "title": "Customer Success Advisor",
+    "company": "Safe Security",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Most boards and executives are currently flying blind when it comes to cyber risk. They are guessing. At Safe, we’ve built an AI-driven engine that finally gives the C-Suite a clear, quantified, and real-time view of their security posture. We don’t just provide data; we provide certainty . We are a",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.146809",
+    "first_seen": "2026-10-11T10:16:21.146810"
+  },
+  {
+    "id": "7bc73cf0f90bef2e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/152987-business-development-manager-singapore",
+    "title": "Business Development Manager - Singapore",
+    "company": "CertiK",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "About the Company CertiK leads blockchain security by securing smart contracts and blockchains with cutting-edge Formal Verification technology. Founded by Computer Science professors of Yale University and Columbia University, CertiK has audited and secured over $500B in assets, including many of t",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.146664",
+    "first_seen": "2026-10-11T10:16:21.146665"
+  },
+  {
+    "id": "e046c33bf65a10b7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150381-software-architect",
+    "title": "Software Architect",
+    "company": "Autodesk",
+    "location": "EMEA,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Job Requisition ID # 26WD94957 Position Overview At Autodesk , we are pioneers in 3D design, engineering, and entertainment software, building tools that empower some of the most creative minds on the planet to solve real-world problems. Recognized by Fortune, Forbes, Glassdoor, and others as a top ",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.146530",
+    "first_seen": "2026-10-11T10:16:21.146532"
+  },
+  {
+    "id": "d3dbf96ea7a9a46d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154990-analyst-gtm-analytics",
+    "title": "Analyst, GTM Analytics",
+    "company": "Fivetran",
+    "location": "Costa Rica",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "From Fivetran ’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizatio",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.145990",
+    "first_seen": "2026-10-11T10:16:21.145991"
+  },
+  {
+    "id": "cf441a126aa7e4d4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154987-senior-full-stack-engineer-6",
+    "title": "Senior Full Stack Engineer",
+    "company": "Mattermost",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of War and Fortune 500s, our platform runs on-premises and in private clouds, delivering secure messaging, file sharing, workflow automation, aud",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.145768",
+    "first_seen": "2026-10-11T10:16:21.145769"
+  },
+  {
+    "id": "477629c0bfa7774f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154994-senior-mobile-engineer",
+    "title": "Senior Mobile Engineer",
+    "company": "Mattermost",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of War and Fortune 500s, our platform runs on-premises and in private clouds, delivering secure messaging, file sharing, workflow automation, aud",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.145601",
+    "first_seen": "2026-10-11T10:16:21.145602"
+  },
+  {
+    "id": "88cdec84ec3ffc2b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154995-compensation-analytics-partner",
+    "title": "Compensation & Analytics Partner",
+    "company": "Fivetran",
+    "location": "Costa Rica",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "From Fivetran ’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizatio",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.145412",
+    "first_seen": "2026-10-11T10:16:21.145413"
+  },
+  {
+    "id": "143df7a0f9708f3b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155003-sales-development-middle-east",
+    "title": "Sales Development - Middle East",
+    "company": "Elevenlabs",
+    "location": "UAE",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.145166",
+    "first_seen": "2026-10-11T10:16:21.145167"
+  },
+  {
+    "id": "546a7f2c0e84e4c1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154999-tabletop-exercise-ttx-specialist-cybersecurity-focus",
+    "title": "Tabletop Exercise (TTX) Specialist - Cybersecurity Focus",
+    "company": "Resilience",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About Us At Resilience , we’re creating a new category that integrates cybersecurity, cyber insurance, and cyber risk management. Founded in 2016 by experts from across the highest tiers of the US military and intelligence communities – and built by prominent leaders and innovators from the insuranc",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.145019",
+    "first_seen": "2026-10-11T10:16:21.145020"
+  },
+  {
+    "id": "5fe9c35f6c1e1c30",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155004-sales-development-lead-united-states",
+    "title": "Sales Development Lead - United States",
+    "company": "Elevenlabs",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.144840",
+    "first_seen": "2026-10-11T10:16:21.144841"
+  },
+  {
+    "id": "fa4f00fdf26050d3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155007-director-of-it-automation-appen",
+    "title": "Director of IT & Automation - Appen",
+    "company": "Appen",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About the Role Appen is looking for a Director of IT &amp; Automation to lead our IT function and help shape how a modern, AI-native company operates. This is a senior leadership role combining technical depth, operational judgement and people leadership. You will work closely with the CPTO and seni",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.144668",
+    "first_seen": "2026-10-11T10:16:21.144669"
+  },
+  {
+    "id": "c88b168da6129adf",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155008-controls-product-senior-manager",
+    "title": "Controls Product Senior Manager",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.144538",
+    "first_seen": "2026-10-11T10:16:21.144539"
+  },
+  {
+    "id": "96692d6a3a7cdde3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155012-enterprise-sales-director-3",
+    "title": "Enterprise Sales Director",
+    "company": "Fivetran",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "From Fivetran ’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizatio",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.144266",
+    "first_seen": "2026-10-11T10:16:21.144267"
+  },
+  {
+    "id": "255eb413f97f0b97",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155014-global-alliance-lead-capgemini",
+    "title": "Global Alliance Lead, Capgemini",
+    "company": "Fivetran",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "From Fivetran ’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizatio",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.144067",
+    "first_seen": "2026-10-11T10:16:21.144068"
+  },
+  {
+    "id": "bbbc116849e673ee",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155015-senior-data-scientist-personalization-predictions",
+    "title": "Senior Data Scientist - Personalization & Predictions",
+    "company": "Bloomreach",
+    "location": "Czechia,  Slovakia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Bloomreach is building the world’s premier agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more in",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.143707",
+    "first_seen": "2026-10-11T10:16:21.143709"
+  },
+  {
+    "id": "1a4769906425233e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155018-edi-mapping-specialist-with-e-invoicing-f-m-d-3",
+    "title": "EDI Mapping Specialist - with e-invoicing (f/m/d)",
+    "company": "ecosio",
+    "location": "Austria,  Croatia,  France,  Germany,  Hungary,  Italy,  Poland,  Portugal,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Company Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX).",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.143402",
+    "first_seen": "2026-10-11T10:16:21.143403"
+  },
+  {
+    "id": "623f1503d31ea4ba",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155019-ai-lead-engineering-manager",
+    "title": "AI Lead / Engineering Manager",
+    "company": "saas.group",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "This role is part of our Usersnap team, one of our growing brands at saas.group . Profile Overview Usersnap is building AI-driven capabilities into the core of the product, from automated setup to intelligent surveys, contextual analysis, and reporting that generates itself based on connectors. We'r",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.143292",
+    "first_seen": "2026-10-11T10:16:21.143293"
+  },
+  {
+    "id": "413ce7c9f071a4db",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155021-staff-security-engineer-incident-response",
+    "title": "Staff Security Engineer, Incident Response",
+    "company": "Databricks",
+    "location": "Belgium,  Denmark,  Finland,  France,  Germany,  Italy,  Netherlands,  Spain,  Sweden,  Switzerland,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "RDQ327R180 Staff Security Engineer, Incident Response The Incident Response team's mission is to respond to security threats, incidents and investigations to protect our customers, employees and enterprise data in a fast, efficient and standardised manner. We're a tight-knit team of security inciden",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.142994",
+    "first_seen": "2026-10-11T10:16:21.142996"
+  },
+  {
+    "id": "188e953ea811bceb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155024-senior-infrastructure-software-engineer",
+    "title": "Senior Infrastructure Software Engineer",
+    "company": "Dropbox",
+    "location": "Poland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Role Description As an Infrastructure Engineer, your role will be crucial in shaping and constructing the robust systems that not only support our current flagship products but also lay the groundwork for the next wave of engineering innovations. From optimizing user experiences across various proje",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.142853",
+    "first_seen": "2026-10-11T10:16:21.142854"
+  },
+  {
+    "id": "ae95a14cb5be3b71",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155026-head-of-growth-product",
+    "title": "Head of Growth & Product",
+    "company": "saas.group",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "This role is part of our Advanced Shipping Manager (ASM) team, one of our brands at saas.group . Advanced Shipping Manager gives e-commerce merchants real-time, rules-based shipping rates and accurate delivery estimates at checkout — across parcel and LTL freight, with FedEx, UPS, USPS and other car",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.142737",
+    "first_seen": "2026-10-11T10:16:21.142739"
+  },
+  {
+    "id": "12aac6cb6fd7e473",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155030-junior-customer-success-manager-api-2",
+    "title": "Junior Customer Success Manager (API)",
+    "company": "Vonage",
+    "location": "Japan",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Join Vonage and help us innovate cloud communications for businesses worldwide! About Vonage API Vonage API is a global leader in Communications Platform as a Service (CPaaS), enabling businesses to seamlessly integrate messaging, voice, video, and authentication capabilities into their applications",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.142509",
+    "first_seen": "2026-10-11T10:16:21.142511"
+  },
+  {
+    "id": "93de0baaad3e2e5e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155027-country-manager-australia-new-zealand",
+    "title": "Country Manager, Australia & New Zealand",
+    "company": "1Password",
+    "location": "Australia,  New Zealand",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive di",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.142363",
+    "first_seen": "2026-10-11T10:16:21.142365"
+  },
+  {
+    "id": "cb07afca780206b2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155029-engineering-manager-network-team-lead",
+    "title": "Engineering Manager/Network Team Lead",
+    "company": "Nebius",
+    "location": "APAC",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.142008",
+    "first_seen": "2026-10-11T10:16:21.142010"
+  },
+  {
+    "id": "a4ae14d9528e35de",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155036-helpdesk-technician-tier-1",
+    "title": "Helpdesk Technician Tier 1",
+    "company": "Nebius",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.141786",
+    "first_seen": "2026-10-11T10:16:21.141788"
+  },
+  {
+    "id": "a4ca4bcb6fa4a1f5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155038-senior-software-engineer-backend-product-engineering",
+    "title": "Senior Software Engineer, Backend | Product Engineering",
+    "company": "TRM Labs",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and ",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.141619",
+    "first_seen": "2026-10-11T10:16:21.141621"
+  },
+  {
+    "id": "c61298a0f09f6533",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155043-product-manager-5",
+    "title": "Product Manager",
+    "company": "Dropbox",
+    "location": "Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Role Description DocSend is expanding from a virtual data room solution into a deal execution platform. We’re seeking a Product Manager to help shape the next phase of DocSend’s growth. As a Product Manager on DocSend, you’ll own a broad set of customer experiences spanning from foundational workflo",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.141234",
+    "first_seen": "2026-10-11T10:16:21.141235"
+  },
+  {
+    "id": "4ef855cd046a1ae0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155044-senior-software-engineer-data-product",
+    "title": "Senior Software Engineer, Data Product",
+    "company": "TRM Labs",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and ",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-11T10:16:21.141091",
+    "first_seen": "2026-10-11T10:16:21.141100"
+  },
+  {
+    "id": "0ee1192ae6067dec",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481",
+    "title": "Manager Clinical Data Management",
+    "company": "EDETEK",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "exec",
+      "design",
+      "sys admin",
+      "education",
+      "customer support",
+      "dev",
+      "testing",
+      "travel",
+      "junior",
+      "ops"
+    ],
+    "description_snippet": "Manager, Clinical Data Management leads clinical data management team to handle project management documentation, preform clinical data management activities and system implementations for EDETEKâs CONFORM eClinical, write design specifications for the system (forms, reports, etc.), and facilitate",
+    "posted_date": "2026-10-10",
+    "scraped_at": "2026-10-11T10:16:20.819914",
+    "first_seen": "2026-10-11T10:16:20.819932"
+  },
+  {
+    "id": "d1f3479804431a05",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f033421d0c7d95f8",
+    "title": "Principal GIS & Enterprise Technology Architect",
+    "company": "Candid8",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 90 – 100/hourly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "docker",
+      "azure",
+      "aws",
+      "postgres",
+      "databricks",
+      "microsoft fabric",
+      "kubernetes",
+      "ci/cd",
+      "java",
+      "scala",
+      "generative ai"
+    ],
+    "description_snippet": "**Principal GIS & Enterprise Technology Architect — Consultant**\n\nPosition: Principal GIS & Enterprise Technology Architect\n\nExperience: 15+ Years\n\nGC/USC only\n\nPosition Overview\n\nWe are seeking a highly experienced Principal GIS & Enterprise Technology Architect to provide senior-level technical co",
+    "posted_date": "2026-09-16",
+    "scraped_at": "2026-10-11T10:16:16.975021",
+    "first_seen": "2026-10-11T10:16:16.975023"
+  },
+  {
+    "id": "3132b2bc987b3544",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=57fb367bb3c934e9",
+    "title": "Software / Data Engineer",
+    "company": "West 4th Strategy",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 150,000 – 160,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "databricks"
+    ],
+    "description_snippet": "**Software / Data Engineer**  \nWe need an experienced Software Engineer at the Department of War’s Sexual Assault Prevention and Response Office (SAPRO). SAPRO is the Department's single authority for preventing sexual assault and supporting survivors across the military, and its progress depends on",
+    "posted_date": "2026-09-25",
+    "scraped_at": "2026-10-11T10:16:16.973911",
+    "first_seen": "2026-10-11T10:16:16.973912"
+  },
+  {
+    "id": "303441d49674f70b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=2bbb089ca3b5c09c",
+    "title": "Founding Platform Engineer",
+    "company": "Regit",
+    "location": "Austin, TX, USA",
+    "is_remote": false,
+    "salary": "USD 160,000 – 190,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "postgres",
+      "kubernetes",
+      "rust"
+    ],
+    "description_snippet": "**About Regit**  \nRegit is building EU and US regulatory infrastructure for financial institutions.Financial institutions provide their data once. Regit turns it into one governed record supporting regulatory calculations, documents, evidence and distribution. Our deterministic regulatory engines an",
+    "posted_date": "2026-09-16",
+    "scraped_at": "2026-10-11T10:16:13.595542",
+    "first_seen": "2026-10-11T10:16:13.595543"
+  },
+  {
+    "id": "edbe5a59ffcceb95",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=e80d6d56769736da",
+    "title": "Systems Engineer – Research Infrastructure & Lab Platforms - Government Customer",
+    "company": "Dell Technologies",
+    "location": "McLean, VA, USA",
+    "is_remote": true,
+    "salary": "USD 186,065 – 240,790/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "docker",
+      "postgres"
+    ],
+    "description_snippet": "Systems Engineer – Research Infrastructure & Lab Platforms - Government Customer\n\nLocal candidates only - On-site Chantilly VA - 5 days per week - Required active TS/SCI Security Clearance. Candidates without Active clearances will be declined\n\nBuild the Engine Powering Next-Gen Engineering Research",
+    "posted_date": "2026-09-23",
+    "scraped_at": "2026-10-11T10:16:06.295500",
+    "first_seen": "2026-10-11T10:16:06.295501"
+  },
+  {
+    "id": "27db619e6eaca516",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=2da3a225bb3e9e0d",
+    "title": "Systems Engineer/Technical SME (Full-time)",
+    "company": "Vinfinities Corp",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 130,000 – 148,000/yearly",
+    "job_type": "fulltime, contract",
+    "tags": [
+      "python",
+      "sql",
+      "power bi"
+    ],
+    "description_snippet": "**About Vinfinities:**\n\n*Vinfinities Corp* is an SBA-certified Woman-Owned Small Business and GSA Multiple Award Schedule contractor. We deliver integrated program management, systems engineering, acquisition, technology modernization, analytics, and business management to help federal customers tra",
+    "posted_date": "2026-09-24",
+    "scraped_at": "2026-10-11T10:16:06.294650",
+    "first_seen": "2026-10-11T10:16:06.294651"
+  },
+  {
+    "id": "ce7fc3d543f6aa5a",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f1346a522ee89c32",
+    "title": "Data Engineer - US Remote",
+    "company": "PerfectServe",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 115,000 – 140,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "aws",
+      "bigquery",
+      "snowflake",
+      "data warehouse",
+      "medallion",
+      "rust"
+    ],
+    "description_snippet": "#### **What is PerfectServe?**\n\nPerfectServe is a leading provider of clinical communication and physician scheduling solutions in the health IT space. The company was founded in 1997 and has grown steadily since then, with a notable jump after several major acquisitions were announced in 2019. Perf",
+    "posted_date": "2026-09-24",
+    "scraped_at": "2026-10-11T10:16:02.213158",
+    "first_seen": "2026-10-11T10:16:02.213159"
+  },
+  {
+    "id": "352d48b4077341c6",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=de102d1cdc393b78",
+    "title": "Data Engineer",
+    "company": "MarLabs",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "data engineering",
+      "databricks",
+      "microsoft fabric",
+      "synapse",
+      "data warehouse",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "Marlabs, a global AI and Digital Solutions Consulting firm, delivers intelligent solutions across AI, data, analytics, and product engineering. Since 2000, we have partnered with some of the largest healthcare, life sciences, financial services, and government organizations worldwide. As we continue",
+    "posted_date": "2026-10-01",
+    "scraped_at": "2026-10-11T10:16:02.212636",
+    "first_seen": "2026-10-11T10:16:02.212637"
+  },
+  {
+    "id": "e148222184213631",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1bc53cff95d01ec8",
+    "title": "L3 Support Engineer, Data Center Infrastructure",
+    "company": "Nebius",
+    "location": "Vineland, NJ, USA",
+    "is_remote": false,
+    "salary": "USD 125,000 – 183,900/yearly",
+    "job_type": "nan",
+    "tags": [
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**About Nebius:**\n\nNebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large i",
+    "posted_date": "2026-10-01",
+    "scraped_at": "2026-10-11T10:16:02.212510",
+    "first_seen": "2026-10-11T10:16:02.212512"
+  },
+  {
     "id": "44f9fa7396a9ee83",
     "source": "remoteok",
     "url": "https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478",
