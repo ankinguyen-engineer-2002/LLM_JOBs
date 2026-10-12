@@ -1,5 +1,292 @@
 [
   {
+    "id": "f7fc4d6764bbea44",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153011-principal-sales-engineer-canada",
+    "title": "Principal Sales Engineer | Canada",
+    "company": "ExtraHop",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "At ExtraHop , we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide vis",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T05:45:05.574690",
+    "first_seen": "2026-10-12T05:45:05.574690"
+  },
+  {
+    "id": "58820fb59713afeb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153014-binance-accelerator-program-applied-ai-application-engineer",
+    "title": "Binance Accelerator Program - Applied AI Application Engineer",
+    "company": "Binance",
+    "location": "APAC",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "internship",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. Binance is trusted by more than 320 million people in 100+ countries for its industry-leading security, transparency, trading engine speed, protections for inve",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T05:45:05.574295",
+    "first_seen": "2026-10-12T05:45:05.574295"
+  },
+  {
+    "id": "9bf1b9292a46c1fc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153074-customer-success-lead-2",
+    "title": "Customer Success Lead",
+    "company": "dscout",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "At Dscout , we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Faceb",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T05:45:05.573683",
+    "first_seen": "2026-10-12T05:45:05.573683"
+  },
+  {
+    "id": "8fd4dac3448c719c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153043-senior-product-designer-10",
+    "title": "Senior Product Designer",
+    "company": "capital.com",
+    "location": "Bulgaria,  Cyprus,  Poland,  Portugal,  Serbia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "We are a leading trading platform that is ambitiously expanding to the four corners of the globe. Our top-rated products have won prestigious industry awards for their cutting-edge technology and seamless client experience. We deliver only the best, so we are always in search of the best people to j",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T05:45:05.573461",
+    "first_seen": "2026-10-12T05:45:05.573462"
+  },
+  {
+    "id": "ff9c0cb967bb57c0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153061-application-support-sql-12-month-maternity-leave-contract",
+    "title": "Application Support / SQL - (12 Month Maternity-leave Contract)",
+    "company": "Varicent",
+    "location": "Romania",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "At Varicent , we’re not just transforming the Sales Performance Management (SPM) market—we’re redefining how organizations achieve revenue success. Our cutting-edge SaaS solutions empower revenue leaders globally to design smarter go-to-market strategies, maximize seller performance, and unlock unta",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T05:45:05.573330",
+    "first_seen": "2026-10-12T05:45:05.573340"
+  },
+  {
+    "id": "a37a154715207cac",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153017-regional-sales-manager-canada",
+    "title": "Regional Sales Manager | Canada",
+    "company": "ExtraHop",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "At ExtraHop , we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide vis",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T05:45:04.916547",
+    "first_seen": "2026-10-12T05:45:04.916547"
+  },
+  {
+    "id": "03818562d643d911",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153045-field-cto",
+    "title": "Field CTO",
+    "company": "Sigma Computing",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "The Field CTO is the most senior technical voice in the field. Here's the version we're hiring for. The Field CTO sits a level above the Solution Architect. Where the SA leads the technical strategy on complex deals, the Field CTO owns the technical narrative across the territory, shapes how the mar",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T05:45:04.916087",
+    "first_seen": "2026-10-12T05:45:04.916088"
+  },
+  {
+    "id": "27caf356ad5e9919",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-deuna-1137482",
+    "title": "Technical Account Manager",
+    "company": "DEUNA",
+    "location": "Ciudad de MÃ©xico, Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "exec",
+      "hr",
+      "technical",
+      "customer support",
+      "marketing",
+      "ops",
+      "golang",
+      "medical",
+      "engineer"
+    ],
+    "description_snippet": "About DEUNA &nbsp;ð§¡ &nbsp; DEUNA is a rapidly growing startup revolutionizing global commerce with ATHIA, our AI-powered orchestration and payments platform that helps large enterprises boost approval rates, reduce costs, and unlock new revenue. Built by the team behind DEUNAâthe fastest-growin",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-12T05:45:03.782214",
+    "first_seen": "2026-10-12T05:45:03.782223"
+  },
+  {
+    "id": "97f1e61a515472a4",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=6bfe3ba5612ff008",
+    "title": "Solutions Architect",
+    "company": "DeMase Technical Services, LLC",
+    "location": "Oak Ridge, TN, USA",
+    "is_remote": false,
+    "salary": "USD 81 – 86/hourly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "power bi",
+      "tableau",
+      "data warehouse"
+    ],
+    "description_snippet": "In order to be officially considered for this job, you must apply online here: ***https://demase-tech.jobs.agile-ats.com/jobs/details/67***\n\nDeMase Technical Services is a Women-Owned Small Business created by experts in the cybersecurity, energy, nuclear, and defense markets. We offer best-in-class",
+    "posted_date": "2026-09-23",
+    "scraped_at": "2026-10-12T05:44:59.732364",
+    "first_seen": "2026-10-12T05:44:59.732365"
+  },
+  {
+    "id": "7d602b6aecc47400",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=0b71c16e4b91578c",
+    "title": "Staff Customer Qualification Engineer - 2276",
+    "company": "KIOXIA",
+    "location": "Folsom, CA, USA",
+    "is_remote": false,
+    "salary": "USD 115,470 – 192,440/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "aws"
+    ],
+    "description_snippet": "**Company Description**\n\n*No Relocation Assistance Provided.*\n\nKIOXIA America, Inc. is the U.S.-based subsidiary of KIOXIA Corporation, a leading worldwide supplier of flash memory and solid state drives (SSDs). From the invention of flash memory to today’s breakthrough BiCS FLASH™ 3D flash memory t",
+    "posted_date": "2026-09-21",
+    "scraped_at": "2026-10-12T05:44:54.224578",
+    "first_seen": "2026-10-12T05:44:54.224578"
+  },
+  {
+    "id": "672c5b12c450f2f2",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c71afc52ea073d94",
+    "title": "Software Development Engineer In Test",
+    "company": "CVS Health",
+    "location": "Wellesley, MA, USA",
+    "is_remote": false,
+    "salary": "USD 130,295 – 284,280/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "ci/cd",
+      "java",
+      "scala",
+      "llm"
+    ],
+    "description_snippet": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in e",
+    "posted_date": "2026-09-26",
+    "scraped_at": "2026-10-12T05:44:54.222946",
+    "first_seen": "2026-10-12T05:44:54.222947"
+  },
+  {
+    "id": "bf50b8d9d79983c8",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7acf96b628761c98",
+    "title": "Platform Engineer",
+    "company": "JLGOV LLC",
+    "location": "Washington, DC, USA",
+    "is_remote": false,
+    "salary": "USD 165,450 – 174,580/yearly",
+    "job_type": "fulltime, contract",
+    "tags": [],
+    "description_snippet": "Please read in entirety\n\nCOLLIBRA PLATFORM ENGINEER\n\nLocation: Remote - occasional on-site meetings at OCC Headquarters, Washington, DC  \nCompensation: $165,450 - $174,580 annually\n\nJoin JLGOV in supporting data governance modernization for the Office of the Comptroller of the Currency (OCC) as a Co",
+    "posted_date": "2026-10-07",
+    "scraped_at": "2026-10-12T05:44:54.222387",
+    "first_seen": "2026-10-12T05:44:54.222388"
+  },
+  {
+    "id": "a8676b89fba88103",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=2001d051e2677aed",
+    "title": "Flight Test Operator",
+    "company": "Anduril",
+    "location": "San Clemente, CA, USA",
+    "is_remote": false,
+    "salary": "USD 77,000 – 120,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "rust"
+    ],
+    "description_snippet": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century's most innovative companies to the defense industry, Anduril is changing how mi",
+    "posted_date": "2026-09-22",
+    "scraped_at": "2026-10-12T05:44:50.559043",
+    "first_seen": "2026-10-12T05:44:50.559044"
+  },
+  {
+    "id": "9a5553a0cca3298b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=6bd20875a504c387",
+    "title": "Reservoir Engineer",
+    "company": "Charm Industrial",
+    "location": "Fort Lupton, CO, USA",
+    "is_remote": false,
+    "salary": "USD 130,000 – 160,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "rust"
+    ],
+    "description_snippet": "About Charm\n\nOur mission is to return the atmosphere to 280 ppm CO₂. We convert excess inedible biomass into carbon-rich bio-oil and inject it into underground storage for permanent carbon removal. At scale, we can use bio-oil to make fossil-free iron.\n\nOur carbon removal efforts began in 2020 with ",
+    "posted_date": "2026-09-29",
+    "scraped_at": "2026-10-12T05:44:50.558200",
+    "first_seen": "2026-10-12T05:44:50.558200"
+  },
+  {
+    "id": "a71f34c50d9fc022",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4a211be57c5c19e0",
+    "title": "Cyber Security Engineering B-2, 01.6.35",
+    "company": "Credence",
+    "location": "Wright-Patterson AFB, OH, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "rust"
+    ],
+    "description_snippet": "**Overview**\n\nJoin a team where innovation meets mission. Our AI, cloud, cyber, and modernization solutions save agencies thousands of hours, safeguard national security, and strengthen health and humanitarian missions worldwide. With more than 1,700+ team members, 1,500+ AI & data experts, and 100+",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-10-12T05:44:50.557026",
+    "first_seen": "2026-10-12T05:44:50.557027"
+  },
+  {
     "id": "1d9856ea69c048b6",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=b618cf47fa595102",
