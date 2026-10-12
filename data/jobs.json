@@ -1,5 +1,221 @@
 [
   {
+    "id": "d98aed82497a468d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155124-product-marketing-lead-2",
+    "title": "Product Marketing Lead",
+    "company": "Bayesian Health",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Product Marketing Lead In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. As our Product Marketing Lead, you will own how we show up for health system leaders. That covers the s",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T19:57:31.294218",
+    "first_seen": "2026-10-12T19:57:31.294219"
+  },
+  {
+    "id": "af52c683051f8f82",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155135-infrastructure-engineer-5",
+    "title": "Infrastructure Engineer",
+    "company": "Dataiku",
+    "location": "France",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Dataiku is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enterprises require. Sitting above data",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T19:57:31.292725",
+    "first_seen": "2026-10-12T19:57:31.292726"
+  },
+  {
+    "id": "6f61ba3bb5120957",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155140-engineering-manager-ai-cicd",
+    "title": "Engineering Manager, AI CICD",
+    "company": "Chainguard",
+    "location": "UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T19:57:31.292578",
+    "first_seen": "2026-10-12T19:57:31.292580"
+  },
+  {
+    "id": "ec5ced10175d0f1b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155142-gtm-engineer-4",
+    "title": "GTM Engineer",
+    "company": "Zone &#038; Co",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Zone &amp; Company Software Consulting LLC (“Zone”) is the ERP-native AI platform for financial operations, purpose-built for organizations running on Oracle NetSuite. We are redefining how finance teams operate by delivering an AI-powered system that automates, connects, and scales financial workfl",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T19:57:31.292409",
+    "first_seen": "2026-10-12T19:57:31.292410"
+  },
+  {
+    "id": "d09c529d1762a73b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155134-manager-security-operations-center-emea",
+    "title": "Manager, Security Operations Center - EMEA",
+    "company": "Huntress",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T19:57:31.292217",
+    "first_seen": "2026-10-12T19:57:31.292218"
+  },
+  {
+    "id": "cffb873c5b31f28a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155141-security-operations-analyst-ireland",
+    "title": "Security Operations Analyst- Ireland",
+    "company": "Huntress",
+    "location": "Ireland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T19:57:31.292018",
+    "first_seen": "2026-10-12T19:57:31.292019"
+  },
+  {
+    "id": "d294ed9829a82988",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155143-marketing-technology-engineer-2",
+    "title": "Marketing Technology Engineer",
+    "company": "TRM Labs",
+    "location": "LATAM,  Canada,  UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and ",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T19:57:31.291823",
+    "first_seen": "2026-10-12T19:57:31.291824"
+  },
+  {
+    "id": "e414d753430edddc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155138-commercial-account-executive-benelux-2",
+    "title": "Commercial Account Executive - Benelux",
+    "company": "Chainguard",
+    "location": "Netherlands",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T19:57:31.291451",
+    "first_seen": "2026-10-12T19:57:31.291453"
+  },
+  {
+    "id": "077cba4028fe11ad",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155151-director-of-digital-marketing",
+    "title": "Director of Digital Marketing",
+    "company": "Cloudinary",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Cloudinary is the Image and Video API platform trusted by millions of developers and over 10,000 companies worldwide. Our powerful tools fuel websites to be faster, richer in user engagement, and breakthrough creativity. With a growing suite of products that support everything from developer efficie",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T19:57:31.291298",
+    "first_seen": "2026-10-12T19:57:31.291299"
+  },
+  {
+    "id": "5a700bd996617994",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155152-strategic-enterprise-sales-director",
+    "title": "Strategic Enterprise Sales Director",
+    "company": "Rockbot",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Every day, millions of consumers engage with businesses in physical locations - retailers, restaurants, gyms, convenience stores, hospitality venues, and more. While digital advertising has transformed online experiences, most physical businesses are only beginning to modernize how they engage custo",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T19:57:31.291110",
+    "first_seen": "2026-10-12T19:57:31.291111"
+  },
+  {
+    "id": "a576070f12290168",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155157-compliance-engineer-2",
+    "title": "Compliance Engineer",
+    "company": "Playson",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "About Playson Playson builds premium casino games and platform solutions for operators worldwide. Our products reach millions of players across regulated markets, and we ship frequently - which means our certification and compliance evidence has to be as well-engineered as the games themselves. We a",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T19:57:31.290829",
+    "first_seen": "2026-10-12T19:57:31.290831"
+  },
+  {
+    "id": "4100b614a1e7cde7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155154-tier-2-technical-support-specialist",
+    "title": "Tier 2 Technical Support Specialist",
+    "company": "Rockbot",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "As the Tier 2 Technical Support Specialist at Rockbot , you'll serve as the technical backbone of Rockbot's escalation function — the person the team turns to when issues are complex, environments are nuanced, or recurring problems require durable, systemic solutions. This is a deeply hands-on techn",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T19:57:31.290631",
+    "first_seen": "2026-10-12T19:57:31.290641"
+  },
+  {
     "id": "47e2d33ce7918334",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
