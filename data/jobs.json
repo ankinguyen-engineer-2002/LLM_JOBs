@@ -1,5 +1,474 @@
 [
   {
+    "id": "1eb9ef932ed4f591",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/datadog-enterprise-security-sales-specialist",
+    "title": "Enterprise Security Sales Specialist",
+    "company": "Datadog",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: District of Columbia, USA, Remote; North Carolina, USA, Remote As a Security Sales Specialist, you'll partner with Enterprise Account Executives to drive adoption of Datadog’s Security platform across key accounts. This is a high-impact role focused on positioning our Security solution",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:19:33.971016",
+    "first_seen": "2026-10-12T11:19:33.971019"
+  },
+  {
+    "id": "5bdacbb3579b9276",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/current-senior-engineer-net",
+    "title": "Senior Engineer (.NET)",
+    "company": "Current",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote (US) At Current At Current, we partner with ambitious brands to create digital experiences that drive meaningful business results. By bringing together strategy, design, production, and technology, we help organizations solve complex challenges and build experiences that create ",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:19:33.970537",
+    "first_seen": "2026-10-12T11:19:33.970539"
+  },
+  {
+    "id": "0368933b663611d0",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/keeper-security-analyst-relations-manager",
+    "title": "Analyst Relations Manager",
+    "company": "Keeper Security",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote, US Keeper Security is hiring an Analyst Relations Manager to join our Global Communications team. This individual will own and execute the day-to-day analyst relations program at Keeper by managing evaluations, timelines, coordination and internal workflows to ensure effective ",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:19:33.970183",
+    "first_seen": "2026-10-12T11:19:33.970186"
+  },
+  {
+    "id": "a4e5e5d08ef59f68",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/keeper-security-associate-talent-acquisition-partner-tech",
+    "title": "Associate Talent Acquisition Partner, Tech",
+    "company": "Keeper Security",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote, US Description Keeper is hiring a motivated Associate Talent Acquisition Partner to support the full cycle recruiting process. This is a 100% remote position from select locations with an opportunity to work a hybrid schedule for candidates based in the Chicago, IL metro area.&",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:19:33.969411",
+    "first_seen": "2026-10-12T11:19:33.969415"
+  },
+  {
+    "id": "40b91aca09401320",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155067-engineering-manager-observability-germany-remote",
+    "title": "Engineering Manager - Observability | Germany | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.829452",
+    "first_seen": "2026-10-12T11:15:11.829453"
+  },
+  {
+    "id": "60af07f1f5808a2f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155062-principal-software-engineer-remote-eligible-in-bulgaria",
+    "title": "Principal Software Engineer (Remote Eligible in Bulgaria)",
+    "company": "Smartsheet",
+    "location": "Bulgaria",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create th",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.829120",
+    "first_seen": "2026-10-12T11:15:11.829122"
+  },
+  {
+    "id": "83c94e689f1f7643",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155063-senior-software-engineer-frontend-2",
+    "title": "Senior Software Engineer - Frontend",
+    "company": "Five9",
+    "location": "Portugal",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the jo",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.828929",
+    "first_seen": "2026-10-12T11:15:11.828931"
+  },
+  {
+    "id": "06b88f0bfe3a6a9c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155066-software-engineer-ii-data-platform",
+    "title": "Software Engineer II - Data Platform",
+    "company": "Five9",
+    "location": "Portugal",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the jo",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.828768",
+    "first_seen": "2026-10-12T11:15:11.828769"
+  },
+  {
+    "id": "a638d983434fbe7f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155069-software-engineer-remote-eligible-in-bulgaria",
+    "title": "Software Engineer (Remote Eligible in Bulgaria)",
+    "company": "Smartsheet",
+    "location": "Bulgaria",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create th",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.828610",
+    "first_seen": "2026-10-12T11:15:11.828611"
+  },
+  {
+    "id": "7c42df0536d5ca60",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155071-engineering-manager-observability-ireland-remote",
+    "title": "Engineering Manager - Observability | Ireland | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.828451",
+    "first_seen": "2026-10-12T11:15:11.828452"
+  },
+  {
+    "id": "677284d66c64f9d2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155068-senior-pre-sales-solutions-engineer-europe",
+    "title": "Senior Pre-Sales Solutions Engineer - Europe",
+    "company": "Deepgram",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voic",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.828112",
+    "first_seen": "2026-10-12T11:15:11.828114"
+  },
+  {
+    "id": "e90decafda8eff0e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155065-senior-product-manager-ii-developer-ecosystem-mcp-remote-from-uk",
+    "title": "Senior Product Manager II, Developer ecosystem MCP (Remote from UK)",
+    "company": "Smartsheet",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create th",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.827758",
+    "first_seen": "2026-10-12T11:15:11.827760"
+  },
+  {
+    "id": "ca693fafe5349018",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155072-data-center-supply-chain-manager-emea",
+    "title": "Data Center - Supply Chain Manager (EMEA)",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.827408",
+    "first_seen": "2026-10-12T11:15:11.827409"
+  },
+  {
+    "id": "e276c6ff15963835",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155075-senior-security-engineer",
+    "title": "Senior Security Engineer",
+    "company": "Cision",
+    "location": "Bulgaria,  Hungary",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "At Cision , we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, al",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.827280",
+    "first_seen": "2026-10-12T11:15:11.827282"
+  },
+  {
+    "id": "9bb130851f150292",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155076-delivery-operations-manager-token-factory",
+    "title": "Delivery Operations Manager - Token Factory",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.827063",
+    "first_seen": "2026-10-12T11:15:11.827065"
+  },
+  {
+    "id": "e3219f7a4ae457f1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155079-senior-staff-software-engineer",
+    "title": "Senior Staff Software Engineer",
+    "company": "Cision",
+    "location": "Bulgaria,  Hungary",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At Cision , we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, al",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.826850",
+    "first_seen": "2026-10-12T11:15:11.826851"
+  },
+  {
+    "id": "325b1fa66b5794ab",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155082-customer-success-manager-36",
+    "title": "Customer Success Manager",
+    "company": "Customer.io",
+    "location": "APAC,  EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive. We help teams send smarter, more rel",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.826581",
+    "first_seen": "2026-10-12T11:15:11.826582"
+  },
+  {
+    "id": "c224de4ced888568",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155089-embedded-devices-software-solution-sales-director-japan",
+    "title": "Embedded Devices Software Solution Sales Director (Japan)",
+    "company": "Canonical",
+    "location": "Japan",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.826333",
+    "first_seen": "2026-10-12T11:15:11.826334"
+  },
+  {
+    "id": "54b0c0965537cb94",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155096-software-engineer-platform-sre",
+    "title": "Software Engineer (Platform - SRE)",
+    "company": "Paddle",
+    "location": "Ireland,  Portugal,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain ",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.826089",
+    "first_seen": "2026-10-12T11:15:11.826091"
+  },
+  {
+    "id": "7a952778513e7567",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155100-senior-forward-deployed-engineer-ai-agent-uk",
+    "title": "Senior Forward Deployed Engineer (AI Agent) - UK",
+    "company": "Cresta",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.825797",
+    "first_seen": "2026-10-12T11:15:11.825798"
+  },
+  {
+    "id": "b51f6e4b131be023",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155092-senior-product-designer-15",
+    "title": "Senior Product Designer",
+    "company": "Paddle",
+    "location": "Ireland,  Portugal,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "What do we do? Paddle offers digital product companies a completely different approach to their payments infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.825542",
+    "first_seen": "2026-10-12T11:15:11.825544"
+  },
+  {
+    "id": "2e33c79545fca2fd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155099-engineering-manager-subscriptions",
+    "title": "Engineering Manager (Subscriptions)",
+    "company": "Paddle",
+    "location": "Ireland,  Portugal,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain ",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T11:15:11.825264",
+    "first_seen": "2026-10-12T11:15:11.825270"
+  },
+  {
+    "id": "7d82286722f2b965",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-marketing-and-sales-administrator-hunt-st-1137488",
+    "title": "Marketing and Sales Administrator",
+    "company": "Hunt St",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "customer support",
+      "marketing",
+      "finance",
+      "admin",
+      "exec",
+      "content writing",
+      "sales"
+    ],
+    "description_snippet": "Looking for Philippines-based candidates Job Role: Marketing and Sales Administrator Compensation range: $1,500 AUD - $2,000 AUD / Monthly Engagement type: Independent Contractor Agreement Work Schedule: This role is expected to align with the AU business hours (approx. 9 AM - 5 PM, Monday to Friday",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-12T11:15:11.453481",
+    "first_seen": "2026-10-12T11:15:11.453488"
+  },
+  {
+    "id": "6eddb7ad6f693798",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=e97c6fa41a24061c",
+    "title": "Go-To-Market Engineer",
+    "company": "Improvado",
+    "location": "Remote, USA",
+    "is_remote": false,
+    "salary": "USD 130,000 – 180,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "llm"
+    ],
+    "description_snippet": "About Improvado\n---------------\n\nImprovado is an AI-powered marketing data platform built for mid-market and enterprise teams. We help companies automate complex marketing data workflows, unify data at scale, and surface insights through BI and AI. Brands like Genentech, T-Mobile, Activision, and H&",
+    "posted_date": "2026-10-08",
+    "scraped_at": "2026-10-12T11:15:07.127517",
+    "first_seen": "2026-10-12T11:15:07.127522"
+  },
+  {
+    "id": "4d5f3f56892fd277",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=466c6bede5a088e2",
+    "title": "Director, Analytics Engineering (2 Openings)",
+    "company": "Novartis",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 194,600 – 361,400/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "dbt",
+      "airflow",
+      "data engineering",
+      "analytics engineering",
+      "bigquery",
+      "snowflake",
+      "databricks",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "### **Summary**\n\n#LI-Remote\n  \n  \nNovartis has an exciting opportunity for a Director, Analytics Engineering. This role is responsible for building next-generation, AI-powered automated data pipelines and scalable data repositories that enable enterprise data science and analytics at scale. By lever",
+    "posted_date": "2026-09-17",
+    "scraped_at": "2026-10-12T11:14:54.633251",
+    "first_seen": "2026-10-12T11:14:54.633253"
+  },
+  {
     "id": "f7fc4d6764bbea44",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/153011-principal-sales-engineer-canada",
