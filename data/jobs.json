@@ -1,5 +1,466 @@
 [
   {
+    "id": "47e2d33ce7918334",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
+    "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
+    "company": "Toptal",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Summary We are seeking a Full-Stack Developer to build or customize a dealer e-commerce platform connected to an existing Sage X3 ERP environment. The role is focused on selecting the right e-commerce approach, implementing the portal, and supporting dealer-facing workflows in a manufa",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:42:24.816294",
+    "first_seen": "2026-10-12T16:42:24.816296"
+  },
+  {
+    "id": "99e021d9dd8bd597",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-salesforce-developers-with-ai-assisted-coding-experience",
+    "title": "Salesforce Developers with AI-Assisted Coding Experience",
+    "company": "Toptal",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: We are looking for Salesforce Developers for a global company. Their goal is to accelerate Salesforce delivery across Flows, Lightning Web Components, and Apex while using AI copilots and agents to improve delivery speed, testing, and documentation. General Information Location: Remote",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:42:24.816123",
+    "first_seen": "2026-10-12T16:42:24.816126"
+  },
+  {
+    "id": "358f21b119b5bd7d",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company",
+    "title": "Apigee Engineer for Global Consumer Food Company",
+    "company": "Toptal",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: General Information: Our client is a global leader in the food and beverage industry and is recognized as one of the top brands in the world. …………………………………………………………………………… About the Role: Lead in high level technical concepts spanning technology and business to support Apigee, Apigee H",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:42:24.815878",
+    "first_seen": "2026-10-12T16:42:24.815881"
+  },
+  {
+    "id": "99d38bdd9f1c2a22",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company",
+    "title": "Applied AI Engineers for telecommunications company",
+    "company": "Toptal",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Summary The Senior AI Professional will help design, develop, and optimize production-grade agentic AI solutions. This role complements an existing platform engineering team and focuses on turning AI concepts into reliable, scalable software rather than purely research-oriented work. G",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:42:24.815579",
+    "first_seen": "2026-10-12T16:42:24.815588"
+  },
+  {
+    "id": "2ef9e819729e758e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155130-ai-success-manager",
+    "title": "AI Success Manager",
+    "company": "Cresta",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:38:08.259847",
+    "first_seen": "2026-10-12T16:38:08.259858"
+  },
+  {
+    "id": "c2258540df340cdc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155132-senior-integration-engineer-2",
+    "title": "Senior Integration Engineer",
+    "company": "Legion",
+    "location": "Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Senior Integration Engineer Remote, Mexico JOB OVERVIEW Are you passionate about building large-scale applications leveraging public cloud services and integration design patterns? As an Integration Engineer, you will work on developing and maintaining Integration &amp; Automation Solutions for Legi",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:38:07.706495",
+    "first_seen": "2026-10-12T16:38:07.706497"
+  },
+  {
+    "id": "5118820a968291a4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155129-clinical-quality-consultant",
+    "title": "Clinical Quality Consultant",
+    "company": "Bayesian Health",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "healthcare & medical"
+    ],
+    "description_snippet": "Clinical Quality Consultant In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. You'll support product quality for an FDA-cleared, AI-driven clinical platform, from complaint inv",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:38:07.705902",
+    "first_seen": "2026-10-12T16:38:07.705904"
+  },
+  {
+    "id": "aa9e42d3b916241c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155126-senior-data-engineer-ads",
+    "title": "Senior Data Engineer, Ads",
+    "company": "Discord",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and mor",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:38:07.705520",
+    "first_seen": "2026-10-12T16:38:07.705530"
+  },
+  {
+    "id": "20468af20343ca66",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155116-product-manager-pro-fulfillment",
+    "title": "Product Manager, Pro Fulfillment",
+    "company": "Thumbtack",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urg",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:38:07.132515",
+    "first_seen": "2026-10-12T16:38:07.132517"
+  },
+  {
+    "id": "9d71e4ea0ccbe490",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155125-ai-strategist",
+    "title": "AI Strategist",
+    "company": "Cresta",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:38:07.132271",
+    "first_seen": "2026-10-12T16:38:07.132281"
+  },
+  {
+    "id": "2df58ab0e26b7e8c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155113-senior-customer-success-manager-19",
+    "title": "Senior Customer Success Manager",
+    "company": "saas.group",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "This role is part of our Prerender team, one of our growing brands at saas.group . For nearly a decade, Prerender has helped marketers build dynamic, complex JavaScript websites at scale while keeping them fully visible to search engines and AI platforms. We remove crawling and indexing limits so ou",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:38:06.507907",
+    "first_seen": "2026-10-12T16:38:06.507908"
+  },
+  {
+    "id": "3c1189d688121484",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155106-score-advisor",
+    "title": "Score Advisor",
+    "company": "DeleteMe",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About DeleteMe : DeleteMe is the leader in proactive privacy protection. We help Individuals, Families, Businesses and Security teams reduce their human attack surface by continuously monitoring and removing exposed personal data (PII) from the open web — the very data threat actors use to launch so",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:38:06.507553",
+    "first_seen": "2026-10-12T16:38:06.507555"
+  },
+  {
+    "id": "2cb6c03340969944",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155112-senior-software-engineer-cloud-backend-infrastructure",
+    "title": "Senior Software Engineer, Cloud (Backend / Infrastructure)",
+    "company": "Webflow",
+    "location": "Argentina",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand trust. Building at Webflow will need grit, because we move fast, without ever sacrificing cra",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:38:06.507409",
+    "first_seen": "2026-10-12T16:38:06.507410"
+  },
+  {
+    "id": "e1b4b98d8193fad9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155110-senior-manager-ai-customer-success",
+    "title": "Senior Manager, AI Customer Success",
+    "company": "Webflow",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand trust. Building at Webflow will need grit, because we move fast, without ever sacrificing cra",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:38:06.507156",
+    "first_seen": "2026-10-12T16:38:06.507157"
+  },
+  {
+    "id": "dbbe4d7bfb9908d2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155120-mid-market-implementation-specialist-americas",
+    "title": "Mid-Market Implementation Specialist - Americas",
+    "company": "Ashby",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Mid-Market Implementation Specialist Hi, I’m Daryl and I’m the Manager of Mid-Market Implementations at Ashby . One of my favorite aspects of Ashby is our operating principle of Continuous Improvement . Coupled with our principle of caring deeply about our customers, we often find ourselves wonderin",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:38:06.506774",
+    "first_seen": "2026-10-12T16:38:06.506775"
+  },
+  {
+    "id": "e954eaf9753fc3b8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155114-enterprise-account-executive-americas-east",
+    "title": "Enterprise Account Executive - Americas (East)",
+    "company": "Ashby",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Why Join Sales at Ashby Sales at Ashby is a unique opportunity to sell a product customers genuinely love during an AI-fueled market expansion. Over 5,000 companies rely on Ashby including Shopify, Snowflake, OpenAI, Bolt, and Notion, and our business is durably growing faster than 100% year-over-ye",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:38:06.506448",
+    "first_seen": "2026-10-12T16:38:06.506450"
+  },
+  {
+    "id": "9f4fdd1893e192cf",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155117-enterprise-account-executive-americas-west",
+    "title": "Enterprise Account Executive - Americas (West)",
+    "company": "Ashby",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Why Join Sales at Ashby Sales at Ashby is a unique opportunity to sell a product customers genuinely love during an AI-fueled market expansion. Over 5,000 companies rely on Ashby including Shopify, Snowflake, OpenAI, Bolt, and Notion, and our business is durably growing faster than 100% year-over-ye",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:38:06.506118",
+    "first_seen": "2026-10-12T16:38:06.506120"
+  },
+  {
+    "id": "8b9481ad2955e4ff",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155122-applied-scientist-pro-growth",
+    "title": "Applied Scientist, Pro Growth",
+    "company": "Thumbtack",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urg",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:38:06.505770",
+    "first_seen": "2026-10-12T16:38:06.505780"
+  },
+  {
+    "id": "adb3beac0e1c6086",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-product-design-director-midnite-1137497",
+    "title": "Product Design Director",
+    "company": "Midnite",
+    "location": "United Kingdom",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "design",
+      "exec",
+      "sys admin",
+      "game dev",
+      "testing",
+      "marketing",
+      "web dev",
+      "scheme",
+      "medical",
+      "engineer"
+    ],
+    "description_snippet": "ð Why Midnite? Midnite is a next-generation sports betting and gaming platform built for a new wave of players. We combine sharp product thinking, bold brand, and fast execution to create experiences that feel modern, intuitive, and built for how people actually play today. Over 400,000 players h",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-12T16:38:06.099338",
+    "first_seen": "2026-10-12T16:38:06.099346"
+  },
+  {
+    "id": "6bd00e574103995a",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=53d3d953c17d5fab",
+    "title": "Senior Platform Engineer - Data & Analytics Platforms",
+    "company": "National Grid",
+    "location": "Brooklyn, NY, USA",
+    "is_remote": false,
+    "salary": "USD 102,000 – 143,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "aws",
+      "power bi",
+      "data engineering",
+      "snowflake",
+      "microsoft fabric",
+      "ci/cd",
+      "java",
+      "scala"
+    ],
+    "description_snippet": "Team\n\n**Information Technology and Digital**\n\nBusiness Unit\n\n**IT and Digital**\n\nRequisition No.\n\n**11395**\n\nCity\n\n**Brooklyn, US, 11217**\n\n**Syracuse, US, 13202**\n\n**Hicksville, US, 11801**\n\n**Waltham, US, 02451**\n\nDate posted\n\n**11 October 2026**\n\n**Senior Platform Engineer - Data & Analytics Plat",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:37:58.306079",
+    "first_seen": "2026-10-12T16:37:58.306085"
+  },
+  {
+    "id": "60a587774e3e3270",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=61c40e9f26559ca1",
+    "title": "Electrical Engineer",
+    "company": "Amentum",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 70 – 81/hourly",
+    "job_type": "parttime",
+    "tags": [
+      "aws",
+      "rust"
+    ],
+    "description_snippet": "**Purpose and Impact:**\n\nThe Photonics Technology Branch develops components and techniques for electro-optic, RF, and communication systems of interest to the Navy. Emphasis is given to optical technologies used for free-space communications, fiber lasers, solid-state lasers, microwave photonics sy",
+    "posted_date": "2026-10-05",
+    "scraped_at": "2026-10-12T16:37:53.857675",
+    "first_seen": "2026-10-12T16:37:53.857677"
+  },
+  {
+    "id": "e15cf5d25fe7228a",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1dfb7566051aa916",
+    "title": "Systems Engineer Stf - E4",
+    "company": "Lockheed Martin",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 94,400 – 243,500/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python"
+    ],
+    "description_snippet": "**Standard Job Description**\n----------------------------\n\nSpace is a critical domain, connecting our technologies, our security and our humanity. While others view space as a destination, we see it as a realm of possibilities, where we can do more — we can innovate, invest, inspire and integrate ou",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-10-12T16:37:53.857369",
+    "first_seen": "2026-10-12T16:37:53.857371"
+  },
+  {
+    "id": "5952dccef5a540ba",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=30586a41a8a47596",
+    "title": "Product Engineer - Tissue",
+    "company": "Albany International Corp.",
+    "location": "Kaukauna, WI, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [],
+    "description_snippet": "**Build the Future of Tissue Fabrics with Albany International**\n\nBring your education, curiosity, and problem-solving mindset to a global leader in Paper Machine Clothing and Engineered Fabrics. Join our Kaukauna R&D Product Engineering team and help develop high-performance products that make tiss",
+    "posted_date": "2026-10-07",
+    "scraped_at": "2026-10-12T16:37:53.856876",
+    "first_seen": "2026-10-12T16:37:53.856878"
+  },
+  {
+    "id": "2bdea87c72d0258a",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d0128a728250bc16",
+    "title": "Business Intelligence Analyst - Analytics Engineer Hybrid (USA Remote)",
+    "company": "Turnitin, Llc",
+    "location": "Washington, DC, USA",
+    "is_remote": true,
+    "salary": "USD 84,225 – 140,375/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "tableau",
+      "data engineering",
+      "analytics engineering",
+      "machine learning",
+      "bigquery",
+      "snowflake",
+      "llm",
+      "generative ai"
+    ],
+    "description_snippet": "**Company Description**\n\nWhen you join Turnitin, you'll be welcomed into a company that is a recognized innovator in global education. For over 25 years, Turnitin has partnered with educators and institutions to develop learning integrity solutions that recognize the enduring value of critical think",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-12T16:37:49.320958",
+    "first_seen": "2026-10-12T16:37:49.320963"
+  },
+  {
     "id": "1eb9ef932ed4f591",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/datadog-enterprise-security-sales-specialist",
