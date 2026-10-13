@@ -1,5 +1,701 @@
 [
   {
+    "id": "861e2ac2b5dd4fa2",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/sticker-mule-si-agent-engineer",
+    "title": "SI agent engineer",
+    "company": "Sticker Mule",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack. &nbsp; We're hiring an engineer to build, run and manage a team of SI agents to help us",
+    "posted_date": "2026-09-16",
+    "scraped_at": "2026-10-13T15:00:42.171874",
+    "first_seen": "2026-10-13T15:00:42.171875"
+  },
+  {
+    "id": "b5075af337bd1366",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155208-account-manager-dutch-speaking",
+    "title": "Account Manager - Dutch speaking",
+    "company": "Algolia",
+    "location": "France",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Algolia is the retrieval intelligence layer that turns intent into trusted, decision-grade outcomes. Powering more than 1.7 trillion queries a year for over 18,000 customers with millisecond latency and 99.999% reliability, we are the recognized leader for Search and Product Discovery by top industr",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:36.642655",
+    "first_seen": "2026-10-13T14:55:36.642657"
+  },
+  {
+    "id": "b2381631dece5e07",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155210-principal-product-manager-format-foundations",
+    "title": "Principal Product Manager - Format Foundations",
+    "company": "Spotify",
+    "location": "Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "We design Spotify ’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening and watching feel effortless, personal, and joyful for hundreds of millions of users around the world. That means turning complexity into cl",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:36.642396",
+    "first_seen": "2026-10-13T14:55:36.642397"
+  },
+  {
+    "id": "13917e55dd4f3a8a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155209-cashmere-lab-testing-quality-leader",
+    "title": "Cashmere Lab Testing & Quality Leader",
+    "company": "Quince",
+    "location": "Italy",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "qa & testing"
+    ],
+    "description_snippet": "ABOUT QUINCE Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manufac",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:36.642262",
+    "first_seen": "2026-10-13T14:55:36.642264"
+  },
+  {
+    "id": "22cd0da97cda160a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155212-senior-manager-global-procurement-materials",
+    "title": "Senior Manager, Global Procurement (Materials)",
+    "company": "Quince",
+    "location": "France,  Germany,  Italy,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "ABOUT QUINCE Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manufac",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:36.642026",
+    "first_seen": "2026-10-13T14:55:36.642038"
+  },
+  {
+    "id": "f2e310b17ebd0965",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155172-sr-software-engineer-remote-eligible-from-bulgaria",
+    "title": "Sr. Software Engineer (Remote Eligible from Bulgaria)",
+    "company": "Smartsheet",
+    "location": "Bulgaria",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create th",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.897760",
+    "first_seen": "2026-10-13T14:55:34.897761"
+  },
+  {
+    "id": "a81978876f579fca",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155167-sr-forward-deployed-ai-engineer-remote-eligible-in-the-uk",
+    "title": "Sr. Forward Deployed AI Engineer (Remote Eligible in the UK)",
+    "company": "Smartsheet",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create th",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.897566",
+    "first_seen": "2026-10-13T14:55:34.897568"
+  },
+  {
+    "id": "d5de0a160f8f9be9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155171-detection-response-lead",
+    "title": "Detection & Response Lead",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.897388",
+    "first_seen": "2026-10-13T14:55:34.897389"
+  },
+  {
+    "id": "51539b8a40c004d7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155166-senior-product-manager-mobile",
+    "title": "Senior Product Manager, Mobile",
+    "company": "Mozilla",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Why Mozilla ? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser, and Pocket, a service for keeping up with the best content online. Now, with more ",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.897188",
+    "first_seen": "2026-10-13T14:55:34.897189"
+  },
+  {
+    "id": "c6e8b974fac9f5e4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155169-detection-response-engineer",
+    "title": "Detection & Response Engineer",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.896954",
+    "first_seen": "2026-10-13T14:55:34.896955"
+  },
+  {
+    "id": "a78a0e529dbe86bc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155168-inventory-partnerships-manager-spanish",
+    "title": "Inventory Partnerships Manager (Spanish)",
+    "company": "StackAdapt",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable resul",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.896750",
+    "first_seen": "2026-10-13T14:55:34.896751"
+  },
+  {
+    "id": "46c83c1b793dcb11",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155174-director-solutions-architecture-emea",
+    "title": "Director, Solutions Architecture EMEA",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.896482",
+    "first_seen": "2026-10-13T14:55:34.896483"
+  },
+  {
+    "id": "513342e5a7740d18",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155175-senior-customer-support-engineer-4",
+    "title": "Senior Customer Support Engineer",
+    "company": "Collibra",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Joining Collibra ’s Support team Collibra seeks to expand our Support Engineering team with the addition of a Senior Technical Support Engineer to support the company's growth. Collibra’s Senior Technical Support Engineers provide support that increases Collibra’s credibility as an organization with",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.896274",
+    "first_seen": "2026-10-13T14:55:34.896275"
+  },
+  {
+    "id": "564c19e2c561818e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155176-strategic-solutions-engineer-2",
+    "title": "Strategic Solutions Engineer",
+    "company": "ClickUp",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.896121",
+    "first_seen": "2026-10-13T14:55:34.896122"
+  },
+  {
+    "id": "2689e591439ddce2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155177-conversational-designer-apac",
+    "title": "Conversational Designer, APAC",
+    "company": "Cresta",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.895898",
+    "first_seen": "2026-10-13T14:55:34.895900"
+  },
+  {
+    "id": "241de73a80d61335",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155181-cx-operations-analyst",
+    "title": "CX Operations Analyst",
+    "company": "ClickUp",
+    "location": "Philippines",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.895667",
+    "first_seen": "2026-10-13T14:55:34.895668"
+  },
+  {
+    "id": "2d7afc1569427efa",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155182-senior-forward-deployed-engineer-ai-agent",
+    "title": "Senior Forward Deployed Engineer (AI Agent)",
+    "company": "Cresta",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.895423",
+    "first_seen": "2026-10-13T14:55:34.895424"
+  },
+  {
+    "id": "1d51212ed491e22d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155179-senior-manager-professional-services",
+    "title": "Senior Manager, Professional Services",
+    "company": "Collibra",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Joining Collibra ’s Professional Services team As Senior Manager, Professional Services, you will play an integral role within Collibra, comprehensively aligned with Regional Sales counterparts, Account Teams, Customer Engineers, Partner Teams, and Services Delivery to drive services sales, delivery",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.895193",
+    "first_seen": "2026-10-13T14:55:34.895194"
+  },
+  {
+    "id": "63950edd4eac10dc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155186-senior-software-engineer-full-stack-javascript",
+    "title": "Senior Software Engineer (Full-Stack, JavaScript)",
+    "company": "Able",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Back in 2012, we were a group of engineers and designers who decided we wanted to build things, so we did. Able started as an engineering and product hub building for a portfolio of early-stage startups. We built many relationships while developing products that were thoughtful, effective, and genui",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.895012",
+    "first_seen": "2026-10-13T14:55:34.895013"
+  },
+  {
+    "id": "aeea14b52596358a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155190-principal-specialist-sales-engineer-zero-trust-branch-majors-west",
+    "title": "Principal Specialist Sales Engineer, Zero Trust Branch - Majors, West",
+    "company": "Zscaler",
+    "location": "Mexico,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. ",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.894847",
+    "first_seen": "2026-10-13T14:55:34.894849"
+  },
+  {
+    "id": "2bccdb886e4d2a9e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155187-senior-decision-scientist-2",
+    "title": "Senior Decision Scientist",
+    "company": "Instructure",
+    "location": "Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education an",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.894636",
+    "first_seen": "2026-10-13T14:55:34.894638"
+  },
+  {
+    "id": "b4b517816d633277",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155192-senior-software-engineer-canvas-core-3",
+    "title": "Senior Software Engineer, Canvas Core",
+    "company": "Mural",
+    "location": "Argentina,  Canada,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "ABOUT THE TEAM The Canvas Core team builds and maintains the foundational platform that powers Mural ’s visual thinking experience. This includes the infinite canvas, key editor components, document editing behaviors, asset management, real-time collaboration, and the systems that enable fast, relia",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.894463",
+    "first_seen": "2026-10-13T14:55:34.894464"
+  },
+  {
+    "id": "fed2d3cfdf66ab6e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155193-technical-program-manager-7",
+    "title": "Technical Program Manager",
+    "company": "Able",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Back in 2012, we were a group of engineers and designers who decided we wanted to build things, so we did. Able started as an engineering and product hub building for a portfolio of early-stage startups. We built many relationships while developing products that were thoughtful, effective, and genui",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.894272",
+    "first_seen": "2026-10-13T14:55:34.894273"
+  },
+  {
+    "id": "47335b5109832805",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155189-full-stack-engineer-3",
+    "title": "Full Stack Engineer",
+    "company": "infisical",
+    "location": "Brazil,  Canada,  Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, cer",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.894037",
+    "first_seen": "2026-10-13T14:55:34.894038"
+  },
+  {
+    "id": "6de615d082d827a0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155195-senior-full-stack-engineer-7",
+    "title": "Senior Full Stack Engineer",
+    "company": "Solace",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to m",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.893923",
+    "first_seen": "2026-10-13T14:55:34.893924"
+  },
+  {
+    "id": "92704b7c85003d49",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155201-technical-lead-engineering",
+    "title": "Technical Lead (Engineering)",
+    "company": "Solace",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to m",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.893787",
+    "first_seen": "2026-10-13T14:55:34.893788"
+  },
+  {
+    "id": "152e19f950c83efa",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155202-senior-platform-engineer-4",
+    "title": "Senior Platform Engineer",
+    "company": "Solace",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to m",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.893606",
+    "first_seen": "2026-10-13T14:55:34.893607"
+  },
+  {
+    "id": "f0b64098472dd1f1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155196-senior-gtm-systems-ai-specialist",
+    "title": "Senior GTM Systems & AI Specialist",
+    "company": "Cobalt",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Who We Are Cobalt was founded on the belief of a fundamental human aspiration: the desire to live better and safer. It all started in 2013, when our founders realized that pentesting can be better. Today our diverse, fully remote team is committed to helping organizations of all sizes with seamless,",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.893431",
+    "first_seen": "2026-10-13T14:55:34.893432"
+  },
+  {
+    "id": "b7d8db73b0c97b0d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155199-staff-software-engineer-8",
+    "title": "Staff Software Engineer",
+    "company": "Solace",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to m",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.893065",
+    "first_seen": "2026-10-13T14:55:34.893066"
+  },
+  {
+    "id": "0f6f3942c70d6bf9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155200-senior-backend-engineer-10",
+    "title": "Senior Backend Engineer",
+    "company": "Solace",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to m",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.892924",
+    "first_seen": "2026-10-13T14:55:34.892925"
+  },
+  {
+    "id": "f2e5028429bbc601",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155203-commercial-legal-counsel-2",
+    "title": "Commercial Legal Counsel",
+    "company": "Tailscale",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "Thank you for considering Tailscale . If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break ",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:34.892742",
+    "first_seen": "2026-10-13T14:55:34.892754"
+  },
+  {
+    "id": "f3209dce667bc81e",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399",
+    "title": "SI agent engineer",
+    "company": "Sticker Mule",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "USD 150,000 – 250,000/year",
+    "job_type": "N/A",
+    "tags": [
+      "golang",
+      "ai",
+      "javascript",
+      "typescript"
+    ],
+    "description_snippet": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack. We're hiring an engineer to build, run and manage a team of SI agents to help us innovate faster, improve performance, and better serve customers. ",
+    "posted_date": "2026-09-16",
+    "scraped_at": "2026-10-13T14:55:33.730969",
+    "first_seen": "2026-10-13T14:55:33.730970"
+  },
+  {
+    "id": "d10c54df22007ac1",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5f8a710df9a388f1",
+    "title": "Full Stack Software Engineer",
+    "company": "Alaris Acquisitions",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 140,000 – 180,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "spark",
+      "pyspark",
+      "azure",
+      "aws",
+      "data engineering",
+      "postgres",
+      "databricks",
+      "java",
+      "scala",
+      "llm",
+      "langchain",
+      "generative ai"
+    ],
+    "description_snippet": "**Job Requisition:** Full Stack Software Engineer\n\n**Department:** Information Technology\n\n**Reports To:** Head of AI Program Management\n\n**Location:** Remote\n\n**Employment Type:** Full-Time\n\n**Role Overview**\n\nAlaris Acquisitions serves as a premier M&A advisory firm exclusively dedicated to the we",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:29.289897",
+    "first_seen": "2026-10-13T14:55:29.289898"
+  },
+  {
+    "id": "0d347b0a1f78c4c9",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=75651bec84129cee",
+    "title": "Data Engineer",
+    "company": "OneKey MLS",
+    "location": "Farmingdale, NY, USA",
+    "is_remote": true,
+    "salary": "USD 105,000 – 135,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "aws",
+      "data engineering",
+      "analytics engineering",
+      "postgres",
+      "data warehouse",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "Position Type: Full-time, exempt, fully remote\n\nHours: 35 hours per week\n\nSalary Range: $105,000–$135,000 annually\n\nReports to: Vice President of Technology\n\nAt OneKey, when we hire an individual to fill a position, it is not to simply perform a function, but to contribute to the culture of the enti",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T14:55:29.289711",
+    "first_seen": "2026-10-13T14:55:29.289713"
+  },
+  {
+    "id": "8953d3c9bdf7cd10",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d212bb2202cff536",
+    "title": "Validation Engineer",
+    "company": "Eaton",
+    "location": "Youngsville, NC, USA",
+    "is_remote": false,
+    "salary": "USD 71,000 – 105,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "aws"
+    ],
+    "description_snippet": "Eaton’s ES AMER ESS division is currently seeking a Validation Engineer. This role is based out of Raleigh, NC.\n\n  \n\nThe Validation Engineer will play a key role in the development and validation of Medium Voltage Solid State Transformer (MV-SST) platforms and advanced critical power solutions. This",
+    "posted_date": "2026-10-01",
+    "scraped_at": "2026-10-13T14:55:24.616796",
+    "first_seen": "2026-10-13T14:55:24.616798"
+  },
+  {
+    "id": "3daba7c6730a0de2",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=aea4a40133b647ac",
+    "title": "Test Engineer",
+    "company": "Mini-Circuits",
+    "location": "Hialeah, FL, USA",
+    "is_remote": false,
+    "salary": "USD 80,000 – 89,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "rust"
+    ],
+    "description_snippet": "Mini-Circuits designs, manufactures and distributes integrated circuits, modules, and sub-systems for high-performance radio frequency (RF) and microwave applications. With design, sales and manufacturing locations in over 30 countries, Mini-Circuits’ products are used in a range of wired and wirele",
+    "posted_date": "2026-10-10",
+    "scraped_at": "2026-10-13T14:55:24.615104",
+    "first_seen": "2026-10-13T14:55:24.615109"
+  },
+  {
+    "id": "8787cb9e14588690",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1602988df8483583",
+    "title": "Data Engineer",
+    "company": "ANDHealth",
+    "location": "Columbus, OH, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "gcp",
+      "data engineering",
+      "bigquery",
+      "data warehouse",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "AndHealth is on a mission to radically improve access and outcomes for the most challenging chronic health conditions, with the goal of making world-class specialty care accessible and affordable to all. We partner with health systems, community health centers, and independent practices to remove ba",
+    "posted_date": "2026-09-29",
+    "scraped_at": "2026-10-13T14:55:13.854130",
+    "first_seen": "2026-10-13T14:55:13.854131"
+  },
+  {
     "id": "406439a2b6be3181",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/huntress-sales-development-representative-service-provider",
