@@ -1,5 +1,311 @@
 [
   {
+    "id": "771bff094acd9eec",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153092-account-executive-mid-market-3",
+    "title": "Account Executive, Mid Market",
+    "company": "Zapier",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "AI at Zapier At Zapier , we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently . Check out our guidance on How to Collaborate with AI During Z",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T06:40:26.105285",
+    "first_seen": "2026-10-13T06:40:26.105286"
+  },
+  {
+    "id": "1fef2f573924b279",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153088-senior-software-engineer-8",
+    "title": "Senior Software Engineer",
+    "company": "Capital on Tap",
+    "location": "Portugal",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "We’re Capital on Tap Capital on Tap started because small businesses were underserved. Big banks were slow, their products weren't fit for purpose, and small business owners often couldn't access what they needed. We set out to fix that. Today we're a financial platform - not just a credit card comp",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T06:40:26.105076",
+    "first_seen": "2026-10-13T06:40:26.105077"
+  },
+  {
+    "id": "6fae8140df7681d8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153087-sales-assist-representative",
+    "title": "Sales Assist Representative",
+    "company": "Zapier",
+    "location": "APAC",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "AI at Zapier At Zapier , we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently . Check out our guidance on How to Collaborate with AI During Z",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T06:40:26.104959",
+    "first_seen": "2026-10-13T06:40:26.104959"
+  },
+  {
+    "id": "98dd5914df52c15a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153096-product-analyst",
+    "title": "Product Analyst",
+    "company": "Liftoff",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct demand. Liftoff’s solutions, including Acce",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T06:40:26.104770",
+    "first_seen": "2026-10-13T06:40:26.104771"
+  },
+  {
+    "id": "b4c434030f7b2065",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153103-sr-technical-account-manager",
+    "title": "Sr. Technical Account Manager",
+    "company": "Zapier",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "AI at Zapier At Zapier , we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently . Check out our guidance on How to Collaborate with AI During Z",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T06:40:26.104404",
+    "first_seen": "2026-10-13T06:40:26.104405"
+  },
+  {
+    "id": "298565f320659b35",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149104-manager-ad-operations",
+    "title": "Manager, Ad Operations",
+    "company": "StackAdapt",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable resul",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T06:40:26.103955",
+    "first_seen": "2026-10-13T06:40:26.103956"
+  },
+  {
+    "id": "90e9cb7152e4a467",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149110-staff-product-designer",
+    "title": "Staff Product Designer",
+    "company": "Fieldguide",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "About Us Fieldguide is establishing a new state of trust for global commerce and capital markets by automating and streamlining the work of assurance and audit practitioners, specifically in cybersecurity, privacy, and financial audits. Put simply, we build software for the people who enable trust b",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T06:40:26.103792",
+    "first_seen": "2026-10-13T06:40:26.103792"
+  },
+  {
+    "id": "73f0e85ed751b7ee",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150478-senior-customer-activation-manager-partnerships",
+    "title": "Senior Customer Activation Manager | Partnerships",
+    "company": "Ramp",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T06:40:26.103650",
+    "first_seen": "2026-10-13T06:40:26.103651"
+  },
+  {
+    "id": "6ffdfa8735fb7748",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153107-senior-manager-corporate-sales-west",
+    "title": "Senior Manager, Corporate Sales - West",
+    "company": "Webflow",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand trust. Building at Webflow will need grit, because we move fast, without ever sacrificing cra",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T06:40:26.103261",
+    "first_seen": "2026-10-13T06:40:26.103262"
+  },
+  {
+    "id": "58bd1be507c82957",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153123-manager-security-incident-response",
+    "title": "Manager, Security Incident Response",
+    "company": "1Password",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive di",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T06:40:26.102252",
+    "first_seen": "2026-10-13T06:40:26.102253"
+  },
+  {
+    "id": "743b990535f8a3c5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153122-chief-technology-officer-2",
+    "title": "Chief Technology Officer",
+    "company": "GiveDirectly",
+    "location": "UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "GiveDirectly has delivered more than $1B in cash directly to 2+ million people living in poverty across 15 countries since 2011. We believe cash transfers are one of the most scalable, cost-effective, and dignified forms of aid, with the research to back it up. Our work has been covered by The Econo",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T06:40:26.101815",
+    "first_seen": "2026-10-13T06:40:26.101816"
+  },
+  {
+    "id": "39f226a901561603",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=082bac6e51f4fe1f",
+    "title": "Optical Assembly and Alignment Engineer",
+    "company": "Atom Computing",
+    "location": "Boulder, CO, USA",
+    "is_remote": false,
+    "salary": "USD 100,000 – 140,000/yearly",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "At Atom Computing, we build quantum computers using arrays of optically trapped neutral atoms that will empower customers to achieve unprecedented computational breakthroughs. Join a world-class team of scientists, engineers, and business professionals to advance the state-of-the-art in quantum comp",
+    "posted_date": "2026-10-02",
+    "scraped_at": "2026-10-13T06:40:13.674005",
+    "first_seen": "2026-10-13T06:40:13.674006"
+  },
+  {
+    "id": "c70cb0690445ac42",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=651465a958a4a8d4",
+    "title": "AMS Lab Operations",
+    "company": "Apple",
+    "location": "San Diego, CA, USA",
+    "is_remote": false,
+    "salary": "USD 34 – 73/hourly",
+    "job_type": "nan",
+    "tags": [],
+    "description_snippet": "We seek an engineering technician responsible for test equipment setup, tear down, maintenance, data collection, and logistics. The customer service technician ensures the engineering service request operates reliably and satisfies the customer's end-use requirements. Experience working with custome",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-13T06:40:13.672705",
+    "first_seen": "2026-10-13T06:40:13.672709"
+  },
+  {
+    "id": "0935abc44a643437",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=8bc1fd4851cccab8",
+    "title": "Data Engineer, Product Analytics",
+    "company": "Meta",
+    "location": "Seattle, WA, USA",
+    "is_remote": false,
+    "salary": "USD 114,000 – 173,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "data engineering",
+      "machine learning",
+      "data warehouse",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "As a Data Engineer at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Reality Labs, Threads). Your technical skills and analytical mindset will be utilized designing and buildin",
+    "posted_date": "2026-09-22",
+    "scraped_at": "2026-10-13T06:40:10.003363",
+    "first_seen": "2026-10-13T06:40:10.003363"
+  },
+  {
+    "id": "6cfe9bd15d97d819",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c0d017b71d8fd899",
+    "title": "Analytics Engineer",
+    "company": "The Experience Share Video Games",
+    "location": "Alameda, CA, USA",
+    "is_remote": false,
+    "salary": "USD 95,000 – 125,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "data engineering"
+    ],
+    "description_snippet": "Job Description\n\nThe Experience Share Video Games is seeking a detail-oriented Analytics Engineer to organize data, develop reliable reporting systems, and provide insights that support business decisions. The ideal candidate has strong technical skills and can transform complex data into useful inf",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-13T06:40:10.000453",
+    "first_seen": "2026-10-13T06:40:10.000456"
+  },
+  {
+    "id": "adbd09254fbdc071",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=e448fd868464b75d",
+    "title": "Data Engineer",
+    "company": "Direct Travel",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "kafka",
+      "azure",
+      "aws",
+      "gcp",
+      "data engineering",
+      "bigquery",
+      "snowflake",
+      "data warehouse",
+      "java",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**Position Overview**\n\nWe are seeking a skilled and motivated Data Engineer to join our data team in building robust and scalable data pipelines that power analytics and business decisions in the fast-paced travel industry. You will work with large datasets from booking systems, customer touchpoints",
+    "posted_date": "2026-09-21",
+    "scraped_at": "2026-10-13T06:40:05.327055",
+    "first_seen": "2026-10-13T06:40:05.327055"
+  },
+  {
     "id": "2e000958e952f832",
     "source": "remoteok",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-executive-central-region-simspace-corporation-1137498",
