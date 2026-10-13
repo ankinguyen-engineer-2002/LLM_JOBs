@@ -1,5 +1,361 @@
 [
   {
+    "id": "c9e2f3d6ac99ff97",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155239-lead-product-manager-3",
+    "title": "Lead Product Manager",
+    "company": "UpGuard",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Who are we? At UpGuard , we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk. We build the",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T23:49:58.534118",
+    "first_seen": "2026-10-13T23:49:58.534128"
+  },
+  {
+    "id": "3005a4abe32e0f87",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155228-junior-software-engineer-early-career-strong-problem-solving-coding-focus-100-remote-within-spain-2",
+    "title": "Junior Software Engineer – Early Career (Strong Problem solving & Coding Focus) - 100% Remote within Spain",
+    "company": "Docplanner",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Welcome to the good side of tech You might know us as ZnanyLekarz in Poland or Doctoralia in Spain. Globally, we are Docplanner . We build technology that helps people live longer, healthier lives. Our products connect patients with doctors, power clinical workflows, and support healthcare systems u",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T23:49:57.904109",
+    "first_seen": "2026-10-13T23:49:57.904110"
+  },
+  {
+    "id": "8724372c58b93837",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155231-full-stack-web-engineer",
+    "title": "Full Stack Web Engineer",
+    "company": "Fueled",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Location: Remote – Latin America (Open to applicants located anywhere in the LATAM region) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New Y",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T23:49:57.903745",
+    "first_seen": "2026-10-13T23:49:57.903747"
+  },
+  {
+    "id": "40084eb97b66519a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155233-senior-software-engineer-full-stack-node-js-react-ai-focus",
+    "title": "Senior Software Engineer (Full Stack | Node.js & React | AI Focus)",
+    "company": "Oowlish Technology",
+    "location": "Brazil",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contrib",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T23:49:57.903514",
+    "first_seen": "2026-10-13T23:49:57.903516"
+  },
+  {
+    "id": "a8f3ba836dc580f8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155234-senior-digital-project-manager-latam",
+    "title": "Senior Digital Project Manager - LATAM",
+    "company": "Fueled",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Location: Remote - LATAM (Open to candidates across the Americas aligned time zones, with a preference for Latin America-based applicants) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and expe",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T23:49:57.903353",
+    "first_seen": "2026-10-13T23:49:57.903354"
+  },
+  {
+    "id": "5c6b742ad33cd3a4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155227-content-designer-latam",
+    "title": "Content Designer | LATAM",
+    "company": "Fueled",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Location : Remote – Central or South America (Open to applicants anywhere in Central or South America) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Appl",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T23:49:57.903195",
+    "first_seen": "2026-10-13T23:49:57.903196"
+  },
+  {
+    "id": "3baa1b5381997dc7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155236-senior-systems-engineer-2",
+    "title": "Senior Systems Engineer",
+    "company": "Fueled",
+    "location": "APAC",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Location: Remote — South Asia (Open to applicants located anywhere in South Asia, with a preference for those based in IST or PKT time zones) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and e",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T23:49:57.903032",
+    "first_seen": "2026-10-13T23:49:57.903033"
+  },
+  {
+    "id": "85f3b6b7ea78b08c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155238-backend-engineer-4",
+    "title": "Backend Engineer",
+    "company": "Catawiki",
+    "location": "Portugal",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At Catawiki , every day brings the extraordinary! Whether it’s Daniel Ricciardo’s Formula 1 Car , a Woolly Mammoth’s Skeleton , Lady Gaga's Jumpsuit or Usain Bolt’s running shoe , we encounter exceptional objects every day. We’re a one-of-a-kind marketplace for buying and selling special objects. Ea",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T23:49:57.902802",
+    "first_seen": "2026-10-13T23:49:57.902803"
+  },
+  {
+    "id": "2d021b725d110b27",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155242-commercial-operations-project-manager-trust-operations-excellence",
+    "title": "Commercial Operations Project Manager (Trust Operations Excellence)",
+    "company": "Catawiki",
+    "location": "Netherlands",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "At Catawiki , every day brings the extraordinary! Whether it’s Daniel Ricciardo’s Formula 1 Car , a Woolly Mammoth’s Skeleton , Lady Gaga's Jumpsuit or Usain Bolt’s running shoe , we encounter exceptional objects every day. We’re a one-of-a-kind marketplace for buying and selling special objects. Ea",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T23:49:57.902486",
+    "first_seen": "2026-10-13T23:49:57.902495"
+  },
+  {
+    "id": "3407b2a213114b53",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155230-senior-ios-engineer-swift-aws",
+    "title": "Senior iOS Engineer (Swift & AWS)",
+    "company": "Oowlish Technology",
+    "location": "Argentina,  Brazil,  Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contrib",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T23:49:57.294871",
+    "first_seen": "2026-10-13T23:49:57.294873"
+  },
+  {
+    "id": "ec573e058cca618b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155235-sr-analyst-revenue-operations-and-analytics",
+    "title": "Sr. Analyst, Revenue Operations and Analytics",
+    "company": "Zuora",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About Zuora At Zuora, we help businesses grow smarter and adapt faster. Our platform powers modern business models — from subscriptions and usage-based pricing to AI-driven and outcome-based offerings — helping companies launch new products, automate complex billing, and unlock predictable, recurrin",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T23:49:57.294674",
+    "first_seen": "2026-10-13T23:49:57.294676"
+  },
+  {
+    "id": "35d457f686e07cdf",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155241-data-analyst-4",
+    "title": "Data Analyst",
+    "company": "RevenueCat",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volum",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T23:49:57.294412",
+    "first_seen": "2026-10-13T23:49:57.294434"
+  },
+  {
+    "id": "b5ba63b3a0d0602d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=ad209c7a413c980d",
+    "title": "Product Engineer",
+    "company": "EAE USA INC",
+    "location": "Adairsville, GA, USA",
+    "is_remote": false,
+    "salary": "USD 110,000 – 125,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "scala"
+    ],
+    "description_snippet": "**Product Engineer**\n====================\n\n**Position Summary**\n--------------------\n\nThe Product Engineer will lead the translation of product requirements, engineering releases, BOMs, and customer program needs into repeatable, safe, cost-effective, and scalable manufacturing processes. The role s",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T23:49:52.180366",
+    "first_seen": "2026-10-13T23:49:52.180368"
+  },
+  {
+    "id": "5b16a23179304cdb",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=dae6bdb3443b6825",
+    "title": "Business Automation Engineer",
+    "company": "Tia",
+    "location": "Remote, USA",
+    "is_remote": false,
+    "salary": "USD 90,000 – 100,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "machine learning",
+      "java",
+      "rust",
+      "llm"
+    ],
+    "description_snippet": "**About** **Tia**\n-----------------\n\nTia is building a new model for women's healthcare, one that treats women as whole people, not separate conditions or life stages. By integrating primary care, mental health, gynecology, dermatology, and wellness across both in-person and virtual settings, Tia is",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-13T23:49:49.008283",
+    "first_seen": "2026-10-13T23:49:49.008286"
+  },
+  {
+    "id": "ccb438f49a7fe449",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=75e1ce9e6cf4a85a",
+    "title": "Analytics Engineer",
+    "company": "Pennant Group",
+    "location": "Eagle, ID, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "dbt",
+      "data engineering",
+      "analytics engineering",
+      "snowflake",
+      "data warehouse",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**Analytics Engineer**\n\n**Full-Time | Hybrid (Eagle, ID or Salt Lake City, UT) | Healthcare**\n\n**About Pennant**\n\nAt Pennant, our culture is our competitive advantage. We are a collection of independent healthcare companies united by our **CAPLICO** values: **C**elebration, **A**ccountability, **P**",
+    "posted_date": "2026-10-07",
+    "scraped_at": "2026-10-13T23:49:41.575592",
+    "first_seen": "2026-10-13T23:49:41.575595"
+  },
+  {
+    "id": "c1f430e8c7b35cdb",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=615c15ece0bda111",
+    "title": "Controls Engineer - Data Center Operations",
+    "company": "Fluidstack",
+    "location": "Abernathy, TX, USA",
+    "is_remote": false,
+    "salary": "USD 202,000 – 258,000/yearly",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "**Location**\n------------\n\nAbernathy, TX; New Lebanon, IN; River Bend, LA\n\n**Employment Type**\n-------------------\n\nFull time\n\n**Location Type**\n-----------------\n\nOn-site\n\n**Department**\n--------------\n\nData Center Operations\n\n**Compensation**\n----------------\n\n* $202K – $258K • Offers Equity\n\n*To ",
+    "posted_date": "2026-09-17",
+    "scraped_at": "2026-10-13T23:49:37.372919",
+    "first_seen": "2026-10-13T23:49:37.372921"
+  },
+  {
+    "id": "3fa03d47991c2632",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=64b5184c38a69c1c",
+    "title": "Staff Data Engineer",
+    "company": "Priority Technology Holdings, LLC",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 145,000 – 190,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "spark",
+      "pyspark",
+      "airflow",
+      "kafka",
+      "aws",
+      "data engineering",
+      "analytics engineering",
+      "snowflake",
+      "ci/cd",
+      "java",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**Job title:** Staff Data Engineer\n\n**Reports to:** Director, Data Engineering\n\n**Department:** Central Services\n\n**Location:** Remote\n\n **About Priority:**\n\nPriority Commerce is a leading financial technology company on a mission to deliver a personalized, easy-to-adopt financial toolset that accel",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-13T23:49:37.369064",
+    "first_seen": "2026-10-13T23:49:37.369066"
+  },
+  {
+    "id": "3dd7aa34217cd07d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=8226979af491d173",
+    "title": "Senior Data Engineer",
+    "company": "Bitful Consulting",
+    "location": "Tampa, FL, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "tableau",
+      "data engineering",
+      "machine learning",
+      "databricks",
+      "data warehouse",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "* You’ll build and maintain data pipelines and datasets that support reporting, visualization, machine learning and data-driven decision making across finance, sales, supply chain, marketing and other business functions.\n* Your responsibilities will include:\n* + Developing and maintaining scalable d",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-13T23:49:37.368605",
+    "first_seen": "2026-10-13T23:49:37.368609"
+  },
+  {
     "id": "020e1fb015b2c669",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=93f31f7137592a37",
