@@ -1,5 +1,64 @@
 [
   {
+    "id": "b5dacfee52f2cf9b",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-technical-customer-support-quickmail-1137506",
+    "title": "Technical Customer Support",
+    "company": "QuickMail",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "USD 30,000 – 50,000/year",
+    "job_type": "N/A",
+    "tags": [
+      "customer support"
+    ],
+    "description_snippet": "QuickMail is a cold email and LinkedIn outreach platform for markets you can't afford to burn. Our customers can't easily replace leads that land in spam, which is why deliverability matters more to us than anything else. We have been running since 2014, and we pioneered deliverability technology su",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-13T17:44:31.351261",
+    "first_seen": "2026-10-13T17:44:31.351265"
+  },
+  {
+    "id": "7a19dc5c6910f264",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=e2bf32ff58e93a6d",
+    "title": "Integration Engineer - Contract",
+    "company": "Upstart",
+    "location": "Remote, USA",
+    "is_remote": false,
+    "salary": "USD 47 – 66/hourly",
+    "job_type": "fulltime, contract",
+    "tags": [
+      "sql",
+      "spark",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**About Upstart**\n\nAt Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and ",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T17:44:19.762633",
+    "first_seen": "2026-10-13T17:44:19.762636"
+  },
+  {
+    "id": "e8ef6ebafd22ee95",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=e9fc42d8a708ee94",
+    "title": "Engineer 4 - Infrastructure",
+    "company": "Bob Evans Restaurants",
+    "location": "New Albany, OH, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "azure",
+      "scala",
+      "llm"
+    ],
+    "description_snippet": "Pay up to $140,000 + bonus\n\nWork in office 4 days / 1 day at home\n\nComprehensive benefits including 401(k) with employer match\n\nNo relocation benefits offered\n\nBackground check required\n\nBob Evans is an E-verify employer\n\n**Engineer 4 - Infrastructure**\n\nJob Description\n\n**POSITION REPORTS TO:** SVP",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-13T17:44:15.610266",
+    "first_seen": "2026-10-13T17:44:15.610269"
+  },
+  {
     "id": "861e2ac2b5dd4fa2",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/sticker-mule-si-agent-engineer",
