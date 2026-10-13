@@ -1,5 +1,102 @@
 [
   {
+    "id": "ed007dbecad6544b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155221-senior-c-engineer",
+    "title": "Senior C++ Engineer",
+    "company": "Findev",
+    "location": "Cyprus,  Poland,  Portugal,  Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "FinDev is looking for a Senior C++ Developer to join a team building and evolving a large-scale, real-time electronic trading platform for the global Fixed Income market. The team develops the application layer of an institutional corporate bond trading platform, supporting a range of trading protoc",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T20:02:33.496892",
+    "first_seen": "2026-10-13T20:02:33.496908"
+  },
+  {
+    "id": "3c7607e727f9ae26",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b6d9a88858365b7f",
+    "title": "Senior MES Engineer – PAS-X / DeltaV / SAP (Pharmaceutical)",
+    "company": "Pinnaql, Inc",
+    "location": "Wilson, NC, USA",
+    "is_remote": false,
+    "salary": "USD 72 – 80/hourly",
+    "job_type": "fulltime, contract",
+    "tags": [],
+    "description_snippet": "**The ideal candidate will bring strong experience with MES platforms and integrated manufacturing systems, with particular expertise in PAS-X, DeltaV, and SAP within a regulated GMP environment.**\n\n**Key Responsibilities**\n\n* Serve as the MES Subject Matter Expert supporting manufacturing operation",
+    "posted_date": "2026-10-08",
+    "scraped_at": "2026-10-13T20:02:24.926751",
+    "first_seen": "2026-10-13T20:02:24.926752"
+  },
+  {
+    "id": "dce3a21e99b6ac41",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=23770f10877242c8",
+    "title": "Mid-Band Radar Systems Analyst",
+    "company": "Seneca Holdings, LLC",
+    "location": "Yorktown, VA, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "aws"
+    ],
+    "description_snippet": "**Clear Creek Federal** is part of the **Seneca Nation Group (SNG)** portfolio of companies. **SNG** is Seneca Holdings' federal government contracting business that meets mission-critical needs of federal civilian, defense, and intelligence community customers. Our portfolio comprises multiple subs",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-10-13T20:02:20.504211",
+    "first_seen": "2026-10-13T20:02:20.504212"
+  },
+  {
+    "id": "06e309fed236abb3",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=10e828f168517e80",
+    "title": "Azure Cloud Engineer with HIPAA & Healthcare Data Security",
+    "company": "Shinebask Technologies",
+    "location": "Columbus, OH, USA",
+    "is_remote": false,
+    "salary": "USD 50 – 55/hourly",
+    "job_type": "contract",
+    "tags": [
+      "docker",
+      "azure",
+      "kubernetes",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Job Overview**\n\nWe are seeking an experienced, hands-on Azure Cloud Engineer to support and enhance the cloud infrastructure of a large healthcare organization. This role will focus heavily on cloud automation, infrastructure management, and continuous improvement within a fully Microsoft-based cl",
+    "posted_date": "2026-10-09",
+    "scraped_at": "2026-10-13T20:02:12.585308",
+    "first_seen": "2026-10-13T20:02:12.585309"
+  },
+  {
+    "id": "72f4bac0a106517e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3a3ac6377449ffc7",
+    "title": "SSIS/SSAS Data Warehousing Engineer",
+    "company": "Cleaver-Brooks Manufacturing",
+    "location": "Thomasville, GA, USA",
+    "is_remote": false,
+    "salary": "USD 125,000 – 125,000/hourly",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "power bi",
+      "snowflake",
+      "data warehouse",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**SSIS/SSAS Data Warehousing Engineer**\n=======================================\n\n**Department:** Information Technology  \n**Location:** Thomasville, GA  \n**Reports to:** IT Manager of Dev/Ops\n\n**A day in this role**\n----------------------\n\nStart your morning reviewing overnight ETL runs and quickly ",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-13T20:02:12.585131",
+    "first_seen": "2026-10-13T20:02:12.585137"
+  },
+  {
     "id": "b5dacfee52f2cf9b",
     "source": "remoteok",
     "url": "https://remoteOK.com/remote-jobs/remote-technical-customer-support-quickmail-1137506",
