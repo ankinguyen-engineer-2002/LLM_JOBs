@@ -1,5 +1,397 @@
 [
   {
+    "id": "020e1fb015b2c669",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=93f31f7137592a37",
+    "title": "Engineering Technician Journeyman",
+    "company": "ARS ( Applied Research Solutions )",
+    "location": "Lackland AFB, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "aws"
+    ],
+    "description_snippet": "Applied Research Solutions is seeking a full-time Engineering Technician at Lackland AFB-San Antonio, TX.\n\nWhy Work with us ?\n\nApplied Research Solutions (ARS) is respected as a world-class provider of technically integrated solutions as we deliver premier talent and technology across our focused ma",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T21:42:04.866723",
+    "first_seen": "2026-10-13T21:42:04.866726"
+  },
+  {
+    "id": "77cf0da9bd761aec",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f29041f892fb6548",
+    "title": "Robotics Lab Engineer",
+    "company": "Optimal Inc.",
+    "location": "Mountain View, CA, USA",
+    "is_remote": false,
+    "salary": "USD 100,000 – 120,000/yearly",
+    "job_type": "contract",
+    "tags": [
+      "python"
+    ],
+    "description_snippet": "**Job Description**\n\n**Robotics Lab Support Engineer**  \n**Professional Summary**  \nRobotics Engineer with hands-on experience in teleoperation, robotic manipulation,  \nmechanical fabrication, electrical prototyping, computer vision, data collection, software  \ndeployment, and robotics laboratory op",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T21:42:04.866484",
+    "first_seen": "2026-10-13T21:42:04.866488"
+  },
+  {
+    "id": "464b2af43409ec9e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=2d85d1267c446cb8",
+    "title": "Global Supply Chain Data Scientist",
+    "company": "Lockheed Martin",
+    "location": "Arlington, TX, USA",
+    "is_remote": false,
+    "salary": "USD 120,600 – 224,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "description_snippet": "**Standard Job Description**\n----------------------------\n\nPerform exploratory research and analysis to identify novel and meaningful patterns in data and uses statistical methods to reject or accept proposed hypotheses about relationships or latent predictive factors discovered through their work t",
+    "posted_date": "2026-09-22",
+    "scraped_at": "2026-10-13T21:41:59.463422",
+    "first_seen": "2026-10-13T21:41:59.463424"
+  },
+  {
+    "id": "bc2346b3306454be",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=2589a1e8db739e39",
+    "title": "LLM Engineering Expert- Simulation & Design",
+    "company": "CareerFlow",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 500 – 500/daily",
+    "job_type": "parttime, fulltime",
+    "tags": [
+      "python",
+      "llm"
+    ],
+    "description_snippet": "Remote (International)\n\nFull-time\n\nCareerflow Human Data Labs partners with AI companies to bring real-world professional expertise into their products.\n\nRole Overview We are looking for experienced AI Evaluation Engineers (Engineering Simulation & Design) to author and validate \"model-breaking,\" si",
+    "posted_date": "2026-09-23",
+    "scraped_at": "2026-10-13T21:41:59.463105",
+    "first_seen": "2026-10-13T21:41:59.463107"
+  },
+  {
+    "id": "4e5a8506d38bc399",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=023a385fc9b8faa7",
+    "title": "Bioinformatics Workflow Developer",
+    "company": "Zifo",
+    "location": "Cary, NC, USA",
+    "is_remote": false,
+    "salary": "USD 90,000 – 115,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "aws",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "Design, develop, and productionize scalable bioinformatics workflows supporting pangenome graph construction, haplotype expansion, population-scale imputation, and genomic data quality control. This role focuses on transforming research-grade analyses into robust, reusable, and cloud-enabled pipelin",
+    "posted_date": "2026-09-29",
+    "scraped_at": "2026-10-13T21:41:59.462590",
+    "first_seen": "2026-10-13T21:41:59.462592"
+  },
+  {
+    "id": "b921e03e0021c7c2",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=74b3572dc115489f",
+    "title": "Data Scientist",
+    "company": "Northbeam",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 130,000 – 160,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "machine learning",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "### **About Northbeam**\n\nNorthbeam is building the world's most advanced marketing intelligence platform, providing top eCommerce brands a unified view of their business data through powerful attribution modeling and customizable dashboards. Our technology helps customers accurately track ad spend, ",
+    "posted_date": "2026-09-30",
+    "scraped_at": "2026-10-13T21:41:59.462340",
+    "first_seen": "2026-10-13T21:41:59.462341"
+  },
+  {
+    "id": "c83554316333e2b1",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1350f88276444cdb",
+    "title": "AI Translator",
+    "company": "Milacron",
+    "location": "Batavia, OH, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "power bi",
+      "machine learning",
+      "generative ai"
+    ],
+    "description_snippet": "Milacron is looking for an AI Translator to join our team in Batavia, Ohio. In this position, you will be responsible for serving as the business-facing AI leader for an assigned business unit, translating operational challenges into AI-enabled solutions, driving user adoption, and delivering measur",
+    "posted_date": "2026-10-01",
+    "scraped_at": "2026-10-13T21:41:59.461641",
+    "first_seen": "2026-10-13T21:41:59.461643"
+  },
+  {
+    "id": "3a43d26d747e1521",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=ce7caf7ebfefa42a",
+    "title": "Aerospace Engineer - Remote",
+    "company": "Quest Global",
+    "location": "Phoenix, AZ, USA",
+    "is_remote": true,
+    "salary": "USD 65,000 – 75,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "rust"
+    ],
+    "description_snippet": "**Job Requirements**  \n\n**Who We Are:**\n\nQuest Global delivers world-class end-to-end engineering solutions by leveraging our deep industry knowledge and digital expertise. By bringing together technologies and industries, alongside the contributions of diverse individuals and their areas of experti",
+    "posted_date": "2026-10-01",
+    "scraped_at": "2026-10-13T21:41:59.461318",
+    "first_seen": "2026-10-13T21:41:59.461320"
+  },
+  {
+    "id": "e0068cfd3acdef98",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=cdc7eb995fb28d12",
+    "title": "LLM Engineer",
+    "company": "Diablo Convoy",
+    "location": "Houston, TX, USA",
+    "is_remote": false,
+    "salary": "USD 120,000 – 130,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "aws",
+      "machine learning",
+      "llm",
+      "langchain",
+      "prompt engineering"
+    ],
+    "description_snippet": "**Overview:**\n\nWe are seeking a detail-oriented **LLM Automation Engineer** to support AI-driven data analysis, document processing, automation workflows, and reporting initiatives. This role focuses on using artificial intelligence tools, prompt engineering techniques, and structured workflows to a",
+    "posted_date": "2026-10-05",
+    "scraped_at": "2026-10-13T21:41:59.461113",
+    "first_seen": "2026-10-13T21:41:59.461114"
+  },
+  {
+    "id": "b0e6824c594a55bf",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=bdf06b2dc53223db",
+    "title": "AI Automation Analyst",
+    "company": "Diablo Convoy",
+    "location": "Spring, TX, USA",
+    "is_remote": false,
+    "salary": "USD 130,000 – 150,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "machine learning",
+      "llm",
+      "prompt engineering"
+    ],
+    "description_snippet": "**Location:** In-Office  \n**Employment Type:** Full-time\n  \n**Benefits:** Medical, Dental, Vision, 401K  \n**Experience Level:** Mid-level\n\n**Overview:**\n\nWe are seeking a detail-oriented **AI Analyst / AI Automation Specialist** to support AI-driven data analysis, document processing, automation wor",
+    "posted_date": "2026-10-05",
+    "scraped_at": "2026-10-13T21:41:59.460985",
+    "first_seen": "2026-10-13T21:41:59.460987"
+  },
+  {
+    "id": "72f4da324ae9a5a4",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4bd66412058bbc3e",
+    "title": "Principal Data Scientist",
+    "company": "Upstart",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 165,800 – 252,500/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "spark",
+      "rust"
+    ],
+    "description_snippet": "**About Upstart**\n\nAt Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and ",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-10-13T21:41:59.460841",
+    "first_seen": "2026-10-13T21:41:59.460843"
+  },
+  {
+    "id": "c3c1791145f021b1",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=a3aee5e28e4a55d5",
+    "title": "Research Engineer, RL Env",
+    "company": "mecka",
+    "location": "New York, NY, USA",
+    "is_remote": false,
+    "salary": "USD 170,000 – 300,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "aws"
+    ],
+    "description_snippet": "### **About Mecka AI**\n\nMecka AI is building the data infrastructure layer for robotics and embodied AI.  \nWe design and operate global systems for data capture, data labeling, and hardware-enabled workflows used by leading AI labs and robotics companies to train and validate humanoid and embodied A",
+    "posted_date": "2026-10-07",
+    "scraped_at": "2026-10-13T21:41:59.460396",
+    "first_seen": "2026-10-13T21:41:59.460398"
+  },
+  {
+    "id": "c98d52842f1bf9a3",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=2025520f79fed231",
+    "title": "Operation research engineer",
+    "company": "Syngenta",
+    "location": "Malta, IL, USA",
+    "is_remote": false,
+    "salary": "USD 106,000 – 197,600/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "scala",
+      "rust",
+      "nlp"
+    ],
+    "description_snippet": "**Company Description**\n\n**About Syngenta**\n\nAt Syngenta Seeds Field Crops, we're shaping the future of agriculture and empowering farmers to meet the ever-growing demand for food and fuel. We’re a global Ag Tech powerhouse, headquartered in the United States, with passionate, local experts collabor",
+    "posted_date": "2026-10-09",
+    "scraped_at": "2026-10-13T21:41:59.459537",
+    "first_seen": "2026-10-13T21:41:59.459539"
+  },
+  {
+    "id": "d1e0405997d8f7f5",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5185335f030aa669",
+    "title": "Performance Analyst",
+    "company": "Xcel Energy",
+    "location": "Amarillo, TX, USA",
+    "is_remote": false,
+    "salary": "USD 73,700 – 104,633/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "Xcel Energy (NASDAQ: XEL) is a leading energy provider and Fortune 500 company, dedicated to serving millions of electricity and natural gas customers across eight states: Minnesota, Colorado, Wisconsin, Michigan, North Dakota, South Dakota, New Mexico and Texas. We make energy work better for our c",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-13T21:41:59.459224",
+    "first_seen": "2026-10-13T21:41:59.459226"
+  },
+  {
+    "id": "6530856396bf14a8",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=66bdadf1084f2459",
+    "title": "Data Advisor_BCDA1J",
+    "company": "ENGIE",
+    "location": "Houston, TX, USA",
+    "is_remote": false,
+    "salary": "USD 117,300 – 179,860/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "azure",
+      "aws",
+      "power bi",
+      "tableau",
+      "snowflake",
+      "databricks",
+      "rust"
+    ],
+    "description_snippet": "**What You Can Expect**\n\nIn this role, your objective is to serve as the bridge between the US B2B Supply Business teams and our Data & Architecture teams, gathering and challenging requirements and translating what the business needs into clear functional and technical specifications.\n\n  \n\nDelivera",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-13T21:41:59.458880",
+    "first_seen": "2026-10-13T21:41:59.458882"
+  },
+  {
+    "id": "e90c91fa720552f6",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b6a80ff9c8cc0cfb",
+    "title": "Software Engineer - Data & AI",
+    "company": "O.R. Colan Associates (ORC)",
+    "location": "NC, USA",
+    "is_remote": true,
+    "salary": "USD 121,479 – 140,916/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "dbt",
+      "snowflake",
+      "scala",
+      "rust",
+      "llm"
+    ],
+    "description_snippet": "### **Description**\n\n**Location:** Remote; candidates must reside within two hours of Charlotte, NC.  \n**Schedule:** Full-time; Exempt. Relocation and per diem are not provided.\n\n**Why Join ORC?**\n\n**The Right Work. The Right People. The Right Culture.**  \nRight of Way is where infrastructure meets ",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T21:41:59.458553",
+    "first_seen": "2026-10-13T21:41:59.458556"
+  },
+  {
+    "id": "daef96fea9429e0b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=9270053135c206a4",
+    "title": "Jobs for you",
+    "company": "Mayo Clinic",
+    "location": "Rochester, MN, USA",
+    "is_remote": false,
+    "salary": "USD 99,070 – 148,616/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "machine learning",
+      "deep learning"
+    ],
+    "description_snippet": "**Why Mayo Clinic**\n\nMayo Clinic is top-ranked in more specialties than any other care provider according to U.S. News & World Report. As we work together to put the needs of the patient first, we are also dedicated to our employees, investing in competitive compensation and comprehensive benefit pl",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-13T21:41:59.458161",
+    "first_seen": "2026-10-13T21:41:59.458165"
+  },
+  {
+    "id": "ef46acda12538098",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=85f575c397fbdb2e",
+    "title": "Systems Engineer",
+    "company": "Peraton",
+    "location": "McLean, VA, USA",
+    "is_remote": true,
+    "salary": "USD 112,000 – 179,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "scala",
+      "rust",
+      "llm"
+    ],
+    "description_snippet": "##### **About Peraton**\n\nPeraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trust",
+    "posted_date": "2026-10-05",
+    "scraped_at": "2026-10-13T21:41:54.672931",
+    "first_seen": "2026-10-13T21:41:54.672933"
+  },
+  {
+    "id": "66068668bd4eb9a1",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=63e623558d354d72",
+    "title": "Senior Data Engineer",
+    "company": "Bitful Consulting",
+    "location": "Wadsworth, OH, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "tableau",
+      "data engineering",
+      "machine learning",
+      "databricks",
+      "data warehouse",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "* You’ll build and maintain data pipelines and datasets that support reporting, visualization, machine learning and data-driven decision making across finance, sales, supply chain, marketing and other business functions.\n* Your responsibilities will include:\n* + Developing and maintaining scalable d",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-13T21:41:49.417671",
+    "first_seen": "2026-10-13T21:41:49.417676"
+  },
+  {
     "id": "ed007dbecad6544b",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/155221-senior-c-engineer",
