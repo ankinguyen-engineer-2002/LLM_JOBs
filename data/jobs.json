@@ -1,5 +1,205 @@
 [
   {
+    "id": "0d23b015137d4f09",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155332-sr-director-maintainx-ai",
+    "title": "Sr. Director, MaintainX AI",
+    "company": "MaintainX",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers , including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million co",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T20:25:55.068622",
+    "first_seen": "2026-10-14T20:25:55.068634"
+  },
+  {
+    "id": "d5e6ceb0476f23fc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155336-senior-applied-data-scientist-fleet-intelligence",
+    "title": "Senior Applied Data Scientist, Fleet Intelligence",
+    "company": "Fleetio",
+    "location": "Canada,  Mexico,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "A little about us… Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D fun",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T20:25:54.439988",
+    "first_seen": "2026-10-14T20:25:54.439999"
+  },
+  {
+    "id": "b1006fb06da3d178",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155317-manager-airline-partnerships",
+    "title": "Manager, Airline Partnerships",
+    "company": "TripActions",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "At Navan, airline partnerships shape the content, choice, and service our travelers experience. As Manager, Airline Partnerships, you'll own and grow a portfolio of airline partners across the Americas, securing competitive content and commercial agreements that create value for travelers, airline p",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T20:25:53.749474",
+    "first_seen": "2026-10-14T20:25:53.749476"
+  },
+  {
+    "id": "946763b331115e8d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155316-associate-forward-deployed-product-manager",
+    "title": "Associate Forward Deployed Product Manager",
+    "company": "Cresta",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T20:25:53.749309",
+    "first_seen": "2026-10-14T20:25:53.749311"
+  },
+  {
+    "id": "0e2b6aea18e3d680",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155318-manager-customer-success-americas",
+    "title": "Manager, Customer Success - Americas",
+    "company": "NetBox Labs",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About the role NetBox Labs is growing fast, and our Customer Success team is growing with us. We're hiring our first Manager, Customer Success for the Americas to lead, coach, and grow our CSM team. You'll start with three CSMs covering North America and LATAM, and help drive the plan for and execut",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T20:25:53.749041",
+    "first_seen": "2026-10-14T20:25:53.749043"
+  },
+  {
+    "id": "4bd96d9db5aefad4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155324-senior-client-success-manager",
+    "title": "Senior Client Success Manager",
+    "company": "TripActions",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "As a Senior Client Success Manager, you will act as a lead strategic partner and executive-level trusted advisor to Navan's most strategic and complex key clients. Your primary mission is to ensure their success, drive satisfaction, and maximize value throughout their lifecycle with Navan. A critica",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T20:25:53.748759",
+    "first_seen": "2026-10-14T20:25:53.748771"
+  },
+  {
+    "id": "3b13eedd9d76aeec",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d87f7b423b641077",
+    "title": "Electrical Engineer, Entry (Open until filled)",
+    "company": "Sacramento Municipal Utility District",
+    "location": "Sacramento, CA, USA",
+    "is_remote": false,
+    "salary": "USD 110,801 – 146,785/yearly",
+    "job_type": "parttime",
+    "tags": [
+      "aws",
+      "rust"
+    ],
+    "description_snippet": "Department:\n\nCategory: Engineering/Technical\n\nLocation:\nSacramento, CA, US, 95817-1899\n\n**Minimum Pay Rate:** $110,801.60\n\n**Maximum Pay Rate:** $146,785.60\n\n  \n\n**Note:** This position is being posted at both the entry and journey levels; however, only one hire will be made from these two postings.",
+    "posted_date": "2026-09-28",
+    "scraped_at": "2026-10-14T20:25:38.794444",
+    "first_seen": "2026-10-14T20:25:38.794445"
+  },
+  {
+    "id": "38dbcc71a7985af6",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d67ef358416a7bd3",
+    "title": "Non-Intrusive Optical Diagnostic Engineer",
+    "company": "BNH",
+    "location": "Arnold AFB, TN, USA",
+    "is_remote": false,
+    "salary": "USD 93,000 – 151,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "aws"
+    ],
+    "description_snippet": "**Overview**\n------------\n\n**Job Title: Non-Intrusive Optical Diagnostic Engineer**\n\n**Location:** **Arnold AFB, TN**\n\n**Job Family Code:** **O - Engineering**\n\n**Function/Branch:** **Engineering/Engineering Solutions**\n\n**Directorate:** **Engineering & Tech Support**\n\n**Position Type:** **Regular, ",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-14T20:25:38.791287",
+    "first_seen": "2026-10-14T20:25:38.791289"
+  },
+  {
+    "id": "2e3ed91c20a38202",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d8b1146fde05b8b0",
+    "title": "Data Architect - Data Engineering 4D",
+    "company": "Genpact",
+    "location": "Jacksonville, FL, USA",
+    "is_remote": false,
+    "salary": "USD 80,000 – 100,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "spark",
+      "azure",
+      "aws",
+      "data engineering",
+      "databricks",
+      "java",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "Data Architect\n\n**Ready to turn bold ideas into real-world impact?**  \nAt Genpact, we don’t just adapt to change, we lead it. AI and digital innovation are transforming the way businesses work, and we’re at the forefront of it. Genpact’s AI Gigafactory, our industry-first accelerator, exemplifies ho",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-14T20:25:34.906940",
+    "first_seen": "2026-10-14T20:25:34.906942"
+  },
+  {
+    "id": "e12fa57eb26fa945",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=23426a1bd3bfe56b",
+    "title": "Senior Data Engineer – Microsoft Fabric & Healthcare Integrations",
+    "company": "Quantum Pain & Sports Medicine",
+    "location": "Irving, TX, USA",
+    "is_remote": false,
+    "salary": "USD 125,000 – 150,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "azure",
+      "power bi",
+      "data engineering",
+      "microsoft fabric",
+      "medallion",
+      "ci/cd",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**Senior Data Engineer – Microsoft Fabric & Healthcare Integrations**\n\n**Location:** Dallas–Fort Worth, TX\n\n**Employment Type:** Full-Time\n\n**Work Arrangement:** In-Office\n\n**Compensation:** 125,000–150,000 per year, depending on experience\n\n**About the Role**\n\nWe are a growing multi-site healthcare",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T20:25:30.215993",
+    "first_seen": "2026-10-14T20:25:30.215998"
+  },
+  {
     "id": "1f4b5234598995d2",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/155268-support-engineer-2",
