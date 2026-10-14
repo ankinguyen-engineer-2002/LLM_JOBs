@@ -1,5 +1,575 @@
 [
   {
+    "id": "1f4b5234598995d2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155268-support-engineer-2",
+    "title": "Support Engineer",
+    "company": "Spreedly",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "About Us: Spreedly is the Intelligent Payments Platform for businesses that want to own their payments strategy. Founded in 2007 and headquartered in Durham, NC, we give merchants, platforms, and fintechs a single API to connect to 150+ payment gateways and 40+ payment methods across 100+ countries,",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.120888",
+    "first_seen": "2026-10-14T18:16:36.120890"
+  },
+  {
+    "id": "1b1032e545cee9aa",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155266-demand-generation-program-manager-united-states-remote",
+    "title": "Demand Generation Program Manager | United States | Remote",
+    "company": "Grafana Labs",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.120525",
+    "first_seen": "2026-10-14T18:16:36.120527"
+  },
+  {
+    "id": "72ae05dc052eb56c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155271-director-solutions-engineering-east-remote",
+    "title": "Director, Solutions Engineering | East | Remote",
+    "company": "Grafana Labs",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.120195",
+    "first_seen": "2026-10-14T18:16:36.120196"
+  },
+  {
+    "id": "9fc469d1fda444f6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155276-us-principal-ml-system-engineer",
+    "title": "(US) Principal ML System Engineer",
+    "company": "PointClickCare",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare. With the largest lo",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.119944",
+    "first_seen": "2026-10-14T18:16:36.119945"
+  },
+  {
+    "id": "c7658b9d972b191b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155277-engineering-manager-observability-spain-remote",
+    "title": "Engineering Manager - Observability | Spain | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.119616",
+    "first_seen": "2026-10-14T18:16:36.119618"
+  },
+  {
+    "id": "285bf9e9ad797efd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155280-engineering-manager-observability-sweden-remote",
+    "title": "Engineering Manager - Observability | Sweden | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.119286",
+    "first_seen": "2026-10-14T18:16:36.119287"
+  },
+  {
+    "id": "1540e4ed79d87d99",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155283-engineering-manager-observability-uk-remote",
+    "title": "Engineering Manager - Observability | UK | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.118947",
+    "first_seen": "2026-10-14T18:16:36.118948"
+  },
+  {
+    "id": "318b005cafd024f6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155288-ai-solution-engineer-technology-support",
+    "title": "Ai Solution Engineer - (Technology Support)",
+    "company": "PointClickCare",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare. With the largest lo",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.118591",
+    "first_seen": "2026-10-14T18:16:36.118592"
+  },
+  {
+    "id": "8c1524c3f12fec3c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155304-technical-support-specialist-au",
+    "title": "Technical Support Specialist, AU",
+    "company": "Nash",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Nash is looking for a Technical Support Specialist to join our global, 24/7 Technical Support team. This role sits at the heart of how Nash stabilizes the platform for our enterprise merchants - owning the investigation, resolution, and clean escalation of complex platform and integration issues acr",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.118282",
+    "first_seen": "2026-10-14T18:16:36.118283"
+  },
+  {
+    "id": "ba8cd8c8c0722b5e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155302-senior-software-engineering-manager",
+    "title": "Senior Software Engineering Manager",
+    "company": "Fanatics",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Us Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fanatics Collectibles, and Fanatics Bettin",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.118061",
+    "first_seen": "2026-10-14T18:16:36.118063"
+  },
+  {
+    "id": "6bbcbf27dea66c57",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155301-product-marketing-lead-3",
+    "title": "Product Marketing Lead",
+    "company": "Nash",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Background Nash powers the logistics infrastructure behind some of the most recognizable brands in commerce, including Walmart, Urban Outfitters, and 7-Eleven, along with platforms like Shopify and Toast. We are scaling fast, the category is forming around us, and we are building the product marketi",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.117825",
+    "first_seen": "2026-10-14T18:16:36.117827"
+  },
+  {
+    "id": "9f1603d7d0b0040d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155303-principal-macos-security-researcher",
+    "title": "Principal macOS Security Researcher",
+    "company": "Huntress",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.117400",
+    "first_seen": "2026-10-14T18:16:36.117401"
+  },
+  {
+    "id": "0dbb3746c3b126d8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155298-client-director",
+    "title": "Client Director",
+    "company": "Nash",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Client Director About This Role As a Client Director at Nash , you will help transform how the largest enterprises reimagine how they manage last-mile delivery. This is a strategic, high-impact role focused on closing complex, high-value deals and shaping how our most important customers adopt Nash’",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.117142",
+    "first_seen": "2026-10-14T18:16:36.117144"
+  },
+  {
+    "id": "9b02da6d8dffcd93",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155305-senior-staff-engineer-mobile-kotlin",
+    "title": "Senior Staff Engineer - Mobile/Kotlin",
+    "company": "Fanatics",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Us Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fanatics Collectibles, and Fanatics Bettin",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.116933",
+    "first_seen": "2026-10-14T18:16:36.116935"
+  },
+  {
+    "id": "a25b618215742ba4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155307-inside-sales-representative-3",
+    "title": "Inside Sales Representative",
+    "company": "RStudio",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Posit is a Public Benefit Corporation and Certified B Corp on a mission to create open-source software for data science, scientific research, and technical communication — and we’re building a company designed to thrive for 100 years. Our sales teams help our customers get serious, reproducible, and",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.116674",
+    "first_seen": "2026-10-14T18:16:36.116675"
+  },
+  {
+    "id": "f44d7638e37b7b2b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155311-senior-software-engineer-14",
+    "title": "Senior Software Engineer",
+    "company": "RStudio",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About the role Data science is in a moment of reinvention: AI-generated code and agentic workflows are changing what it means to put analytical work into production. Posit’s mission is to empower people to conduct trustworthy data analysis for themselves, their organizations, and the world at large.",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.116326",
+    "first_seen": "2026-10-14T18:16:36.116327"
+  },
+  {
+    "id": "70be1242301766cd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155312-onboarding-manager-2",
+    "title": "Onboarding Manager",
+    "company": "Boulevard",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Who is Boulevard ? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most. Before launching in 2016, our founders spent months interviewing salon manager",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.116006",
+    "first_seen": "2026-10-14T18:16:36.116007"
+  },
+  {
+    "id": "d9bd763a955be49b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155313-senior-staff-software-engineer-partner-integrations",
+    "title": "Senior Staff Software Engineer, Partner Integrations",
+    "company": "Flex",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Flex is a growth-stage, NYC headquartered FinTech company that is creating the best rent payment experience. It’s hard to believe that it’s 2026 and paying rent on time is expensive, inflexible, and difficult. We’re here to change that! Flex enables our users to pay rent throughout the month on a sc",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.115583",
+    "first_seen": "2026-10-14T18:16:36.115585"
+  },
+  {
+    "id": "b8454e22e87766c7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155315-senior-solutions-engineer-post-sales",
+    "title": "Senior Solutions Engineer (Post-Sales)",
+    "company": "RStudio",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Posit's mission is to create free and open-source software for data science, scientific research, and technical communication to enhance the production and consumption of knowledge by everyone, regardless of economic means. We are a different kind of software company , and we’re proud to build and s",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:36.115346",
+    "first_seen": "2026-10-14T18:16:36.115357"
+  },
+  {
+    "id": "e149ad449b8d023b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=60852d74dc99179b",
+    "title": "AWS Data Architect",
+    "company": "Trianz",
+    "location": "Clinton, NJ, USA",
+    "is_remote": false,
+    "salary": "USD 150,000 – 170,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "dbt",
+      "airflow",
+      "kafka",
+      "aws",
+      "power bi",
+      "tableau",
+      "data engineering",
+      "snowflake",
+      "data warehouse",
+      "scala"
+    ],
+    "description_snippet": "Role: AWS Data Architect\n\nLocation: Hybrid – Clinton, NJ – 3 days in a week from office\n\nEmployment Type: Full-time. Visa Sponsorship is not available for this role.\n\n**Company Overview**\n\nTrianz is an **applied AI solutions company** that accelerates customer business transformation through AI powe",
+    "posted_date": "2026-09-16",
+    "scraped_at": "2026-10-14T18:16:30.075123",
+    "first_seen": "2026-10-14T18:16:30.075125"
+  },
+  {
+    "id": "5564057b4c2430f2",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=46903c1aaeec6ba2",
+    "title": "Senior Application & Technical Architect -Data Warehouse- Remote",
+    "company": "CLOUDSCOUTS SOFTWARE SOLUTIONS LLC",
+    "location": "Springfield, IL, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "ci/cd"
+    ],
+    "description_snippet": "Primary Responsibilities  \n\n* Own end-to-end application and technical architecture for reporting, analytics, data integration, and transaction-based processing solutions across on-premises platforms and future cloud services.\n* Translate business, operational, and regulatory requirements into maint",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-14T18:16:30.071241",
+    "first_seen": "2026-10-14T18:16:30.071243"
+  },
+  {
+    "id": "be8331572a8d3e32",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b4dc72ccad028462",
+    "title": "Mechatronics Engineer",
+    "company": "AEM",
+    "location": "Carlsbad, CA, USA",
+    "is_remote": false,
+    "salary": "USD 120,000 – 160,000/yearly",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "AEM website: https://aem.com.sg/\n\nCheck us out on Linked In: https://www.linkedin.com/company/aem-holdings/\n\n**ABOUT AEM:**  \nAEM is a leading provider of semiconductor test and handling solutions, specializing in advanced thermal test technologies. Our mission is to deliver innovative and reliable ",
+    "posted_date": "2026-09-19",
+    "scraped_at": "2026-10-14T18:16:26.086185",
+    "first_seen": "2026-10-14T18:16:26.086186"
+  },
+  {
+    "id": "a94ddc8cf034b1d3",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=de0a51ba5d82435b",
+    "title": "Manhattan WMOS/MAWM Solution Architect",
+    "company": "Fulfillment IQ",
+    "location": "Atlanta, GA, USA",
+    "is_remote": false,
+    "salary": "USD 150,000 – 170,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "scala",
+      "rust",
+      "llm"
+    ],
+    "description_snippet": "**Job Title:** Manhattan WMOS/MAWM Solution Architect\n  \n**Job Location:** Atlanta, GA, United States (Onsite/Hybrid) or fully remote within the United States for exceptional candidates.  \n**Job Type:** Full-time, Permanent  \n**Hiring Timeline:** Immediate  \n**Reporting Line:** Co-Founder, COO & SVP",
+    "posted_date": "2026-10-02",
+    "scraped_at": "2026-10-14T18:16:26.083356",
+    "first_seen": "2026-10-14T18:16:26.083358"
+  },
+  {
+    "id": "3dd2422643574998",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7d606cb437700fe8",
+    "title": "Systems Engineer I (Onsite)",
+    "company": "Raytheon",
+    "location": "Warner Robins, GA, USA",
+    "is_remote": false,
+    "salary": "USD 57,200 – 108,800/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "rust"
+    ],
+    "description_snippet": "**Date Posted:**\n\n2026-09-20\n\n**Country:**\n\nUnited States of America\n\n**Location:**\n\nUS-GA-WARNER ROBINS-512 ~ 1230 Carl Vinson Pkwy ~ ROBINS ENGINEERING CTR\n\n**Position Role Type:**\n\nOnsite\n\n**U.S. Citizen, U.S. Person, or Immigration Status Requirements:**\n\nThe ability to obtain and maintain a U.S",
+    "posted_date": "2026-09-19",
+    "scraped_at": "2026-10-14T18:16:21.964015",
+    "first_seen": "2026-10-14T18:16:21.964016"
+  },
+  {
+    "id": "eee1d4ea36e97bef",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=70cf51d8b7ce5bdc",
+    "title": "Hardware-in-the-Loop Systems Engineer",
+    "company": "BNH",
+    "location": "Arnold AFB, TN, USA",
+    "is_remote": false,
+    "salary": "USD 112,000 – 174,500/yearly",
+    "job_type": "parttime, fulltime",
+    "tags": [
+      "python",
+      "aws"
+    ],
+    "description_snippet": "Overview:\n\n**Job Title: Hardware-in-the-Loop Systems Engineer**\n\n**Location: Arnold AFB, TN**\n\n**Job Family Code: O - Engineering**\n\n**Function/Branch: Engineering/ID&C**\n\n**Directorate: Mission Information Services**\n\n**Position Type: Regular, Full-Time**\n\n**Pay Type: Exempt**\n\n**Grade: L09(TA0913)",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-14T18:16:21.960595",
+    "first_seen": "2026-10-14T18:16:21.960597"
+  },
+  {
+    "id": "6620ddf8974beb38",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=0dd1c078a1a4f604",
+    "title": "GENERAL ENGINEER",
+    "company": "US Naval Sea Systems Command",
+    "location": "Dahlgren, VA, USA",
+    "is_remote": false,
+    "salary": "USD 143,913 – 197,200/yearly",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "**Summary**\n-----------\n\nThis is a public notice flyer to notify interested applicants of anticipated vacancies. Applications will not be accepted through this flyer. Interested applicants must follow the directions in the \"How to Apply\" section of this flyer to be considered. There may or may not b",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:21.959582",
+    "first_seen": "2026-10-14T18:16:21.959584"
+  },
+  {
+    "id": "0313e2608f6c9776",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3826d69c14a22f17",
+    "title": "Engineer (Associate to Staff) or Engineering Technical Specialist I/II/III (RICHMOND, VA, US, 23219)",
+    "company": "Dominion Energy",
+    "location": "Richmond, VA, USA",
+    "is_remote": false,
+    "salary": "USD 65,500 – 118,100/yearly",
+    "job_type": "nan",
+    "tags": [],
+    "description_snippet": "Dominion Energy is committed to providing reliable, affordable, and increasingly clean energy that powers our customers every day. If you want to work for a purpose-driven company that values safety and collaboration, we’re looking for you. You won’t just find a job here; you’ll find your career. Re",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:21.958897",
+    "first_seen": "2026-10-14T18:16:21.958900"
+  },
+  {
+    "id": "266d2cbaa2261e7e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=71dde6a584432d9f",
+    "title": "Non-Intrusive Optical Diagnostic Engineer",
+    "company": "BNH",
+    "location": "Arnold AFB, TN, USA",
+    "is_remote": false,
+    "salary": "USD 93,000 – 151,000/yearly",
+    "job_type": "parttime, fulltime",
+    "tags": [
+      "python",
+      "aws"
+    ],
+    "description_snippet": "Overview:\n\n**Job Title: Non-Intrusive Optical Diagnostic Engineer**\n\n**Location:** **Arnold AFB, TN**\n\n**Job Family Code:** **O - Engineering**\n\n**Function/Branch:** **Engineering/Engineering Solutions**\n\n**Directorate:** **Engineering & Tech Support**\n\n**Position Type:** **Regular, Full Time**\n\n**P",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-14T18:16:21.958380",
+    "first_seen": "2026-10-14T18:16:21.958383"
+  },
+  {
+    "id": "75cacfae6924c729",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=8f479f9bfee5caad",
+    "title": "Senior Data Engineer",
+    "company": "Fusion Worldwide",
+    "location": "Boston, MA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "dbt",
+      "kafka",
+      "azure",
+      "data engineering",
+      "deep learning",
+      "postgres",
+      "snowflake",
+      "databricks",
+      "ci/cd",
+      "llm"
+    ],
+    "description_snippet": "**Role Summary**\n\nFusion Worldwide is a global open market distributor of electronic components. When a supply chain breaks because of an allocation, a shortage, or a part going end-of-life, we're who the world's largest manufacturers call.\n\nThat business runs on knowing things: which companies are ",
+    "posted_date": "2026-10-02",
+    "scraped_at": "2026-10-14T18:16:14.671770",
+    "first_seen": "2026-10-14T18:16:14.671771"
+  },
+  {
+    "id": "eca20aed5b72adc6",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b94f22a6735e8abf",
+    "title": "Data Engineer- Youngstown, OH (002-27)",
+    "company": "National Center for Defense Manufacturing",
+    "location": "Youngstown, OH, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "aws"
+    ],
+    "description_snippet": "**Data Engineer**\n\n**About America Makes**\n\nAmerica Makes is the Nation’s leading public-private partnership for Additive Manufacturing technology and education. Our members from industry, academia, government, workforce, and economic development organizations, work together to accelerate the adopti",
+    "posted_date": "2026-10-08",
+    "scraped_at": "2026-10-14T18:16:14.670613",
+    "first_seen": "2026-10-14T18:16:14.670615"
+  },
+  {
     "id": "2714db5f3b66a997",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=2afedeed4538a2eb",
