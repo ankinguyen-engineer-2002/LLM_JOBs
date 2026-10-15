@@ -1,5 +1,238 @@
 [
   {
+    "id": "8457d04e2bc8b681",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155395-technical-account-manager-tam-us",
+    "title": "Technical Account Manager (TAM)- US",
+    "company": "Nivoda",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "About Nivoda Nivoda is a rapidly scaling global B2B diamond and gemstone marketplace connecting jewellery retailers with competitive, high-quality suppliers worldwide. Processing $300M+ in annual transactions and operating across multiple regions, Nivoda is transforming a $350B industry that has his",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T20:12:16.462829",
+    "first_seen": "2026-10-15T20:12:16.462840"
+  },
+  {
+    "id": "56d1fb47cd93cccb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155397-senior-analytics-engineer-3",
+    "title": "Senior Analytics Engineer",
+    "company": "Paddle",
+    "location": "Ireland,  Portugal,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain ",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T20:11:19.899030",
+    "first_seen": "2026-10-15T20:11:19.899032"
+  },
+  {
+    "id": "3d8aa8d983a8deb4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155396-enterprise-account-director-new-business-api-cpaas",
+    "title": "Enterprise Account Director, New Business (API/CPaaS)",
+    "company": "Vonage",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Join Vonage and help us innovate cloud communications for businesses worldwide! Vonage Communications APIs: As an emerging leader in the $10B+ communications API market, we empower global brands to connect better with their customers, employees, and partners through transformative communications exp",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T20:11:19.898813",
+    "first_seen": "2026-10-15T20:11:19.898814"
+  },
+  {
+    "id": "2290f0c568d04116",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155399-mid-market-account-executive-new-business-api-cpaas",
+    "title": "Mid-Market Account Executive, New Business (API/CPaaS)",
+    "company": "Vonage",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Join Vonage and help us innovate cloud communications for businesses worldwide! Vonage Communications APIs: As an emerging leader in the $10B+ communications API market, we empower global brands to connect better with their customers, employees, and partners through transformative communications exp",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T20:11:19.898594",
+    "first_seen": "2026-10-15T20:11:19.898596"
+  },
+  {
+    "id": "dc9d2d87bdb560f0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155398-senior-product-security-engineer-usa-only-100-remote",
+    "title": "Senior Product Security Engineer (USA Only, 100% Remote)",
+    "company": "Close",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About Us Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No manual data entry, no 10-click workflows. Just communication-first, AI-powered sa",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T20:11:19.898357",
+    "first_seen": "2026-10-15T20:11:19.898358"
+  },
+  {
+    "id": "36a5216a7b657ca8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155403-head-of-data-science-2",
+    "title": "Head of Data Science",
+    "company": "Paddle",
+    "location": "Ireland,  Portugal,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain ",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T20:11:19.897865",
+    "first_seen": "2026-10-15T20:11:19.897877"
+  },
+  {
+    "id": "66549536afe950cf",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d916a51ed7c87f41",
+    "title": "EDW Technical Architect",
+    "company": "RCR Technology",
+    "location": "Remote, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "power bi",
+      "tableau",
+      "data engineering",
+      "snowflake",
+      "databricks",
+      "data warehouse",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "For over twenty-seven years RCR Technology Corporation has delivered the highest quality services to our clients with an expansive portfolio of industry-relevant services, and deep technical capabilities around data management and application development.\n\n  \n\nWe are looking for an **EDW Technical A",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-15T20:10:56.628903",
+    "first_seen": "2026-10-15T20:10:56.628907"
+  },
+  {
+    "id": "340d6b9103ea5d4d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=35ed9ec6bc658793",
+    "title": "Staff Data Engineer",
+    "company": "Visa",
+    "location": "Austin, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "airflow",
+      "docker",
+      "kafka",
+      "aws",
+      "data engineering",
+      "machine learning",
+      "tensorflow",
+      "kubernetes",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**About Us**  \nVisa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid.\n\n",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T20:10:51.752587",
+    "first_seen": "2026-10-15T20:10:51.752592"
+  },
+  {
+    "id": "bd2e38f7f42f36b8",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=a7ab83cdce91a11c",
+    "title": "Research Engineer, RL Env",
+    "company": "mecka",
+    "location": "San Francisco, CA, USA",
+    "is_remote": false,
+    "salary": "USD 170,000 – 300,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "aws"
+    ],
+    "description_snippet": "### **About Mecka AI**\n\nMecka AI is building the data infrastructure layer for robotics and embodied AI.  \nWe design and operate global systems for data capture, data labeling, and hardware-enabled workflows used by leading AI labs and robotics companies to train and validate humanoid and embodied A",
+    "posted_date": "2026-10-07",
+    "scraped_at": "2026-10-15T20:10:47.071330",
+    "first_seen": "2026-10-15T20:10:47.071333"
+  },
+  {
+    "id": "7080feb0e883f54d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=a42274c303c01142",
+    "title": "Artificial Intelligence Engineer",
+    "company": "Ryan Companies US, Inc.",
+    "location": "Des Moines, IA, USA",
+    "is_remote": false,
+    "salary": "USD 100,000 – 130,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "gcp",
+      "machine learning",
+      "bigquery",
+      "java",
+      "scala",
+      "llm",
+      "generative ai"
+    ],
+    "description_snippet": "**Job Description:**\n\nRyan Companies US, Inc. has an immediate career opportunity for an Artificial Intelligence Engineer to join our growing Data and Artificial Intelligence team. Reporting directly to the Director of AI, this high-impact role operates on the front lines of Ryan’s construction oper",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-15T20:10:47.070767",
+    "first_seen": "2026-10-15T20:10:47.070768"
+  },
+  {
+    "id": "d90080cf697a893c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=66268877aa95f323",
+    "title": "Senior Software Development Engineer in Test - AI",
+    "company": "Anaplan",
+    "location": "Charlotte, NC, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "ci/cd",
+      "java",
+      "rust",
+      "llm",
+      "prompt engineering"
+    ],
+    "description_snippet": "At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.\n\nWhat unites Anaplanners across teams and geographies is our collective commitm",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-15T20:10:47.068599",
+    "first_seen": "2026-10-15T20:10:47.068601"
+  },
+  {
     "id": "874f9d813af2c81f",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/155359-senior-incident-problem-manager",
