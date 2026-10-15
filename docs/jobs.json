@@ -1,5 +1,853 @@
 [
   {
+    "id": "f39031ab4afabed0",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/abnormal-customer-solutions-engineer-emea",
+    "title": "Customer Solutions Engineer, EMEA",
+    "company": "Abnormal",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote - Ireland About the Role Abnormal AI is looking for a Customer Solutions Engineer to join the Technical Account Management team. This role gives Abnormal a flexible, technical resource for situations that fall between standard support and a long-term, dedicated Technical Account",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:37:36.886054",
+    "first_seen": "2026-10-15T08:37:36.886060"
+  },
+  {
+    "id": "632ce03a49d15a5d",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel",
+    "title": "Category Manager - Apparel",
+    "company": "StockX",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote, USA Help empower our global customers to connect to culture through their passions. Why you’ll love this role: StockX is the world’s leading marketplace for current culture, built at the intersection of commerce, community, and credibility. Apparel is foundational to StockX — n",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:37:36.476515",
+    "first_seen": "2026-10-15T08:37:36.476518"
+  },
+  {
+    "id": "97f64c1046f48edb",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/lattice-senior-software-engineer-infrastructure-platform",
+    "title": "Senior Software Engineer, Infrastructure Platform",
+    "company": "Lattice",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote - Canada This is Engineering at Lattice Lattice’s Engineering team is continuously working to better both our product and our craft. We use a modern, cutting-edge tech stack and love experimenting with new technologies. We strive for maintainable, robust, and performant code. We",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:37:36.475461",
+    "first_seen": "2026-10-15T08:37:36.475470"
+  },
+  {
+    "id": "28390d960985d9f4",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
+    "title": "AI Experience Engineer (Conversational AI)",
+    "company": "Upgrade",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "back-end programming"
+    ],
+    "description_snippet": "Headquarters: Canada (Remote) About the Role: An AI Experience Engineer owns the full lifecycle of the journeys our customers have with Upgrade's AI agent on chat, voice and email: creation, optimization, edge case handling and containment growth. They build journeys in Sierra's no-code tooling, par",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:37:36.154206",
+    "first_seen": "2026-10-15T08:37:36.154213"
+  },
+  {
+    "id": "5587897901f39149",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/146028-entry-level-communications-specialist",
+    "title": "Entry-level communications specialist",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "The role of a Entry-level communications specialist at Canonical We’re on the look out for a brilliant B2B Social Media Marketing Manager to join our team and take our communications to the next level. Our social media provides a window between the people who make our products and those who use them",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:17.054969",
+    "first_seen": "2026-10-15T08:33:17.054980"
+  },
+  {
+    "id": "f222489d0287000d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149164-senior-software-architect-c-ai-first-govtech-saas-company",
+    "title": "Senior Software Architect (C# / AI First) - GovTech SaaS company",
+    "company": "Truelogic",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their dig",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.372706",
+    "first_seen": "2026-10-15T08:33:16.372707"
+  },
+  {
+    "id": "f5c1f1d113059214",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/146167-senior-marketing-automation-manager",
+    "title": "Senior Marketing Automation Manager",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.372484",
+    "first_seen": "2026-10-15T08:33:16.372485"
+  },
+  {
+    "id": "c6df505205ddd3f6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149202-staff-customer-success-manager-majors-financial-services",
+    "title": "Staff Customer Success Manager, Majors (Financial Services)",
+    "company": "Chainguard",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.372090",
+    "first_seen": "2026-10-15T08:33:16.372091"
+  },
+  {
+    "id": "87bd5bc4541fae9f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149215-customer-success-manager-5",
+    "title": "Customer Success Manager",
+    "company": "Webbing",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Description The Customer Success Manager (CSM) manages a portfolio of strategic customers across the United States, ensuring they achieve measurable business value from Webbing 's connectivity solutions while building long-term partnerships. The CSM serves as the trusted advisor throughout the custo",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.371772",
+    "first_seen": "2026-10-15T08:33:16.371774"
+  },
+  {
+    "id": "b33f8c65fddc7473",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153202-delivery-solutions-architect-oil-gas",
+    "title": "Delivery Solutions Architect - Oil & Gas",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "CSQ427R106 At Databricks , we are on a mission to empower our customers to solve the world's toughest data problems by utilizing the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you will play an important role during this journey. You will collaborate with our sale",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.371198",
+    "first_seen": "2026-10-15T08:33:16.371200"
+  },
+  {
+    "id": "2014ebb338013941",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153207-delivery-solutions-architect-startups-emerging-enterprise",
+    "title": "Delivery Solutions Architect - Startups & Emerging Enterprise",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "At Databricks , we are on a mission to empower our customers to solve the world's toughest data problems by utilizing the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you will play an important role during this journey. You will collaborate with our sales and field",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.370918",
+    "first_seen": "2026-10-15T08:33:16.370919"
+  },
+  {
+    "id": "2e41bc8fbf355821",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153206-enterprise-sales-leader-financial-services",
+    "title": "Enterprise Sales Leader - Financial Services",
+    "company": "Qualtrics",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "At Qualtrics , we create software the world’s best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients gl",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.370000",
+    "first_seen": "2026-10-15T08:33:16.370002"
+  },
+  {
+    "id": "3b573f484f25c145",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/145877-senior-solutions-consultant",
+    "title": "Senior Solutions Consultant",
+    "company": "Bloomreach",
+    "location": "Czechia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Bloomreach is building the world’s premier agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more in",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.369695",
+    "first_seen": "2026-10-15T08:33:16.369697"
+  },
+  {
+    "id": "e92e54d77349d47d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153198-general-counsel",
+    "title": "General Counsel",
+    "company": "Legion",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "General Counsel Remote, United States Company Overview Legion Technologies is the pioneer in AI-powered workforce management. Our SaaS platform helps large, distributed enterprises maximize labor efficiency while improving the experience of hourly employees through AI-driven demand forecasting, auto",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.368931",
+    "first_seen": "2026-10-15T08:33:16.368932"
+  },
+  {
+    "id": "b42ba88b01c4bbdc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/146021-group-financial-controller",
+    "title": "Group Financial Controller",
+    "company": "Canonical",
+    "location": "EMEA,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.368213",
+    "first_seen": "2026-10-15T08:33:16.368215"
+  },
+  {
+    "id": "0fc21411f615607a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/146030-cost-accounting-manager",
+    "title": "Cost Accounting Manager",
+    "company": "Canonical",
+    "location": "EMEA,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.367651",
+    "first_seen": "2026-10-15T08:33:16.367653"
+  },
+  {
+    "id": "49ee9cb2ab9ae70e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153197-delivery-solutions-architect-digital-native-business",
+    "title": "Delivery Solutions Architect - Digital Native Business",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "At Databricks , we are on a mission to empower our customers to solve the world's toughest data problems by utilizing the the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you will play an important role during this journey. You will collaborate with our sales and f",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.367366",
+    "first_seen": "2026-10-15T08:33:16.367368"
+  },
+  {
+    "id": "6bdf82bbbc45fd28",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153244-sr-manager-sales-acceleration",
+    "title": "Sr Manager Sales Acceleration",
+    "company": "1Password",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive di",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.366288",
+    "first_seen": "2026-10-15T08:33:16.366290"
+  },
+  {
+    "id": "7461d627a9b080c4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153248-customer-solutions-consultant-ada-accelerate",
+    "title": "Customer Solutions Consultant, Ada Accelerate",
+    "company": "Ada",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About Us Ada is an AI customer service company whose mission is to make customer service extraordinary for everyone. We're driven to raise a new standard of quality customer service at scale, enabling enterprise companies to deliver experiences that people love–instant, proactive, personalized, and ",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.365843",
+    "first_seen": "2026-10-15T08:33:16.365844"
+  },
+  {
+    "id": "c4989b4b9b7ee1bb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153221-head-of-product-conversations",
+    "title": "Head of Product, Conversations",
+    "company": "Help Scout",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Who we are Help Scout started in 2011 with a simple premise: support software should treat customers like people, not tickets. 3+ billion conversations later, more than 10,000 companies use Help Scout to grow relationships with customers of all types, from clients to patients and beyond. Now we’re i",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.365593",
+    "first_seen": "2026-10-15T08:33:16.365595"
+  },
+  {
+    "id": "0b40d00d1fe1578c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153267-senior-product-designer-full-remote-france",
+    "title": "Senior Product Designer (Full Remote - France)",
+    "company": "EverAI",
+    "location": "France",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.364967",
+    "first_seen": "2026-10-15T08:33:16.364969"
+  },
+  {
+    "id": "bce689a16a3520d1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153218-enterprise-sales-leader-technology-and-telecommunications",
+    "title": "Enterprise Sales Leader - Technology and Telecommunications",
+    "company": "Qualtrics",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "At Qualtrics , we create software the world’s best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients gl",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.364556",
+    "first_seen": "2026-10-15T08:33:16.364558"
+  },
+  {
+    "id": "5e792b1bc7b7c554",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153270-chief-information-security-officer-2",
+    "title": "Chief Information Security Officer",
+    "company": "UpGuard",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Who are we? At UpGuard , we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn’t just growth; it’s a total reimagining of how the world manages cyber risk. We build the",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.363940",
+    "first_seen": "2026-10-15T08:33:16.363942"
+  },
+  {
+    "id": "390b62fbdc4ab842",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153291-senior-product-manager-ai-receptionist",
+    "title": "Senior Product Manager, AI Receptionist",
+    "company": "Boulevard",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Who is Boulevard ? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most. Before launching in 2016, our founders spent months interviewing salon manager",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.363319",
+    "first_seen": "2026-10-15T08:33:16.363321"
+  },
+  {
+    "id": "d3b4ffbc223f787a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154009-enterprise-implementation-consultant-german-fluency",
+    "title": "Enterprise Implementation Consultant - German Fluency",
+    "company": "Samsara",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:33:16.362225",
+    "first_seen": "2026-10-15T08:33:16.362227"
+  },
+  {
+    "id": "c5aa987e919148c4",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=a2efc1b001c11f63",
+    "title": "Database Administrator SME - ASSETS",
+    "company": "Applied Research Solutions",
+    "location": "Offutt AFB, NE, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "aws",
+      "postgres"
+    ],
+    "description_snippet": "ARS has an opportunity for a Database Administrator SME in support of USSTRATCOM. This is a full-time position located at Offutt AFB, NE.\n\nThe Database Administrator SME to support cutting-edge database management, optimization, and security efforts for US Strategic Command (USSTRATCOM) across three",
+    "posted_date": "2026-09-30",
+    "scraped_at": "2026-10-15T08:33:11.937951",
+    "first_seen": "2026-10-15T08:33:11.937953"
+  },
+  {
+    "id": "70fc5583d6379b6f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4f29a2088ae1daa0",
+    "title": "Lead DataOps / MLOps",
+    "company": "Protective",
+    "location": "Birmingham, AL, USA",
+    "is_remote": true,
+    "salary": "USD 124,500 – 170,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "docker",
+      "azure",
+      "mlflow",
+      "machine learning",
+      "databricks",
+      "kubernetes",
+      "ci/cd"
+    ],
+    "description_snippet": "The work we do has an impact on millions of lives, and you can be a part of it.\n\nWe help protect our customers against life’s uncertainties. Regardless of where you work within the company, you’ll be helping provide protection and peace of mind when our customers need it most.\n\n  \n\nProtective Life i",
+    "posted_date": "2026-09-23",
+    "scraped_at": "2026-10-15T08:33:07.101930",
+    "first_seen": "2026-10-15T08:33:07.101932"
+  },
+  {
+    "id": "e85f225dcca94ad9",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=53b633d08f3f24f3",
+    "title": "IT Systems Analyst",
+    "company": "Sanhua International",
+    "location": "Houston, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "java",
+      "scala"
+    ],
+    "description_snippet": "**Position Summary**\n--------------------\n\nSanhua is seeking an IT Systems Analyst to support and optimize business systems, infrastructure, and technology solutions across North America. This role serves as a key liaison between business users and IT, ensuring systems are reliable, efficient, and a",
+    "posted_date": "2026-09-29",
+    "scraped_at": "2026-10-15T08:33:07.100946",
+    "first_seen": "2026-10-15T08:33:07.100948"
+  },
+  {
+    "id": "a9fe5dc44580fc83",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c9e0478e1c63c3b1",
+    "title": "Sr. SDET",
+    "company": "Suralink",
+    "location": "Salt Lake City, UT, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "ci/cd",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "Suralink® is the agentic automation platform for accounting professionals and their clients, leading the global charge in AI-driven accounting technology. As the leading AI platform for accounting firms, Suralink serves more than 50% of the top 100 enterprise accounting firms in the United States an",
+    "posted_date": "2026-10-02",
+    "scraped_at": "2026-10-15T08:33:07.099704",
+    "first_seen": "2026-10-15T08:33:07.099706"
+  },
+  {
+    "id": "df38840ca919dba4",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7c22bd70ac66ee6c",
+    "title": "Entry Level Engineer",
+    "company": "Lassen Associates, Inc.",
+    "location": "Mount Horeb, WI, USA",
+    "is_remote": false,
+    "salary": "USD 60,000 – 75,000/yearly",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "**Join Our Team as an Engineer**  \nWe are a specialized engineering consulting firm focused on planning, designing, and managing communications and technology infrastructure. We're looking for a full-time Entry-Level Engineer to support a diverse range of projects across global locations and industr",
+    "posted_date": "2026-09-16",
+    "scraped_at": "2026-10-15T08:33:03.523079",
+    "first_seen": "2026-10-15T08:33:03.523081"
+  },
+  {
+    "id": "cc53c373e4b36032",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=0cb90aad1877c6dd",
+    "title": "Customer Failure Analysis Engineer",
+    "company": "WD",
+    "location": "San Jose, CA, USA",
+    "is_remote": false,
+    "salary": "USD 84,200 – 112,300/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "power bi",
+      "machine learning",
+      "llm"
+    ],
+    "description_snippet": "**Company Description**\n\nWD is building the infrastructure behind the AI-driven data economy.\n\nAs AI scales, so does data. Every interaction, every model, every system generates data that must be stored, managed, and made accessible over time. That’s where we come in.\n\nWe combine deep engineering ex",
+    "posted_date": "2026-10-09",
+    "scraped_at": "2026-10-15T08:33:03.520229",
+    "first_seen": "2026-10-15T08:33:03.520231"
+  },
+  {
+    "id": "59da36f5fa737d6c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f6048a80e20bbf42",
+    "title": "Sr Associate IS Engineer",
+    "company": "Amgen",
+    "location": "Thousand Oaks, CA, USA",
+    "is_remote": false,
+    "salary": "USD 136,386 – 136,386/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "power bi",
+      "tableau",
+      "analytics engineering",
+      "bigquery",
+      "snowflake"
+    ],
+    "description_snippet": "US - California - Thousand Oaks\n\nJOB ID: R-255451 LOCATION: US - California - Thousand Oaks WORK LOCATION TYPE: Flex Commuter / Hybrid DATE POSTED: Oct. 13, 2026 CATEGORY: Information Systems SALARY RANGE: -\n\nJoin Amgen’s Mission of Serving Patients\n\nAt Amgen, if you feel like you’re part of somethi",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-15T08:33:03.519842",
+    "first_seen": "2026-10-15T08:33:03.519844"
+  },
+  {
+    "id": "166dd5cb97185f1e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=ca45195b97af5c99",
+    "title": "AI Full Stack Architect",
+    "company": "Tharu Technologies",
+    "location": "Atlanta, GA, USA",
+    "is_remote": false,
+    "salary": "USD 75 – 80/yearly",
+    "job_type": "contract",
+    "tags": [
+      "python",
+      "aws",
+      "ci/cd",
+      "scala",
+      "llm",
+      "gpt",
+      "prompt engineering"
+    ],
+    "description_snippet": "**AI Full Stack Architect**  \n**12 months contract**  \n**Remote (Ocassional Travel)**\n\n**Tax Term: W2**  \n  \n**About the Role**  \nWe are seeking an AI Full Stack Architect to join our AI Center of Excellence. This is a senior individual-contributor and technical leadership role for someone who has s",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-15T08:33:03.519344",
+    "first_seen": "2026-10-15T08:33:03.519347"
+  },
+  {
+    "id": "b7c818eca869feca",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1849bd7359a71acb",
+    "title": "SkillBridge, Data Center Critical Facilities Engineer - Trainee",
+    "company": "WeRecoverData Data Recovery Inc. - San Francisco",
+    "location": "Santa Clara, CA, USA",
+    "is_remote": false,
+    "salary": "USD 25 – 35/hourly",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "Job Description\n\nWeRecoverData Data Recovery Inc. is listed as the employer for this trainee position. The Data Center Critical Facilities Engineer Trainee will learn to monitor, maintain, and troubleshoot essential facility systems that support reliable data center operations. This role is suited t",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-15T08:33:03.519077",
+    "first_seen": "2026-10-15T08:33:03.519079"
+  },
+  {
+    "id": "349d659fbd0a5603",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d3fc6d69b3ddfc56",
+    "title": "Bioinformatics Analyst/Engineer, Infectious Disease Genomics & Biosurveillance",
+    "company": "Dominion Sciences Initiative, LLC",
+    "location": "Frederick, MD, USA",
+    "is_remote": false,
+    "salary": "USD 100,000 – 135,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "java"
+    ],
+    "description_snippet": "**About DSI**\n\nDominion Sciences Initiative, LLC (DSI) is a growing Maryland-based founded and led by experienced federal biomedical scientists and program leaders. DSI supports genomics and bioinformatics, infectious-disease diagnostics, biosurveillance, advanced sensing, clinical research, CBRNE t",
+    "posted_date": "2026-09-21",
+    "scraped_at": "2026-10-15T08:32:58.652801",
+    "first_seen": "2026-10-15T08:32:58.652803"
+  },
+  {
+    "id": "c3192e15be8be260",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=181570c623bad77b",
+    "title": "Detection Engineer, Protective Services",
+    "company": "DoorDash",
+    "location": "San Francisco, CA, USA",
+    "is_remote": true,
+    "salary": "USD 130,600 – 192,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "machine learning",
+      "snowflake",
+      "llm"
+    ],
+    "description_snippet": "**About the Team**\n------------------\n\nDoorDash is one of the world's leading on-demand logistics platforms. Across DoorDash, Deliveroo, and Wolt, our operations span more than 40 countries, dozens of offices, and tens of thousands of employees.Global Safety and Security helps protect our people, pr",
+    "posted_date": "2026-09-28",
+    "scraped_at": "2026-10-15T08:32:58.652492",
+    "first_seen": "2026-10-15T08:32:58.652494"
+  },
+  {
+    "id": "b09c7cfa2e35736a",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=375a0e8c46f90dde",
+    "title": "INTERDISCIPLINARY ENGINEER/ANALYST",
+    "company": "NAVAIR",
+    "location": "Naval Air Station Patuxent River, MD, USA",
+    "is_remote": false,
+    "salary": "USD 102,415 – 158,322/yearly",
+    "job_type": "nan",
+    "tags": [],
+    "description_snippet": "### **Position Description**\n\nYou will serve as a INTERDISCIPLINARY ENGINEER/ANALYST in the Avionics Engineering Department, Core Avionics Engineering Division of NAVAIRWARCENAC DIV.\n\n### **Position Duties/Responsibilities**\n\n* You will\n\n### **Minimum Salary**\n\n102415\n\n### **Maximum Salary**\n\n158322",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-15T08:32:58.649035",
+    "first_seen": "2026-10-15T08:32:58.649037"
+  },
+  {
+    "id": "dd78feaff10683e4",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=88cff42508633cd5",
+    "title": "Structural Analyst",
+    "company": "Stratolaunch",
+    "location": "Mojave, CA, USA",
+    "is_remote": false,
+    "salary": "USD 102,000 – 214,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "llm"
+    ],
+    "description_snippet": "Stratolaunch is a technology accelerator that engineers operationally realistic testing at Mach 5+. Our air-launched, Talon testbeds are reusable, cost-effective platforms that enable routine access to the hypersonic environment. We deliver flight data critical to validating system performance and a",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:32:58.648941",
+    "first_seen": "2026-10-15T08:32:58.648943"
+  },
+  {
+    "id": "61b04bc557dcb0d7",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=eab69cd16263f1b9",
+    "title": "Analytics Engineer, Semantic Layer",
+    "company": "Clayco",
+    "location": "St. Louis, MO, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "dbt",
+      "aws",
+      "snowflake",
+      "rust"
+    ],
+    "description_snippet": "**About Us**\n\nClayco is a full-service, turnkey real estate development, master planning, architecture, engineering, and construction firm that safely delivers clients across North America the highest quality solutions on time, on budget, and above and beyond expectations. With $8.1 billion in reven",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T08:32:58.648588",
+    "first_seen": "2026-10-15T08:32:58.648592"
+  },
+  {
+    "id": "55a165318822488e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7a71564d290423ae",
+    "title": "Data Quality Engineer Pharma Exp.",
+    "company": "EAPPS TECH LLC dba Magicforce",
+    "location": "Raleigh, NC, USA",
+    "is_remote": false,
+    "salary": "USD 60 – 70/hourly",
+    "job_type": "nan",
+    "tags": [],
+    "description_snippet": "As a **Data Quality Engineer**, you will be a part of an Agile team to create new rules in Ataccama and maintaining the monitoring of the same\n\n  \n\n**Mandatory Technical skills: -**\n\n* Ataccama migration support\n* Pharma Exp\n\n  \n\n**Responsibilities: -**\n\n* DQ rules and threshold maintenance for exis",
+    "posted_date": "2026-10-05",
+    "scraped_at": "2026-10-15T08:32:54.571397",
+    "first_seen": "2026-10-15T08:32:54.571399"
+  },
+  {
+    "id": "0c4e1b08dc9d03f7",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=86fd4be47d8cca20",
+    "title": "Structured Data Engineer – Sensitive Data Intelligence",
+    "company": "Metasys Technologies",
+    "location": "Remote, USA",
+    "is_remote": false,
+    "salary": "USD 65 – 72/hourly",
+    "job_type": "contract",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "azure",
+      "data engineering",
+      "databricks",
+      "scala"
+    ],
+    "description_snippet": "**Structured Data Engineer – Sensitive Data Intelligence (Contract)**\n\n**Practice:** Cyber & Data Resilience – Sensitive Data Review  \n**Employment Type:** Contract  \n**Location:** Remote / Hybrid (Dependent on Project Requirements)  \n**Duration:** 2 to 4 months With Potential for Extension\n\n**About",
+    "posted_date": "2026-10-05",
+    "scraped_at": "2026-10-15T08:32:54.570929",
+    "first_seen": "2026-10-15T08:32:54.570931"
+  },
+  {
+    "id": "fda766245c6b11c4",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=20c1a0fb42080239",
+    "title": "Data Operations Engineer (USA)",
+    "company": "Trexquant Investment LP",
+    "location": "New York, NY, USA",
+    "is_remote": false,
+    "salary": "USD 130,000 – 200,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql"
+    ],
+    "description_snippet": "Trexquant is a growing systematic fund manager with a core team of highly accomplished technologists. We are currently seeking an enthusiastic and skilled Data Operations Engineer with a strong operational focus to join our team. As a Data Operations Engineer, you will play a crucial role in monitor",
+    "posted_date": "2026-10-08",
+    "scraped_at": "2026-10-15T08:32:54.570444",
+    "first_seen": "2026-10-15T08:32:54.570446"
+  },
+  {
+    "id": "9ff3fecb04bd696b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3727a81f39a0435c",
+    "title": "Data Engineer",
+    "company": "Reserv",
+    "location": "Atlanta, GA, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "bigquery",
+      "snowflake",
+      "data warehouse",
+      "ci/cd",
+      "rust"
+    ],
+    "description_snippet": "**About Reserv**\n\nReserv is an insurtech creating and incubating cutting-edge AI and automation technology to bring efficiency and simplicity to claims. Founded by insurtech veterans with deep experience in SaaS and digital claims, Reserv is venture-backed by Bain Capital and Altai Ventures and bega",
+    "posted_date": "2026-10-09",
+    "scraped_at": "2026-10-15T08:32:54.570228",
+    "first_seen": "2026-10-15T08:32:54.570231"
+  },
+  {
+    "id": "a6799d5b16d1f105",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=9608e43f87231213",
+    "title": "Software Engineer (Python/SQL) – Healthcare Data | San Juan, On-site",
+    "company": "Mosaic Diagnostic Imaging",
+    "location": "San Juan, PR, USA",
+    "is_remote": false,
+    "salary": "USD 75,000 – 95,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "postgres",
+      "llm"
+    ],
+    "description_snippet": "A physician-owned medical group, growing 60% year over year and expanding across several states, runs its operations from a 40-person office in San Juan. We are hiring one engineer to build our own software and turn our operational data into decisions. You will work directly with the owner and our U",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-15T08:32:54.569293",
+    "first_seen": "2026-10-15T08:32:54.569298"
+  },
+  {
     "id": "20a7b80ff1a28202",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=4b29099931eb9fb5",
