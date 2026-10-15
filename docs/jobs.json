@@ -1,5 +1,509 @@
 [
   {
+    "id": "874f9d813af2c81f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155359-senior-incident-problem-manager",
+    "title": "Senior Incident & Problem Manager",
+    "company": "Bloomreach",
+    "location": "Czechia,  Slovakia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Bloomreach is building the world’s premier agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more in",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.528297",
+    "first_seen": "2026-10-15T17:59:22.528297"
+  },
+  {
+    "id": "fd04415abc429f75",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155361-senior-platform-engineer-5",
+    "title": "Senior Platform Engineer",
+    "company": "Fleetio",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "A little about us… Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D fun",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.528078",
+    "first_seen": "2026-10-15T17:59:22.528079"
+  },
+  {
+    "id": "b6473035bec9b067",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155362-senior-site-reliability-engineer-for-fuse-team",
+    "title": "Senior Site Reliability Engineer for Fuse team",
+    "company": "Bloomreach",
+    "location": "Czechia,  Slovakia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Bloomreach is building the world’s premier agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more in",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.527949",
+    "first_seen": "2026-10-15T17:59:22.527950"
+  },
+  {
+    "id": "f4d9d1084db22110",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155368-sales-engineer-data-ai-security",
+    "title": "Sales Engineer - Data & AI Security",
+    "company": "Veeam Software",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for th",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.527492",
+    "first_seen": "2026-10-15T17:59:22.527493"
+  },
+  {
+    "id": "c7660c67f14ddf5b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155364-customer-success-engineer-6",
+    "title": "Customer Success Engineer",
+    "company": "Veeam Software",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for th",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.527400",
+    "first_seen": "2026-10-15T17:59:22.527401"
+  },
+  {
+    "id": "0ba25e064540fcac",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155371-solutions-engineer-veeam-data-cloud-vault",
+    "title": "Solutions Engineer, Veeam Data Cloud Vault",
+    "company": "Veeam Software",
+    "location": "France",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for th",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.527270",
+    "first_seen": "2026-10-15T17:59:22.527271"
+  },
+  {
+    "id": "828d0605e7b60f2b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155372-systems-engineer-belgium-luxembourg",
+    "title": "Systems Engineer Belgium & Luxembourg",
+    "company": "Veeam Software",
+    "location": "Belgium",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for th",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.527121",
+    "first_seen": "2026-10-15T17:59:22.527121"
+  },
+  {
+    "id": "25a114903142de40",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155379-senior-software-engineer-android",
+    "title": "Senior Software Engineer (Android)",
+    "company": "Tripadvisor",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, an",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.526993",
+    "first_seen": "2026-10-15T17:59:22.526994"
+  },
+  {
+    "id": "7752c6c9d09e995e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155377-principal-software-engineer-experiences-2",
+    "title": "Principal Software Engineer (Experiences)",
+    "company": "Tripadvisor",
+    "location": "Poland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, an",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.526848",
+    "first_seen": "2026-10-15T17:59:22.526849"
+  },
+  {
+    "id": "f1322d4f91e87d1f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155383-senior-software-engineer-full-stack-front-end-focused",
+    "title": "Senior Software Engineer - Full Stack/Front-end focused",
+    "company": "Tripadvisor",
+    "location": "Poland,  Portugal,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Senior Software Engineer About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich con",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.526698",
+    "first_seen": "2026-10-15T17:59:22.526699"
+  },
+  {
+    "id": "0b414cb42c583ebf",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155374-trust-safety-product-manager-full-remote-germany",
+    "title": "Trust & Safety Product Manager (Full Remote - Germany)",
+    "company": "EverAI",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.526525",
+    "first_seen": "2026-10-15T17:59:22.526526"
+  },
+  {
+    "id": "55f660906b7d4926",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155375-solutions-architect-f-m-d",
+    "title": "Solutions Architect f/m/d",
+    "company": "Apaleo",
+    "location": "France",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Apaleo is the world’s most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, and deliver seamless, personalised guest experiences, powered",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.526272",
+    "first_seen": "2026-10-15T17:59:22.526273"
+  },
+  {
+    "id": "2185b0224cef3758",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155378-trust-safety-product-manager-full-remote-france",
+    "title": "Trust & Safety Product Manager (Full Remote - France)",
+    "company": "EverAI",
+    "location": "France",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.526073",
+    "first_seen": "2026-10-15T17:59:22.526073"
+  },
+  {
+    "id": "fe39aefdbad33944",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155380-trust-safety-product-manager-full-remote-ireland",
+    "title": "Trust & Safety Product Manager (Full Remote - Ireland)",
+    "company": "EverAI",
+    "location": "Ireland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.525821",
+    "first_seen": "2026-10-15T17:59:22.525821"
+  },
+  {
+    "id": "c699a07e1f5ab83b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155381-senior-software-engineer-full-stack",
+    "title": "Senior Software Engineer - Full Stack",
+    "company": "Tripadvisor",
+    "location": "Poland,  Portugal,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Senior Software Engineer About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich con",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.525537",
+    "first_seen": "2026-10-15T17:59:22.525538"
+  },
+  {
+    "id": "a0746cad6284ed62",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
+    "title": "AI Platform Engineer",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We are h",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.525337",
+    "first_seen": "2026-10-15T17:59:22.525337"
+  },
+  {
+    "id": "d7adf6017151527e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155389-platform-engineer-managed-postgres",
+    "title": "Platform Engineer, Managed Postgres",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We are s",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.525013",
+    "first_seen": "2026-10-15T17:59:22.525013"
+  },
+  {
+    "id": "235dd9098d505913",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155391-site-reliability-engineer-4",
+    "title": "Site Reliability Engineer",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role Supabase",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:22.524891",
+    "first_seen": "2026-10-15T17:59:22.524901"
+  },
+  {
+    "id": "96de2b86b9a37556",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3e85cb5ceb58b2cf",
+    "title": "Senior Databrick Data Engineering Consultant",
+    "company": "SDG Group",
+    "location": "Chicago, IL, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "dbt",
+      "aws",
+      "data engineering",
+      "analytics engineering",
+      "snowflake",
+      "databricks",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**Job Title:** Senior Databricks Data Engineering Consultant\n\n**Location:** Hybrid – Indianapolis, IN  \n**Job Type:** Full-Time\n\n**About SDG Group**\n\nSDG Group is a global consulting firm specialized in Data, Analytics & AI. We are committed to unlocking organizations’ potential and hidden value by ",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-15T17:59:16.243087",
+    "first_seen": "2026-10-15T17:59:16.243087"
+  },
+  {
+    "id": "016c2aeb6ce1b1e2",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=bd468e90304ff6c0",
+    "title": "AWS Data Engineer – DynamoDB",
+    "company": "Alchemy",
+    "location": "Juno Beach, FL, USA",
+    "is_remote": false,
+    "salary": "USD 60 – 65/hourly",
+    "job_type": "contract",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "aws",
+      "data engineering",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "We are seeking an experienced AWS Data Engineer with strong hands-on expertise in Python, PySpark, AWS Glue, and DynamoDB to build, optimize, and maintain production-grade data pipelines. The ideal candidate will have deep knowledge of AWS services, ETL development, database optimization, API testin",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-15T17:59:16.242829",
+    "first_seen": "2026-10-15T17:59:16.242829"
+  },
+  {
+    "id": "2b908271e0d163c1",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5d004bc892c60770",
+    "title": "Senior Data Engineer",
+    "company": "KLS Martin Group",
+    "location": "Jacksonville, FL, USA",
+    "is_remote": false,
+    "salary": "USD 105,000 – 135,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "kafka",
+      "azure",
+      "aws",
+      "gcp",
+      "power bi",
+      "tableau",
+      "data engineering",
+      "machine learning",
+      "bigquery",
+      "snowflake",
+      "microsoft fabric",
+      "synapse",
+      "data warehouse",
+      "scala"
+    ],
+    "description_snippet": "**Senior Data Engineer**\n\n**Jacksonville, FL 32246 | Full-Time | \\*Onsite | Monday–Friday, 8:00 AM–5:00 PM**\n\nImportant Eligibility Requirements\n\n* **Must be authorized to work in the United States.**\n* **\\*\\*No visa sponsorship available, No H-1B transfers, No C2C / Corp-to-Corp arrangements.\\*\\***",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-10-15T17:59:12.509101",
+    "first_seen": "2026-10-15T17:59:12.509101"
+  },
+  {
+    "id": "3a596ae385926423",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d545b1ebae463324",
+    "title": "Product Engineer",
+    "company": "Schweitzer Engineering Laboratories",
+    "location": "Pullman, WA, USA",
+    "is_remote": false,
+    "salary": "USD 88,400 – 144,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "llm"
+    ],
+    "description_snippet": "Schweitzer Engineering Laboratories (SEL) is looking for someone to join our Research and Development team as a **Product Engineer** in Pullman, WA.\n\nAs Product Engineer, you will support the Blueframe DMA product line with a focus on custom integration solutions that extend device and data support.",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-10-15T17:59:07.693292",
+    "first_seen": "2026-10-15T17:59:07.693292"
+  },
+  {
+    "id": "247951b731ea61e1",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=dc0413f09432758d",
+    "title": "Sr. Data Engineer - Loyalty & Customer Analytics",
+    "company": "El Pollo Loco",
+    "location": "Costa Mesa, CA, USA",
+    "is_remote": false,
+    "salary": "USD 130,000 – 143,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "data engineering",
+      "analytics engineering",
+      "snowflake",
+      "data warehouse",
+      "scala",
+      "llm"
+    ],
+    "description_snippet": "At El Pollo Loco, we are on a mission to be the nation’s leading fire-grilled chicken restaurant. When it comes to our people, we are all about growth. Whether that means specialized training, a clearly laid out career trajectory or collaborating cross-functionally, we are committed to the success o",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:03.813818",
+    "first_seen": "2026-10-15T17:59:03.813819"
+  },
+  {
+    "id": "2cf48317875006da",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=0ec3de1afe0bb119",
+    "title": "Cloud & Platform Engineering Manager",
+    "company": "RadNet",
+    "location": "MD, USA",
+    "is_remote": true,
+    "salary": "USD 130,000 – 170,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "aws",
+      "gcp",
+      "kubernetes",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "Job Description:\n\nArtificial Intelligence; Advanced Technology; The very best in patient care. With decades of expertise, we are Leading Radiology Forward. With dynamic cross-training and advancement opportunities in a team-focused environment, the core of our success is its people with the commitme",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-15T17:59:03.813572",
+    "first_seen": "2026-10-15T17:59:03.813576"
+  },
+  {
+    "id": "6139384122ca2909",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3aec8d672f4029a8",
+    "title": "Senior Data Engineer IS - Remote",
+    "company": "Providence",
+    "location": "Hobbs, NM, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "snowflake",
+      "ci/cd",
+      "java",
+      "scala"
+    ],
+    "description_snippet": "**Description**\n\n**Senior Data Engineer - Remote**\n\n*Providence is seeking an Experienced Senior Data Engineer to be part of the evolution of the organization's enterprise data platform strategy, architecture, governance framework, and modernization initiatives. This role will be involved in definin",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-15T17:58:59.966630",
+    "first_seen": "2026-10-15T17:58:59.966633"
+  },
+  {
     "id": "c8c22c9b10d3e28e",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/medify-engineering-manager",
