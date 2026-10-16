@@ -1,5 +1,475 @@
 [
   {
+    "id": "f63cdc86ddfd6bf8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155415-client-success-manager-4",
+    "title": "Client Success Manager",
+    "company": "Maven Clinic",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:35.625780",
+    "first_seen": "2026-10-16T17:47:35.625781"
+  },
+  {
+    "id": "42faec52ebcfd050",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155418-principal-security-researcher-edr-windows",
+    "title": "Principal Security Researcher - EDR (Windows)",
+    "company": "Huntress",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:35.625494",
+    "first_seen": "2026-10-16T17:47:35.625496"
+  },
+  {
+    "id": "c74afec4bbbd43fa",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155425-implementation-consultant-4",
+    "title": "Implementation Consultant",
+    "company": "Samsara",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:35.625286",
+    "first_seen": "2026-10-16T17:47:35.625287"
+  },
+  {
+    "id": "f791142e7a04e31f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155428-backend-engineer-create-repository-management",
+    "title": "Backend Engineer, Create: Repository Management",
+    "company": "GitLab",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:35.625049",
+    "first_seen": "2026-10-16T17:47:35.625050"
+  },
+  {
+    "id": "d3913fdfc094491d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155430-backend-engineer-pythonai-engineering-agent-foundations",
+    "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
+    "company": "GitLab",
+    "location": "Canada,  Poland,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:35.624828",
+    "first_seen": "2026-10-16T17:47:35.624830"
+  },
+  {
+    "id": "90fb0a429b9e2028",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155421-gtm-systems-analyst",
+    "title": "GTM Systems Analyst",
+    "company": "Ashby",
+    "location": "Canada,  Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "The Role Ashby 's GTM engine runs on a set of interconnected systems. Keeping them accurate, efficient, and trusted is the foundation everything else is built on. As our GTM Systems Analyst, you'll own the daily maintenance and configuration of technical layer that powers our Go-to-Market organizati",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:35.624612",
+    "first_seen": "2026-10-16T17:47:35.624614"
+  },
+  {
+    "id": "8fe24904f9782d1d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155429-senior-security-operations-engineer-3",
+    "title": "Senior Security Operations Engineer",
+    "company": "Samsara",
+    "location": "Netherlands",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:35.624409",
+    "first_seen": "2026-10-16T17:47:35.624410"
+  },
+  {
+    "id": "29f2fe62cecd8220",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155433-ui-artist",
+    "title": "UI Artist",
+    "company": "Moon Active",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Moon Active is one of the world's fastest-growing mobile game companies, providing entertainment to millions of active users across the universe. We're looking for a UI Artist star for its top-notch, industry-leading product. As a Monetization Artist, you will be responsible for user experience, vis",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:35.624120",
+    "first_seen": "2026-10-16T17:47:35.624121"
+  },
+  {
+    "id": "7f84a09d17c710f5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155431-iam-security-engineer",
+    "title": "IAM Security Engineer",
+    "company": "Cision",
+    "location": "Bulgaria,  Hungary",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "At Cision , we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, al",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:35.624052",
+    "first_seen": "2026-10-16T17:47:35.624054"
+  },
+  {
+    "id": "6b08de6682e02097",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155435-principal-applied-research-engineer",
+    "title": "Principal Applied Research Engineer",
+    "company": "Synthesia",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance vi",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:35.623907",
+    "first_seen": "2026-10-16T17:47:35.623908"
+  },
+  {
+    "id": "aa7d50117d53edea",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155437-security-engineer-3",
+    "title": "Security Engineer",
+    "company": "Cision",
+    "location": "Bulgaria,  Hungary",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "At Cision , we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, al",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:35.623725",
+    "first_seen": "2026-10-16T17:47:35.623726"
+  },
+  {
+    "id": "4406c6b91a7f8b9c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155439-software-engineer-ii",
+    "title": "Software Engineer II",
+    "company": "Cision",
+    "location": "Hungary",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At Cision , we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, al",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:35.623529",
+    "first_seen": "2026-10-16T17:47:35.623531"
+  },
+  {
+    "id": "a561dc15148451c3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155438-p2p-growth-operations-manager-cis-cee",
+    "title": "P2P Growth Operations Manager (CIS/CEE)",
+    "company": "Binance",
+    "location": "Ukraine",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an ",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:35.623323",
+    "first_seen": "2026-10-16T17:47:35.623324"
+  },
+  {
+    "id": "83ae8e28c199a4f0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155432-regional-sales-director-2",
+    "title": "Regional Sales Director",
+    "company": "Tenable",
+    "location": "Belgium,  France,  Netherlands",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Who is Tenable ? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our ",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:35.623190",
+    "first_seen": "2026-10-16T17:47:35.623191"
+  },
+  {
+    "id": "aa048710ed7a1b17",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155440-staff-research-engineer-multimodal-generative-modelling",
+    "title": "Staff Research Engineer - Multimodal Generative Modelling",
+    "company": "Synthesia",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance vi",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:35.623017",
+    "first_seen": "2026-10-16T17:47:35.623019"
+  },
+  {
+    "id": "c4e61beb1b8ff87a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155445-sales-solutions-manager-f-m-d",
+    "title": "Sales Solutions Manager (f/m/d)",
+    "company": "Apaleo",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Apaleo is the world’s most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, and deliver seamless, personalised guest experiences, powered",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:35.622843",
+    "first_seen": "2026-10-16T17:47:35.622845"
+  },
+  {
+    "id": "2405d9a0a356b10f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155450-senior-backend-engineer-platform",
+    "title": "Senior Backend Engineer, Platform",
+    "company": "Apaleo",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Join Apaleo and shape the future of hospitality tech Apaleo is the world’s most open, API-first property management platform, powering the next generation of hospitality operations. Our modular, AI-powered infrastructure lets hoteliers customise their tech stack, automate routine work and deliver se",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:35.622621",
+    "first_seen": "2026-10-16T17:47:35.622632"
+  },
+  {
+    "id": "8c495718b52d68c3",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+    "title": "Senior Software Engineer II Applied AI",
+    "company": "Wrapbook",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "dev",
+      "design",
+      "amazon",
+      "sys admin",
+      "backend",
+      "infosec",
+      "python",
+      "education",
+      "technical",
+      "customer support"
+    ],
+    "description_snippet": "About Us: Wrapbook is the AI platform for production finance. Weâre building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Ano",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-16T17:47:34.562172",
+    "first_seen": "2026-10-16T17:47:34.562173"
+  },
+  {
+    "id": "38764651879258d1",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528",
+    "title": "Account Manager Mid Market",
+    "company": "Allego",
+    "location": "Waltham",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "exec",
+      "saas",
+      "customer support",
+      "marketing",
+      "ops",
+      "sales",
+      "golang"
+    ],
+    "description_snippet": "Allego is a rapidly growing SaaS technology company in the Boston area and creator of the market-leading Revenue Enablement Platform. Our technology helps Go-To-Market teams build the skills and access the knowledge they need to succeed in every selling situation. Allego is the only revenue enableme",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-16T17:47:34.561949",
+    "first_seen": "2026-10-16T17:47:34.561958"
+  },
+  {
+    "id": "7df154cdca2c1697",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=0d753a8689c52a94",
+    "title": "Business Intelligence Engineer",
+    "company": "Asurint",
+    "location": "Cleveland, OH, USA",
+    "is_remote": true,
+    "salary": "USD 85,000 – 120,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "dbt",
+      "aws",
+      "power bi",
+      "tableau",
+      "postgres",
+      "bigquery"
+    ],
+    "description_snippet": "Description:\n\nAsurint has redefined screening by blending advanced technology with human insights, creating a smarter, more effective way to screen. Our compliant, data-driven, tech-enabled solutions deliver faster, more reliable results to empower confident decisions. At Asurint, each member of our",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:30.316243",
+    "first_seen": "2026-10-16T17:47:30.316247"
+  },
+  {
+    "id": "0dcdb2fec757ed1c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7a058c2b26d779cd",
+    "title": "Biomedical Signal Processing Engineer",
+    "company": "LifeLens Technologies Inc.",
+    "location": "Ivyland, PA, USA",
+    "is_remote": false,
+    "salary": "USD 90,000 – 130,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "machine learning"
+    ],
+    "description_snippet": "LifeLens Technologies, Inc. is a medical device developer located in Ivyland, PA. We are pioneering innovative, next-generation treatment devices for personal health monitoring.\n\nWe are seeking to hire a Biomedical Signal Processing Scientist. In this role, you will have the opportunity to work on c",
+    "posted_date": "2026-09-30",
+    "scraped_at": "2026-10-16T17:47:20.166077",
+    "first_seen": "2026-10-16T17:47:20.166078"
+  },
+  {
+    "id": "a7fd5ba2c8706c28",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=a54c3f6ac6c9437e",
+    "title": "Communication Design Engineer",
+    "company": "Marmon Industrial Energy and Infrastructure",
+    "location": "Mount Pleasant, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "Marmon Industrial Energy and Infrastructure\n\nAs a part of the global industrial organization Marmon Holdings—which is backed by Berkshire Hathaway—you’ll be doing things that matter, leading at every level, and winning a better way. We’re committed to making a positive impact on the world, providing",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-16T17:47:20.161649",
+    "first_seen": "2026-10-16T17:47:20.161652"
+  },
+  {
+    "id": "3fc52de5ab32e671",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=8dfa2bfed453e06d",
+    "title": "Data Engineer - People Analytics",
+    "company": "CVS Health",
+    "location": "Atlanta, GA, USA",
+    "is_remote": false,
+    "salary": "USD 83,430 – 222,480/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "airflow",
+      "azure",
+      "aws",
+      "gcp",
+      "tableau",
+      "data engineering",
+      "bigquery",
+      "snowflake",
+      "data warehouse"
+    ],
+    "description_snippet": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in e",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T17:47:14.709214",
+    "first_seen": "2026-10-16T17:47:14.709218"
+  },
+  {
+    "id": "226bd2b835514640",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b88d546a0f3af994",
+    "title": "Data Engineer 2",
+    "company": "The Farmer's Dog",
+    "location": "New York, NY, USA",
+    "is_remote": false,
+    "salary": "USD 130,000 – 145,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "aws",
+      "data engineering",
+      "machine learning",
+      "data warehouse",
+      "rust"
+    ],
+    "description_snippet": "**Who We Are**\n--------------\n\nThe Farmer's Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. We're starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-16T17:47:10.209296",
+    "first_seen": "2026-10-16T17:47:10.209297"
+  },
+  {
     "id": "e8885b38d5a4e91f",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology",
