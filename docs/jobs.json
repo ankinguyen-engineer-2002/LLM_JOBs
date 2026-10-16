@@ -1,5 +1,548 @@
 [
   {
+    "id": "a4b4a62ab7b20483",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/beyondtrust-cloud-network-engineer",
+    "title": "Cloud Network Engineer",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, an",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:31:01.410869",
+    "first_seen": "2026-10-16T08:31:01.410872"
+  },
+  {
+    "id": "ff105e4ffea1c41d",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/beyondtrust-elearning-developer",
+    "title": "eLearning Developer",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, an",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:31:01.410430",
+    "first_seen": "2026-10-16T08:31:01.410441"
+  },
+  {
+    "id": "03aeb4827f5757de",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini",
+    "title": "Global Alliance Lead, Capgemini",
+    "company": "Fivetran",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote, Colorado, United States, AMER From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or main",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:31:00.947402",
+    "first_seen": "2026-10-16T08:31:00.947412"
+  },
+  {
+    "id": "6db28462a11250ab",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150707-head-of-product",
+    "title": "Head of Product",
+    "company": "Archive",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "At Archive , we believe great products should live many lives. We build the technology that powers branded resale for some of the world’s most beloved companies, including Lululemon, The North Face, New Balance, Dr. Martens, Peloton, and 50+ others. Our platform makes it easy for brands to keep prod",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:44.351407",
+    "first_seen": "2026-10-16T08:26:44.351408"
+  },
+  {
+    "id": "e6561a64e0c2d7aa",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150668-product-manager-2",
+    "title": "Product Manager",
+    "company": "Meta",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Meta Product Managers work with cross-functional teams of engineers, designers, data scientists and researchers to build products. We are looking for Product Managers who value moving quickly.ResponsibilitiesBe responsible for leading and driving a complex product area; defining success, prioritizin",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:44.351183",
+    "first_seen": "2026-10-16T08:26:44.351184"
+  },
+  {
+    "id": "8aed16a27eba7e8f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150689-senior-product-designer",
+    "title": "Senior Product Designer",
+    "company": "Ashby",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "creative & design"
+    ],
+    "description_snippet": "Hi! I'm Chris , head of Product Design at Ashby . We're looking for a versatile, intrinsically motivated designer who is excited to contribute to rethinking how modern software is designed. At Ashby, you'll be part designer, part product manager, part consultant, and part design system manager (or s",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:44.351077",
+    "first_seen": "2026-10-16T08:26:44.351080"
+  },
+  {
+    "id": "65897e006f69e35f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150752-mid-market-account-executive",
+    "title": "Mid-Market Account Executive",
+    "company": "Nabla",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Nabla We are a team of entrepreneurs, clinicians and engineers committed to bringing back joy to the practice of medicine. Together with a community of clinician innovators, we’ve harnessed the best of machine learning science to develop Nabla: the leading AI assistant that’s restoring the hum",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:44.350623",
+    "first_seen": "2026-10-16T08:26:44.350624"
+  },
+  {
+    "id": "2f570de951729827",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150755-partnership-director",
+    "title": "Partnership Director",
+    "company": "Nabla",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Nabla We are a team of entrepreneurs, clinicians and engineers committed to bringing back joy to the practice of medicine. Together with a community of clinician innovators, we’ve harnessed the best of machine learning science to develop Nabla: the leading AI assistant that’s restoring the hum",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:44.350302",
+    "first_seen": "2026-10-16T08:26:44.350304"
+  },
+  {
+    "id": "e343cc9617e2604f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153329-customer-solution-architect-team-lead",
+    "title": "Customer Solution Architect, Team Lead",
+    "company": "Supabase",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We’re seeking a Customer Solution Arch",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:44.349965",
+    "first_seen": "2026-10-16T08:26:44.349967"
+  },
+  {
+    "id": "233eb9d5e040e61f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150779-contract-senior-content-designer",
+    "title": "Contract Senior Content Designer",
+    "company": "Fueled",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "content & editorial"
+    ],
+    "description_snippet": "Location: Remote – Americas (Open to applicants located in North American aligned time zones) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The Ne",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:44.348576",
+    "first_seen": "2026-10-16T08:26:44.348577"
+  },
+  {
+    "id": "15aafb88fa38079d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150781-product-designer-content-solutions",
+    "title": "Product Designer – Content Solutions",
+    "company": "Fueled",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "content & editorial"
+    ],
+    "description_snippet": "Location: Remote — Americas Team (Open to applicants located in North &amp; South America, with the ability to primarily work within US business hours/time zones) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of d",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:44.348424",
+    "first_seen": "2026-10-16T08:26:44.348426"
+  },
+  {
+    "id": "8b73ad7eac7f7406",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150798-senior-product-director-local-growth",
+    "title": "(Senior) Product Director, Local Growth",
+    "company": "OKX",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Who We Are At OKX , we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:44.348261",
+    "first_seen": "2026-10-16T08:26:44.348263"
+  },
+  {
+    "id": "9e6153e2a9ee31a6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150748-it-administrator",
+    "title": "IT Administrator",
+    "company": "Kalshi",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Kalshi is defining a new category Kalshi has defined a new category: prediction markets. Kalshi allows people to trade on the outcome of any events and turn any question about the future into a financial asset. Kalshi fought for years and legalized prediction markets in the US for the first time in ",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:44.347953",
+    "first_seen": "2026-10-16T08:26:44.347955"
+  },
+  {
+    "id": "8996edd9461fe37f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150820-director-platform-and-ai-sales",
+    "title": "Director, Platform and AI Sales",
+    "company": "League",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About League League is one of the fastest-growing technology companies in Canada and the leading healthcare experience platform. Getting healthcare is often the easy part — finishing it is where things fall apart: people book the appointment and skip the follow-up, fill the prescription and stop tak",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:44.347707",
+    "first_seen": "2026-10-16T08:26:44.347710"
+  },
+  {
+    "id": "cf1eb42eb2bd05cd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150763-agentic-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones",
+    "title": "Agentic AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)",
+    "company": "Udacity",
+    "location": "APAC,  Canada,  Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "education & e-learning"
+    ],
+    "description_snippet": "About Us Udacity is now an Accenture company, and exciting things are happening! We are on a mission of forging futures in tech through radical talent transformation in digital technologies. We offer a unique and immersive online learning platform, powering corporate technical training in fields suc",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:44.346527",
+    "first_seen": "2026-10-16T08:26:44.346529"
+  },
+  {
+    "id": "cec7c5372bcdb70f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150767-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones",
+    "title": "AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)",
+    "company": "Udacity",
+    "location": "APAC,  EMEA,  Canada,  Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "education & e-learning"
+    ],
+    "description_snippet": "About Us Udacity is now an Accenture company, and exciting things are happening! We are on a mission of forging futures in tech through radical talent transformation in digital technologies. We offer a unique and immersive online learning platform, powering corporate technical training in fields suc",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:44.346228",
+    "first_seen": "2026-10-16T08:26:44.346230"
+  },
+  {
+    "id": "77103f2ee1ef47da",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153308-chief-technology-officer-3",
+    "title": "Chief Technology Officer",
+    "company": "Toptal",
+    "location": "LATAM,  Canada,  Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe , Toptal is the world’s largest fully remote workforce . We take the best ele",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:44.345927",
+    "first_seen": "2026-10-16T08:26:44.345929"
+  },
+  {
+    "id": "da32faacbf3e5413",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153312-svp-product",
+    "title": "SVP, Product",
+    "company": "Toptal",
+    "location": "Canada,  Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe , Toptal is the world’s largest fully remote workforce . We take the best ele",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:44.345554",
+    "first_seen": "2026-10-16T08:26:44.345556"
+  },
+  {
+    "id": "59ca2c17e5108f2b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150672-account-manager-iv-remote-in-bay-area-ca",
+    "title": "Account Manager IV (Remote in Bay Area, CA)",
+    "company": "TE Connectivity",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "At TE, you will unleash your potential working with people from diverse backgrounds and industries to create a safer, sustainable and more connected world. ​ Job Overview At TE, you will unleash your potential by collaborating with people from diverse backgrounds and industries to create a safer, mo",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:44.344774",
+    "first_seen": "2026-10-16T08:26:44.344776"
+  },
+  {
+    "id": "3d2a0e1c9109572c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150674-analyst-digital-marketing-iv-remote-iv",
+    "title": "ANALYST DIGITAL MARKETING IV (Remote) IV",
+    "company": "TE Connectivity",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Job Posting Title: ANALYST DIGITAL MARKETING IV (Remote) IV Job ID: 155456 Job Code: 30004700 Business Unit: [[businessUnit]] Building: Non-TE facility (902) Band/Level: 5 Hiring Manager: YAN LIZZIE WANG Recruiter: Pete Roosendaal Relocation: No Travel: Less than 10% Employee Referral Amount: $1,000",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:44.344597",
+    "first_seen": "2026-10-16T08:26:44.344599"
+  },
+  {
+    "id": "5c1727902054ac9b",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-project-and-quality-administrator-work-from-home-dayshift-twoconnect-1137524",
+    "title": "Project and Quality Administrator Work From Home Dayshift",
+    "company": "Twoconnect",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "work from home",
+      "jira",
+      "sys admin",
+      "education",
+      "customer support",
+      "marketing",
+      "admin",
+      "microsoft",
+      "exec",
+      "excel"
+    ],
+    "description_snippet": "We are seeking a Project and Quality Administrator (Quality Systems) to provide project administration and data coordination support across multiple active projects. The role will maintain accurate project records, coordinate quality documentation, monitor outstanding tasks, prepare reports, and sup",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-16T08:26:43.923295",
+    "first_seen": "2026-10-16T08:26:43.923298"
+  },
+  {
+    "id": "90adf00b6a1d0f4d",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525",
+    "title": "Director US Tax & Accounting #35344",
+    "company": "Manila Recruitment",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "exec",
+      "accounting",
+      "education",
+      "technical",
+      "customer support",
+      "dev",
+      "marketing",
+      "speech",
+      "finance",
+      "c"
+    ],
+    "description_snippet": "Company Profile: Our client was founded to provide high quality professional &amp; personalized tax preparation, accounting and bookkeeping services for individuals, businesses, and non-profits at reasonable rates. The company is a very fast-growing medium-sized accounting firm, allowing them to bet",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-16T08:26:43.923128",
+    "first_seen": "2026-10-16T08:26:43.923136"
+  },
+  {
+    "id": "f50cae856176283d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f50c7dd606761e70",
+    "title": "Sr. Data Engineer",
+    "company": "ADM",
+    "location": "Erlanger, KY, USA",
+    "is_remote": false,
+    "salary": "USD 152,651 – 162,651/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "azure",
+      "power bi",
+      "databricks",
+      "synapse",
+      "data warehouse",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "Sr. Data Engineer, Archer Daniels Midland Company, Erlanger, KY. Design, build, refactor, and maintain data pipelines to\n  \nmeet business requirements for reporting, analysis, and data science. Teach, adhere to, and contribute to DataOps and\n  \nMLOps standards and best practices and continuously imp",
+    "posted_date": "2026-10-07",
+    "scraped_at": "2026-10-16T08:26:39.306280",
+    "first_seen": "2026-10-16T08:26:39.306283"
+  },
+  {
+    "id": "9a96e2cdfc274f0f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7ec4de8eaaee90c6",
+    "title": "Validation Engineer",
+    "company": "Eaton",
+    "location": "Youngsville, NC, USA",
+    "is_remote": false,
+    "salary": "USD 71,000 – 105,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "aws"
+    ],
+    "description_snippet": "Eaton’s ES AMER ESS division is currently seeking a Validation Engineer. This role is based out of Raleigh, NC.\n\nThe Validation Engineer will play a key role in the development and validation of Medium Voltage Solid State Transformer (MV-SST) platforms and advanced critical power solutions. This pos",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-16T08:26:34.736947",
+    "first_seen": "2026-10-16T08:26:34.736949"
+  },
+  {
+    "id": "2448071a17f110fc",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4d24db6634b1f1a4",
+    "title": "Senior Process Engineer, Data Optimization",
+    "company": "Form Energy",
+    "location": "Weirton, WV, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql"
+    ],
+    "description_snippet": "Are you ready to build America’s energy future? Form Energy is an American manufacturing and energy technology company. We’re revolutionizing energy storage with cost-effective, multi-day technology designed to keep the electric grid secure and reliable, even during extended periods of stress. By st",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-16T08:26:34.736358",
+    "first_seen": "2026-10-16T08:26:34.736363"
+  },
+  {
+    "id": "6acc7423ce62fa91",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=0fbb05233cf223b3",
+    "title": "Entry Level- Test Engineer (Onsite- Aberdeen Maryland)",
+    "company": "Fairwinds Technologies, L",
+    "location": "Aberdeen Proving Ground, MD, USA",
+    "is_remote": false,
+    "salary": "USD 75,000 – 85,000/yearly",
+    "job_type": "fulltime, internship",
+    "tags": [
+      "python"
+    ],
+    "description_snippet": "**ENTRY-LEVEL TEST ENGINEER**\n\n**xG and Mixed Signal Product Development | Technical Services**\n\n**About the opportunity**\n=========================\n\nFairwinds Technologies is continuously looking for curious, methodical, and hands-on early-career engineers who want to verify that advanced communica",
+    "posted_date": "2026-09-18",
+    "scraped_at": "2026-10-16T08:26:30.036011",
+    "first_seen": "2026-10-16T08:26:30.036013"
+  },
+  {
+    "id": "962ca8f1692190d5",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=9a124ce90cdec244",
+    "title": "Electrical Engineer",
+    "company": "Eaton",
+    "location": "Raleigh, NC, USA",
+    "is_remote": false,
+    "salary": "USD 71,000 – 105,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "aws"
+    ],
+    "description_snippet": "Eaton’s Critical Power and Digital Infrastructure - Critical Power Solutions Division is currently seeking an Electrical Engineer to join our team. This is a hybrid office role based at our Raleigh, NC facility for candidates who live within 50 miles of the site. Relocation benefits will be provided",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-16T08:26:30.031504",
+    "first_seen": "2026-10-16T08:26:30.031506"
+  },
+  {
+    "id": "ad740b3aeed9ddcd",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=2a34d2988258872a",
+    "title": "Data Engineer - People Analytics",
+    "company": "CVS Health",
+    "location": "Montgomery, AL, USA",
+    "is_remote": false,
+    "salary": "USD 83,430 – 222,480/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "airflow",
+      "azure",
+      "aws",
+      "gcp",
+      "tableau",
+      "data engineering",
+      "bigquery",
+      "snowflake",
+      "data warehouse"
+    ],
+    "description_snippet": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in e",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T08:26:26.976831",
+    "first_seen": "2026-10-16T08:26:26.976836"
+  },
+  {
     "id": "093303722bda1df9",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
