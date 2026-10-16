@@ -1,5 +1,328 @@
 [
   {
+    "id": "58fe56ba9208b5fc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155496-contract-technical-recruiter-2",
+    "title": "Contract Technical Recruiter",
+    "company": "Invisible Technologies",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "About Invisible Invisible Technologies makes AI work. Our end-to-end AI platform structures messy data, automates digital workflows, deploys agentic solutions, measures outcomes, and integrates human expertise where it matters most. Our platform cleans, labels, and structures company data so it is r",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T22:58:37.503906",
+    "first_seen": "2026-10-16T22:58:37.503908"
+  },
+  {
+    "id": "77a2b51d110f7bb0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155501-business-development-representative-army",
+    "title": "Business Development Representative - Army",
+    "company": "Defense Unicorns",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Role Overview: As a Business Development Rep at Defense Unicorns , you will play a pivotal role in the company's success by identifying, cultivating, and managing new opportunities, partnerships and relationships within the ecosystem. You will leverage your deep understanding of market trends and in",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T22:58:37.503612",
+    "first_seen": "2026-10-16T22:58:37.503614"
+  },
+  {
+    "id": "76fa1375e3f38c77",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155506-implementation-consultant-ii-construction",
+    "title": "Implementation Consultant II, Construction",
+    "company": "Built Technologies",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Built's Mission: Connect and simplify doing business in real estate. Built is the AI-powered platform transforming the way real estate is financed, developed, and managed. Purpose-built for real estate and construction, Built began by fixing construction draw management for lenders and has grown int",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T22:58:37.503370",
+    "first_seen": "2026-10-16T22:58:37.503374"
+  },
+  {
+    "id": "97eeb698c3efaf5f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155508-director-information-security",
+    "title": "Director, Information Security",
+    "company": "Carrot",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About Carrot : Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health systems trust Carrot",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T22:58:37.502925",
+    "first_seen": "2026-10-16T22:58:37.502927"
+  },
+  {
+    "id": "74549c564287d0b7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155519-senior-product-designer-sharegate",
+    "title": "Senior Product Designer - ShareGate",
+    "company": "Workleap",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Company Description Workleap is a Montreal-based tech company, founded in 2006. We're builders at heart, we make simple products that actually matter to the people who use them. We have two product lines: Workleap Agent , our newest solution built to make every manager more effective, and ShareGate ",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T22:58:37.502513",
+    "first_seen": "2026-10-16T22:58:37.502515"
+  },
+  {
+    "id": "bb783e2282f28a3a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155523-commercial-account-executive-singapore",
+    "title": "Commercial Account Executive - Singapore",
+    "company": "Chainguard",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T22:58:37.502247",
+    "first_seen": "2026-10-16T22:58:37.502249"
+  },
+  {
+    "id": "9e77976f54b5a674",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155527-corporate-account-executive-central-2",
+    "title": "Corporate Account Executive - Central",
+    "company": "Chainguard",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T22:58:37.502044",
+    "first_seen": "2026-10-16T22:58:37.502046"
+  },
+  {
+    "id": "41d8ab25436b022a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155522-customer-success-manager-mid-market-2",
+    "title": "Customer Success Manager, Mid-Market",
+    "company": "Juniper Square",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About Juniper Square Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full potential. We’re the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services ",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T22:58:37.501811",
+    "first_seen": "2026-10-16T22:58:37.501813"
+  },
+  {
+    "id": "e733b8934dc77a1f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155525-revenue-product-lead",
+    "title": "Revenue Product Lead",
+    "company": "ClassDojo",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "ClassDojo 's goal is to give every child on Earth an education they love. We started by building a powerful network for communication. ClassDojo’s flagship app is the #1 communication app connecting K-12 teachers, children, and families globally. Teachers use it to share what’s happening throughout ",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T22:58:37.501567",
+    "first_seen": "2026-10-16T22:58:37.501568"
+  },
+  {
+    "id": "16996b929c8e9446",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155530-monetization-growth-product-manager",
+    "title": "Monetization Growth Product Manager",
+    "company": "ClassDojo",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "ClassDojo 's goal is to give every child on Earth an education they love. We started by building a powerful network for communication. ClassDojo’s flagship app is the #1 communication app connecting K-12 teachers, children, and families globally. Teachers use it to share what’s happening throughout ",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T22:58:37.501346",
+    "first_seen": "2026-10-16T22:58:37.501347"
+  },
+  {
+    "id": "f7343eb9e9370830",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155537-analytics-engineer-4",
+    "title": "Analytics Engineer",
+    "company": "Pleo",
+    "location": "Denmark,  Portugal,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees a",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T22:58:37.501116",
+    "first_seen": "2026-10-16T22:58:37.501118"
+  },
+  {
+    "id": "73bb3505ebf6c971",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155534-fraud-analyst",
+    "title": "Fraud Analyst",
+    "company": "Pleo",
+    "location": "Denmark,  Germany,  Portugal,  Spain,  Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees a",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T22:58:37.500651",
+    "first_seen": "2026-10-16T22:58:37.500661"
+  },
+  {
+    "id": "0c6cc847d3bd7fdc",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b5fe1a2742a39b37",
+    "title": "Data Engineer",
+    "company": "Alpha Resources - Michigan",
+    "location": "Stevensville, MI, USA",
+    "is_remote": false,
+    "salary": "USD 80,000 – 115,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "data engineering",
+      "analytics engineering",
+      "postgres",
+      "databricks",
+      "data warehouse",
+      "ci/cd"
+    ],
+    "description_snippet": "**Data Engineer**\n\n**Alpha Resources | Stevensville, Michigan (Preferred On-Site) or Remote**\n\n**S**alary based on experience.\n\nBuild and own a data warehouse supporting a $100M+ group of scientific and life science manufacturers across the U.S., Canada, UK, and Ireland.\n\n**About the Role**\n\nAlpha R",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-16T22:58:28.602256",
+    "first_seen": "2026-10-16T22:58:28.602258"
+  },
+  {
+    "id": "c2537e69ec26b2ee",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=013237d4696c82bd",
+    "title": "Data Engineer",
+    "company": "New Hampshire Mutual Bancorp",
+    "location": "Concord, NH, USA",
+    "is_remote": false,
+    "salary": "USD 78,000 – 108,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "azure",
+      "aws",
+      "gcp",
+      "power bi",
+      "tableau",
+      "data engineering",
+      "machine learning",
+      "bigquery",
+      "snowflake",
+      "databricks",
+      "data warehouse",
+      "java",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**Company:** New Hampshire Mutual Bancorp\n\n**Title:** Data Engineer\n\n**Location:** Hybrid based out of Concord, New Hampshire\n\n**Position Details:** Monday - Friday, 8:00 a.m. – 5:00 p.m.\n\n**FLSA:** Exempt, Non-Management Staff Administrative Support\n\n**Salary:** Negotiable based on level of experie",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-16T22:58:28.601749",
+    "first_seen": "2026-10-16T22:58:28.601753"
+  },
+  {
+    "id": "259e7163d09115ab",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=45736a7e8afbb017",
+    "title": "Electrical Engineer",
+    "company": "FISICA",
+    "location": "Simi Valley, CA, USA",
+    "is_remote": false,
+    "salary": "USD 90,500 – 168,500/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "rust"
+    ],
+    "description_snippet": "**Salary Range:**$90,500.00 To $168,500.00 Annually\n\n**Job Title: Specialist, Electrical Engineering**\n\n**Job Location: Simi Valley, CA (This position is 100% onsite)**\n\n**Business Unit: Datron**\n\n**Schedule:****9/80: Employees work 9 out of every 14 days – totaling 80 hours worked – and have every ",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-16T22:58:24.479666",
+    "first_seen": "2026-10-16T22:58:24.479668"
+  },
+  {
+    "id": "8dbfdd1cb13b45d4",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5ff7263397b593ad",
+    "title": "Data Engineer",
+    "company": "ALTEN",
+    "location": "Dallas, TX, USA",
+    "is_remote": true,
+    "salary": "USD 130,000 – 150,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "kafka",
+      "azure",
+      "power bi",
+      "data engineering",
+      "analytics engineering",
+      "databricks",
+      "medallion",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "We're ALTEN Technology USA, an engineering company helping clients bring groundbreaking ideas to life—from advancing space exploration and life-saving medical devices to building autonomous electric vehicles. With 3,000+ experts across North America, we partner with leading companies in aerospace, m",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-16T22:58:16.117885",
+    "first_seen": "2026-10-16T22:58:16.117891"
+  },
+  {
     "id": "ecd70aa4761972c4",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/155488-senior-software-engineer-ii-business-systems",
