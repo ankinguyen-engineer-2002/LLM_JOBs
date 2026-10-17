@@ -1,5 +1,73 @@
 [
   {
+    "id": "65760d954dc0288e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=10570c3f659e99f5",
+    "title": "Data Engineer",
+    "company": "Kwik Trip",
+    "location": "La Crosse, WI, USA",
+    "is_remote": false,
+    "salary": "USD 85,633 – 128,450/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "data engineering",
+      "snowflake",
+      "databricks",
+      "scala"
+    ],
+    "description_snippet": "Already a Kwik Trip Coworker? Follow this link to apply: myapps.kwiktrip.com  \n**Location:** Department 671  \n**Shift:** Daytime  \n**Experience:** 2+ years  \n**Full** **Pay Range:** $85,633.60 to $128,450.14\n\nActual pay will be based on various factors, such as a candidate’s qualifications, skills, ",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-17T22:33:42.035162",
+    "first_seen": "2026-10-17T22:33:42.035166"
+  },
+  {
+    "id": "03de50f827ae200a",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=9e44ec35cfe9316e",
+    "title": "Senior Backend Engineer II - Data",
+    "company": "Prenuvo",
+    "location": "Dallas, TX, USA",
+    "is_remote": true,
+    "salary": "USD 165,000 – 180,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "data engineering",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**About Us**\n\nAt Prenuvo, we are on a mission to flip the paradigm from reactive \"sick-care\" to proactive health care. Our award-winning whole body scan is fast (under 1 hour), safe (MRI has no ionizing radiation), and non-invasive (no contrast). Our unique integrated stack of optimized hardware, so",
+    "posted_date": "2026-10-01",
+    "scraped_at": "2026-10-17T22:33:23.218995",
+    "first_seen": "2026-10-17T22:33:23.218996"
+  },
+  {
+    "id": "602244d1dd595b7a",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=2b9b1ee82614559b",
+    "title": "Junior Data Engineer",
+    "company": "World Pediatrics",
+    "location": "Richmond, VA, USA",
+    "is_remote": false,
+    "salary": "USD 72,500 – 80,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "data engineering",
+      "data warehouse",
+      "java",
+      "scala"
+    ],
+    "description_snippet": "**Who we are:** World Pediatrics partners with governments, health workers, and organizations to ensure that children in lower-resource settings have access to safe, timely surgical care. When children are healed, the social and emotional health of families is restored, and the economic productivity",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-17T22:33:23.215145",
+    "first_seen": "2026-10-17T22:33:23.215150"
+  },
+  {
     "id": "f9657a1832f2edce",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/155602-data-engineer-us-remote",
