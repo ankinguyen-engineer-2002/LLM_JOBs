@@ -1,5 +1,325 @@
 [
   {
+    "id": "f9657a1832f2edce",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155602-data-engineer-us-remote",
+    "title": "Data Engineer - US Remote",
+    "company": "PerfectServe",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "What is PerfectServe ? PerfectServe is a leading provider of clinical communication and physician scheduling solutions in the health IT space. The company was founded in 1997 and has grown steadily since then, with a notable jump after several major acquisitions were announced in 2019. PerfectServe ",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T19:01:35.709849",
+    "first_seen": "2026-10-17T19:01:35.709850"
+  },
+  {
+    "id": "fb55831eaca31ee7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155596-head-of-business-and-corporate-development",
+    "title": "Head of Business and Corporate Development",
+    "company": "Phantom",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the ",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T19:01:35.709616",
+    "first_seen": "2026-10-17T19:01:35.709618"
+  },
+  {
+    "id": "3b8dd7692c03008a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155604-senior-copywriter",
+    "title": "Senior Copywriter",
+    "company": "Phantom",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "content & editorial"
+    ],
+    "description_snippet": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the ",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T19:01:35.709363",
+    "first_seen": "2026-10-17T19:01:35.709365"
+  },
+  {
+    "id": "9c5e9707530b178d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155605-enterprise-implementation-consultant-us-remote",
+    "title": "Enterprise Implementation Consultant - US Remote",
+    "company": "PerfectServe",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "What is PerfectServe ? PerfectServe is a leading provider of clinical communication and physician scheduling solutions in the health IT space. The company was founded in 1997 and has grown steadily since then, with a notable jump after several major acquisitions were announced in 2019. PerfectServe ",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T19:01:35.709085",
+    "first_seen": "2026-10-17T19:01:35.709087"
+  },
+  {
+    "id": "7b935cf8b05a37ae",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155597-senior-product-manager-10",
+    "title": "Senior Product Manager",
+    "company": "Peerspace",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Senior PM/Principal PM - Host team Peerspace is the leading and category defining online marketplace for venue rentals for meetings, productions, and events. We open doors to the most inspiring spaces around the world, from lofts and mansions to storefronts and studios. Over $500M has been transacte",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T19:01:35.708768",
+    "first_seen": "2026-10-17T19:01:35.708769"
+  },
+  {
+    "id": "648743cbe3fa9023",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155601-staff-software-engineer-sre-2",
+    "title": "Staff Software Engineer (SRE)",
+    "company": "Phantom",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the ",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T19:01:35.708508",
+    "first_seen": "2026-10-17T19:01:35.708510"
+  },
+  {
+    "id": "7a51755adc1e32dc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155603-engineering-manager-supportx-2",
+    "title": "Engineering Manager, SupportX",
+    "company": "SeatGeek",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we’re simplifying and modernizing the ticketing industry. The SupportX team is dedicated to building the future of fan support. We treat support as a product, owning the full",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T19:01:35.708290",
+    "first_seen": "2026-10-17T19:01:35.708292"
+  },
+  {
+    "id": "24ef427f6b864055",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155610-senior-product-manager-m-f-d",
+    "title": "Senior Product Manager (m/f/d)",
+    "company": "Moss",
+    "location": "Estonia,  Germany,  Poland,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "At Moss , we give finance professionals the power to automate their day-to-day and make forward-thinking decisions. Our culture is what makes that possible: we play to win, we obsess over quality, and we win as One Moss, and it works. Moss closed a €35 million Series C in August 2026, crossing a €1 ",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T19:01:35.708043",
+    "first_seen": "2026-10-17T19:01:35.708046"
+  },
+  {
+    "id": "8ef67ad9f878040a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155613-director-product-management-security",
+    "title": "Director, Product Management (Security)",
+    "company": "Cribl",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl , we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telem",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T19:01:35.707811",
+    "first_seen": "2026-10-17T19:01:35.707821"
+  },
+  {
+    "id": "9f75e11224af9369",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
+    "title": "Head of Technology",
+    "company": "Sanctuary Computer",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "USD 140,000 – 250,000/year",
+    "job_type": "N/A",
+    "tags": [
+      "dev",
+      "engineer",
+      "senior",
+      "full stack",
+      "front end"
+    ],
+    "description_snippet": "We are hiring a Head of Technology for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code. Original job posting link About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communit",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-17T19:01:35.364411",
+    "first_seen": "2026-10-17T19:01:35.364420"
+  },
+  {
+    "id": "f5e220d25827a467",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=eab443672b613c15",
+    "title": "SQL Database Engineer, Healthcare Platform (Perm. Work Status Req'd)",
+    "company": "CorroHealth",
+    "location": "TX, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "power bi",
+      "scala"
+    ],
+    "description_snippet": "**About Us:**\n\nOur purpose is to help clients exceed their financial health goals. Across the reimbursement cycle, our scalable solutions and clinical expertise help solve programmatic needs. Enabling our teams with leading technology allows analytics to guide our solutions and keeps us accountable ",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-17T19:01:31.103541",
+    "first_seen": "2026-10-17T19:01:31.103544"
+  },
+  {
+    "id": "2a3847b6d7c4008d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=59a08b9b66e96fc4",
+    "title": "Sr. Test Development Engineer",
+    "company": "Sanmina",
+    "location": "Huntsville, AL, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "aws",
+      "rust"
+    ],
+    "description_snippet": "**Description**\n\nSanmina Corporation (Nasdaq: SANM) is a global powerhouse in integrated manufacturing solutions serving the fastest growing segments of the global Electronics Manufacturing Services (EMS) market. We are a global engine providing the end-to-end manufacturing backbone for the world's ",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-17T19:01:22.699268",
+    "first_seen": "2026-10-17T19:01:22.699271"
+  },
+  {
+    "id": "10edfe340087d7a3",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=226d4cbab4ef2066",
+    "title": "AI Risk Engineer",
+    "company": "BV Teck",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 100,000 – 150,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "aws",
+      "machine learning",
+      "llm"
+    ],
+    "description_snippet": "**AI Risk Engineer – Remote**  \n  \nBright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.  \nThis is a fantastic opportunity to join an established and well-respected organization offering t",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-17T19:01:22.698923",
+    "first_seen": "2026-10-17T19:01:22.698927"
+  },
+  {
+    "id": "95908e4ce607313d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=6af5eb4b93d62c15",
+    "title": "Data Engineer - People Analytics",
+    "company": "CVS Health",
+    "location": "Charleston, WV, USA",
+    "is_remote": false,
+    "salary": "USD 83,430 – 222,480/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "airflow",
+      "azure",
+      "aws",
+      "gcp",
+      "tableau",
+      "data engineering",
+      "bigquery",
+      "snowflake",
+      "data warehouse"
+    ],
+    "description_snippet": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in e",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-17T19:01:18.926829",
+    "first_seen": "2026-10-17T19:01:18.926833"
+  },
+  {
+    "id": "0bf8ee6e26cd644e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=00dc998d02d997e4",
+    "title": "Team Lead, Software Engineer - Data",
+    "company": "ACV Auctions",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 123,000 – 154,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "data engineering",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "If you are looking for a career at a dynamic company with a people-first mindset and a deep culture of growth and autonomy, ACV is the right place for you! Competitive compensation packages and learning and development opportunities, ACV has what you need to advance to the next level in your career.",
+    "posted_date": "2026-09-24",
+    "scraped_at": "2026-10-17T19:01:14.977541",
+    "first_seen": "2026-10-17T19:01:14.977543"
+  },
+  {
+    "id": "c805d744fa7573fc",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b91959ca412b5c96",
+    "title": "Senior Data Platform Engineer",
+    "company": "Trisura Guarantee Insurance Company",
+    "location": "Oklahoma City, OK, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "power bi",
+      "data engineering",
+      "microsoft fabric",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "TRISURA GUARANTEE INSURANCE COMPANY\n  \nAt Trisura, we expect more because we believe it can be done better.\n  \n  \nWe are a young, growth-oriented team with a commitment to exceptional talent and have been one of the fastest-growing North American specialty insurance firms since 2006. Our growth and ",
+    "posted_date": "2026-10-02",
+    "scraped_at": "2026-10-17T19:01:14.975018",
+    "first_seen": "2026-10-17T19:01:14.975021"
+  },
+  {
     "id": "eb13484e28226f66",
     "source": "remoteok",
     "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
