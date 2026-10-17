@@ -1,5 +1,188 @@
 [
   {
+    "id": "b45342df0ee3edb2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155575-power-platform-developer",
+    "title": "Power Platform Developer",
+    "company": "Oddball",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T11:32:07.851614",
+    "first_seen": "2026-10-17T11:32:07.851615"
+  },
+  {
+    "id": "cecc8af6faaeec9c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155570-field-marketing-manager",
+    "title": "Field Marketing Manager",
+    "company": "infisical",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, cer",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T11:32:07.851481",
+    "first_seen": "2026-10-17T11:32:07.851483"
+  },
+  {
+    "id": "33c1b3ba3af398fb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155574-senior-devops-engineer-10",
+    "title": "Senior DevOps Engineer",
+    "company": "dscout",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "At Dscout , we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Faceb",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T11:32:07.851261",
+    "first_seen": "2026-10-17T11:32:07.851263"
+  },
+  {
+    "id": "55888669786bfd0f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155573-technical-recruiter-4",
+    "title": "Technical Recruiter",
+    "company": "infisical",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, cer",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T11:32:07.850946",
+    "first_seen": "2026-10-17T11:32:07.850956"
+  },
+  {
+    "id": "082f1a22e59039f5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155564-growth-design-lead",
+    "title": "Growth Design Lead",
+    "company": "Zapier",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "AI at Zapier At Zapier , we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently . Check out our guidance on How to Collaborate with AI During Z",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T11:32:06.594632",
+    "first_seen": "2026-10-17T11:32:06.594642"
+  },
+  {
+    "id": "02d592e520d30f53",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=a1f610986642a7b2",
+    "title": "Senior Data Engineer",
+    "company": "iSynergy Information Technologies",
+    "location": "McKinney, TX, USA",
+    "is_remote": false,
+    "salary": "USD 116,000 – 141,000/yearly",
+    "job_type": "contract",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "aws",
+      "data warehouse",
+      "java",
+      "scala"
+    ],
+    "description_snippet": "**Job Summary**\n\nWe are seeking an energetic and highly skilled Senior Data Engineer to join our dynamic data team. In this pivotal role, you will lead the design, development, and optimization of large-scale data systems that empower data-driven decision-making across the organization. Your experti",
+    "posted_date": "2026-10-07",
+    "scraped_at": "2026-10-17T11:32:01.648601",
+    "first_seen": "2026-10-17T11:32:01.648603"
+  },
+  {
+    "id": "b035dccdc029dd57",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=33824e9c1aa705b8",
+    "title": "General Interest Application - Software & Hardware Engineering",
+    "company": "Eko",
+    "location": "Emeryville, CA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "aws",
+      "pytorch",
+      "tensorflow",
+      "numpy"
+    ],
+    "description_snippet": "### **About Eko Health**\n\nEko builds AI and digital tools to enable every healthcare provider to more accurately detect heart and lung disease – the leading causes of death globally. Our FDA cleared, industry leading products are used by hundreds of thousands of clinicians on millions of patients ar",
+    "posted_date": "2026-10-08",
+    "scraped_at": "2026-10-17T11:31:57.071747",
+    "first_seen": "2026-10-17T11:31:57.071749"
+  },
+  {
+    "id": "ef4314101a4c4a02",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=78d7758072f7ba6f",
+    "title": "Mechanical/Chemical Engineer – Multiphysics Modeling of Electrochemical Reactors",
+    "company": "Storagenergy Technologies, Inc.",
+    "location": "Salt Lake City, UT, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python"
+    ],
+    "description_snippet": "Multiphysics Modeling Engineer – Electrochemical Reactors\n\n**Location:** Salt Lake City, Utah  \n**Company:** Storagenergy Technologies, Inc.  \n**Position Type:** Full-Time\n\nPosition Overview\n\nStoragenergy Technologies is seeking a Multiphysics Modeling Engineer to develop computational models for an",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-17T11:31:51.256414",
+    "first_seen": "2026-10-17T11:31:51.256416"
+  },
+  {
+    "id": "9ad8af5f01a5bfbc",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d70c97558041cbb3",
+    "title": "Senior Analytics Engineer",
+    "company": "Velir",
+    "location": "Providence, RI, USA",
+    "is_remote": true,
+    "salary": "USD 135,000 – 150,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "analytics engineering",
+      "bigquery",
+      "snowflake",
+      "data warehouse",
+      "ci/cd",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "Velir is an established mid-sized agency with a top-tier portfolio of clients, ranging from the world's largest non-profits to Fortune 500 brands. As of 2023, Velir acquired Brooklyn Data Company, a premier data and analytics consultancy focused on leadership, process improvement, implementation, an",
+    "posted_date": "2026-09-24",
+    "scraped_at": "2026-10-17T11:31:47.900177",
+    "first_seen": "2026-10-17T11:31:47.900179"
+  },
+  {
     "id": "a3ba9d5b547b56b0",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/collibra-manager-professional-services",
