@@ -1,5 +1,147 @@
 [
   {
+    "id": "4564a52599324d9b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155572-full-stack-engineer-6",
+    "title": "Full Stack Engineer",
+    "company": "Oddball",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T13:52:22.177986",
+    "first_seen": "2026-10-17T13:52:22.177987"
+  },
+  {
+    "id": "d148c2afe5e4b294",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155583-data-director-payments",
+    "title": "Data Director, Payments",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T13:52:22.177434",
+    "first_seen": "2026-10-17T13:52:22.177434"
+  },
+  {
+    "id": "08221de06263fdb6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155584-data-science-manager-2",
+    "title": "Data Science Manager",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T13:52:22.177233",
+    "first_seen": "2026-10-17T13:52:22.177234"
+  },
+  {
+    "id": "7b79e5117b571725",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155585-data-science-manager-financial-crime",
+    "title": "Data Science Manager, Financial Crime",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T13:52:22.177080",
+    "first_seen": "2026-10-17T13:52:22.177080"
+  },
+  {
+    "id": "e9600a2268767528",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155581-data-director-eu",
+    "title": "Data Director, EU",
+    "company": "Monzo",
+    "location": "Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T13:52:22.176914",
+    "first_seen": "2026-10-17T13:52:22.176914"
+  },
+  {
+    "id": "3d2495069b9f0f7a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155587-engineering-director-eu",
+    "title": "Engineering Director, EU",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T13:52:22.176699",
+    "first_seen": "2026-10-17T13:52:22.176711"
+  },
+  {
+    "id": "947ecba24b95fdca",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7d9762ef8b65c459",
+    "title": "Test Engineer",
+    "company": "Micross",
+    "location": "Apopka, FL, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [],
+    "description_snippet": "We are seeking a **Test Engineer** for our Apopka, Florida location.\n\nThe Test Engineer is responsible for engineering efforts needed to successfully process product through the Test and Burn-In departments to include, but not limited to, the design and development of all necessary test hardware and",
+    "posted_date": "2026-09-24",
+    "scraped_at": "2026-10-17T13:52:10.469584",
+    "first_seen": "2026-10-17T13:52:10.469585"
+  },
+  {
+    "id": "d3c5a56daac14d80",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=de9ffb7e8e2235ed",
+    "title": "Materials Engineer II (Hybrid - Aguadilla, PR)",
+    "company": "Collins Aerospace",
+    "location": "Aguadilla, PR, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python"
+    ],
+    "description_snippet": "**Date Posted:**\n\n2026-10-16\n\n**Country:**\n\nUnited States of America\n\n**Location:**\n\nUS-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110\n\n**Position Role Type:**\n\nHybrid\n\n**U.S. Citizen, U.S. Person, or Immigration Status Requirements:**\n\nU.S. citizenship is required, as only U.S. citizens are authorized",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T13:52:10.466230",
+    "first_seen": "2026-10-17T13:52:10.466234"
+  },
+  {
     "id": "b45342df0ee3edb2",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/155575-power-platform-developer",
