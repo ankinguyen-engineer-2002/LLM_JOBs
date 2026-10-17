@@ -1,5 +1,487 @@
 [
   {
+    "id": "a3ba9d5b547b56b0",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/collibra-manager-professional-services",
+    "title": "Manager, Professional Services",
+    "company": "Collibra",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote, USA Joining Collibra’s Professional Services Team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout th",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:05:30.131642",
+    "first_seen": "2026-10-17T08:05:30.131646"
+  },
+  {
+    "id": "0ee6810e73924833",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/expel-senior-detection-response-engineer",
+    "title": "Senior Detection & Response Engineer",
+    "company": "Expel",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote You're the detection engineer people turn to when they ask \"what does Microsoft actually see here?\" Not the marketing-slide answer, the real map. Which product emits which telemetry, any anticipated ingestion lags, what table or API it lands in, which license tier gates it, how ",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:05:30.130965",
+    "first_seen": "2026-10-17T08:05:30.130968"
+  },
+  {
+    "id": "2ab534c8c8167d83",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/beyondtrust-enterprise-account-manager-riyadh-saudi-national",
+    "title": "Enterprise Account Manager - Riyadh (Saudi National)",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote Saudi Arabia BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:05:30.130286",
+    "first_seen": "2026-10-17T08:05:30.130296"
+  },
+  {
+    "id": "3cd0557324cd96d1",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii",
+    "title": "Customer Value Architect III",
+    "company": "Mixpanel",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: San Francisco, US (Remote) About Mixpanel Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel hel",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:05:29.734644",
+    "first_seen": "2026-10-17T08:05:29.734647"
+  },
+  {
+    "id": "8f2054275a6a5a6d",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii-1",
+    "title": "Customer Value Architect III",
+    "company": "Mixpanel",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote, US About Mixpanel Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see wha",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:05:29.733962",
+    "first_seen": "2026-10-17T08:05:29.733973"
+  },
+  {
+    "id": "b908af0b348a87b2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153369-director-of-aml-virtual-asset-compliance",
+    "title": "Director of AML & Virtual Asset Compliance",
+    "company": "CertiK",
+    "location": "Hong Kong,  Singapore,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "About the Company Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powe",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.959273",
+    "first_seen": "2026-10-17T08:01:10.959283"
+  },
+  {
+    "id": "41b75eae9a71ab38",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149315-senior-customer-success-manager-2",
+    "title": "Senior Customer Success Manager",
+    "company": "EDB",
+    "location": "Malaysia,  Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world.",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.368185",
+    "first_seen": "2026-10-17T08:01:10.368187"
+  },
+  {
+    "id": "93de748a9e5c7efd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/146099-director-enterprise-product-marketing",
+    "title": "Director, Enterprise Product Marketing",
+    "company": "Instacart",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "We're transforming the grocery industry At Instacart , we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless o",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.367699",
+    "first_seen": "2026-10-17T08:01:10.367701"
+  },
+  {
+    "id": "6a0ba962189f9d4a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/146234-legal-counsel-regulatory-compliance-product-and-privacy",
+    "title": "Legal Counsel - Regulatory Compliance, Product and Privacy",
+    "company": "Canonical",
+    "location": "EMEA,  LATAM,  Canada,  UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.367237",
+    "first_seen": "2026-10-17T08:01:10.367239"
+  },
+  {
+    "id": "9e29965cd92d7022",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153366-digital-solutions-architect",
+    "title": "Digital Solutions Architect",
+    "company": "Oddball",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.366786",
+    "first_seen": "2026-10-17T08:01:10.366788"
+  },
+  {
+    "id": "9555e5422dc07975",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153360-director-of-product-growth-digital-marketing",
+    "title": "Director of Product Growth & Digital Marketing",
+    "company": "Playbook",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Salary Range: $150-175k + Equity Eligibility Benefits: FREE employee-only medical coverage, a 4% employer 401(k) match, and FREE short-term disability. Other incredible benefits HERE. Location: Remote in the continental US, with 25% nationwide travel Reports to: SVP, Strategy Who You Are We are look",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.366333",
+    "first_seen": "2026-10-17T08:01:10.366334"
+  },
+  {
+    "id": "44d68e9c2570bbbc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/146038-technical-reporting-accountant",
+    "title": "Technical & Reporting Accountant",
+    "company": "Canonical",
+    "location": "EMEA,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.365997",
+    "first_seen": "2026-10-17T08:01:10.365998"
+  },
+  {
+    "id": "877ce4a4660ca131",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/145953-credit-risk-manager-portfolio-management",
+    "title": "Credit Risk Manager, Portfolio Management",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.365752",
+    "first_seen": "2026-10-17T08:01:10.365754"
+  },
+  {
+    "id": "2d1e78f1c7d010a2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150862-ai-deployment-manager",
+    "title": "AI Deployment Manager",
+    "company": "Cresta",
+    "location": "APAC,  Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.364945",
+    "first_seen": "2026-10-17T08:01:10.364946"
+  },
+  {
+    "id": "de2561533befef63",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153382-agile-coach-ftc",
+    "title": "Agile Coach (FTC)",
+    "company": "TrustedHousesitters",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "TrustedHousesitters is a fast growing, direct-to-consumer marketplace that is redefining pet care and travel. Here at TrustedHousesitters, we’re on a mission to make travel work better for pets, for their people, and for the global community of animal lovers who look after them. We’ve got big plans ",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.364486",
+    "first_seen": "2026-10-17T08:01:10.364488"
+  },
+  {
+    "id": "405abd12e0f3f1d7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153441-sales-cx-enablement-partner",
+    "title": "Sales & CX Enablement Partner",
+    "company": "Osano",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Osano Osano is an innovative B-Corporation built around a simple belief: privacy is a fundamental right. Since day one, we’ve been focused on giving modern enterprises the ability to innovate quickly, stay competitive, and earn customer trust by respecting data privacy and complying with conse",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.363920",
+    "first_seen": "2026-10-17T08:01:10.363922"
+  },
+  {
+    "id": "bf917c7a9a233a20",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153443-grc-manager",
+    "title": "GRC Manager",
+    "company": "Mattermost",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of War and Fortune 500s, our platform runs on-premises and in private clouds, delivering secure messaging, file sharing, workflow automation, aud",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.363668",
+    "first_seen": "2026-10-17T08:01:10.363670"
+  },
+  {
+    "id": "9efdcfacd441009f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153371-director-of-product-aml-digital-asset-compliance",
+    "title": "Director of Product, AML & Digital Asset Compliance",
+    "company": "CertiK",
+    "location": "Hong Kong,  Singapore,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About the Company Born from groundbreaking research at Columbia University and Yale University, CertiK is a leading Web3 security company focused on securing blockchain protocols, smart contracts, and decentralized applications through cutting-edge security research, formal verification, and AI-powe",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.363408",
+    "first_seen": "2026-10-17T08:01:10.363409"
+  },
+  {
+    "id": "ac45b5663ef5ce25",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153426-market-development-executive-united-states-air-force-space-force",
+    "title": "Market Development Executive, United States Air Force & Space Force",
+    "company": "Silvus Technologies",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Silvus Technologies , a leading provider of advanced MANET and MIMO communications systems, is reshaping mesh network technology for mission-critical applications – on the ground, in the air and at sea. Its battle-proven StreamCaster family of MANET radios and proprietary MN-MIMO waveform provides t",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.362842",
+    "first_seen": "2026-10-17T08:01:10.362844"
+  },
+  {
+    "id": "0f45f81e013261bc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153436-business-development-representative-14",
+    "title": "Business Development Representative",
+    "company": "Osano",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Osano Osano is an innovative B-Corporation built around a simple belief: privacy is a fundamental right. Since day one, we’ve been focused on giving modern enterprises the ability to innovate quickly, stay competitive, and earn customer trust by respecting data privacy and complying with conse",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.362534",
+    "first_seen": "2026-10-17T08:01:10.362536"
+  },
+  {
+    "id": "388682806a8f76fe",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153405-demand-generation-manager-4-day-week-remote",
+    "title": "Demand Generation Manager - 4 Day Week + Remote",
+    "company": "Laminar Projects",
+    "location": "Philippines,  Portugal",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "We have a full marketing production team. Content, design, web, video, product marketing. We have a sales team sitting ready to take meetings. What we don't have is anyone whose entire job is filling the funnel. So the pipeline gets built the hard way, one cold call at a time, while the inbound mach",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.362271",
+    "first_seen": "2026-10-17T08:01:10.362272"
+  },
+  {
+    "id": "70c3fc66c0d7225d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153464-enterprise-account-director-2",
+    "title": "Enterprise Account Director",
+    "company": "Salesloft",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Job Title: Enterprise Account Director Location: United States, Remote This is a fully remote opportunity and can be worked from any location in the United States. ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.361528",
+    "first_seen": "2026-10-17T08:01:10.361530"
+  },
+  {
+    "id": "5929c7dd687f93b4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153453-product-lead-infrastructure",
+    "title": "Product Lead - Infrastructure",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Supabase is the open-source Postgres development platform that 10M+ developers and thousands of enterprises depend on every day. Database, Auth, Storage, Edge Functions, Realtime and Vector Search all run on one platform: the same compute , the same disks , the same network and control plane, in eve",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.360001",
+    "first_seen": "2026-10-17T08:01:10.360002"
+  },
+  {
+    "id": "941b405c1367b311",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153444-senior-product-manager-digital-risk-protection-takedowns",
+    "title": "Senior Product Manager, Digital Risk Protection Takedowns",
+    "company": "Recorded Future, Inc.",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "With 1,000+ intelligence professionals serving over 1,900 clients worldwide, Recorded Future is the world’s most advanced, and largest, intelligence company! Recorded Future is seeking a Senior Product Manager to own and advance takedown capabilities within our Digital Risk Protection portfolio. Thi",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-17T08:01:10.359402",
+    "first_seen": "2026-10-17T08:01:10.359404"
+  },
+  {
+    "id": "eb86f7363a144353",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7962fa5b92f2a426",
+    "title": "Junior Software Engineer",
+    "company": "AuraOne Human Data",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [],
+    "description_snippet": "Junior Software Engineer is a remote engineering review track for evaluating production code, debugging traces, and developer-facing AI outputs against real-world correctness standards. Reviewers reproduce failures, write the unit test the model should have written, and explain the fix so the modeli",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-17T08:00:56.815613",
+    "first_seen": "2026-10-17T08:00:56.815615"
+  },
+  {
+    "id": "3e3ba34a0814661f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=438af3aeded53e8a",
+    "title": "Project Engineer II (Hybrid - Aguadilla, PR)",
+    "company": "Collins Aerospace",
+    "location": "Aguadilla, PR, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "**Date Posted:**\n\n2026-10-15\n\n**Country:**\n\nUnited States of America\n\n**Location:**\n\nUS-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110\n\n**Position Role Type:**\n\nHybrid\n\n**U.S. Citizen, U.S. Person, or Immigration Status Requirements:**\n\nThis job requires a U.S. Person. A U.S. Person is a lawful permane",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-17T08:00:56.814634",
+    "first_seen": "2026-10-17T08:00:56.814639"
+  },
+  {
+    "id": "537cbd61225973fa",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=ab942d2e856b75c5",
+    "title": "Data Center Commissioning Engineer",
+    "company": "AB Consulting GSS Inc.",
+    "location": "Columbus, OH, USA",
+    "is_remote": false,
+    "salary": "USD 65 – 75/hourly",
+    "job_type": "fulltime, contract",
+    "tags": [
+      "aws"
+    ],
+    "description_snippet": "What's on Offer\n\n* Pay: $135,200 – $156,000 per year + overtime pay + $4,000 monthly per diem ($48,000 annually, non-taxable).\n* Mobilization and Demobilization Bonus: $2,400 each (tax-free)\n* Contract role, full-time on site. There is a possibility of conversion to W-2 after a 1 to 2 month trial pe",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-17T08:00:46.987782",
+    "first_seen": "2026-10-17T08:00:46.987786"
+  },
+  {
     "id": "be6b295529cc3ece",
     "source": "remoteok",
     "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
