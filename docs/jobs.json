@@ -1,5 +1,258 @@
 [
   {
+    "id": "76d124fc484f14d0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155760-test-architect-regression-quality-strategy",
+    "title": "Test Architect – Regression & Quality Strategy",
+    "company": "Oowlish Technology",
+    "location": "Argentina,  Brazil,  Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "qa & testing"
+    ],
+    "description_snippet": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contrib",
+    "posted_date": "2026-10-18",
+    "scraped_at": "2026-10-18T22:33:27.895155",
+    "first_seen": "2026-10-18T22:33:27.895156"
+  },
+  {
+    "id": "efac3ecd8b63df13",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155764-bilingual-customer-experience-specialist-spanish",
+    "title": "Bilingual Customer Experience Specialist (Spanish)",
+    "company": "Instacart",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "We're transforming the grocery industry At Instacart , we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless o",
+    "posted_date": "2026-10-18",
+    "scraped_at": "2026-10-18T22:33:27.894945",
+    "first_seen": "2026-10-18T22:33:27.894946"
+  },
+  {
+    "id": "b9d036f86caa8939",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155765-director-legal",
+    "title": "Director, Legal",
+    "company": "Submittable",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "At Submittable , we are transforming how organizations create social impact. Our platform empowers thousands of mission-driven organizations, from nonprofits to government entities, to make a difference in their communities and beyond. In 2024, our innovative software helped organizations worldwide ",
+    "posted_date": "2026-10-18",
+    "scraped_at": "2026-10-18T22:33:27.894693",
+    "first_seen": "2026-10-18T22:33:27.894695"
+  },
+  {
+    "id": "7b8bde641caae31d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155766-senior-qa-engineer-3",
+    "title": "Senior QA Engineer",
+    "company": "Airtm",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "qa & testing"
+    ],
+    "description_snippet": "About us: Airtm is a financial-infrastructure company building the future of the online-work economy. We are on a mission to empower the world's growing number of Digital Entrepreneurs in the Global South, giving them the financial freedom to thrive. The problem is clear: in emerging markets, access",
+    "posted_date": "2026-10-18",
+    "scraped_at": "2026-10-18T22:33:27.894330",
+    "first_seen": "2026-10-18T22:33:27.894332"
+  },
+  {
+    "id": "dfb00c6b612b5410",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155770-product-owner-growth",
+    "title": "Product Owner, Growth",
+    "company": "Flex",
+    "location": "Brazil,  Canada,  Mexico,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Flex is building the AI-native private bank for business owners . We’re re-architecting the entire financial system for entrepreneurs—from the first dollar a business earns to how that value compounds, moves, and is ultimately spent in real life. Banking, credit, payments, personal finance, and fina",
+    "posted_date": "2026-10-18",
+    "scraped_at": "2026-10-18T22:33:27.894133",
+    "first_seen": "2026-10-18T22:33:27.894134"
+  },
+  {
+    "id": "44c8b2129e864395",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155773-senior-it-corporate-engineering",
+    "title": "Senior IT & Corporate Engineering",
+    "company": "Flex",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Flex is building the AI-native private bank for business owners . We’re re-architecting the entire financial system for entrepreneurs—from the first dollar a business earns to how that value compounds, moves, and is ultimately spent in real life. Banking, credit, payments, personal finance, and fina",
+    "posted_date": "2026-10-18",
+    "scraped_at": "2026-10-18T22:33:27.893826",
+    "first_seen": "2026-10-18T22:33:27.893832"
+  },
+  {
+    "id": "0a7740d996866eff",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=20b48c4e3f369724",
+    "title": "Lead DataOps / MLOps",
+    "company": "Protective",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 124,500 – 170,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "docker",
+      "azure",
+      "mlflow",
+      "machine learning",
+      "databricks",
+      "kubernetes",
+      "ci/cd"
+    ],
+    "description_snippet": "The work we do has an impact on millions of lives, and you can be a part of it.\n\nWe help protect our customers against life’s uncertainties. Regardless of where you work within the company, you’ll be helping provide protection and peace of mind when our customers need it most.\n\n  \n\nProtective Life i",
+    "posted_date": "2026-09-23",
+    "scraped_at": "2026-10-18T22:33:20.576925",
+    "first_seen": "2026-10-18T22:33:20.576927"
+  },
+  {
+    "id": "ff99cfdb82c6e62a",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3eb0faa6296d045f",
+    "title": "Data Platform Engineer",
+    "company": "Grassroots Carbon",
+    "location": "San Antonio, TX, USA",
+    "is_remote": false,
+    "salary": "USD 135,000 – 160,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "mlflow",
+      "data engineering",
+      "pandas",
+      "ci/cd"
+    ],
+    "description_snippet": "Grassroots Carbon is hiring a Data Platform Engineer to build and operate the core data infrastructure powering our soil carbon modeling work and PastureMap grazing management platform. In this role, you will integrate and serve soil measurements, satellite imagery, ranch records, and partner data t",
+    "posted_date": "2026-09-24",
+    "scraped_at": "2026-10-18T22:33:20.576619",
+    "first_seen": "2026-10-18T22:33:20.576621"
+  },
+  {
+    "id": "0576979a274fc1c0",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5578572e66148864",
+    "title": "Model Based Systems Engineer",
+    "company": "4M Research, Inc.",
+    "location": "Huntsville, AL, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python"
+    ],
+    "description_snippet": "4M Research, Inc. (4M) is a Woman owned small business established in 2007 and headquartered in Huntsville, AL. 4M specializes in Systems and Software Engineering and Analysis, Information Technology, Planning and Analysis, Health and Wellness Services and Field Support Services to a variety of cust",
+    "posted_date": "2026-09-28",
+    "scraped_at": "2026-10-18T22:33:16.022257",
+    "first_seen": "2026-10-18T22:33:16.022261"
+  },
+  {
+    "id": "cae5d3b43b6ff62e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=e5e09b773067a815",
+    "title": "Cryophysicist",
+    "company": "XCimer Energy",
+    "location": "Denver, CO, USA",
+    "is_remote": false,
+    "salary": "USD 140,000 – 165,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "aws",
+      "rust"
+    ],
+    "description_snippet": "Xcimer Energy leverages decades of research on Inertial Fusion Energy (IFE) combined with groundbreaking new laser architecture. Our mission is to deploy fusion power plants to meet global decarbonization goals as fast as possible. Xcimer has assembled a team of leaders in tough tech, fusion science",
+    "posted_date": "2026-09-30",
+    "scraped_at": "2026-10-18T22:33:16.021688",
+    "first_seen": "2026-10-18T22:33:16.021690"
+  },
+  {
+    "id": "b0c4e2f21b5e925d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=94b9a41183ee57a9",
+    "title": "Micro-Grid Systems Engineering Co-Op",
+    "company": "Generac Power Systems",
+    "location": "Fort Collins, CO, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "parttime",
+    "tags": [
+      "machine learning"
+    ],
+    "description_snippet": "**We believe power is a promise - a shared commitment to be there for others when it matters most.**\n====================================================================================================\n\nFor more than 65 years, we've turned big ideas into solutions that help protect homes, strengthen",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-10-18T22:33:16.020827",
+    "first_seen": "2026-10-18T22:33:16.020829"
+  },
+  {
+    "id": "b6b2b55beaab9104",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=cecf411dd7d92346",
+    "title": "AMSC Test Analyst",
+    "company": "Vervic",
+    "location": "Tullahoma, TN, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python"
+    ],
+    "description_snippet": "**Benefits:**\n\n* 401(k)\n* 401(k) matching\n* Dental insurance\n* Health insurance\n* Vision insurance\n\n**Job Title: AMSC Test Analyst**  \n**Location: Arnold AFB - Tullahoma, TN On-Site**  \n  \nTMAS (Aventis) is seeking a qualified individual to support the Air Force at the Arnold  \nEngineering Developme",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-18T22:33:16.018355",
+    "first_seen": "2026-10-18T22:33:16.018357"
+  },
+  {
+    "id": "3e053f5b89ca5f48",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=13ae16edeeadb61f",
+    "title": "Prompt Engineer",
+    "company": "Diné Development Corporation",
+    "location": "Dayton, OH, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "llm"
+    ],
+    "description_snippet": "The **Prompt Engineer** will work with a team to provide high-quality service to our customers in managing a portfolio of systems. This role is responsible for exploring and developing AI proofs of concept as they pertain to data management and enterprise architecture.\n\nThis position is a collaborat",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-18T22:33:16.017638",
+    "first_seen": "2026-10-18T22:33:16.017640"
+  },
+  {
     "id": "f82b139aea89b7f7",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/155741-credentialing-specialist",
