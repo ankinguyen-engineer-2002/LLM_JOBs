@@ -1,5 +1,77 @@
 [
   {
+    "id": "4c9e0360e5158931",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+    "title": "Software Engineer AI Coding Tasks",
+    "company": "Askable",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "USD 10,000 – 10,000/year",
+    "job_type": "N/A",
+    "tags": [
+      "dev",
+      "python",
+      "javascript",
+      "typescript",
+      "golang",
+      "java",
+      "c plus plus"
+    ],
+    "description_snippet": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, ",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-18T04:18:15.693365",
+    "first_seen": "2026-10-18T04:18:15.693373"
+  },
+  {
+    "id": "d5522e1cc3171d7b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=970f2af387e0093b",
+    "title": "Spring Co-op - Recording Electronics Data Analytics & Optimization",
+    "company": "WD",
+    "location": "Rochester, MN, USA",
+    "is_remote": false,
+    "salary": "USD 22 – 30/hourly",
+    "job_type": "internship",
+    "tags": [
+      "python",
+      "aws",
+      "machine learning"
+    ],
+    "description_snippet": "**Company Description**\n\nWD is building the infrastructure behind the AI-driven data economy.\n\nAs AI scales, so does data. Every interaction, every model, every system generates data that must be stored, managed, and made accessible over time. That’s where we come in.\n\nWe combine deep engineering ex",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-18T04:18:04.129518",
+    "first_seen": "2026-10-18T04:18:04.129519"
+  },
+  {
+    "id": "2a9f605bc6081c4c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=a742b56a01106583",
+    "title": "Data Engineer - People Analytics",
+    "company": "CVS Health",
+    "location": "Jackson, MS, USA",
+    "is_remote": false,
+    "salary": "USD 83,430 – 222,480/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "airflow",
+      "azure",
+      "aws",
+      "gcp",
+      "tableau",
+      "data engineering",
+      "bigquery",
+      "snowflake",
+      "data warehouse"
+    ],
+    "description_snippet": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in e",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-18T04:18:00.735946",
+    "first_seen": "2026-10-18T04:18:00.735951"
+  },
+  {
     "id": "65760d954dc0288e",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=10570c3f659e99f5",
