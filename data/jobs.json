@@ -1,5 +1,373 @@
 [
   {
+    "id": "a10b0f8671c6eadb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155739-customer-success-manager-52",
+    "title": "Customer Success Manager",
+    "company": "Hubstaff",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Customer Success Manager Remote | North America About Hubstaff Hubstaff helps organizations around the world optimize productivity and workforce operations. Trusted by 20,000+ businesses, our platform powers time tracking, team management, project insights, and payroll automation. We’ve been a remot",
+    "posted_date": "2026-10-18",
+    "scraped_at": "2026-10-18T17:04:41.142839",
+    "first_seen": "2026-10-18T17:04:41.142841"
+  },
+  {
+    "id": "3527463f74b408e6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155744-full-stack-software-engineer-2",
+    "title": "Full Stack Software Engineer",
+    "company": "BetterHelp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Who are we and why should you join us? BetterHelp is on a mission to champion the well-being in all of us. We’re working to make mental healthcare more accessible, so more people can get the support they need, when they need it. As the world’s largest online therapy service, we’ve connected millions",
+    "posted_date": "2026-10-18",
+    "scraped_at": "2026-10-18T17:04:41.142592",
+    "first_seen": "2026-10-18T17:04:41.142593"
+  },
+  {
+    "id": "754439151fdc399b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155746-machine-learning-engineer-governance-ml-platform",
+    "title": "Machine Learning Engineer (Governance ML Platform)",
+    "company": "EDB",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world.",
+    "posted_date": "2026-10-18",
+    "scraped_at": "2026-10-18T17:04:41.142195",
+    "first_seen": "2026-10-18T17:04:41.142197"
+  },
+  {
+    "id": "54793031cb1f80b1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155742-director-of-security-operations-and-engineering",
+    "title": "Director of Security Operations and Engineering",
+    "company": "EDB",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world.",
+    "posted_date": "2026-10-18",
+    "scraped_at": "2026-10-18T17:04:41.142005",
+    "first_seen": "2026-10-18T17:04:41.142015"
+  },
+  {
+    "id": "fd6e2afefe4a8a60",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155727-senior-full-stack-software-engineer-remote-in-europe-2",
+    "title": "Senior Full-Stack Software Engineer (Remote in Europe)",
+    "company": "Skedda",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "FULL-TIME / 100% Remote / Within Europe (Central European Time Zone (CET)) Compensation: $75,000 to $85,000 USD per year (Depending on experience and qualifications) This role is designed for candidates currently based in the CET/EET/WET timezones to support collaboration with our distributed engine",
+    "posted_date": "2026-10-18",
+    "scraped_at": "2026-10-18T17:04:40.489515",
+    "first_seen": "2026-10-18T17:04:40.489526"
+  },
+  {
+    "id": "98de8eeb1acf5ac8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155715-chief-executive-officer-4",
+    "title": "Chief Executive Officer",
+    "company": "Banyan Software",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Banyan Software is the best permanent home for software businesses that serve specialized industries, their employees, and their customers. With a buy-grow-and-hold-for-life approach and a permanent capital base, Banyan acquires and grows companies worldwide, honoring founder legacies and helping po",
+    "posted_date": "2026-10-18",
+    "scraped_at": "2026-10-18T17:04:39.778395",
+    "first_seen": "2026-10-18T17:04:39.778396"
+  },
+  {
+    "id": "addae38ed28e56e8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155729-sr-technical-program-manager-i-remote-eligible-in-bulgaria",
+    "title": "Sr. Technical Program Manager I (Remote Eligible in Bulgaria)",
+    "company": "Smartsheet",
+    "location": "Bulgaria",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create th",
+    "posted_date": "2026-10-18",
+    "scraped_at": "2026-10-18T17:04:39.778034",
+    "first_seen": "2026-10-18T17:04:39.778036"
+  },
+  {
+    "id": "2e39f8939e0e3a6a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155725-sr-manager-data-science",
+    "title": "Sr. Manager, Data Science",
+    "company": "hims &#038; hers",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatmen",
+    "posted_date": "2026-10-18",
+    "scraped_at": "2026-10-18T17:04:39.777776",
+    "first_seen": "2026-10-18T17:04:39.777777"
+  },
+  {
+    "id": "fe7a5bd8b01c187a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155731-staff-software-engineer-python-java-spring-or-go",
+    "title": "Staff Software Engineer - Python, Java / Spring or Go",
+    "company": "Bloomreach",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Bloomreach is building the world’s premier agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more in",
+    "posted_date": "2026-10-18",
+    "scraped_at": "2026-10-18T17:04:39.777461",
+    "first_seen": "2026-10-18T17:04:39.777462"
+  },
+  {
+    "id": "cf06b0ff64339308",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155730-senior-software-engineer-data-pipeline",
+    "title": "Senior Software Engineer, Data Pipeline",
+    "company": "Bloomreach",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Bloomreach is building the world’s premier agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more in",
+    "posted_date": "2026-10-18",
+    "scraped_at": "2026-10-18T17:04:39.777029",
+    "first_seen": "2026-10-18T17:04:39.777039"
+  },
+  {
+    "id": "e5f2aa6727690e32",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=8dafd242e1e358e8",
+    "title": "Senior Systems Engineer, Robotaxi Systems",
+    "company": "Motional",
+    "location": "Las Vegas, NV, USA",
+    "is_remote": false,
+    "salary": "USD 172,000 – 229,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "machine learning",
+      "databricks",
+      "ci/cd"
+    ],
+    "description_snippet": "Motional is a leading autonomous driving company on a mission to make driverless vehicles a safe, reliable, and accessible reality. Backed by Hyundai Motor Group, Motional is at the forefront of the physical AI revolution. Motional isn't just building first-of-its-kind technology; we are transformin",
+    "posted_date": "2026-10-02",
+    "scraped_at": "2026-10-18T17:04:30.184437",
+    "first_seen": "2026-10-18T17:04:30.184439"
+  },
+  {
+    "id": "bcbafe934793f46e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=8fa9f2b7b4805286",
+    "title": "Lead Systems Engineer",
+    "company": "Rocket Lab USA",
+    "location": "Tucson, AZ, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "aws",
+      "scala"
+    ],
+    "description_snippet": "**ABOUT ROCKET LAB**\n\nRocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity's reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible r",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-10-18T17:04:30.182251",
+    "first_seen": "2026-10-18T17:04:30.182253"
+  },
+  {
+    "id": "7596634d58d4148e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1bd96718ca26e8e7",
+    "title": "Systems Engineer, MAPS",
+    "company": "Cloudflare",
+    "location": "Washington, DC, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "aws",
+      "bigquery",
+      "rust"
+    ],
+    "description_snippet": "### **About Us**\n\nAt Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world's largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare ",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-18T17:04:30.179657",
+    "first_seen": "2026-10-18T17:04:30.179659"
+  },
+  {
+    "id": "1ffd58c5b123bae4",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=a02e82d329b9a58e",
+    "title": "Neural Data Infrastructure Engineer",
+    "company": "Blackrock Neurotech",
+    "location": "Salt Lake City, UT, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "machine learning",
+      "deep learning",
+      "pytorch",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "### **Build the systems that expand human capability**\n\nAt Blackrock Neurotech, we’ve spent decades making the impossible possible – helping people move, speak, and reconnect with the world when they otherwise could not. We’ve seen that restoring function restores more than ability. It restores inde",
+    "posted_date": "2026-09-19",
+    "scraped_at": "2026-10-18T17:04:26.287246",
+    "first_seen": "2026-10-18T17:04:26.287247"
+  },
+  {
+    "id": "b81179a706c610c4",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f8183cf9ec92a5e9",
+    "title": "Software Engineer – Bioinformatics Pipelines",
+    "company": "Ontrac Solutions",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 100 – 115/hourly",
+    "job_type": "contract",
+    "tags": [
+      "python"
+    ],
+    "description_snippet": "OVERVIEW\n\nOnTrac is seeking a highly skilled and experienced Software Engineer (Bioinformatics Pipelines) to join a contractor program supporting a critical customer engagement: the genomics unit of a healthcare customer, which requires a temporary software engineer on its pipeline teams for the nex",
+    "posted_date": "2026-09-24",
+    "scraped_at": "2026-10-18T17:04:26.286391",
+    "first_seen": "2026-10-18T17:04:26.286393"
+  },
+  {
+    "id": "977791a016b2935d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f9990026b23bef2d",
+    "title": "Senior Data Scientist",
+    "company": "Qventus",
+    "location": "San Francisco, CA, USA",
+    "is_remote": true,
+    "salary": "USD 130,000 – 170,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "aws",
+      "data engineering",
+      "machine learning",
+      "databricks",
+      "rust",
+      "llm",
+      "generative ai",
+      "nlp"
+    ],
+    "description_snippet": "On this journey for over 12 years, Qventus is leading the transformation of healthcare. We enable hospitals to focus on what matters most: patient care. Our innovative solutions harness the power of machine learning, generative AI, and behavioral science to deliver exceptional outcomes and empower c",
+    "posted_date": "2026-10-05",
+    "scraped_at": "2026-10-18T17:04:26.285510",
+    "first_seen": "2026-10-18T17:04:26.285512"
+  },
+  {
+    "id": "a940a7431b2393e2",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4c3926aabe5e9668",
+    "title": "Data Architect III",
+    "company": "Generac Power Systems",
+    "location": "Waukesha, WI, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "data engineering",
+      "data warehouse",
+      "scala"
+    ],
+    "description_snippet": "**We believe power is a promise - a shared commitment to be there for others when it matters most.**\n====================================================================================================\n\nFor more than 65 years, we've turned big ideas into solutions that help protect homes, strengthen",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-18T17:04:26.283403",
+    "first_seen": "2026-10-18T17:04:26.283405"
+  },
+  {
+    "id": "c86d21b702473e83",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c97cd5f34111bafa",
+    "title": "Systems Engineer",
+    "company": "Millennium Corporation",
+    "location": "Remote, USA",
+    "is_remote": false,
+    "salary": "USD 145,000 – 155,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "rust"
+    ],
+    "description_snippet": "Overview:\n\nMillennium is proud to be part of the Markon enterprise, a network of specialized organizations united in support of critical national security missions. This partnership strengthens our ability to deliver results by expanding our technical depth, operational reach, and access to a broade",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-18T17:04:21.463904",
+    "first_seen": "2026-10-18T17:04:21.463907"
+  },
+  {
+    "id": "082d2409a82b67f9",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f06f0271737a3402",
+    "title": "Senior Systems Engineer",
+    "company": "Caliola Engineering, LLC",
+    "location": "Colorado Springs, CO, USA",
+    "is_remote": false,
+    "salary": "USD 70 – 110/hourly",
+    "job_type": "parttime",
+    "tags": [
+      "rust"
+    ],
+    "description_snippet": "**Senior Systems Engineer**\n\n**City/State:** Colorado Springs, CO USA\n\n**Type and Schedule:** Part-Time, Hourly/Exempt.\n\n**Annualized Salary Range:** $70.00 - $110.00 per hour, commensurate with experience.\n\n**About Us:**\n\nCaliola is an award-winning woman-owned small business that is improving and ",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-18T17:04:21.463607",
+    "first_seen": "2026-10-18T17:04:21.463610"
+  },
+  {
     "id": "cab03756bbb30f6c",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=8c2a933476f53fbc",
