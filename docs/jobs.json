@@ -1,5 +1,136 @@
 [
   {
+    "id": "681f542b72c5add5",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=0b39f9d44501a365",
+    "title": "Senior Data Engineer",
+    "company": "Tiger Analytics",
+    "location": "Jersey City, NJ, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "data engineering",
+      "databricks",
+      "ci/cd",
+      "scala",
+      "generative ai"
+    ],
+    "description_snippet": "**About Tiger Analytics**\n\n**Shape the Future of AI. Transform the World's Leading Businesses.**\n\nTiger Analytics is one of the fastest-growing AI services firms, partnering with some of the world's largest and most influential organizations to redefine how business gets done. We help Fortune 500 co",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-19T04:27:33.718535",
+    "first_seen": "2026-10-19T04:27:33.718537"
+  },
+  {
+    "id": "b05720734b7f4043",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3a7b0dd2245fbc07",
+    "title": "Director of Data Engineering",
+    "company": "Grüns",
+    "location": "Chicago, IL, USA",
+    "is_remote": true,
+    "salary": "USD 200,000 – 200,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "data engineering",
+      "bigquery",
+      "rust"
+    ],
+    "description_snippet": "We're so happy you're here! Thank you for checking our job out and we hope to have the chance to meet you in our interview process!\n\n**About the role**\n------------------\n\nEvery board number, retail report, and marketing decision at Grüns runs through our data platform. As Director of Data Engineeri",
+    "posted_date": "2026-10-03",
+    "scraped_at": "2026-10-19T04:27:26.984852",
+    "first_seen": "2026-10-19T04:27:26.984854"
+  },
+  {
+    "id": "ade27349edf7abb4",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=429ef54f4384e7ac",
+    "title": "Vice President Engineering- Data Centers",
+    "company": "Eaton",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 242,000 – 355,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "aws"
+    ],
+    "description_snippet": "Reporting directly to the Global Data Center Group President and functionally to the Electrical Sector CTO, the VP of Engineering is a critical member of the senior leadership team. In this highly visible role, you will provide overall technical leadership and direction to the organization and the e",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-19T04:27:26.983556",
+    "first_seen": "2026-10-19T04:27:26.983558"
+  },
+  {
+    "id": "7b257d6ab77d32f6",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4d01be1e80124a61",
+    "title": "Data Center Engineer",
+    "company": "Cadre5",
+    "location": "Knoxville, TN, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "power bi",
+      "tableau",
+      "scala"
+    ],
+    "description_snippet": "**Data Center Engineer**\n========================\n\nFounded in 1999 in the beautiful Smoky Mountains of East Tennessee, Cadre5 provides innovative technical solutions to our customers locally and nationally. Our Cadre5 Lab Partners division has partnered with the Digital Hosting Services team of the ",
+    "posted_date": "2026-10-01",
+    "scraped_at": "2026-10-19T04:27:21.791015",
+    "first_seen": "2026-10-19T04:27:21.791017"
+  },
+  {
+    "id": "311c0aa229832b48",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5ff9ba1b08af6193",
+    "title": "CX Tooling Engineer",
+    "company": "Spring Health",
+    "location": "New York, NY, USA",
+    "is_remote": true,
+    "salary": "USD 105,000 – 115,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "scala",
+      "openai"
+    ],
+    "description_snippet": "**Our mission: eliminating every barrier to mental health.**\n------------------------------------------------------------\n\nSpring Health is a global mental health company on a mission to eliminate every barrier to mental health. We're building a world where getting support is simple, personal, and b",
+    "posted_date": "2026-10-01",
+    "scraped_at": "2026-10-19T04:27:21.790725",
+    "first_seen": "2026-10-19T04:27:21.790728"
+  },
+  {
+    "id": "e17aeb862ad84329",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1262b3c1d0632136",
+    "title": "AI Data Engineer (Senior)",
+    "company": "The Amatriot Group",
+    "location": "Chantilly, VA, USA",
+    "is_remote": false,
+    "salary": "USD 150,000 – 170,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "docker",
+      "data engineering",
+      "postgres",
+      "data warehouse",
+      "kubernetes"
+    ],
+    "description_snippet": "**Location:** Chantilly, VA  \n**Security Clearance:** Active TS or higher [Required]  \n**Job Type:** Full-Time  \n**Target Salary Range\\*:**$150,000 - $170,000\n\n* This represents the potential salary range for this position depending on education level, years of experience and/or certifications in ad",
+    "posted_date": "2026-09-29",
+    "scraped_at": "2026-10-19T04:27:18.065979",
+    "first_seen": "2026-10-19T04:27:18.065981"
+  },
+  {
     "id": "76d124fc484f14d0",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/155760-test-architect-regression-quality-strategy",
