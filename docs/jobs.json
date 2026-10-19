@@ -1,5 +1,577 @@
 [
   {
+    "id": "c147fd96d6c81c05",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155927-qa-automation-engineer-digital-media-advertising-brazil",
+    "title": "QA Automation Engineer - Digital Media & Advertising - Brazil",
+    "company": "Truelogic",
+    "location": "Brazil",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "qa & testing"
+    ],
+    "description_snippet": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their dig",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:04.296747",
+    "first_seen": "2026-10-19T21:22:04.296758"
+  },
+  {
+    "id": "376d797e16914d34",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155876-territory-account-manager-federal-sales",
+    "title": "Territory Account Manager - Federal Sales",
+    "company": "Tenable",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Who is Tenable ? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.562853",
+    "first_seen": "2026-10-19T21:22:03.562854"
+  },
+  {
+    "id": "1d7810f449df3b3d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155885-mobile-engineer-react-native-paris-or-remote-france",
+    "title": "Mobile Engineer - React Native (Paris or Remote France)",
+    "company": "Alma",
+    "location": "France",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Alma At Alma, we believe sustainable commerce depends on fair, well‑balanced trade. Because finance plays a pivotal role in business, our mission is to put it back in its rightful place - serving merchants and consumers. Our installment and deferred payment solutions help merchants boost sales",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.562690",
+    "first_seen": "2026-10-19T21:22:03.562691"
+  },
+  {
+    "id": "8026d0e32b5524d4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155883-security-operations-analyst-uk",
+    "title": "Security Operations Analyst- UK",
+    "company": "Huntress",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.562417",
+    "first_seen": "2026-10-19T21:22:03.562419"
+  },
+  {
+    "id": "eff78768bcf48a46",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155884-community-manager-dutch-speaking-contract",
+    "title": "Community Manager, Dutch Speaking (Contract)",
+    "company": "Reddit",
+    "location": "Netherlands",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.562173",
+    "first_seen": "2026-10-19T21:22:03.562174"
+  },
+  {
+    "id": "a07d18c0c7b5b7b0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155893-demo-architect-emea",
+    "title": "Demo Architect, EMEA",
+    "company": "GitLab",
+    "location": "Germany,  Ireland,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.561993",
+    "first_seen": "2026-10-19T21:22:03.561994"
+  },
+  {
+    "id": "bd84c1d7ca5c8204",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155892-digital-sales-representative-2",
+    "title": "Digital Sales Representative",
+    "company": "Twilio",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Who we are At Twilio , we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.561725",
+    "first_seen": "2026-10-19T21:22:03.561727"
+  },
+  {
+    "id": "a73d7909750ec9fc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155895-inside-sales-representative-active-2",
+    "title": "Inside Sales - Representative (Active) 2",
+    "company": "Twilio",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Who we are At Twilio , we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.561408",
+    "first_seen": "2026-10-19T21:22:03.561410"
+  },
+  {
+    "id": "f7f191f3c5d2a406",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155897-machine-learning-engineer-7",
+    "title": "Machine Learning Engineer",
+    "company": "Twilio",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Who we are At Twilio , we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.561147",
+    "first_seen": "2026-10-19T21:22:03.561148"
+  },
+  {
+    "id": "bbf049798eb4182a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155898-distinguished-engineer-core-devops",
+    "title": "Distinguished Engineer, Core DevOps",
+    "company": "GitLab",
+    "location": "Canada,  UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.560906",
+    "first_seen": "2026-10-19T21:22:03.560907"
+  },
+  {
+    "id": "461ea1fcd3b400a3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155915-senior-or-staff-software-engineer-data-platform-brazil",
+    "title": "Senior or Staff Software Engineer, Data Platform (Brazil)",
+    "company": "TRM Labs",
+    "location": "Brazil",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.560548",
+    "first_seen": "2026-10-19T21:22:03.560550"
+  },
+  {
+    "id": "869baed5f1241753",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155913-solution-architect-north-america",
+    "title": "Solution Architect (North America)",
+    "company": "Safe Security",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Most boards and executives are currently flying blind when it comes to cyber risk. They are guessing. At Safe, we’ve built an AI-driven engine that finally gives the C-Suite a clear, quantified, and real-time view of their security posture. We don’t just provide data; we provide certainty . We are a",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.560122",
+    "first_seen": "2026-10-19T21:22:03.560123"
+  },
+  {
+    "id": "9e1ff54ea346097b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155919-marketing-analyst-new-business-and-ma",
+    "title": "Marketing Analyst, New Business and M&A",
+    "company": "Toptal",
+    "location": "LATAM,  Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe , Toptal is the world’s largest fully remote workforce . We take the best ele",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.559838",
+    "first_seen": "2026-10-19T21:22:03.559839"
+  },
+  {
+    "id": "4f76feebbb1ed1f0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155920-senior-program-manager-2",
+    "title": "Senior Program Manager",
+    "company": "Juniper Square",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "About Juniper Square Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full potential. We’re the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.559484",
+    "first_seen": "2026-10-19T21:22:03.559486"
+  },
+  {
+    "id": "7e19bd8fb964ba9e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155912-sales-enablement-manager-onchain-compliance",
+    "title": "Sales Enablement Manager, Onchain Compliance",
+    "company": "TRM Labs",
+    "location": "EMEA,  Brazil,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "education & e-learning"
+    ],
+    "description_snippet": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.559176",
+    "first_seen": "2026-10-19T21:22:03.559178"
+  },
+  {
+    "id": "25a33c76223e0dc4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155921-backend-engineer-agent-tools-latam",
+    "title": "Backend Engineer, Agent Tools (LATAM)",
+    "company": "TRM Labs",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.558695",
+    "first_seen": "2026-10-19T21:22:03.558697"
+  },
+  {
+    "id": "9aa32b0080c46ae4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155930-quality-engineer-3",
+    "title": "Quality Engineer",
+    "company": "StackAdapt",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "qa & testing"
+    ],
+    "description_snippet": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable resul",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.558174",
+    "first_seen": "2026-10-19T21:22:03.558175"
+  },
+  {
+    "id": "e36a848c04e6ac81",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155922-senior-clinical-qa-specialist-ai",
+    "title": "Senior Clinical QA Specialist, AI",
+    "company": "BetterHelp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "healthcare & medical"
+    ],
+    "description_snippet": "Who are we and why should you join us? BetterHelp is on a mission to remove the traditional barriers to therapy and make mental health care more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy across the glob",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.557939",
+    "first_seen": "2026-10-19T21:22:03.557940"
+  },
+  {
+    "id": "33dc92c2168cb382",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155928-senior-software-development-engineer-in-test-sdet-2",
+    "title": "Senior Software Development Engineer in Test (SDET)",
+    "company": "Flex",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "qa & testing"
+    ],
+    "description_snippet": "Flex is a growth-stage, NYC headquartered FinTech company that is building the payment layer for life's essential bills, giving households one place to see, split, and pay their bills around how they live and get paid. By offering greater choice over how and when payments are made and allowing eligi",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.557518",
+    "first_seen": "2026-10-19T21:22:03.557520"
+  },
+  {
+    "id": "922e1c27d07de948",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155925-binance-accelerator-program-qa-automation",
+    "title": "Binance Accelerator Program - QA Automation",
+    "company": "Binance",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "qa & testing"
+    ],
+    "description_snippet": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.557265",
+    "first_seen": "2026-10-19T21:22:03.557267"
+  },
+  {
+    "id": "9bfc371a85a32486",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155935-account-management-lead-western-europe",
+    "title": "Account Management Lead - Western Europe",
+    "company": "Elevenlabs",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.557128",
+    "first_seen": "2026-10-19T21:22:03.557130"
+  },
+  {
+    "id": "f95d447979e4c37c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155941-full-stack-engineer-creative-agents",
+    "title": "Full-Stack Engineer - Creative Agents",
+    "company": "Elevenlabs",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.556816",
+    "first_seen": "2026-10-19T21:22:03.556819"
+  },
+  {
+    "id": "3a9aedb2888eee19",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155934-account-management-lead-uk-i",
+    "title": "Account Management Lead - UK/I",
+    "company": "Elevenlabs",
+    "location": "Ireland,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:22:03.556491",
+    "first_seen": "2026-10-19T21:22:03.556504"
+  },
+  {
+    "id": "c6d33fdfccb7826b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b0196bd6edf21ba2",
+    "title": "Data & AI Engineer",
+    "company": "Revstar",
+    "location": "AZ, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "aws",
+      "gcp",
+      "mlflow",
+      "data engineering",
+      "databricks",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Build What Matters at RevStar**\n\n**Position:** Data & AI Engineer\n\n* **Reports To:** Product Manager/Engineering Lead\n* **Location**: Remote (AZ, DC, FL, GA, IA, IL, ME, NY, NJ, SC, TX, VA)\n* **Employment Type:** Full-Time W2\n\n**Job Summary**\n\nReady to build greenfield Lakehouse solutions at the b",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:21:57.773351",
+    "first_seen": "2026-10-19T21:21:57.773356"
+  },
+  {
+    "id": "e51edad313da99a5",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=231c657af47804c6",
+    "title": "System Safety Engineer",
+    "company": "Corvid Technologies LLC",
+    "location": "Huntsville, AL, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "Corvid's Prototyping, Integration and Testing team is looking to add an experienced System Safety Engineer to support our growing product portfolio – and that growth is in both number of products as well as complexity. The engineer will join a matrixed team working to finalize development, test, and",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-10-19T21:21:50.051757",
+    "first_seen": "2026-10-19T21:21:50.051759"
+  },
+  {
+    "id": "910a0b12021c565d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=830a528bc625aa12",
+    "title": "NAVWAR Engineer I",
+    "company": "Canvas II, LLC.",
+    "location": "Kirtland AFB, NM, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "**NAVWAR Engineer 1**\n\nCanvas, Inc. is hiring for a NAVWAR Engineer supporting the Joint Navigation Warfare Center (JNWC) contract. This position empowers the Department of Defense’s navigation warfare (NAVWAR) mission ensuring positioning, navigation and timing superiority.\n  \nThe mission is to pro",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-19T21:21:50.047685",
+    "first_seen": "2026-10-19T21:21:50.047687"
+  },
+  {
+    "id": "f930aaf6864bebeb",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1a7420847497c556",
+    "title": "Databricks Forward Deployed Engineer",
+    "company": "Revstar",
+    "location": "AZ, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "azure",
+      "aws",
+      "gcp",
+      "mlflow",
+      "data engineering",
+      "machine learning",
+      "snowflake",
+      "databricks",
+      "data warehouse",
+      "scala",
+      "rust",
+      "llm",
+      "generative ai"
+    ],
+    "description_snippet": "**Build What Matters at RevStar**\n\n**Position:** Databricks Forward Deployed Engineer (FDE)\n\n* **Reports To:** Product Manager/Engineering Lead\n* **Location**: Remote (AZ, FL, TX)\n* **Employment Type:** Full-Time W2\n\n**Job Summary**\n\nAt RevStar, we build cutting-edge cloud, data, and Generative AI s",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:21:44.924841",
+    "first_seen": "2026-10-19T21:21:44.924846"
+  },
+  {
+    "id": "b9bbc129c485a2ff",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=70f010a05f686d60",
+    "title": "HubSpot Systems & Data Engineer",
+    "company": "Curvion Blue",
+    "location": "Little Rock, AR, USA",
+    "is_remote": true,
+    "salary": "USD 72,000 – 100,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "scala"
+    ],
+    "description_snippet": "**About Us**\n============\n\nCurvion is a high performance RevOps & sales augmentation agency that installs and deploys enterprise-grade, AI-driven revenue engines and selling systems for our clients. Think of a lead generation based marketing agency…. But focused on sales! We design and install compl",
+    "posted_date": "2026-09-30",
+    "scraped_at": "2026-10-19T21:21:39.183792",
+    "first_seen": "2026-10-19T21:21:39.183794"
+  },
+  {
+    "id": "28ab02e9a1c695f2",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c46d3e4ac6272e64",
+    "title": "Critical Facilities Engineer - Electrical (Data Center)",
+    "company": "Catoctin Critical Services LLC",
+    "location": "Sterling, VA, USA",
+    "is_remote": false,
+    "salary": "USD 105,000 – 125,000/yearly",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "**Critical Facilities Engineer – Electrical (Data Center) | Catoctin Critical Services | Sterling, VA**\n\n**$105,000–$125,000 per year + on-call stipend · Monday–Friday, 7:00 AM–3:30 PM**\n\nData center work without rotating 12-hour nights. You work a regular day shift, and your time goes to maintainin",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:21:39.180270",
+    "first_seen": "2026-10-19T21:21:39.180272"
+  },
+  {
+    "id": "9e3cb1c4c0e601ea",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5c565f7c3fe4814e",
+    "title": "Sr. Data Engineer",
+    "company": "Carhartt",
+    "location": "Dearborn, MI, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "azure",
+      "data engineering",
+      "machine learning",
+      "databricks",
+      "medallion",
+      "ci/cd",
+      "scala",
+      "rust",
+      "generative ai"
+    ],
+    "description_snippet": "Inspired by Hard Work\n  \nAt Carhartt, the values of hard work—dependability, honesty, and trust—are rooted in the legacy of our founder, Hamilton Carhartt. His commitment to serving hardworking people continues to inspire everything we do. Guided by his legacy and our mission—We serve and protect al",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T21:21:39.180058",
+    "first_seen": "2026-10-19T21:21:39.180063"
+  },
+  {
     "id": "fcaa43355f2379d9",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/155853-account-executive-public-sector-2",
