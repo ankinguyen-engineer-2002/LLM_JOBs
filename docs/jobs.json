@@ -1,5 +1,271 @@
 [
   {
+    "id": "fc3319e99b1bbfb4",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
+    "title": "Senior Fullstack Developer (React.js / Node.js)",
+    "company": "Proxify AB",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exci",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T14:34:03.781275",
+    "first_seen": "2026-10-19T14:34:03.781276"
+  },
+  {
+    "id": "68ae0a4ee04bd0d2",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/bdf-experts-sap-berater-fi-co-m-w-d",
+    "title": "SAP Berater FI/CO (M/W/D)",
+    "company": "BDF EXPERTS",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Germany Düsseldorf Werde zum Architekten digitaler Finanzwelten – und gestalte mit uns die Zukunft! Zahlen sind Deine Leidenschaft, die Financial Supply Chain und SAP FI/CO Dein Spielfeld? Perfekt! Denn als Consultant wirst Du: Aufgaben Digitale Finanzwelten erschaffen – Du berätst und",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T14:34:03.781070",
+    "first_seen": "2026-10-19T14:34:03.781071"
+  },
+  {
+    "id": "12ea180fc9224a99",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/growth-minded-senior-data-engineer",
+    "title": "Senior Data Engineer",
+    "company": "Growth Minded",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote URL: https://growthminded.co About the role You'll own the data layer underneath InsightsOS and EngageOS, the products that turn booking, CRM, ad, and financial data from multi-location brands into proactive insights and automated actions. Today that layer is built and maintaine",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T14:34:03.780810",
+    "first_seen": "2026-10-19T14:34:03.780820"
+  },
+  {
+    "id": "67da1b0e6c775aa8",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11",
+    "title": "Senior Backend Developer (Python)",
+    "company": "Proxify AB",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "back-end programming"
+    ],
+    "description_snippet": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Python Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. &nbsp; What we are l",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T14:34:03.429192",
+    "first_seen": "2026-10-19T14:34:03.429203"
+  },
+  {
+    "id": "f206ff1a576642c1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155794-hypercare-representative-latam-2",
+    "title": "Hypercare Representative (LATAM)",
+    "company": "Cloudbeds",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "What Makes Cloudbeds Unique At Cloudbeds , we're not just building software, we're transforming hospitality. Our platform powers hotels across 150 countries, processing billions in bookings annually. From boutique properties to large hotel groups, we help hoteliers transform operations and uplevel t",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T14:29:45.841995",
+    "first_seen": "2026-10-19T14:29:45.842005"
+  },
+  {
+    "id": "c1ef9d7e4b89ed92",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155786-contador-publico-certificado-senior-accountant-mexico",
+    "title": "Contador Público Certificado (Senior Accountant), Mexico",
+    "company": "Palmstreet",
+    "location": "Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "About Palmstreet : Palmstreet is a community-obsessed live shopping platform connecting over 2 million passionate collectors and sellers. Started in 2020, we have grown into one of the largest live shopping platforms in the US, featuring 1000+ daily live streams. Backed by leading Silicon Valley inv",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T14:29:45.185907",
+    "first_seen": "2026-10-19T14:29:45.185917"
+  },
+  {
+    "id": "3977135602332e7b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=93a8b56d1860b57b",
+    "title": "Data & AI Engineer",
+    "company": "Revstar",
+    "location": "VA, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "aws",
+      "gcp",
+      "mlflow",
+      "data engineering",
+      "databricks",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Build What Matters at RevStar**\n\n**Position:** Data & AI Engineer\n\n* **Reports To:** Product Manager/Engineering Lead\n* **Location**: Remote (AZ, DC, FL, GA, IA, IL, ME, NY, NJ, SC, TX, VA)\n* **Employment Type:** Full-Time W2\n\n**Job Summary**\n\nReady to build greenfield Lakehouse solutions at the b",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T14:29:39.316116",
+    "first_seen": "2026-10-19T14:29:39.316121"
+  },
+  {
+    "id": "0252b84696f42ecf",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=69857239b33db5a4",
+    "title": "Integration Engineer",
+    "company": "UHIN",
+    "location": "Remote, USA",
+    "is_remote": false,
+    "salary": "USD 70,000 – 85,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "postgres",
+      "bigquery",
+      "rust"
+    ],
+    "description_snippet": "About UHIN\n\nWhat if you could use your talent to have a positive impact on healthcare? As a nonprofit, Utah Health Information Network, UHIN for short is a health information technology (HIT) company that is making a difference by breaking down the barriers & inefficiencies that exist in healthcare.",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-10-19T14:29:34.476760",
+    "first_seen": "2026-10-19T14:29:34.476761"
+  },
+  {
+    "id": "d56c195e554ae97a",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=bdbd3ff34934992d",
+    "title": "Director, Operations Engineering",
+    "company": "Prime Data Centers",
+    "location": "Denver, CO, USA",
+    "is_remote": false,
+    "salary": "USD 185,000 – 200,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "scala",
+      "rust",
+      "llm"
+    ],
+    "description_snippet": "**About Prime Data Centers**\n\nPrime Data Centers develops, acquires, and operates data centers for some of the world's largest enterprises. A private firm owned by a group controlling $6 billion in assets, with a 15-year tenure in technology and real estate development, Prime provides customers with",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-19T14:29:34.475194",
+    "first_seen": "2026-10-19T14:29:34.475195"
+  },
+  {
+    "id": "4f384e9b018b4486",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=0fe67fc06ec4ac4e",
+    "title": "Senior Software Systems Engineer II",
+    "company": "Rocket Lab USA",
+    "location": "Tucson, AZ, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "aws",
+      "scala"
+    ],
+    "description_snippet": "**ABOUT ROCKET LAB**\n\nRocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity's reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible r",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-19T14:29:34.474350",
+    "first_seen": "2026-10-19T14:29:34.474352"
+  },
+  {
+    "id": "82aedc47c24e70ca",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b2b996a24e1a42a3",
+    "title": "Data Scientist - Navy",
+    "company": "Significance, Inc.",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 115,000 – 125,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "data engineering",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "At Significance, we believe the best results come from investing in great people. As a woman-owned consulting firm supporting federal civilian and Department of Defense customers, we bring together talented professionals who are passionate about solving complex challenges and making a meaningful imp",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-19T14:29:30.208051",
+    "first_seen": "2026-10-19T14:29:30.208052"
+  },
+  {
+    "id": "65e9f06de9cc2e3d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=610df1b70ad55ccb",
+    "title": "Data Engineer V (6349)",
+    "company": "itD Tech",
+    "location": "Remote, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "data engineering"
+    ],
+    "description_snippet": "**Data Engineer V**\n\nitD is seeking a **Data Engineer V** to maintain and optimize critical data pipelines supporting Company's revenue reporting and metric infrastructure. The ideal candidate will bring 10+ years of experience in data engineering, with strong expertise in Python, Hive, and ETL pipe",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T14:29:30.207820",
+    "first_seen": "2026-10-19T14:29:30.207825"
+  },
+  {
+    "id": "f307924df71d28ed",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=75edeac96c9cb9a0",
+    "title": "Data & AI Engineer",
+    "company": "Revstar",
+    "location": "ME, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "aws",
+      "gcp",
+      "mlflow",
+      "data engineering",
+      "databricks",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Build What Matters at RevStar**\n\n**Position:** Data & AI Engineer\n\n* **Reports To:** Product Manager/Engineering Lead\n* **Location**: Remote (AZ, DC, FL, GA, IA, IL, ME, NY, NJ, SC, TX, VA)\n* **Employment Type:** Full-Time W2\n\n**Job Summary**\n\nReady to build greenfield Lakehouse solutions at the b",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T14:29:22.603342",
+    "first_seen": "2026-10-19T14:29:22.603347"
+  },
+  {
     "id": "57e387b5a0d85fda",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/flexport-senior-security-engineer-detection-response",
