@@ -1,5 +1,580 @@
 [
   {
+    "id": "df6ddccd5502f244",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155799-research-scientist",
+    "title": "Research Scientist",
+    "company": "Roboflow",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Who We Are Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too. We’re building the tools, community, and resources needed to make the world programmable with artificial intelligence. Roboflow sim",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.632240",
+    "first_seen": "2026-10-19T17:06:45.632241"
+  },
+  {
+    "id": "af3d0dcd26ea55db",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155801-bioinformatics-scientist",
+    "title": "Bioinformatics Scientist",
+    "company": "Natera",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Natera is seeking a Bioinformatics Scientist to join our Bioinformatics Research &amp; Development team with a focus on cancer recurrence monitoring. Natera’s mission is to change the management of disease worldwide with a focus on reproductive health, cancer, and organ transplantation. The ideal ca",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.631973",
+    "first_seen": "2026-10-19T17:06:45.631974"
+  },
+  {
+    "id": "bac3393a71aa9854",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155797-associate-medical-director-oncology-west-coast",
+    "title": "Associate Medical Director - Oncology (West Coast)",
+    "company": "Natera",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "healthcare & medical"
+    ],
+    "description_snippet": "POSITION SUMMARY The Associate Area Medical Director (Associate AMD) is a physician contributor operating within a defined regional geography under the guidance of an Area Medical Director or Medical Affairs leadership. This role is designed for a clinically credentialed oncologist who is building f",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.631802",
+    "first_seen": "2026-10-19T17:06:45.631803"
+  },
+  {
+    "id": "4a1f61655a98052e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155803-forward-deployed-engineer-7",
+    "title": "Forward Deployed Engineer",
+    "company": "Roboflow",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Who We Are Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too. We’re building the tools, community, and resources needed to make the world programmable with artificial intelligence. Roboflow sim",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.631524",
+    "first_seen": "2026-10-19T17:06:45.631525"
+  },
+  {
+    "id": "c2878adad8e2aae0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155806-backend-engineer-ruby-ai-engineering-agent-foundations",
+    "title": "Backend Engineer (Ruby), AI Engineering: Agent Foundations",
+    "company": "GitLab",
+    "location": "Canada,  Poland,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.631146",
+    "first_seen": "2026-10-19T17:06:45.631147"
+  },
+  {
+    "id": "2dea9171c3cbd3f4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155809-backend-engineer-ruby-create-change-record",
+    "title": "Backend Engineer (Ruby), Create: Change Record",
+    "company": "GitLab",
+    "location": "Poland,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.630939",
+    "first_seen": "2026-10-19T17:06:45.630940"
+  },
+  {
+    "id": "54dcfcf24c450b65",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155815-paytient-interest-application-technical-roles",
+    "title": "Paytient Interest Application: Technical Roles",
+    "company": "Paytient",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Paytient : We’re on a mission to help people better access and afford care. Every day, millions of people, and their loved ones, need to see a doctor. For most of us, that moment is an uncertain one - we’re unsure of what’s wrong, who to go to, how long it’ll take to be seen, when we’ll feel b",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.630700",
+    "first_seen": "2026-10-19T17:06:45.630701"
+  },
+  {
+    "id": "c3f584a2f0974487",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155822-business-intelligence-analyst-contractor",
+    "title": "Business Intelligence Analyst (Contractor)",
+    "company": "Doximity",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "**This is a contract role expected to last until April 15th, 2027 Location : This role is Remote in the U.S., with the option to work onsite from our San Francisco, CA headquarters. Visa sponsorship is not available for this role. About Doximity Doximity is the leading clinical AI company with the l",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.630606",
+    "first_seen": "2026-10-19T17:06:45.630607"
+  },
+  {
+    "id": "b7ed223c0752001c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155824-software-engineering-manager",
+    "title": "Software Engineering Manager",
+    "company": "Fanatics",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Us Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fanatics Collectibles, and Fanatics Bettin",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.630428",
+    "first_seen": "2026-10-19T17:06:45.630429"
+  },
+  {
+    "id": "cfa3c0a50f0111cf",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155829-head-of-credit-fraud",
+    "title": "Head of Credit & Fraud",
+    "company": "Happy Money",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "ABOUT HAPPY MONEY Happy Money is a consumer finance company that empowers people to achieve their goals through simple, transparent loans funded by trusted financial institutions. Through its proprietary lending platform, Hive, Happy Money delivers a fully digital experience that simplifies borrowin",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.630265",
+    "first_seen": "2026-10-19T17:06:45.630267"
+  },
+  {
+    "id": "75722e8ee174b253",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155827-product-manager-onboarding-and-growth",
+    "title": "Product Manager, Onboarding and Growth",
+    "company": "Ashby",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Hi, I’m Geo, Ashby ’s VP of Product. I joined Ashby August ‘26; read more about why I joined here. I’m looking for a growth-oriented product manager to help users onboard and expand their usage of the product. At Ashby, we have a unique approach to building products (more on that below). As a PM, yo",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.630042",
+    "first_seen": "2026-10-19T17:06:45.630044"
+  },
+  {
+    "id": "2bd550fae2b40b74",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155832-principal-product-strategist-ai-engagement-leader",
+    "title": "Principal Product Strategist, AI Engagement Leader",
+    "company": "Able",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Back in 2012, we were a group of engineers and designers who decided we wanted to build things, so we did. Able started as an engineering and product hub building for a portfolio of early-stage startups. We built many relationships while developing products that were thoughtful, effective, and genui",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.629749",
+    "first_seen": "2026-10-19T17:06:45.629751"
+  },
+  {
+    "id": "451bd6bf2a5efcc9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155833-enterprise-account-executive-23",
+    "title": "Enterprise Account Executive",
+    "company": "Salesloft",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Job Title: Enterprise Account Executive Job Location: US Remote — This is a fully remote opportunity and can be worked from any location in the United States. ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.629468",
+    "first_seen": "2026-10-19T17:06:45.629469"
+  },
+  {
+    "id": "ca6161148d589e48",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155835-staff-engineer-backend-kotlin",
+    "title": "Staff Engineer - Backend/Kotlin",
+    "company": "Fanatics",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Us Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fanatics Collectibles, and Fanatics Bettin",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.629217",
+    "first_seen": "2026-10-19T17:06:45.629219"
+  },
+  {
+    "id": "9936a2af1588ba69",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155839-staff-engineer-mobile-kotlin",
+    "title": "Staff Engineer - Mobile/Kotlin",
+    "company": "Fanatics",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Us Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fanatics Collectibles, and Fanatics Bettin",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.629010",
+    "first_seen": "2026-10-19T17:06:45.629011"
+  },
+  {
+    "id": "47275207ec418543",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155830-senior-account-executive-brazil",
+    "title": "Senior Account Executive - Brazil",
+    "company": "Fastly",
+    "location": "Brazil",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the ed",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.628804",
+    "first_seen": "2026-10-19T17:06:45.628806"
+  },
+  {
+    "id": "48cdf30ffc915553",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155841-accountant-5",
+    "title": "Accountant",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.628523",
+    "first_seen": "2026-10-19T17:06:45.628524"
+  },
+  {
+    "id": "2fc457da3b196eaa",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155843-senior-accountant-3",
+    "title": "Senior Accountant",
+    "company": "RStudio",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "Posit is a Public Benefit Corporation and Certified B Corp on a mission to create open-source software for data science, scientific research, and technical communication — and we’re building a company designed to thrive for 100 years. Our Accounting team keeps the company’s books accurate, timely, a",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.628364",
+    "first_seen": "2026-10-19T17:06:45.628365"
+  },
+  {
+    "id": "0d435dcc9553557d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155846-paid-social-programmatic-analyst-2",
+    "title": "Paid Social & Programmatic Analyst",
+    "company": "SeatGeek",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we’re simplifying and modernizing the ticketing industry. Social platforms are a critical component of SeatGeek's marketing strategy, because we need to meet live event fans ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.628005",
+    "first_seen": "2026-10-19T17:06:45.628006"
+  },
+  {
+    "id": "355cae38d02bd3d5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155842-lead-product-manager-fan-experience",
+    "title": "Lead Product Manager, Fan Experience",
+    "company": "SeatGeek",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we’re simplifying and modernizing the ticketing industry. By catering to both fans and rightsholders, we're powering a new, open entertainment ecosystem where fans have effor",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.627839",
+    "first_seen": "2026-10-19T17:06:45.627840"
+  },
+  {
+    "id": "29b5c03d7751e409",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155849-senior-data-analyst-supply",
+    "title": "Senior Data Analyst, Supply",
+    "company": "SeatGeek",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we’re simplifying and modernizing the ticketing industry. We're looking for a Senior Data Analyst to join our Analytics team and focus on the supply side of SeatGeek's market",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.627622",
+    "first_seen": "2026-10-19T17:06:45.627623"
+  },
+  {
+    "id": "d4d59d671e373246",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155848-alliances-channels-leader-3",
+    "title": "Alliances & Channels Leader",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Alliances &amp; Channels Leader Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovati",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:45.627431",
+    "first_seen": "2026-10-19T17:06:45.627441"
+  },
+  {
+    "id": "9e4f17547bfed3e6",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b62f44a3fc9668b5",
+    "title": "Data Scientist",
+    "company": "VTG Defense",
+    "location": "Chantilly, VA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "aws",
+      "postgres",
+      "scala"
+    ],
+    "description_snippet": "Overview:\n\nWe are seeking an experienced Data Engineer to design, develop, and maintain scalable data processing solutions supporting complex data integration, transformation, and analytics requirements. The ideal candidate will have strong experience with Python, PySpark, Apache Spark, SQL database",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:41.155818",
+    "first_seen": "2026-10-19T17:06:41.155822"
+  },
+  {
+    "id": "0857de24ac845862",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=cc0a4f9013994f13",
+    "title": "Databricks Architect",
+    "company": "NTT DATA",
+    "location": "St. Louis, MO, USA",
+    "is_remote": true,
+    "salary": "USD 70 – 80/hourly",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "spark",
+      "pyspark",
+      "azure",
+      "aws",
+      "gcp",
+      "data engineering",
+      "databricks",
+      "medallion",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.  \n  \nWe are currently seeking a Systems Integration Specialist Advisor to join our team in Arlington,",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-19T17:06:36.047789",
+    "first_seen": "2026-10-19T17:06:36.047790"
+  },
+  {
+    "id": "4563db8fec43fa2b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=eb5ed8fb3a856884",
+    "title": "Lead Data Architect",
+    "company": "Domino's",
+    "location": "Ann Arbor, MI, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "kafka",
+      "azure",
+      "machine learning",
+      "deep learning",
+      "databricks",
+      "kubernetes",
+      "ci/cd",
+      "scala",
+      "rust",
+      "llm",
+      "openai",
+      "prompt engineering",
+      "generative ai",
+      "nlp"
+    ],
+    "description_snippet": "**Company Description**\n\nDomino’s is a purpose-inspired, performance-driven company powered by exceptional people who are committed to feeding the power of possible—one pizza at a time. Founded in 1960 as a single store in Ypsilanti, Michigan, Domino’s has grown into the largest pizza company in the",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:36.045920",
+    "first_seen": "2026-10-19T17:06:36.045924"
+  },
+  {
+    "id": "2ff2b3155da92a14",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d5795308e168e06e",
+    "title": "Systems Engineer",
+    "company": "Archarithms Inc",
+    "location": "Huntsville, AL, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "machine learning"
+    ],
+    "description_snippet": "**WE ARE ARCARITHM**, **and we are changing the world!**\n\nIf you are ready to grow your career and change the world with us, then join the Arcarithm team!\n\nWe are located in beautiful, downtown Huntsville, AL, one of the fastest growing cities in the U.S.! At Arcarithm, we cultivate and foster an en",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-10-19T17:06:31.059846",
+    "first_seen": "2026-10-19T17:06:31.059848"
+  },
+  {
+    "id": "b4011dec363d8b4f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=165ff5a8ea6b3eba",
+    "title": "Sr. C2 Systems Integration Engineer",
+    "company": "Horizon Global Partners LLC",
+    "location": "Fairfax, VA, USA",
+    "is_remote": false,
+    "salary": "USD 150,000 – 190,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "rust",
+      "llm"
+    ],
+    "description_snippet": "**Position Summary**\n\nWe are seeking a C2 expert who has executed the C2 mission from the operator's chair. The ideal candidate is a former or retired USAF Air Battle Manager (or equivalent C2 battle management operator) with hands-on experience in airborne, ground-based, and operations-center C2 en",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-19T17:06:27.736374",
+    "first_seen": "2026-10-19T17:06:27.736375"
+  },
+  {
+    "id": "fbef0264314c1814",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=44c8301bdb6f50cd",
+    "title": "Lead Data Engineer",
+    "company": "Protective",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 109,500 – 167,833/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "dbt",
+      "airflow",
+      "azure",
+      "mlflow",
+      "databricks",
+      "medallion",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "The work we do has an impact on millions of lives, and you can be a part of it.\n\nWe help protect our customers against life’s uncertainties. Regardless of where you work within the company, you’ll be helping provide protection and peace of mind when our customers need it most.\n\n  \n\nProtective is loo",
+    "posted_date": "2026-09-23",
+    "scraped_at": "2026-10-19T17:06:23.813162",
+    "first_seen": "2026-10-19T17:06:23.813163"
+  },
+  {
+    "id": "d40fc184b4deb9a9",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b993a55af886fb31",
+    "title": "Data & AI Engineer",
+    "company": "Revstar",
+    "location": "ID, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "aws",
+      "gcp",
+      "mlflow",
+      "data engineering",
+      "databricks",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Build What Matters at RevStar**\n\n**Position:** Data & AI Engineer\n\n* **Reports To:** Product Manager/Engineering Lead\n* **Location**: Remote (AZ, DC, FL, GA, IA, IL, ME, NY, NJ, SC, TX, VA)\n* **Employment Type:** Full-Time W2\n\n**Job Summary**\n\nReady to build greenfield Lakehouse solutions at the b",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T17:06:23.810160",
+    "first_seen": "2026-10-19T17:06:23.810164"
+  },
+  {
     "id": "fc3319e99b1bbfb4",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
