@@ -1,5 +1,390 @@
 [
   {
+    "id": "57e387b5a0d85fda",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/flexport-senior-security-engineer-detection-response",
+    "title": "Senior Security Engineer, Detection & Response",
+    "company": "Flexport",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: U.S. Remote About Flexport:&nbsp; At Flexport, we believe global trade can move the human race forward. That’s why it’s our mission to make global commerce so easy there will be more of it. We’re shaping the future of a $10T industry with solutions powered by innovative technology and ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:18:53.731516",
+    "first_seen": "2026-10-19T09:18:53.731527"
+  },
+  {
+    "id": "d2d005e177ac3551",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/current-freelance-marketo-email-engineer",
+    "title": "Freelance Marketo Email Engineer",
+    "company": "Current",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "front-end programming"
+    ],
+    "description_snippet": "Headquarters: Remote (US) &nbsp; About the Role As a Freelance Marketo Email Specialist, you'll build, test, and launch email programs in Marketo for a range of client brands. This is a hands-on, execution-only contract role with no leadership or management responsibilities. You'll take approved bri",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:18:53.589320",
+    "first_seen": "2026-10-19T09:18:53.589332"
+  },
+  {
+    "id": "bbe2b392bf5e6de6",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/clover-health-director-ai-enabled-fraud-prevention-investigations",
+    "title": "Director, AI-Enabled Fraud Prevention & Investigations",
+    "company": "Clover Health",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote - USA Clover Health is investing in our fraud detection and investigation capabilities and is seeking a Director, AI-Enabled Fraud Prevention &amp; Investigations to join our Legal department as a senior individual contributor. This hybrid role combines: (1) managing hands-on in",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:18:53.431506",
+    "first_seen": "2026-10-19T09:18:53.431508"
+  },
+  {
+    "id": "f921ae7ebc12e743",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/expel-systems-engineer",
+    "title": "Systems Engineer",
+    "company": "Expel",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote Are you looking for a role where you're critical to every part of the business? Do you want to help ensure that our teams deliver software so that our analysts can deliver service to our customers? How about being a crucial part of making sure our internal teams operate efficien",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:18:53.430711",
+    "first_seen": "2026-10-19T09:18:53.430722"
+  },
+  {
+    "id": "50dc999d907b4629",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4",
+    "title": "Senior Backend Developer (Node.js / Nest.js)",
+    "company": "Proxify AB",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "back-end programming"
+    ],
+    "description_snippet": "Headquarters: Sweden URL: http://career.proxify.io The Role: &nbsp; We are looking for a Senior Backend (Node.js / Nest.js) Developer to join our fast-growing network. You’ll be responsible for building modern and scalable web applications, working closely with backend developers and designers to cr",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:18:53.204981",
+    "first_seen": "2026-10-19T09:18:53.204992"
+  },
+  {
+    "id": "03f9946376aaa16f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151024-manager-strategic-sales",
+    "title": "Manager, Strategic Sales",
+    "company": "Figma",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:14:36.534551",
+    "first_seen": "2026-10-19T09:14:36.534552"
+  },
+  {
+    "id": "7758a4b60d71ecce",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151044-customer-solution-architect-amer",
+    "title": "Customer Solution Architect (AMER)",
+    "company": "Supabase",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We’re seeking a Customer Solutions Arc",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:14:36.533696",
+    "first_seen": "2026-10-19T09:14:36.533697"
+  },
+  {
+    "id": "0118f383486ae420",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151040-product-growth-strategist",
+    "title": "Product Growth Strategist",
+    "company": "Fueled",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Location: Remote — Anywhere (Open to applicants located anywhere around the globe) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Time",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:14:36.533102",
+    "first_seen": "2026-10-19T09:14:36.533104"
+  },
+  {
+    "id": "1d0f6e3c3ee1c4a7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153545-senior-software-developer-api-platform-and-ecosystem",
+    "title": "Senior Software Developer, API Platform and Ecosystem",
+    "company": "MaintainX",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers , including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million co",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:14:36.532936",
+    "first_seen": "2026-10-19T09:14:36.532937"
+  },
+  {
+    "id": "247497bd887dc784",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149365-offensive-security-lead",
+    "title": "Offensive Security Lead",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:14:36.532420",
+    "first_seen": "2026-10-19T09:14:36.532421"
+  },
+  {
+    "id": "3c814ca2a50be1e9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149362-vulnerability-operation-center-lead",
+    "title": "Vulnerability Operation Center Lead",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:14:36.532209",
+    "first_seen": "2026-10-19T09:14:36.532210"
+  },
+  {
+    "id": "ca3ac22f971c8053",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149361-senior-technical-product-manager-token-factory",
+    "title": "Senior Technical Product Manager, Token Factory",
+    "company": "Nebius",
+    "location": "Europe,  Netherlands,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:14:36.531966",
+    "first_seen": "2026-10-19T09:14:36.531967"
+  },
+  {
+    "id": "5d2229486616c039",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153547-supply-partnership-manager",
+    "title": "Supply Partnership Manager",
+    "company": "Nash",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About the Role We’re hiring a Supply Partnership Manager to be the critical operational link between Nash and some of its most strategic Delivery Providers. You will manage the relationship with each Delivery Provider, be accountable for ongoing performance, monitor integration health, and enable an",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:14:36.531795",
+    "first_seen": "2026-10-19T09:14:36.531796"
+  },
+  {
+    "id": "fdbff7e0df66d07f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153555-leather-material-developer",
+    "title": "Leather Material Developer",
+    "company": "Quince",
+    "location": "Italy,  Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "ABOUT QUINCE Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manufac",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:14:36.531199",
+    "first_seen": "2026-10-19T09:14:36.531201"
+  },
+  {
+    "id": "d2b021fb8aae485b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153554-product-designer-2",
+    "title": "Product Designer",
+    "company": "WorkWave",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "At WorkWave , we are committed to empowering the hardworking service professionals who keep our world safe, clean, and beautiful. Through our powerful suite of software solutions, we give these business owners the tools they need to run their businesses more efficiently, increase profitability, and ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:14:36.530759",
+    "first_seen": "2026-10-19T09:14:36.530760"
+  },
+  {
+    "id": "41bb985da5b7307a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153561-technical-consultant",
+    "title": "Technical Consultant",
+    "company": "WorkWave",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "We're looking for a Technical Consultant to help deliver customer data migrations and system implementations. You'll work directly with clients and internal implementation teams to convert customer data onto our platform, stand up new customer systems and work on internal technical projects - all wh",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:14:36.530379",
+    "first_seen": "2026-10-19T09:14:36.530380"
+  },
+  {
+    "id": "972195c2dfe747a8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153584-business-development-manager-northeastern",
+    "title": "Business Development Manager, Northeastern",
+    "company": "CompScience",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "About CompScience At CompScience, we're not just building software, we're saving lives. We're a high-growth startup on a mission to prevent 1 million workplace injuries through bold technological innovations, ensuring that everyone can go home safe at the end of the day. Founded in 2019 and backed b",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:14:36.529900",
+    "first_seen": "2026-10-19T09:14:36.529901"
+  },
+  {
+    "id": "5838c48d70523692",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153593-senior-technical-project-manager",
+    "title": "Senior Technical Project Manager",
+    "company": "Thinkific",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Who we are ⬇️ Thinkific (TSX:THNC) is an award-winning learning commerce platform built for scale. By bringing together community, courses, and content with commerce, we power transformative learning experiences and give businesses everything they need to grow their revenue — all from one AI-powered",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:14:36.529571",
+    "first_seen": "2026-10-19T09:14:36.529572"
+  },
+  {
+    "id": "69549926ceb2651b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153609-product-manager-growth",
+    "title": "Product Manager, Growth",
+    "company": "Fleetio",
+    "location": "Canada,  Mexico,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "A little about us… Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we’re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D fun",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-19T09:14:36.528522",
+    "first_seen": "2026-10-19T09:14:36.528523"
+  },
+  {
+    "id": "649977543f8d9528",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=168f77888f9415c2",
+    "title": "Systems Engineer - Test Analyst",
+    "company": "Archarithms Inc",
+    "location": "Huntsville, AL, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "tableau",
+      "machine learning",
+      "postgres"
+    ],
+    "description_snippet": "**WE ARE ARCARITHM**, **and we are changing the world!**\n\nIf you are ready to grow your career and change the world with us, then join the Arcarithm team!\n\nWe are located in beautiful, downtown Huntsville, AL, one of the fastest growing cities in the U.S.! At Arcarithm, we cultivate and foster an en",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-10-19T09:14:23.227624",
+    "first_seen": "2026-10-19T09:14:23.227625"
+  },
+  {
+    "id": "7b8171ff5d28f65e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=18810424fdb43716",
+    "title": "Seismologist",
+    "company": "Fervo Energy",
+    "location": "Houston, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "machine learning",
+      "pandas",
+      "numpy"
+    ],
+    "description_snippet": "**About Fervo Energy**\n----------------------\n\nFervo Energy (NASDAQ: FRVO) is a modern power company developing next-generation geothermal resources to meet the growing demand for affordable, reliable, 24/7 carbon-free energy. Our mission is to transform geothermal into America's most dependable and",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-19T09:14:23.224486",
+    "first_seen": "2026-10-19T09:14:23.224488"
+  },
+  {
     "id": "681f542b72c5add5",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=0b39f9d44501a365",
