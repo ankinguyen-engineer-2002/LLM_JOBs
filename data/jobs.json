@@ -1,5 +1,497 @@
 [
   {
+    "id": "618aad584f5cfa74",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156044-director-gtm-strategy-planning-analytics",
+    "title": "Director, GTM Strategy, Planning & Analytics",
+    "company": "Articulate",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Articulate is seeking a Director of GTM Strategy, Planning &amp; Analytics to lead and evolve how we translate company strategy into actionable go-to-market plans, measure business performance, govern the data foundations that support decision-making, and align compensation programs to GTM prioritie",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:24.101835",
+    "first_seen": "2026-10-20T23:19:24.101837"
+  },
+  {
+    "id": "4320937937d72444",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156048-chief-of-staff-science",
+    "title": "Chief of Staff, Science",
+    "company": "Datavant",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Datavant is the data collaboration platform trusted for healthcare. Guided by our mission to make the world’s health data secure, accessible and actionable, we provide critical data solutions for organizations across the healthcare ecosystem - including providers, health plans, researchers, and life",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:24.101503",
+    "first_seen": "2026-10-20T23:19:24.101504"
+  },
+  {
+    "id": "b4fa0307c44dc934",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156052-senior-manager-enterprise-sales",
+    "title": "Senior Manager, Enterprise Sales",
+    "company": "BetterHelp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Who are we and why should you join us? BetterHelp is on a mission to remove the traditional barriers to therapy and make mental health care more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy across the glob",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:24.101306",
+    "first_seen": "2026-10-20T23:19:24.101307"
+  },
+  {
+    "id": "8529895bab3eea75",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156047-manager-business-analytics-insights",
+    "title": "Manager, Business Analytics & Insights",
+    "company": "BetterHelp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Who are we and why should you join us? BetterHelp is on a mission to remove the traditional barriers to therapy and make mental health care more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy across the glob",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:24.101050",
+    "first_seen": "2026-10-20T23:19:24.101051"
+  },
+  {
+    "id": "ca4365e5a768b008",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156059-senior-software-engineer-ii-integrations",
+    "title": "Senior Software Engineer II - Integrations",
+    "company": "Wrapbook",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Us: Wrapbook is the AI platform for production finance. We’re building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anony",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:24.100801",
+    "first_seen": "2026-10-20T23:19:24.100802"
+  },
+  {
+    "id": "a03419087ffed030",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156055-manager-engineering-frontend",
+    "title": "Manager, Engineering - Frontend",
+    "company": "Wrapbook",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Us: Wrapbook is the AI platform for production finance. We’re building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anony",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:24.100626",
+    "first_seen": "2026-10-20T23:19:24.100627"
+  },
+  {
+    "id": "241a933338083361",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156061-implementation-manager-3",
+    "title": "Implementation Manager",
+    "company": "Clover Health",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Counterpart: Value-based care, at the point of care. At Counterpart Health, we are transforming healthcare and improving patient care with our innovative primary care tool, Counterpart Assistant. By supporting Primary Care Physicians (PCPs), we are able to deliver improved outcomes to our patients a",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:24.100527",
+    "first_seen": "2026-10-20T23:19:24.100527"
+  },
+  {
+    "id": "3d2818170b7debb8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156066-senior-machine-learning-engineer-3",
+    "title": "Senior Machine Learning Engineer",
+    "company": "SeatGeek",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we’re simplifying and modernizing the ticketing industry. SeatGeek is a technology innovator on a mission to disrupt the $300 billion ticketing industry. We have the product,",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:24.100303",
+    "first_seen": "2026-10-20T23:19:24.100304"
+  },
+  {
+    "id": "a84fded01647322d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156072-case-resolution-engineer",
+    "title": "Case Resolution Engineer",
+    "company": "Elation Health",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. Since inception, we've been focused on building a delightful, world-class experience that empowers physicians to deliver phenomenal care to patients. Customer support has b",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:24.100160",
+    "first_seen": "2026-10-20T23:19:24.100161"
+  },
+  {
+    "id": "c26801a5a0211fd9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156076-backend-engineer-create-source-code-experience-ruby",
+    "title": "Backend Engineer, Create: Source Code Experience (Ruby)",
+    "company": "GitLab",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:24.099978",
+    "first_seen": "2026-10-20T23:19:24.099979"
+  },
+  {
+    "id": "2b307e74abe5ad06",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156080-backend-engineer-ruby-plan-spec-driven-development",
+    "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
+    "company": "GitLab",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:24.099789",
+    "first_seen": "2026-10-20T23:19:24.099790"
+  },
+  {
+    "id": "e455d6656e2a1fcb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156089-it-systems-devops-engineer",
+    "title": "IT Systems DevOps Engineer",
+    "company": "Cologix, Inc.",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Our Company: Headquartered in Denver, Colorado, Cologix is a leading North America network-neutral interconnection and hyperscale edge data center company. Our platform gives customers access to 45+ digital edge and Scalelogix℠ hyperscale edge data centers in 13 markets across the United State",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:24.099574",
+    "first_seen": "2026-10-20T23:19:24.099575"
+  },
+  {
+    "id": "46310f7a3723c7a8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156093-key-accounts-executive",
+    "title": "Key Accounts Executive",
+    "company": "Datadog",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Our Key Accounts Executive will target and close new business within the largest, most strategic prospects in key, high potential companies. In this role you’ll be focused on understanding and uncovering the pain points these companies face as they operate in or migrate to a cloud environment at sca",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:24.099363",
+    "first_seen": "2026-10-20T23:19:24.099375"
+  },
+  {
+    "id": "6bcc2bae1884214e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f1a60bd31f33e718",
+    "title": "Senior Software Engineer (Data Platform)",
+    "company": "MIA Labs",
+    "location": "Austin, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "bigquery",
+      "snowflake",
+      "data warehouse"
+    ],
+    "description_snippet": "**About Mia Labs**\n------------------\n\nMia is the AI communication platform for car dealerships. We answer and act on every inbound call, text and web lead so dealers stop losing service appointments and sales to voicemail. Franchise dealers and some of the largest dealer groups in the country run o",
+    "posted_date": "2026-09-22",
+    "scraped_at": "2026-10-20T23:19:14.719639",
+    "first_seen": "2026-10-20T23:19:14.719639"
+  },
+  {
+    "id": "e05d410b6cc87a84",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=76cfce3f5874e6be",
+    "title": "Data Visualization Engineer",
+    "company": "SpaceXSI",
+    "location": "Palo Alto, CA, USA",
+    "is_remote": false,
+    "salary": "USD 132,000 – 198,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "power bi",
+      "tableau",
+      "bigquery",
+      "snowflake",
+      "databricks",
+      "java"
+    ],
+    "description_snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consci",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-20T23:19:14.718173",
+    "first_seen": "2026-10-20T23:19:14.718174"
+  },
+  {
+    "id": "cf15f7cb2a272142",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4cb8180ac648629e",
+    "title": "Data and Web Engineer",
+    "company": "Miami University",
+    "location": "Oxford, OH, USA",
+    "is_remote": true,
+    "salary": "USD 70,000 – 80,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "tableau",
+      "data warehouse",
+      "java",
+      "scala",
+      "llm"
+    ],
+    "description_snippet": "**Job Title**\n\nData and Web Engineer\n\n**Department**\n\nUCM Data and Marketing Engineering\n\n**Worker Type**\n\nRegular\n\n**Pay Type**\n\nSalary\n\n**Position Salary Minimum**\n\n$70,000\n\n**Position Salary Maximum**\n\n$80,000\n\n*Salary will be commensurate with the level of the position, education, and experience",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-20T23:19:14.717680",
+    "first_seen": "2026-10-20T23:19:14.717681"
+  },
+  {
+    "id": "dab74476330ee814",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=6fb0c4044e56c953",
+    "title": "Senior Data Engineer",
+    "company": "REDICA Systems",
+    "location": "Pleasanton, CA, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "data engineering",
+      "scala",
+      "rust",
+      "nlp"
+    ],
+    "description_snippet": "**Company Description**\n\n**Redica Systems** is the Intelligence Cloud for life sciences, transforming regulatory complexity into connected, proactive intelligence. Redica's platform helps the world's leading Pharmaceutical and MedTech companies stay inspection-ready, manage supplier risk, and keep p",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-20T23:19:14.717067",
+    "first_seen": "2026-10-20T23:19:14.717068"
+  },
+  {
+    "id": "5767aa4d102c2157",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3c9026fade1b66cf",
+    "title": "Security Data & Automation Engineer",
+    "company": "XCEL ENGINEERING",
+    "location": "Oak Ridge, TN, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "spark",
+      "kafka",
+      "azure",
+      "aws",
+      "data engineering",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**COMPANY OVERVIEW**\n\nXCEL Engineering, Inc. is an award-winning small business that provides trusted information technology, engineering, consulting and project management solutions and services to federal agencies and organizations. Originally founded in 1971 by professional engineers at the Unive",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:14.716582",
+    "first_seen": "2026-10-20T23:19:14.716583"
+  },
+  {
+    "id": "23c2f842c648559f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=895e3604b78c9a8e",
+    "title": "Senior Program Systems Engineer",
+    "company": "Credence",
+    "location": "Niceville, FL, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "rust"
+    ],
+    "description_snippet": "**Overview**  \nJoin a team where innovation meets mission. Our AI, cloud, cyber, and modernization solutions save agencies thousands of hours, safeguard national security, and strengthen health and humanitarian missions worldwide. With more than 1,700+ team members, 1,500+ AI & data experts, and 100",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:09.622239",
+    "first_seen": "2026-10-20T23:19:09.622243"
+  },
+  {
+    "id": "02880f447f842d1f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=2f9d5b98b3fd6008",
+    "title": "Senior API Integration Engineer",
+    "company": "Nyla Technology Solutions",
+    "location": "Annapolis Junction, MD, USA",
+    "is_remote": false,
+    "salary": "USD 156,000 – 184,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "machine learning",
+      "pandas",
+      "nlp"
+    ],
+    "description_snippet": "Job Description\n  \n  \nACTIVE SECURITY CLEARANCE AT THE TS/SCI POLYGRAPH LEVEL IS REQUIRED\n  \n  \nWe are seeking a versatile, driven Data Scientist / AI/ML Automation Engineer to transform raw collection streams into automated, high-value intelligence. In this key role, you will apply Python data scie",
+    "posted_date": "2026-10-01",
+    "scraped_at": "2026-10-20T23:19:04.955433",
+    "first_seen": "2026-10-20T23:19:04.955434"
+  },
+  {
+    "id": "7b029bbb367d6cd7",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=2e39f50c21581310",
+    "title": "Lead Architect & Modernization Engineer (Collibra)",
+    "company": "Stralynn Consulting Services, Inc.",
+    "location": "Nashville, TN, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "azure"
+    ],
+    "description_snippet": "The **Lead Collibra Architect & Modernization Engineer** serves as the principal technical lead for platform administration, operating model architecture, and workflow modernization across development, test, and production environments. This role focuses on expanding platform usability, modernizing ",
+    "posted_date": "2026-10-09",
+    "scraped_at": "2026-10-20T23:19:04.954362",
+    "first_seen": "2026-10-20T23:19:04.954363"
+  },
+  {
+    "id": "88c3cb79555a2bc8",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3d1e0e76b25807ec",
+    "title": "Senior QA Data Engineer",
+    "company": "Gradient AI",
+    "location": "Boston, MA, USA",
+    "is_remote": true,
+    "salary": "USD 130,000 – 150,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "dbt",
+      "airflow",
+      "databricks",
+      "ci/cd",
+      "rust"
+    ],
+    "description_snippet": "***\\*\\*This is a fully remote position.***\n\n**Gradient AI:**\n\nGradient AI is a leading provider of AI solutions for the Group Health and P&C insurance industries. Our solutions improve loss ratios and profitability by predicting underwriting and claim risks with greater accuracy, as well as reducing",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:01.340386",
+    "first_seen": "2026-10-20T23:19:01.340387"
+  },
+  {
+    "id": "1abde07d8a80d612",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=e6afa1d9a1e2ce52",
+    "title": "Integration & Data Performance Engineer",
+    "company": "P & A Administrative Services, Inc",
+    "location": "Williamsville, NY, USA",
+    "is_remote": false,
+    "salary": "USD 125,000 – 155,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "docker",
+      "azure",
+      "aws",
+      "data engineering",
+      "snowflake",
+      "databricks",
+      "kubernetes",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "Description:\n\nWe are seeking an experienced Integration & Data Performance Engineer to design, develop, and support enterprise interfaces, partner integrations, and data integration solutions. This role is responsible for building secure, scalable, and high-performing integrations between internal s",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:01.340228",
+    "first_seen": "2026-10-20T23:19:01.340229"
+  },
+  {
+    "id": "476cf87ac965b435",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7b94921d74b715dd",
+    "title": "Sr. Software Engineer, Analytics & Data Platform",
+    "company": "DoubleVerify",
+    "location": "New York, NY, USA",
+    "is_remote": false,
+    "salary": "USD 107,000 – 212,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "kafka",
+      "gcp",
+      "data engineering",
+      "bigquery",
+      "snowflake",
+      "kubernetes",
+      "ci/cd"
+    ],
+    "description_snippet": "**Who We Are**\n==============\n\nDV is the leader in digital performance solutions, helping our advertiser and agency partners Verify the quality of their digital campaigns, Optimise to improve performance and Prove that they’re achieving their business outcomes, through unbiased 3rd party data and an",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T23:19:01.339902",
+    "first_seen": "2026-10-20T23:19:01.339903"
+  },
+  {
     "id": "89301097a21f394a",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/155969-director-engineering-platform-services",
