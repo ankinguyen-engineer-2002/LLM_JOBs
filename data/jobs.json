@@ -1,5 +1,104 @@
 [
   {
+    "id": "2fc727d3c2351185",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-salesforce-developer-for-org-ownership-and-ongoing-platform-development",
+    "title": "Salesforce Developer for Org Ownership and Ongoing Platform Development",
+    "company": "Toptal",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Summary We are seeking a Salesforce developer to support and manage an existing Salesforce org. The role focuses on developing and rolling out new features, maintaining the org’s architecture, and ensuring updates align with existing processes. General information This engagement cente",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T18:18:08.515011",
+    "first_seen": "2026-10-20T18:18:08.515012"
+  },
+  {
+    "id": "8655055d5e62431c",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-senior-analytics-engineer-bi-lead-channel-insights-ix360",
+    "title": "Senior Analytics Engineer / BI Lead — Channel Insights (iX360)",
+    "company": "Toptal",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Summary We are seeking an Analytics Engineer / BI Lead for Channel Insights to define the semantic layer, build dashboards, and present verified insights to leadership. This role combines Tableau Next and Data 360 insight development, SQL/SOQL work, data-quality validation, field-user ",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T18:18:08.514885",
+    "first_seen": "2026-10-20T18:18:08.514889"
+  },
+  {
+    "id": "8eeda9f13c2f11a0",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d2a75dc7f8a8b9ef",
+    "title": "Journeyman Systems Engineer – Weapons Systems / ECP Support",
+    "company": "ShadowObjects, LLC",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 130,000 – 170,000/yearly",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "**Journeyman Systems Engineer – Weapons Systems / ECP Support**\n\n**Salary-** $130K-$170K\n\n**Customer:** Naval Air Systems Command (NAVAIR), PMA-201\n\n**Position Description**\n\nThe Journeyman Systems Engineer shall provide systems engineering and technical support to NAVAIR PMA-201 for airborne weapon",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-20T18:13:36.764749",
+    "first_seen": "2026-10-20T18:13:36.764753"
+  },
+  {
+    "id": "24cf75475cb3686f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7a0afdeb8a58a54b",
+    "title": "Sr. Staff Data Engineer",
+    "company": "SonderMind",
+    "location": "Trenton, NJ, USA",
+    "is_remote": true,
+    "salary": "USD 180,000 – 200,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "data engineering",
+      "machine learning",
+      "data warehouse",
+      "scala",
+      "rust",
+      "gpt"
+    ],
+    "description_snippet": "**About SonderMind**\n--------------------\n\nAt SonderMind, we believe everyone deserves one personalized, connected, and effective mental health destination to take care of their mental health and well-being at any stage of life. SonderMind care encompasses everything from therapy and medication mana",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-20T18:13:25.614841",
+    "first_seen": "2026-10-20T18:13:25.614842"
+  },
+  {
+    "id": "d476e37364b9feab",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=677d4ac3606ba2c3",
+    "title": "Data Engineer",
+    "company": "Station 66",
+    "location": "Henderson, NV, USA",
+    "is_remote": false,
+    "salary": "USD 125,000 – 130,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "data engineering"
+    ],
+    "description_snippet": "**About the Role**\n\nStation 66 Networks is looking for a Data Engineer to build and maintain the systems that collect, process, and organise business data. You'll develop reliable data pipelines, manage data workflows, and help ensure that information is accurate, accessible, and ready for analysis.",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T18:13:25.614374",
+    "first_seen": "2026-10-20T18:13:25.614379"
+  },
+  {
     "id": "dc4d9c9789a1ac26",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/155953-group-product-manager-platform-experience",
