@@ -1,5 +1,599 @@
 [
   {
+    "id": "4b17d74413b8bc37",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/carrot-director-information-security",
+    "title": "Director, Information Security",
+    "company": "Carrot",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health ",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:53:59.799821",
+    "first_seen": "2026-10-20T08:53:59.799827"
+  },
+  {
+    "id": "eb8b46e014eae958",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/reddit-analytics-engineer",
+    "title": "Analytics Engineer",
+    "company": "Reddit",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:53:59.381590",
+    "first_seen": "2026-10-20T08:53:59.381593"
+  },
+  {
+    "id": "34b064c3c832fc53",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-oil-gas-industry",
+    "title": "Client Value Partner (CVP) - Oil & Gas Industry",
+    "company": "Celonis",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote, US, Texas Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's oper",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:53:59.380988",
+    "first_seen": "2026-10-20T08:53:59.380991"
+  },
+  {
+    "id": "1be892520e52a841",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-utilities-energy-industry",
+    "title": "Client Value Partner (CVP) - Utilities & Energy Industry",
+    "company": "Celonis",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote, US, Ohio Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's opera",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:53:59.380226",
+    "first_seen": "2026-10-20T08:53:59.380236"
+  },
+  {
+    "id": "216d41e0c81dbd29",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/150974-product-manager-senior-staff-level",
+    "title": "Product Manager (Senior/Staff-level)",
+    "company": "Synthesia",
+    "location": "Europe,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance vi",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.559094",
+    "first_seen": "2026-10-20T08:49:41.559095"
+  },
+  {
+    "id": "2594646b14a1a886",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151166-principal-revenue-operations-manager",
+    "title": "Principal Revenue Operations Manager",
+    "company": "Jobber",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Do you want to impact the hardest working people in the world? Then Jobber might be the place for you! We’re looking for a Principal Revenue Operations Manager to be part of our Marketing department. Jobber exists to help people in small businesses be successful. We work with small home service busi",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.557696",
+    "first_seen": "2026-10-20T08:49:41.557697"
+  },
+  {
+    "id": "b36d50cf07111d08",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/145803-account-manager-speech-ai-technologies",
+    "title": "Account Manager - Speech & AI Technologies",
+    "company": "Side",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "About Side Side is a global video game development and services provider, offering technical and creative solutions to many of the largest developers and studios around the world. Founded in 2009 and drawing on 30+ years' experience from our parent company in Japan, Side has since grown to become a ",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.557094",
+    "first_seen": "2026-10-20T08:49:41.557097"
+  },
+  {
+    "id": "a84c18c6a057831e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/145850-technical-program-manager-2",
+    "title": "Technical Program Manager",
+    "company": "Phaidra",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades — because the controls programming is hard-coded. Thousands of lines of rule",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.556916",
+    "first_seen": "2026-10-20T08:49:41.556917"
+  },
+  {
+    "id": "622f2f21e19f7f07",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151015-alliances-channels-leader-2",
+    "title": "Alliances & Channels Leader",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Alliances &amp; Channels Leader Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovati",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.556324",
+    "first_seen": "2026-10-20T08:49:41.556327"
+  },
+  {
+    "id": "c8615464fbd7e78e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151079-compliance-manager-australia",
+    "title": "Compliance Manager (Australia)",
+    "company": "Affirm",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. Affirm’s International Compliance team designs and implements compliance programs that proactively address regulatory requireme",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.555437",
+    "first_seen": "2026-10-20T08:49:41.555438"
+  },
+  {
+    "id": "4bc5484a91b069cf",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153625-staff-product-manager-fintech-new-bets",
+    "title": "Staff Product Manager, Fintech New Bets",
+    "company": "Jobber",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Jobber exists to help people in small businesses be successful. We work with small home service businesses, like your local plumbers, electricians, painters, and landscapers, to transform the way service is delivered through technology. With Jobber, they can quote, schedule, invoice, and collect pay",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.555138",
+    "first_seen": "2026-10-20T08:49:41.555140"
+  },
+  {
+    "id": "8606253e0eec0756",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153640-director-emea-government-affairs-public-policy",
+    "title": "Director, EMEA Government Affairs & Public Policy",
+    "company": "Chainguard",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.554309",
+    "first_seen": "2026-10-20T08:49:41.554311"
+  },
+  {
+    "id": "62eb4dcad25ae57c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153632-sales-director-namer-us",
+    "title": "Sales Director, NAMER | US",
+    "company": "Degreed",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Degreed is the leading enterprise learning system for workforce transformation, bringing together everything people need to learn and advance: courses, videos, articles, projects, and real-world skill insights, matched to individual roles, skills, and goals. For businesses, Degreed builds the infras",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.552214",
+    "first_seen": "2026-10-20T08:49:41.552216"
+  },
+  {
+    "id": "33845b51d69cab06",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153633-account-executive-commercial-coms114",
+    "title": "Account Executive - Commercial (ComS114)",
+    "company": "Defense Unicorns",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "This position offers a base salary of $145,000 - $185,000. (Total on-target earnings of $290,000 to $370,000) Role Description: Defense Unicorns is seeking a mission-driven Account Executive to spearhead full-lifecycle capture efforts across the Defense Industrial Base. In this high-impact role, you",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.551344",
+    "first_seen": "2026-10-20T08:49:41.551346"
+  },
+  {
+    "id": "ad69ef95133f3021",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153631-technical-recruiter",
+    "title": "Technical Recruiter",
+    "company": "Roboflow",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "Technical Recruiter Who We Are Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too. We’re building the tools, community, and resources needed to make the world programmable with artificial intell",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.551054",
+    "first_seen": "2026-10-20T08:49:41.551055"
+  },
+  {
+    "id": "b7899515506ffcaa",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151116-senior-account-executive-us-west-coast",
+    "title": "Senior Account Executive (US, West Coast)",
+    "company": "emnify",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Senior Account Executive — West Coast (Remote, US) About emnify emnify is a leading cloud-native IoT connectivity provider helping businesses connect and manage devices globally through a single, modern platform. Our technology powers connected products across industries including mobility, logistic",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.550716",
+    "first_seen": "2026-10-20T08:49:41.550718"
+  },
+  {
+    "id": "723a15519ac9f91f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151174-seo-aso-manager",
+    "title": "SEO/ASO Manager",
+    "company": "Life360",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "seo"
+    ],
+    "description_snippet": "About Life360 Life360’s mission is to keep people close to the ones they love. Our category-leading mobile app, Tile tracking devices, and Pet GPS tracker empower members to protect the people, pets, and things they care about most with a range of services, including location sharing, safe driver re",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.550463",
+    "first_seen": "2026-10-20T08:49:41.550465"
+  },
+  {
+    "id": "e99aa6b07ea08321",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153676-technical-integrations-consultant",
+    "title": "Technical Integrations Consultant",
+    "company": "Zip",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "About Zip Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before. The world’s most i",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.550015",
+    "first_seen": "2026-10-20T08:49:41.550016"
+  },
+  {
+    "id": "afd83a48f1da7b06",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153674-application-integration-developer",
+    "title": "Application Integration Developer",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.549695",
+    "first_seen": "2026-10-20T08:49:41.549696"
+  },
+  {
+    "id": "989b73dac9dbc55a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153650-technical-account-manager-zephr",
+    "title": "Technical Account Manager, Zephr",
+    "company": "Zuora",
+    "location": "Bulgaria,  Italy",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Role : Technical Account Manager, Zephr Location, Sofia, Bulgaria / Italy - Bari or Naples Company Overview At Zuora , we do Modern Business. We help companies subscribe to new ways of doing business that are better for people, companies, and ultimately the planet. Through our leading expertise and ",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.549547",
+    "first_seen": "2026-10-20T08:49:41.549549"
+  },
+  {
+    "id": "f86e7a66ae521970",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153662-gtm-recruiter",
+    "title": "GTM Recruiter",
+    "company": "Elevenlabs",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.549304",
+    "first_seen": "2026-10-20T08:49:41.549306"
+  },
+  {
+    "id": "1c3fe868e38f697f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153654-principal-product-manager-conversational-ai",
+    "title": "Principal Product Manager- Conversational AI",
+    "company": "Hopper",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About the Role HTS Assist is Hopper 's agentic AI assistant for travel, resolving real customer issues like flight changes, cancellations, refunds, and bookings over chat and voice for some of the largest travel brands and enterprises in the world. Voice carries its own product problems, from latenc",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:41.548762",
+    "first_seen": "2026-10-20T08:49:41.548764"
+  },
+  {
+    "id": "dbdcbd3153337288",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=e997f334277648f4",
+    "title": "Data Engineer",
+    "company": "Spectrum Comm Inc",
+    "location": "Newport News, VA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "parttime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "power bi",
+      "tableau",
+      "pandas"
+    ],
+    "description_snippet": "This position is responsible for the collection, validation, storage, processing, and analysis of supplier and company data in support of United States Air Force operational and strategic decision-making. This position plays a critical role in ensuring data accuracy, integrity, and availability to s",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-10-20T08:49:31.350107",
+    "first_seen": "2026-10-20T08:49:31.350109"
+  },
+  {
+    "id": "674db07f8993017b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=44d1964930086600",
+    "title": "Data Engineer - Google Cloud Platform",
+    "company": "The Hartford",
+    "location": "Charlotte, NC, USA",
+    "is_remote": false,
+    "salary": "USD 100,960 – 151,440/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "gcp",
+      "data engineering",
+      "machine learning",
+      "bigquery",
+      "snowflake",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Job Details**\n---------------\n\nLocation:\n\nCharlotte, NC\n\nCategory:\n\nData Engineering\n\nEmployment Type:\n\nFull time, Hybrid\n\nJob Ref:\n\nR2627489-166\n\nData Engineer - GE08AE\n\nWe’re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Wo",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-20T08:49:31.348605",
+    "first_seen": "2026-10-20T08:49:31.348607"
+  },
+  {
+    "id": "2fb418924787de17",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d71a709d9b881ace",
+    "title": "Sr. Staff Data Engineer",
+    "company": "SonderMind",
+    "location": "Tampa, FL, USA",
+    "is_remote": true,
+    "salary": "USD 180,000 – 200,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "data engineering",
+      "machine learning",
+      "data warehouse",
+      "scala",
+      "rust",
+      "gpt"
+    ],
+    "description_snippet": "**About SonderMind**\n--------------------\n\nAt SonderMind, we believe everyone deserves one personalized, connected, and effective mental health destination to take care of their mental health and well-being at any stage of life. SonderMind care encompasses everything from therapy and medication mana",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-20T08:49:31.348297",
+    "first_seen": "2026-10-20T08:49:31.348300"
+  },
+  {
+    "id": "97372e0090eb4f9b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=e0fe8b81b11a7fd0",
+    "title": "War Data Platform / Foundry Data Architect & Analyst",
+    "company": "KALMAN & COMPANY, INC.",
+    "location": "Stafford, VA, USA",
+    "is_remote": false,
+    "salary": "USD 160,000 – 195,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "power bi",
+      "tableau",
+      "data engineering",
+      "databricks",
+      "scala",
+      "llm"
+    ],
+    "description_snippet": "**War Data Platform / Palantir Foundry Data Architect & Analyst**\n\nKalman & Company is seeking a highly motivated data architect and analyst with deep expertise in War Data Platform (WDP), Palantir Foundry, and modern data engineering practices to support our Federal and DoW clients. Successful cand",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-20T08:49:31.347912",
+    "first_seen": "2026-10-20T08:49:31.347914"
+  },
+  {
+    "id": "502c944a56076ddd",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5ccad523407dc009",
+    "title": "Data Architect",
+    "company": "i3Tech",
+    "location": "Las Vegas, NV, USA",
+    "is_remote": false,
+    "salary": "USD 75 – 75/hourly",
+    "job_type": "fulltime, contract",
+    "tags": [
+      "sql",
+      "azure",
+      "data engineering",
+      "snowflake",
+      "databricks",
+      "synapse",
+      "data warehouse",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Location:** Las Vegas, NV (100% onsite; local candidates preferred, but not required)\n\n**Pay:** $75/hr (1099 contract)\n\n**Requirements (the 3 candidates with the most experience and most relevant experience will be submitted in our bid to the State):**\n\n**Education**\n\n* Relevant education, profess",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:31.347678",
+    "first_seen": "2026-10-20T08:49:31.347680"
+  },
+  {
+    "id": "ef90c456d39fe541",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=694472285f7e8bd7",
+    "title": "Staff Sales Analyst",
+    "company": "Mulligan Funding, LLC",
+    "location": "San Diego, CA, USA",
+    "is_remote": false,
+    "salary": "USD 131,700 – 170,900/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "power bi",
+      "tableau",
+      "data engineering",
+      "machine learning",
+      "pandas",
+      "numpy",
+      "scala",
+      "llm",
+      "prompt engineering",
+      "generative ai"
+    ],
+    "description_snippet": "*Mulligan Funding is a San Diego based fintech lender to the Small and Medium Sized Business market. We are building a deeply researched and first-of-it’s-kind, Agentic AI complete funnel automation strategy. Mulligan has decades of deep credit underwriting and analytics expertise, combined with ric",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T08:49:31.347418",
+    "first_seen": "2026-10-20T08:49:31.347420"
+  },
+  {
+    "id": "e29da264519f5a9f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=964c29099664c089",
+    "title": "Onsite_Messaging Operations Engineer_ Plano TX",
+    "company": "THEMESOFT",
+    "location": "Plano, TX, USA",
+    "is_remote": false,
+    "salary": "USD 54 – 54/hourly",
+    "job_type": "nan",
+    "tags": [
+      "azure",
+      "scala"
+    ],
+    "description_snippet": "Job Title: Messaging Operations Engineer  \nLocation: Onsite-Plano, Texas  \nWork Arrangement: Onsite  \nEmployment Type: Contract  \nDuration: 6 Months  \n  \nMust Have Technical/Functional Skills  \nMust Have Skills:  \nProvide Tier 3/Tier 4 operational support for Exchange Online, including incident resp",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-20T08:49:23.156029",
+    "first_seen": "2026-10-20T08:49:23.156031"
+  },
+  {
+    "id": "857edb5e4349a3ca",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=82a5c0ffe75e0df7",
+    "title": "Senior Data Engineer (w/ Oracle & OLTP) - Remote Role",
+    "company": "NTT DATA",
+    "location": "Plano, TX, USA",
+    "is_remote": false,
+    "salary": "USD 65 – 75/hourly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "kafka",
+      "aws",
+      "data engineering",
+      "snowflake",
+      "java",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.  \n  \nWe are currently seeking a Senior Data Engineer (w/ Oracle & OLTP) - On-Site to join our team in",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-20T08:49:17.895425",
+    "first_seen": "2026-10-20T08:49:17.895427"
+  },
+  {
     "id": "ed5d0a2c9003d95e",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=5e29cc918dda3a0b",
