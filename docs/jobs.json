@@ -1,5 +1,626 @@
 [
   {
+    "id": "89301097a21f394a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155969-director-engineering-platform-services",
+    "title": "Director, Engineering, Platform/Services",
+    "company": "Life360",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Life360 Life360’s mission is to keep people close to the ones they love. Our category-leading mobile app, Tile tracking devices, and Pet GPS tracker empower members to protect the people, pets, and things they care about most with a range of services, including location sharing, safe driver re",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.999284",
+    "first_seen": "2026-10-20T20:16:30.999286"
+  },
+  {
+    "id": "5a505f3131cecc5a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155975-grc-governance-risk-and-compliance-analyst",
+    "title": "GRC (Governance, Risk, and Compliance) Analyst",
+    "company": "YipitData",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across ",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.998891",
+    "first_seen": "2026-10-20T20:16:30.998893"
+  },
+  {
+    "id": "81446d37080884eb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155972-director-of-strategic-data-partnerships",
+    "title": "Director of Strategic Data Partnerships",
+    "company": "YipitData",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "About Us YipitData is the leading market research and analytics firm for the disruptive economy. We analyze billions of alternative data points every day to provide accurate, detailed insights across sectors, including e-commerce, ridesharing, payments, and marketplaces. Our proprietary technology i",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.998574",
+    "first_seen": "2026-10-20T20:16:30.998576"
+  },
+  {
+    "id": "6319e043a40bfb09",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155974-principal-product-manager-identity-trust",
+    "title": "Principal Product Manager, Identity & Trust",
+    "company": "Life360",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Life360 Life360’s mission is to keep people close to the ones they love. Our category-leading mobile app, Tile tracking devices, and Pet GPS tracker empower members to protect the people, pets, and things they care about most with a range of services, including location sharing, safe driver re",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.998360",
+    "first_seen": "2026-10-20T20:16:30.998361"
+  },
+  {
+    "id": "523529a01ad074bd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155971-lead-data-scientist-2",
+    "title": "Lead Data Scientist",
+    "company": "Life360",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About Life360 Life360’s mission is to keep people close to the ones they love. Our category-leading mobile app, Tile tracking devices, and Pet GPS tracker empower members to protect the people, pets, and things they care about most with a range of services, including location sharing, safe driver re",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.997969",
+    "first_seen": "2026-10-20T20:16:30.997971"
+  },
+  {
+    "id": "7113ce65c68c7659",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155984-technical-product-manager-ai-data-analytics",
+    "title": "Technical Product Manager - AI & Data Analytics",
+    "company": "WorkWave",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "We aren’t just looking for someone to manage a backlog; we’re looking for the founding architect of our customer-facing data and AI strategy. As a Technical Product Manager (Data &amp; AI) , you will sit at the high-impact intersection of cutting-edge Data Science, modern Engineering, and customer-f",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.997604",
+    "first_seen": "2026-10-20T20:16:30.997606"
+  },
+  {
+    "id": "6832276c1fdbfcf0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155981-compliance-manager-bsa-aml-program",
+    "title": "Compliance Manager, BSA/AML Program",
+    "company": "Upstart",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confi",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.997190",
+    "first_seen": "2026-10-20T20:16:30.997191"
+  },
+  {
+    "id": "d790a97101befc18",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155991-sr-staff-engineer-fullstack-backend",
+    "title": "Sr. Staff Engineer (Fullstack/Backend)",
+    "company": "hims &#038; hers",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatmen",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.996831",
+    "first_seen": "2026-10-20T20:16:30.996832"
+  },
+  {
+    "id": "8e62e90d8f7c8471",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155992-staff-data-center-implementation-manager",
+    "title": "Staff Data Center Implementation Manager",
+    "company": "Lambda",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Lambda , The Superintelligence Cloud, is a leader in AI cloud infrastructure serving tens of thousands of customers. Our customers range from AI researchers to enterprises and hyperscalers. Lambda's mission is to make compute as ubiquitous as electricity and give everyone the power of superintellige",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.996579",
+    "first_seen": "2026-10-20T20:16:30.996580"
+  },
+  {
+    "id": "60cbb46be7291143",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155988-staff-software-engineer-full-stack-backend",
+    "title": "Staff Software Engineer (Full-stack/Backend)",
+    "company": "hims &#038; hers",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatmen",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.996204",
+    "first_seen": "2026-10-20T20:16:30.996205"
+  },
+  {
+    "id": "60ac70638d534985",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155989-technical-success-engineer-2",
+    "title": "Technical Success Engineer",
+    "company": "Lambda",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Lambda , The Superintelligence Cloud, is a leader in AI cloud infrastructure serving tens of thousands of customers. Our customers range from AI researchers to enterprises and hyperscalers. Lambda's mission is to make compute as ubiquitous as electricity and give everyone the power of superintellige",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.995933",
+    "first_seen": "2026-10-20T20:16:30.995934"
+  },
+  {
+    "id": "756a24911a89daec",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155997-senior-electrical-delivery-engineer",
+    "title": "Senior Electrical Delivery Engineer",
+    "company": "Lambda",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Lambda , The Superintelligence Cloud, is a leader in AI cloud infrastructure serving tens of thousands of customers. Our customers range from AI researchers to enterprises and hyperscalers. Lambda's mission is to make compute as ubiquitous as electricity and give everyone the power of superintellige",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.995742",
+    "first_seen": "2026-10-20T20:16:30.995743"
+  },
+  {
+    "id": "fe3811cf818e3911",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155995-principal-engineer-platform-data-3",
+    "title": "Principal Engineer - Platform & Data",
+    "company": "Masabi",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Us_ // At Masabi , we’re driving the fare payment revolution, powering the journeys of millions all over the world. We build fare collection platforms that allow riders to seamlessly buy and present tickets for public transport either on their mobile phones, from a ticket machine, or even by t",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.995531",
+    "first_seen": "2026-10-20T20:16:30.995533"
+  },
+  {
+    "id": "cf17907634607c30",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156002-territory-partner-manager-mi-il-in-oh",
+    "title": "Territory Partner Manager (MI, IL, IN, OH)",
+    "company": "Nextiva",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Redefine the future of customer experiences. One conversation at a time. At Nextiva , we’re reimagining how businesses connect, bringing together customer experience and team collaboration on a single, conversation centric platform. Powered by AI, driven by human innovation. Our culture is forward t",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.995233",
+    "first_seen": "2026-10-20T20:16:30.995235"
+  },
+  {
+    "id": "53bbb4ebfcb08b08",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156004-sales-engineer-denver",
+    "title": "Sales Engineer - Denver",
+    "company": "Harness",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.994966",
+    "first_seen": "2026-10-20T20:16:30.994967"
+  },
+  {
+    "id": "7bacc03ae5b40397",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156006-sales-engineer-los-angeles",
+    "title": "Sales Engineer - Los Angeles",
+    "company": "Harness",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.994746",
+    "first_seen": "2026-10-20T20:16:30.994747"
+  },
+  {
+    "id": "a1e1f3ae292b163b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155998-principal-software-engineer-2",
+    "title": "Principal Software Engineer",
+    "company": "Harness",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.994503",
+    "first_seen": "2026-10-20T20:16:30.994505"
+  },
+  {
+    "id": "ea23fe530ea3c02a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156010-analytics-engineer-5",
+    "title": "Analytics Engineer",
+    "company": "Reddit",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.994235",
+    "first_seen": "2026-10-20T20:16:30.994237"
+  },
+  {
+    "id": "566bd95c30c5adee",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156009-senior-lead-account-executive-enterprise",
+    "title": "Senior Lead Account Executive - Enterprise",
+    "company": "Emburse",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Who We Are: At Emburse , you’ll not just imagine the future – you’ll build it. As a leader in expense intelligence, we are creating a future where technology drives business value and inspires extraordinary results. Our AI-powered platform helps organizations modernize financial operations, increase",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.993975",
+    "first_seen": "2026-10-20T20:16:30.993976"
+  },
+  {
+    "id": "914ef2863727538c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156017-engineering-manager-knowledge-graph-platform",
+    "title": "Engineering Manager, Knowledge Graph Platform",
+    "company": "Reddit",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.993762",
+    "first_seen": "2026-10-20T20:16:30.993764"
+  },
+  {
+    "id": "f2ea013624176327",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156019-senior-staff-devops-engineer",
+    "title": "Senior Staff DevOps Engineer",
+    "company": "Cision",
+    "location": "Brazil,  Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "At Cision , we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, al",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.993439",
+    "first_seen": "2026-10-20T20:16:30.993441"
+  },
+  {
+    "id": "c9e8893fbabbac04",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156023-head-of-customer-growth",
+    "title": "Head of Customer Growth",
+    "company": "RevenueCat",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volum",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.993167",
+    "first_seen": "2026-10-20T20:16:30.993169"
+  },
+  {
+    "id": "edaf7777cd753d63",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156025-onboarding-coach-guest-experience-latam",
+    "title": "Onboarding Coach - Guest Experience - LATAM",
+    "company": "Cloudbeds",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "What Makes Cloudbeds Unique At Cloudbeds , we're not just building software, we're transforming hospitality. Our platform powers hotels across 150 countries, processing billions in bookings annually. From boutique properties to large hotel groups, we help hoteliers transform operations and uplevel t",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.992677",
+    "first_seen": "2026-10-20T20:16:30.992679"
+  },
+  {
+    "id": "e40342a029e6d9e4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156020-head-of-sales-2",
+    "title": "Head of Sales",
+    "company": "RevenueCat",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volum",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.992302",
+    "first_seen": "2026-10-20T20:16:30.992303"
+  },
+  {
+    "id": "ef511ebed6645479",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156026-senior-software-engineer-agents-2",
+    "title": "Senior Software Engineer, Agents",
+    "company": "RevenueCat",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volum",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:30.991936",
+    "first_seen": "2026-10-20T20:16:30.991946"
+  },
+  {
+    "id": "33029cd2ecab6911",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4b45f940ac50cddc",
+    "title": "Data Engineer",
+    "company": "WellSpan Health",
+    "location": "York, PA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "data engineering",
+      "machine learning",
+      "data warehouse"
+    ],
+    "description_snippet": "**General Summary**\n\nResponsible for the architecture, design, implementation and support of data warehouse and data management solutions to support business intelligence, working with the ACoE (Analytics Center of Excellence) data engineering team. This position works closely with key business and ",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:25.519881",
+    "first_seen": "2026-10-20T20:16:25.519885"
+  },
+  {
+    "id": "9a9c061519b2d011",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d0621c1a8efcfbab",
+    "title": "Senior RF Engineer",
+    "company": "Cowboy Space Corp.",
+    "location": "San Carlos, CA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "aws",
+      "scala"
+    ],
+    "description_snippet": "**About Cowboy Space Corp.**\n\n**Mission**\n  \nCowboy Space Corporation is solving the global energy crisis by building the infrastructure for abundant, resilient space-based solar energy. We are tackling one of humanity’s most complex engineering challenges with a world-class team dedicated to delive",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-20T20:16:21.732375",
+    "first_seen": "2026-10-20T20:16:21.732377"
+  },
+  {
+    "id": "397d4b4a1e473b68",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c6bb5c4f9559d338",
+    "title": "Principal Systems Engineer (API Gateway) - TS/SCI w CI Poly",
+    "company": "Modern Government Solutions",
+    "location": "Sterling, VA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "azure",
+      "aws",
+      "gcp",
+      "java",
+      "scala"
+    ],
+    "description_snippet": "**TITLE:** Principal Systems Engineer (API Gateway)\n\n**LOCATION:** Sterling, VA (Relocation assistance considered)\n\n**CLEARANCE REQUIRED:** Active TS/SCI with CI Poly\n\n**EMPLOYMENT TYPE:** Full-time, Onsite\n\n**POSITION SUMMARY**\n\nModern Government Solutions (MGS) is seeking a Principal Systems Engin",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-20T20:16:21.731674",
+    "first_seen": "2026-10-20T20:16:21.731676"
+  },
+  {
+    "id": "23a299f327f9bd71",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=ab533e601a586c93",
+    "title": "Staff Network Engineer",
+    "company": "ENSCO, Inc.",
+    "location": "El Segundo, CA, USA",
+    "is_remote": false,
+    "salary": "USD 150,000 – 187,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "rust"
+    ],
+    "description_snippet": "For more than 50 years, ENSCO has been providing leading-edge engineering, science and advanced technology solutions to governments and private industries worldwide.\n\nENSCO prides itself in creating and applying advanced technologies for mission success. We provide systems engineering, integration, ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-20T20:16:14.130594",
+    "first_seen": "2026-10-20T20:16:14.130596"
+  },
+  {
+    "id": "8f3851f2c3dc6728",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d8256186a0d3facb",
+    "title": "Network Automation & AI Engineer",
+    "company": "EAPPS TECH LLC dba Magicforce",
+    "location": "Raleigh, NC, USA",
+    "is_remote": true,
+    "salary": "USD 50 – 55/hourly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "gcp",
+      "llm",
+      "generative ai"
+    ],
+    "description_snippet": "**Job Title:** **Network Automation & AI Engineer**\n\n**Location:** **Remote**\n\n**Duration: 12+ Months**\n\n**Job Description:**\n\nBuild automation solutions for network configuration, monitoring, validation, troubleshooting, and reporting.  \nIntegrate Cisco, Meraki, GCP, and enterprise monitoring APIs.",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-20T20:16:14.130186",
+    "first_seen": "2026-10-20T20:16:14.130188"
+  },
+  {
+    "id": "2d3a8b425d5a0c16",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=69b20d59008808f8",
+    "title": "Senior Colleague Modernization Engineer",
+    "company": "Ellucian",
+    "location": "Remote, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "scala",
+      "rust",
+      "llm"
+    ],
+    "description_snippet": "Ellucian powers innovation for higher education, partnering with approximately 3,000 customers across 50 countries, serving more than 21 million students. Ellucian's AI-powered platform, trained on the richest dataset available in higher education, drives efficiency, personalized experiences, and st",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:14.130055",
+    "first_seen": "2026-10-20T20:16:14.130057"
+  },
+  {
+    "id": "598dc23007652551",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=fbed5d43e1b1f909",
+    "title": "Chief Cyber Security Engineer",
+    "company": "Revolutional, LLC",
+    "location": "Washington, DC, USA",
+    "is_remote": false,
+    "salary": "USD 190,000 – 235,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "azure",
+      "aws",
+      "medallion"
+    ],
+    "description_snippet": "**Revolutional** delivers advanced technology solutions and mission support to federal agencies across civilian, health, and national security environments. We apply modern capabilities, including AI/ML, cloud, cybersecurity, and IT modernization to solve complex challenges, enable faster and more s",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:14.129008",
+    "first_seen": "2026-10-20T20:16:14.129011"
+  },
+  {
+    "id": "e81f1d7682cfb702",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5ea20906fb4159ba",
+    "title": "Sr. Data Engineer",
+    "company": "Visa",
+    "location": "Bellevue, WA, USA",
+    "is_remote": false,
+    "salary": "USD 118,700 – 183,600/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "spark",
+      "pyspark",
+      "airflow",
+      "kafka",
+      "data engineering",
+      "ci/cd",
+      "scala",
+      "generative ai"
+    ],
+    "description_snippet": "**About Us**  \nVisa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid.\n\n",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T20:16:10.298361",
+    "first_seen": "2026-10-20T20:16:10.298365"
+  },
+  {
     "id": "2fc727d3c2351185",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/toptal-salesforce-developer-for-org-ownership-and-ongoing-platform-development",
