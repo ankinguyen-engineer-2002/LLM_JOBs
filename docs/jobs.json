@@ -1,5 +1,476 @@
 [
   {
+    "id": "dc4d9c9789a1ac26",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155953-group-product-manager-platform-experience",
+    "title": "Group Product Manager - Platform Experience",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T15:17:31.663421",
+    "first_seen": "2026-10-20T15:17:31.663422"
+  },
+  {
+    "id": "c22ca81002afe667",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155948-3pl-operations-manager",
+    "title": "3PL Operations Manager",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T15:17:31.663335",
+    "first_seen": "2026-10-20T15:17:31.663336"
+  },
+  {
+    "id": "dde6f2db586f4d9e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155954-head-of-employee-relations",
+    "title": "Head of Employee Relations",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T15:17:31.663191",
+    "first_seen": "2026-10-20T15:17:31.663192"
+  },
+  {
+    "id": "a51dfd91ad2f3e13",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155949-senior-full-stack-engineer-8",
+    "title": "Senior Full Stack Engineer",
+    "company": "infisical",
+    "location": "Brazil,  Canada,  Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, cer",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T15:17:31.663044",
+    "first_seen": "2026-10-20T15:17:31.663045"
+  },
+  {
+    "id": "fb8304d886d98b0d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155950-full-stack-engineer-7",
+    "title": "Full Stack Engineer",
+    "company": "infisical",
+    "location": "Brazil,  Canada,  Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, cer",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T15:17:31.662972",
+    "first_seen": "2026-10-20T15:17:31.662972"
+  },
+  {
+    "id": "484542818890789a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155951-forward-deployed-engineer-physical-ai-infrastructure",
+    "title": "Forward Deployed Engineer, Physical AI Infrastructure",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T15:17:31.662892",
+    "first_seen": "2026-10-20T15:17:31.662892"
+  },
+  {
+    "id": "6282e70156be9f22",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155955-learning-experience-designer-nebius-academy",
+    "title": "Learning Experience Designer, Nebius Academy",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "education & e-learning"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T15:17:31.662750",
+    "first_seen": "2026-10-20T15:17:31.662751"
+  },
+  {
+    "id": "36848983cfc6f94e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155956-manager-ml-solutions-architecture-token-factory",
+    "title": "Manager, ML Solutions Architecture - Token Factory",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T15:17:31.662661",
+    "first_seen": "2026-10-20T15:17:31.662662"
+  },
+  {
+    "id": "c19249fbcdbfa8d1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155952-founding-enterprise-account-executive-uk-tavily",
+    "title": "Founding Enterprise Account Executive, UK - Tavily",
+    "company": "Nebius",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T15:17:31.662444",
+    "first_seen": "2026-10-20T15:17:31.662444"
+  },
+  {
+    "id": "ea11fbb6c7bee45a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155959-engineering-manager-compose",
+    "title": "Engineering Manager, Compose",
+    "company": "Mural",
+    "location": "Spain,  UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "ABOUT THE TEAM The Mural Compose team is ambitious and fast-moving. We are passionate builders who love to experiment and iterate. Our project is seeking to leverage the latest technology in AI to acquire new customers and expand our revenue base as broadly as possible. This team is at the front of ",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T15:17:31.662345",
+    "first_seen": "2026-10-20T15:17:31.662346"
+  },
+  {
+    "id": "5af846f1f42d6f94",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155961-product-marketing-lead-billing",
+    "title": "Product Marketing Lead, Billing",
+    "company": "Paddle",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain ",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T15:17:31.662270",
+    "first_seen": "2026-10-20T15:17:31.662271"
+  },
+  {
+    "id": "0ac42f055ef0fb1a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155964-ml-infrastructure-engineer",
+    "title": "ML Infrastructure Engineer",
+    "company": "Nebius",
+    "location": "Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T15:17:31.662108",
+    "first_seen": "2026-10-20T15:17:31.662109"
+  },
+  {
+    "id": "2c084878ad83cc7c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155962-microsoft-365-engineer",
+    "title": "Microsoft 365 Engineer",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T15:17:31.662008",
+    "first_seen": "2026-10-20T15:17:31.662008"
+  },
+  {
+    "id": "a95208f785d41a90",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155963-senior-ai-engineer-gtm",
+    "title": "Senior AI Engineer (GTM)",
+    "company": "Paddle",
+    "location": "Canada,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain ",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T15:17:31.661839",
+    "first_seen": "2026-10-20T15:17:31.661840"
+  },
+  {
+    "id": "1e45e1aeb7acb8da",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/155966-staff-systems-engineer",
+    "title": "Staff Systems Engineer",
+    "company": "Paddle",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain ",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T15:17:31.661664",
+    "first_seen": "2026-10-20T15:17:31.661677"
+  },
+  {
+    "id": "6a520fe1371df4da",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=cd24ecca2d396a6a",
+    "title": "Snowflake Data Engineer",
+    "company": "Converge Info Systems",
+    "location": "Frisco, TX, USA",
+    "is_remote": false,
+    "salary": "USD 116,000 – 140,000/yearly",
+    "job_type": "parttime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "aws",
+      "data engineering",
+      "snowflake",
+      "java",
+      "scala"
+    ],
+    "description_snippet": "**Overview**\n\nWe are seeking a dynamic and highly skilled Snowflake Data Engineer to join our innovative data team. In this role, you will be at the forefront of designing, developing, and maintaining scalable data solutions within the Snowflake cloud data platform. Your expertise will enable our or",
+    "posted_date": "2026-10-10",
+    "scraped_at": "2026-10-20T15:17:26.237633",
+    "first_seen": "2026-10-20T15:17:26.237633"
+  },
+  {
+    "id": "e7614e330c94274f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1371f88e31739c77",
+    "title": "Data & AI Engineer",
+    "company": "Revstar",
+    "location": "FL, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "aws",
+      "gcp",
+      "mlflow",
+      "data engineering",
+      "databricks",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Build What Matters at RevStar**\n\n**Position:** Data & AI Engineer\n\n* **Reports To:** Product Manager/Engineering Lead\n* **Location**: Remote (AZ, DC, FL, GA, IA, IL, ME, NY, NJ, SC, TX, VA)\n* **Employment Type:** Full-Time W2\n\n**Job Summary**\n\nReady to build greenfield Lakehouse solutions at the b",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-20T15:17:26.236662",
+    "first_seen": "2026-10-20T15:17:26.236663"
+  },
+  {
+    "id": "bb89b0ec6bc4a1b8",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=9d532bb810a46f8d",
+    "title": "Sr. Staff Data Engineer",
+    "company": "SonderMind",
+    "location": "Columbus, OH, USA",
+    "is_remote": true,
+    "salary": "USD 180,000 – 200,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "data engineering",
+      "machine learning",
+      "data warehouse",
+      "scala",
+      "rust",
+      "gpt"
+    ],
+    "description_snippet": "**About SonderMind**\n--------------------\n\nAt SonderMind, we believe everyone deserves one personalized, connected, and effective mental health destination to take care of their mental health and well-being at any stage of life. SonderMind care encompasses everything from therapy and medication mana",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-20T15:17:21.947608",
+    "first_seen": "2026-10-20T15:17:21.947609"
+  },
+  {
+    "id": "afef74290c99c3c0",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c4ddd38377cb7079",
+    "title": "Tech Specialist 4",
+    "company": "M.C. Dean, Inc.",
+    "location": "Charleston, SC, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "Overview:\n\n**About M.C. Dean**\n\nM.C. Dean is Building Intelligence®. We design, build, operate, and maintain cyber-physical solutions for the nation’s most mission-critical facilities, secure environments, complex infrastructure, and global enterprises. With over 9,000 employees, our capabilities sp",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-20T15:17:16.988928",
+    "first_seen": "2026-10-20T15:17:16.988929"
+  },
+  {
+    "id": "7c838dc30ece9c7f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=0b06c504c630d06c",
+    "title": "Databricks Forward Deployed Engineer",
+    "company": "Revstar",
+    "location": "FL, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "azure",
+      "aws",
+      "gcp",
+      "mlflow",
+      "data engineering",
+      "machine learning",
+      "snowflake",
+      "databricks",
+      "data warehouse",
+      "scala",
+      "rust",
+      "llm",
+      "generative ai"
+    ],
+    "description_snippet": "**Build What Matters at RevStar**\n\n**Position:** Databricks Forward Deployed Engineer (FDE)\n\n* **Reports To:** Product Manager/Engineering Lead\n* **Location**: Remote (AZ, FL, TX)\n* **Employment Type:** Full-Time W2\n\n**Job Summary**\n\nAt RevStar, we build cutting-edge cloud, data, and Generative AI s",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-20T15:17:12.319984",
+    "first_seen": "2026-10-20T15:17:12.319985"
+  },
+  {
+    "id": "b554bfc79a859520",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7fc3bc71511915dc",
+    "title": "Mirth Engineer",
+    "company": "Zotec Partners",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "java",
+      "rust"
+    ],
+    "description_snippet": "**At Zotec Partners, our People make it happen.**  \n  \nTransforming the healthcare industry isn’t easy. But when you build a team like the one we have, that goal can become a reality. Our accomplishments can’t happen without our extraordinary people – the men and women across the country who make up",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-20T15:17:12.319812",
+    "first_seen": "2026-10-20T15:17:12.319813"
+  },
+  {
+    "id": "f93c4ca8deea611c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=190ef1c30d1056a0",
+    "title": "Manager, Data Engineering",
+    "company": "CubeSmart Self Storage",
+    "location": "Malvern, PA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "azure",
+      "data engineering",
+      "machine learning",
+      "databricks",
+      "ci/cd",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "Overview:\n\n**This is a hybrid role - 2 days remote and 3 days in the Malvern, PA office.**\n\nCubeSmart is seeking a Manager, Data Engineering to lead the team responsible for building and evolving the enterprise data platform that powers analytics, reporting, AI, and critical business decision-making",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T15:17:12.319530",
+    "first_seen": "2026-10-20T15:17:12.319531"
+  },
+  {
+    "id": "fb2b60c649cf1c5e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=aac98019172fadae",
+    "title": "Data Engineer 1",
+    "company": "DAIKIN COMFORT TECHNOLOGIES MFG INC",
+    "location": "Waller, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "aws",
+      "scala"
+    ],
+    "description_snippet": "The Data Engineer is responsible to put in place the framework for a Modern, Simple, Accurate and Secure Data Environment that connects data across the company and sets data up as an asset to the company. Data Engineers will support our software developers, database architects, data analysts and dat",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-20T15:17:07.353022",
+    "first_seen": "2026-10-20T15:17:07.353023"
+  },
+  {
     "id": "a6e87a6b315a68dd",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer",
