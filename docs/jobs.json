@@ -1,5 +1,932 @@
 [
   {
+    "id": "de19ba57a898708f",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923",
+    "title": "Senior Data Engineer - Capital Markets (R13923)",
+    "company": "Oportun",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote - MX Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial fu",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:54:56.584652",
+    "first_seen": "2026-10-21T08:54:56.584656"
+  },
+  {
+    "id": "e1a210d2a240362e",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer",
+    "title": "Core Protocol Engineer",
+    "company": "Ritual",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote About Ritual&nbsp; Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications ",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:54:56.583829",
+    "first_seen": "2026-10-21T08:54:56.583840"
+  },
+  {
+    "id": "5a3b822d2d4d83b4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151084-customer-experience-associate-3",
+    "title": "Customer Experience Associate",
+    "company": "Ramp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:40.436204",
+    "first_seen": "2026-10-21T08:50:40.436206"
+  },
+  {
+    "id": "c6327fdbbec130e7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151843-senior-erp-solutions-consultant",
+    "title": "Senior ERP Solutions Consultant",
+    "company": "Zip",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About Zip Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before. The world’s most i",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:40.435757",
+    "first_seen": "2026-10-21T08:50:40.435768"
+  },
+  {
+    "id": "2dd0966895fefcd1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153707-senior-net-developer-saas-manager",
+    "title": "Senior .NET Developer, SaaS Manager",
+    "company": "1Password",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for a safe, productive di",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:39.755051",
+    "first_seen": "2026-10-21T08:50:39.755062"
+  },
+  {
+    "id": "1a54baad5082fa9f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151217-director-government-partnership-development",
+    "title": "Director, Government Partnership Development",
+    "company": "Ginkgo Bioworks, Inc.",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Our mission is to make biology easier to engineer. Ginkgo is constructing, editing, and redesigning the living world in order to answer the globe’s growing challenges in health, energy, food, materials, and more. Our bioengineers make use of an in-house automated foundry for designing and building n",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.597835",
+    "first_seen": "2026-10-21T08:50:38.597837"
+  },
+  {
+    "id": "6d3760644c6e81c5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/152818-account-executive-17",
+    "title": "Account Executive",
+    "company": "Zscaler",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange™️ platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.597442",
+    "first_seen": "2026-10-21T08:50:38.597444"
+  },
+  {
+    "id": "4de745220c67df83",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/147085-sr-product-owner",
+    "title": "Sr. Product Owner",
+    "company": "Fortive",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "The Sr Product Owner plays a critical role in ensuring that a product or feature is developed with a focus on delivering value to the customer and the business. They act as a voice for the customer and are responsible for making key product-related decisions throughout the development process, inclu",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.597164",
+    "first_seen": "2026-10-21T08:50:38.597165"
+  },
+  {
+    "id": "a7709bf66ad6b3eb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/146688-technical-product-marketer-k0rdent-ai-remote-in-the-us",
+    "title": "Technical Product Marketer, k0rdent AI - remote in the US",
+    "company": "Mirantis",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Company Description Mirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovation with deep expertise in Kub",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.596235",
+    "first_seen": "2026-10-21T08:50:38.596237"
+  },
+  {
+    "id": "2b024d4c161fcbab",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151268-senior-product-manager-2",
+    "title": "Senior Product Manager",
+    "company": "ClickUp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.594171",
+    "first_seen": "2026-10-21T08:50:38.594173"
+  },
+  {
+    "id": "3e12646875852f3f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153713-account-director-digital-native-large-enterprise",
+    "title": "Account Director, Digital Native Large Enterprise",
+    "company": "OpenAI",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About the team OpenAI ’s mission is to build safe artificial general intelligence (AGI) which benefits all of humanity. This long-term undertaking brings the world’s best scientists, engineers, and business professionals into one lab together to accomplish this. In pursuit of this mission, our Go To",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.593935",
+    "first_seen": "2026-10-21T08:50:38.593936"
+  },
+  {
+    "id": "c6b3607a1fd790d6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151262-staff-social-strategy-operations-manager",
+    "title": "Staff Social Strategy & Operations Manager",
+    "company": "ClickUp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.593683",
+    "first_seen": "2026-10-21T08:50:38.593684"
+  },
+  {
+    "id": "78df2b1054da2140",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153724-director-growth",
+    "title": "Director, Growth",
+    "company": "DeleteMe",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "About DeleteMe : DeleteMe is the leader in proactive privacy protection. We help security teams reduce their human attack surface by continuously monitoring and removing exposed personal data (PII) from the open web — the very data threat actors use to launch social engineering, phishing, Gen-AI dee",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.593300",
+    "first_seen": "2026-10-21T08:50:38.593302"
+  },
+  {
+    "id": "92d994e51d7f380d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151221-senior-technical-program-manager-security",
+    "title": "Senior Technical Program Manager - Security",
+    "company": "OpenAI",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About the Team OpenAI builds powerful AI systems like ChatGPT, the OpenAI API, and enterprise products that serve millions of users across the globe. As we scale, securing our infrastructure, protecting sensitive data, and meeting global compliance standards are essential to our success and societal",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.593108",
+    "first_seen": "2026-10-21T08:50:38.593110"
+  },
+  {
+    "id": "dc9881d17f4f5508",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153717-account-director-digital-native-enterprise",
+    "title": "Account Director, Digital Native Enterprise",
+    "company": "OpenAI",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About the team OpenAI ’s mission is to build safe artificial general intelligence (AGI) which benefits all of humanity. This long-term undertaking brings the world’s best scientists, engineers, and business professionals into one lab together to accomplish this. In pursuit of this mission, our Go To",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.592676",
+    "first_seen": "2026-10-21T08:50:38.592678"
+  },
+  {
+    "id": "ab0dd043046e8070",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153689-chief-technology-and-product-officer",
+    "title": "Chief Technology and Product Officer",
+    "company": "saas.group",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "This role is part of our ScraperAPI team, one of our growing brands at saas.group . ScraperAPI is an enterprise-scale web scraping solution, trusted by businesses across a wide range of industries to extract crucial data at scale. From e-commerce, travel to real estate and market research, we suppor",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.592211",
+    "first_seen": "2026-10-21T08:50:38.592213"
+  },
+  {
+    "id": "6c38f7ec51c9a750",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153698-director-of-facilities",
+    "title": "Director of Facilities",
+    "company": "Pattern",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Are you obsessed with data, partner success, taking action, and changing the game? If you have a whole lot of hustle and a touch of nerd, come work with Pattern ! We want you to use your skills to push one of the fastest-growing companies headquartered in the US to the top of the list. Pattern accel",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.591822",
+    "first_seen": "2026-10-21T08:50:38.591823"
+  },
+  {
+    "id": "0d06466b62da55b6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153756-senior-sre-networks",
+    "title": "Senior SRE - Networks",
+    "company": "Fastly",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the ed",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.591212",
+    "first_seen": "2026-10-21T08:50:38.591213"
+  },
+  {
+    "id": "3be38ec67d7a0cfc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153753-associate-director-sr-manager-health-economics-outcomes-research-oncology",
+    "title": "Associate Director/Sr. Manager, Health Economics & Outcomes Research-Oncology",
+    "company": "Natera",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "healthcare & medical"
+    ],
+    "description_snippet": "Position Summary We are seeking a strategic, analytical, and highly collaborative leader to serve as our Associate Director/Senior Manager of Health Economics &amp; Outcomes Research (HEOR) Oncology. In this high-impact role, you will lead the development and execution of health economic and outcome",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.590904",
+    "first_seen": "2026-10-21T08:50:38.590905"
+  },
+  {
+    "id": "896a175a93739aa6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153751-associate-director-of-bioinformatics-womens-health-and-organ-health",
+    "title": "Associate Director of Bioinformatics (Women's Health and Organ Health)",
+    "company": "Natera",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Natera is seeking an Associate Director to lead a team of Bioinformatics Scientists in our Women's Health and Organ Health research organization. You will oversee the scientific planning and execution of research and assay-development of diagnostic projects, and you will be responsible for creating ",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.590181",
+    "first_seen": "2026-10-21T08:50:38.590183"
+  },
+  {
+    "id": "de765b913d71b923",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153745-operations-analyst-finance",
+    "title": "Operations Analyst (Finance)",
+    "company": "Able",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "Back in 2012, we were a group of engineers and designers who decided we wanted to build things, so we did. Able started as an engineering and product hub building for a portfolio of early-stage startups. We built many relationships while developing products that were thoughtful, effective, and genui",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.589564",
+    "first_seen": "2026-10-21T08:50:38.589566"
+  },
+  {
+    "id": "45cba4c6fedb56ae",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153762-partner-sales-manager",
+    "title": "Partner Sales Manager",
+    "company": "Fivetran",
+    "location": "Japan",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "From Fivetran ’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizatio",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.589290",
+    "first_seen": "2026-10-21T08:50:38.589291"
+  },
+  {
+    "id": "68eddab68cd0da03",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153749-customer-evidence-manager",
+    "title": "Customer Evidence Manager",
+    "company": "Dropbox",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Role Description Dropbox is hiring a Customer Evidence Manager to own and drive the customer-proof infrastructure that powers our managed sales motion. This is a senior individual-contributor role for a commercially minded, creatively grounded customer marketer who understands that the value of a cu",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.589026",
+    "first_seen": "2026-10-21T08:50:38.589027"
+  },
+  {
+    "id": "c4bccbf4917b4ddc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153764-sales-director-2",
+    "title": "Sales Director",
+    "company": "Fivetran",
+    "location": "Japan",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "From Fivetran ’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizatio",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.588823",
+    "first_seen": "2026-10-21T08:50:38.588825"
+  },
+  {
+    "id": "ffa7eb176dee5e58",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153723-business-travel-consultant-germany-remote",
+    "title": "Business Travel Consultant (Germany-Remote)",
+    "company": "TripActions",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "At Navan, our mission is to power the in-person connections that move people, ideas and businesses forward. We help our travelers focus on being there, not getting there and our Global Operations and Service team is central to this mission! As a member of our quickly growing Global Operations and Se",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.588544",
+    "first_seen": "2026-10-21T08:50:38.588546"
+  },
+  {
+    "id": "1e53c18262e8a8d5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153727-account-executive-public-sector",
+    "title": "Account Executive, Public Sector",
+    "company": "Motive",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Who we are: Motive empowers the people who run physical operations with tools to make their work safer, more productive, and more profitable. For the first time ever, safety, operations and finance teams can manage their drivers, vehicles, equipment, and fleet related spend in a single system. Combi",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.588377",
+    "first_seen": "2026-10-21T08:50:38.588379"
+  },
+  {
+    "id": "45965b991a1804d6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153761-field-marketing-manager-asia",
+    "title": "Field Marketing Manager, ASIA",
+    "company": "Chainguard",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.587776",
+    "first_seen": "2026-10-21T08:50:38.587778"
+  },
+  {
+    "id": "f0f550940952fc49",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153763-field-marketing-specialist-anz",
+    "title": "Field Marketing Specialist - ANZ",
+    "company": "Chainguard",
+    "location": "Australia,  New Zealand",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.587520",
+    "first_seen": "2026-10-21T08:50:38.587522"
+  },
+  {
+    "id": "8f793fd61157f919",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153765-manager-enterprise-business-development-apj",
+    "title": "Manager, Enterprise Business Development - APJ",
+    "company": "Chainguard",
+    "location": "APAC",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.587298",
+    "first_seen": "2026-10-21T08:50:38.587299"
+  },
+  {
+    "id": "ac0641e149d248df",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153741-senior-software-enginner-full-stack-node-react",
+    "title": "Senior Software Enginner (Full-stack Node + React)",
+    "company": "Airtm",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About us: Airtm is a financial-infrastructure company building the future of the online-work economy. We are on a mission to empower the world's growing number of Digital Entrepreneurs in the Global South, giving them the financial freedom to thrive. The problem is clear: in emerging markets, access",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.586252",
+    "first_seen": "2026-10-21T08:50:38.586254"
+  },
+  {
+    "id": "65089c6144a262e4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156099-people-business-partner-2",
+    "title": "People Business Partner",
+    "company": "Salesloft",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "Job: People Business Partner Location: United States, Remote This is a fully remote opportunity and can be worked from any location in the United States. ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue, one where teams make confident decisions powered by AI and real signa",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.586024",
+    "first_seen": "2026-10-21T08:50:38.586026"
+  },
+  {
+    "id": "a76d2174bc48d3d2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156098-applied-ai-engineer-2",
+    "title": "Applied AI Engineer",
+    "company": "Future PLC",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Us: Future is building a personalized guidance system for lifelong health. We help people understand what to do next for their body, goals, and stage of life — then support them in turning those decisions into sustained behavior change. By combining AI, human expertise, personal health data, a",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.585721",
+    "first_seen": "2026-10-21T08:50:38.585723"
+  },
+  {
+    "id": "a01bf96628cbbb1b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156097-manager-machine-learning-engineering",
+    "title": "Manager, Machine Learning Engineering",
+    "company": "Tala",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Tala Tala is the AI-native credit infrastructure that connects global capital to the global majority. We combine proprietary risk intelligence with an expanding network of capital and distribution partners to power credit access at scale. To date, Tala has distributed more than $9 billion in c",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:38.585499",
+    "first_seen": "2026-10-21T08:50:38.585510"
+  },
+  {
+    "id": "2c9f54d3d5549bda",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-risk-analyst-pavago-1137548",
+    "title": "Risk Analyst",
+    "company": "Pavago",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "analyst",
+      "saas",
+      "sys admin",
+      "infosec",
+      "python",
+      "technical",
+      "recruiter",
+      "customer support",
+      "testing",
+      "marketing"
+    ],
+    "description_snippet": "Risk Analyst / Risk Manager â Remote Enterprise Risk | Compliance | Governance | Financial &amp; Operational Risk Position Type: Full-Time, Remote Working Hours: U.S. Client Business Hours (with flexibility for reporting cycles, audits, and incident response) About the Role At Pavago, weâre hiri",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-21T08:50:38.202357",
+    "first_seen": "2026-10-21T08:50:38.202365"
+  },
+  {
+    "id": "7ff4583a64d272dc",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=756cedddeff2d8c1",
+    "title": "Data Engineer - Associate",
+    "company": "xemptify",
+    "location": "Sunnyvale, CA, USA",
+    "is_remote": false,
+    "salary": "USD 75,000 – 125,000/yearly",
+    "job_type": "fulltime, contract",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "aws",
+      "data engineering",
+      "data warehouse",
+      "java",
+      "scala"
+    ],
+    "description_snippet": "**Job Summary**\n\nXemptify is a digital and product engineering solutions provider that specializes in helping enterprises solve complex business problems through advanced technology\n\nWe are seeking a dynamic and motivated Data Engineer - Associate to join our innovative data team. In this role, you ",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-21T08:50:32.777857",
+    "first_seen": "2026-10-21T08:50:32.777859"
+  },
+  {
+    "id": "59c4ee217e7f504e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b277fbb8f6e41692",
+    "title": "DoW Data Scientist – War Data Platform",
+    "company": "HunaTek Government Solutions",
+    "location": "Quantico, VA, USA",
+    "is_remote": false,
+    "salary": "USD 160,000 – 185,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "power bi",
+      "data engineering",
+      "machine learning",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Position Summary:**\n\nThe DoW Data Scientist – War Data Platform is a mission‑focused technical role responsible for developing advanced data science, analytics, and data‑engineering solutions within the Department of Defense War Data Platform ecosystem. The role requires deep expertise integrating",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T08:50:32.776995",
+    "first_seen": "2026-10-21T08:50:32.777000"
+  },
+  {
+    "id": "23a2df51953df4ef",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=942c39daf3f4dfc9",
+    "title": "Site Engineer",
+    "company": "Symbotic",
+    "location": "Buckeye, AZ, USA",
+    "is_remote": false,
+    "salary": "USD 71,000 – 97,900/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "machine learning",
+      "scala"
+    ],
+    "description_snippet": "**Who we are**\n\nWith its A.I.-powered robotic technology platform, Symbotic is changing the way consumer goods move through the supply chain. Intelligent software orchestrates advanced robots in a high-density, end-to-end system – reinventing warehouse automation for increased efficiency, speed and ",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-21T08:50:28.228478",
+    "first_seen": "2026-10-21T08:50:28.228480"
+  },
+  {
+    "id": "14f8910289e22657",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=954a4b4001b5f82a",
+    "title": "Senior Enterprise Automation Engineer",
+    "company": "CRUSOE",
+    "location": "Sunnyvale, CA, USA",
+    "is_remote": false,
+    "salary": "USD 145,000 – 170,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "azure",
+      "aws",
+      "gcp",
+      "ci/cd",
+      "scala",
+      "llm",
+      "openai",
+      "prompt engineering"
+    ],
+    "description_snippet": "Crusoe is on a mission *to accelerate the abundance of energy and intelligence*. As the only vertically integrated AI infrastructure company built from the ground up, we own and operate each layer of the stack — from electrons to tokens — to power the world's most ambitious AI workloads. When you jo",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-21T08:50:28.227028",
+    "first_seen": "2026-10-21T08:50:28.227030"
+  },
+  {
+    "id": "68a90f9e41b83cab",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=8a794ef80624133a",
+    "title": "Security Data & Automation Engineer",
+    "company": "ITR",
+    "location": "Oak Ridge, TN, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "spark",
+      "kafka",
+      "azure",
+      "aws",
+      "scala"
+    ],
+    "description_snippet": "* Must be eligible for a federal security Clearance (U.S. citizen)\n* Must be able to work on-site in Oak Ridge, TN\n\nA Department of Energy Research and Development facility is looking for a Security Data & Automation Engineer.\n  \n  \nThis person will be responsible for acquiring, ingesting, transform",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-21T08:50:28.226322",
+    "first_seen": "2026-10-21T08:50:28.226324"
+  },
+  {
+    "id": "727cb42db38a61c4",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=dd8123ff15ddd4a3",
+    "title": "Principal RF Electrical Engineer",
+    "company": "HawkEye 360",
+    "location": "Herndon, VA, USA",
+    "is_remote": false,
+    "salary": "USD 170,000 – 200,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "rust"
+    ],
+    "description_snippet": "HawkEye 360 is seeking a Principal RF Electrical Engineer and Team Lead on the Space Team. The Space Team's mission is to design, build, and test small commercial satellites that provide revolutionary RF geospatial analytics.\n\nYou will lead electrical and RF design of our space platforms, with empha",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-21T08:50:28.226129",
+    "first_seen": "2026-10-21T08:50:28.226135"
+  },
+  {
+    "id": "134efffe251b7bad",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5c943b3d08c06a3b",
+    "title": "Network Implementation Engineer II-ISP-Florida",
+    "company": "Forged Fiber 37",
+    "location": "Altamonte Springs, FL, USA",
+    "is_remote": false,
+    "salary": "USD 63,000 – 106,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "aws",
+      "rust"
+    ],
+    "description_snippet": "**About Forged Fiber**\n\nAt Forged Fiber, our mission is bold but simple: deliver fast, reliable, future-proof connectivity that builds the foundation for everything online. As we execute, we believe the right way to do something is the only way. This foundation guides how the company builds, operate",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-21T08:50:24.142269",
+    "first_seen": "2026-10-21T08:50:24.142271"
+  },
+  {
+    "id": "6c890a538902a848",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c988964d7a1feeca",
+    "title": "Launch Engineer-Fluids Systems IV",
+    "company": "Firefly Aerospace",
+    "location": "Bertram, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "**ABOUT FIREFLY AEROSPACE**\n===========================\n\n**Firefly Aerospace is a space and defense technology company that enables our world to launch, land, and operate in space – anywhere, anytime. As the partner of choice for critical space missions, Firefly is the only commercial company to lau",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-21T08:50:24.141012",
+    "first_seen": "2026-10-21T08:50:24.141017"
+  },
+  {
+    "id": "9fd4bfdabf5b3c7b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=140b6e5b8d62ff6a",
+    "title": "Quality Engineer",
+    "company": "Spectrum Control",
+    "location": "Marlborough, MA, USA",
+    "is_remote": false,
+    "salary": "USD 85,000 – 115,000/yearly",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "At Spectrum Control, most departments operate on a 4-day, 10-hour work schedule in exchange for a **3-day weekend**. We offer competitive wages and PTO, plus our benefits begin on **day 1** of employment. Come join a workforce where we put you first!\n\n**Job Summary:** The Quality Engineer plans, coo",
+    "posted_date": "2026-09-28",
+    "scraped_at": "2026-10-21T08:50:19.358283",
+    "first_seen": "2026-10-21T08:50:19.358285"
+  },
+  {
+    "id": "d8aaecb150f59053",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=9e65675607db7ce5",
+    "title": "Aircraft Maintenance Analyst",
+    "company": "PCI Aviation",
+    "location": "Warner Robins, GA, USA",
+    "is_remote": false,
+    "salary": "USD 70,000 – 87,000/yearly",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "**Position:** Aircraft Maintenance Analyst\n\n**Location:** Warner Robins, GA\n\n**Remote Status:** On-site\n\n**Job Summary:**\n\nThe **Aircraft Maintenance Analyst** works with engineers in the development and evaluation of solutions, drafting technical instructions, development parts lists, data collecti",
+    "posted_date": "2026-09-28",
+    "scraped_at": "2026-10-21T08:50:19.357965",
+    "first_seen": "2026-10-21T08:50:19.357966"
+  },
+  {
+    "id": "d4fe803eb95829f0",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5a2c60aeb23dac05",
+    "title": "Engineer, Associate",
+    "company": "Medical Murray",
+    "location": "N Barrington, IL, USA",
+    "is_remote": false,
+    "salary": "USD 65,000 – 75,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "rust"
+    ],
+    "description_snippet": "**Title:** R&D Engineer II\n\n**Location:** North Barrington\n\n**Employment Type:** Full Time\n\n**About Us**\n\nFounded in 1996, **Medical Murray** is a privately owned medical device company specializing in the development, testing, and manufacturing of finished devices, components, and subassemblies. We",
+    "posted_date": "2026-09-30",
+    "scraped_at": "2026-10-21T08:50:19.357385",
+    "first_seen": "2026-10-21T08:50:19.357387"
+  },
+  {
+    "id": "8646a258c81f187b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c8b11b2a8e2e0c14",
+    "title": "Business Analytics Engineer",
+    "company": "Cushman & Wakefield",
+    "location": "Creve Coeur, MO, USA",
+    "is_remote": false,
+    "salary": "USD 106,250 – 125,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "power bi",
+      "tableau",
+      "data engineering",
+      "analytics engineering",
+      "databricks",
+      "scala",
+      "rust",
+      "gpt"
+    ],
+    "description_snippet": "**Job Title**\n\nBusiness Analytics Engineer\n\n**Job Description Summary**\n\nAs a Business Analytics Engineer, you will design, develop, and maintain data, analytics, reporting, and geospatial solutions that help account teams and clients make better business decisions across complex real estate portfol",
+    "posted_date": "2026-09-30",
+    "scraped_at": "2026-10-21T08:50:19.357098",
+    "first_seen": "2026-10-21T08:50:19.357100"
+  },
+  {
+    "id": "dc15925baea72b53",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f418b2f57bb0a946",
+    "title": "Business Intelligence Engineer",
+    "company": "Michelman",
+    "location": "Cincinnati, OH, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "aws",
+      "power bi",
+      "scala"
+    ],
+    "description_snippet": "#### **General Summary**\n\nThe Business Intelligence (BI) Engineer supports business reporting and data needs by gathering, compiling, validating, and analyzing data using established tools, methods, and formats including Operational Data Store (ODS), JD Edwards (JDE), MS SQL Server, SSAS, and Power ",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-21T08:50:19.355755",
+    "first_seen": "2026-10-21T08:50:19.355757"
+  },
+  {
+    "id": "2b0fa458807dbac9",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=733d711cb0bb3a0b",
+    "title": "Software Systems Engineer",
+    "company": "Red Cedar Consultancy",
+    "location": "Randolph A F B, TX, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "**Looking Candidates with an active Secret clearance only**\n\n**Job Title:** Software Systems Engineer\n\n**Location:** Remote\n\n**Summary:** Red Cedar Consultancy is seeking an experienced Software Systems Engineer (Intermediate) to support our federal clients. The role involves providing specialized t",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-21T08:50:19.353770",
+    "first_seen": "2026-10-21T08:50:19.353772"
+  },
+  {
+    "id": "beb601007b0f905e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=64219e7eb40c3fcb",
+    "title": "Supplier Quality Engineer",
+    "company": "AMS Group, Inc.",
+    "location": "Kearneysville, WV, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [],
+    "description_snippet": "Description:\n\nThe Supplier Quality Engineer (SQE) will have authority, responsibility, and accountability to ensure supplier products in support of Distribution and License Manufacture lines of business are in compliance with specifications and defect free workmanship standards and identify and qual",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-21T08:50:19.353369",
+    "first_seen": "2026-10-21T08:50:19.353371"
+  },
+  {
     "id": "23be73c347fd62c1",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=7f6d01b25a314dbb",
