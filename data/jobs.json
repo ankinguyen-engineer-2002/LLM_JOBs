@@ -1,5 +1,425 @@
 [
   {
+    "id": "14690e5f51262f40",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-developer",
+    "title": "Senior Angular Developer",
+    "company": "Lemon.io",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: New York, NY URL: https://lemon.io Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for ",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:55:20.703167",
+    "first_seen": "2026-10-21T12:55:20.703177"
+  },
+  {
+    "id": "5af70b23931bcb55",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156154-commercial-account-executive-dach",
+    "title": "Commercial Account Executive, DACH",
+    "company": "Algolia",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Algolia is the retrieval intelligence layer that turns intent into trusted, decision-grade outcomes. Powering more than 1.7 trillion queries a year for over 18,000 customers with millisecond latency and 99.999% reliability, we are the recognized leader for Search and Product Discovery by top industr",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:51:03.278417",
+    "first_seen": "2026-10-21T12:51:03.278431"
+  },
+  {
+    "id": "578e10fcfaf5b5c6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156146-software-engineer-net",
+    "title": "Software Engineer (.NET)",
+    "company": "LastPass",
+    "location": "Portugal",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About LastPass LastPass delivers Secure Access Essentials, helping individuals and organizations manage and protect access to AI, applications, and credentials straight from the browser. Trusted by more than 100,000 businesses and millions of users worldwide, LastPass blends strong security with eve",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:51:02.589984",
+    "first_seen": "2026-10-21T12:51:02.589985"
+  },
+  {
+    "id": "53d1ae98312c9d04",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156140-staff-software-engineer-market-data",
+    "title": "Staff Software Engineer - Market Data",
+    "company": "Dune",
+    "location": "Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Dune Dune's mission is to make onchain finance observable. We're the industry standard for onchain data: a blockchain data and intelligence provider that institutions, protocols, and analysts trust to understand the onchain world and the frontiers of finance. We deliver structured datasets, sp",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:51:02.589780",
+    "first_seen": "2026-10-21T12:51:02.589782"
+  },
+  {
+    "id": "88d2b9d0fc8878a9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156144-head-of-product-2",
+    "title": "Head of Product",
+    "company": "Dune",
+    "location": "Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Dune Dune's mission is to make onchain finance observable. We're the industry standard for onchain data: a blockchain data and intelligence provider that institutions, protocols, and analysts trust to understand the onchain world and the frontiers of finance. We deliver structured datasets, sp",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:51:02.589482",
+    "first_seen": "2026-10-21T12:51:02.589483"
+  },
+  {
+    "id": "c97be7baac0458a9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156139-senior-all-source-investigator-severe-harms",
+    "title": "Senior All-Source Investigator, Severe Harms",
+    "company": "TRM Labs",
+    "location": "UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and ",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:51:02.588851",
+    "first_seen": "2026-10-21T12:51:02.588853"
+  },
+  {
+    "id": "b9ca0fb86e0861f8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156149-product-manager-4-day-week-remote-2",
+    "title": "Product Manager - 4 Day Week + Remote",
+    "company": "Laminar Projects",
+    "location": "Poland,  Portugal",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Do you know what product management is really about? If you do, then you know it isn't roadmaps, tickets or beautifully groomed backlogs. It's finding a real, expensive, unglamorous problem that people live with every day - and shipping something that makes it go away. That is product. At Shape Cons",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:51:02.588236",
+    "first_seen": "2026-10-21T12:51:02.588242"
+  },
+  {
+    "id": "dac8a993489f07ff",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156155-gm-sales-emea",
+    "title": "GM, Sales (EMEA)",
+    "company": "Deepgram",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voic",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:51:02.587484",
+    "first_seen": "2026-10-21T12:51:02.587487"
+  },
+  {
+    "id": "e2fc1512e4feef7c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156151-senior-solutions-architect-europe",
+    "title": "Senior Solutions Architect - Europe",
+    "company": "Deepgram",
+    "location": "Austria,  Germany,  Ireland,  Netherlands,  Spain,  Switzerland,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voic",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:51:02.587150",
+    "first_seen": "2026-10-21T12:51:02.587153"
+  },
+  {
+    "id": "d4b7894b42de5bdc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156157-director-text-to-speech-synthesis-research",
+    "title": "Director, Text-to-Speech Synthesis Research",
+    "company": "Deepgram",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voic",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:51:02.586732",
+    "first_seen": "2026-10-21T12:51:02.586743"
+  },
+  {
+    "id": "4d28093b77d3ed9c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156120-product-manager-new-content-initiatives-and-analysis",
+    "title": "Product Manager, New Content Initiatives and Analysis",
+    "company": "AlphaSense",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About AlphaSense : AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI with a vast content universe of over 5",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:51:01.587891",
+    "first_seen": "2026-10-21T12:51:01.587893"
+  },
+  {
+    "id": "723c026ccea9ebba",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156122-engineering-manager-10",
+    "title": "Engineering Manager",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:51:01.587560",
+    "first_seen": "2026-10-21T12:51:01.587561"
+  },
+  {
+    "id": "6900d80f450a55a6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156123-senior-product-security-engineer",
+    "title": "Senior Product Security Engineer",
+    "company": "AlphaSense",
+    "location": "Ireland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About AlphaSense : AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI with a vast content universe of over 5",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:51:01.587111",
+    "first_seen": "2026-10-21T12:51:01.587113"
+  },
+  {
+    "id": "086050b79f0e24a5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156125-lead-data-scientist-3",
+    "title": "Lead Data Scientist",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "part_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:51:01.586795",
+    "first_seen": "2026-10-21T12:51:01.586797"
+  },
+  {
+    "id": "b0c8458df52704d5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156127-lead-machine-learning-scientist-business-banking",
+    "title": "Lead Machine Learning Scientist, Business Banking",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "part_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:51:01.586525",
+    "first_seen": "2026-10-21T12:51:01.586527"
+  },
+  {
+    "id": "83169f8765056d60",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156131-lead-product-manager-genai",
+    "title": "Lead Product Manager - GenAI",
+    "company": "Envato",
+    "location": "Australia,  New Zealand",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Help shape what creative work with AI looks like next. Generative AI is changing how creative work gets made. Not just the tools people use, but how they riff from an idea to something finished. At Envato , we’re building for that shift. We already help millions of creative professionals find the as",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:51:01.586129",
+    "first_seen": "2026-10-21T12:51:01.586132"
+  },
+  {
+    "id": "6a31b312afed959d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156132-security-operations-analyst",
+    "title": "Security Operations Analyst",
+    "company": "Huntress",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:51:01.585878",
+    "first_seen": "2026-10-21T12:51:01.585879"
+  },
+  {
+    "id": "1d4d7bba01fb53c7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156136-senior-detection-engineering-threat-hunting-analyst",
+    "title": "Senior Detection Engineering & Threat Hunting Analyst",
+    "company": "Huntress",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:51:01.585539",
+    "first_seen": "2026-10-21T12:51:01.585551"
+  },
+  {
+    "id": "d8629fa29dfeef2e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=11113ec9f38f0de4",
+    "title": "Senior Application Database Administration",
+    "company": "Texas Municipal Retirement System",
+    "location": "Austin, TX, USA",
+    "is_remote": false,
+    "salary": "USD 130,000 – 170,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "aws",
+      "ci/cd",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**Job Summary**\n\nThe Senior Application Database Administration is an expert in Oracle database design, PL/SQL development, and application to database performance tuning. This role serves as the technical authority for the data layer supporting TMRS business applications, setting standards for sche",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T12:50:56.489420",
+    "first_seen": "2026-10-21T12:50:56.489424"
+  },
+  {
+    "id": "6ddacda7d7ca6e76",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=bee59d9b930c5b3a",
+    "title": "Staff Software Engineer, Data Platform",
+    "company": "Realtor.com",
+    "location": "Austin, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "kafka",
+      "aws",
+      "snowflake",
+      "ci/cd",
+      "java",
+      "scala",
+      "rust",
+      "llm"
+    ],
+    "description_snippet": "**Description**\n\n  \nRecognized as the No. 1 site trusted by real estate professionals, Realtor.com® has been at the forefront of online real estate for over 25 years, connecting buyers, sellers, and renters with trusted insights and expert guidance to find their perfect home. Through its robust suit",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-21T12:50:52.175360",
+    "first_seen": "2026-10-21T12:50:52.175362"
+  },
+  {
+    "id": "fb100635d20d8661",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=94eb561cb4b2d2f3",
+    "title": "Data & AI Forward Deployed Engineer",
+    "company": "Revstar",
+    "location": "ME, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "machine learning",
+      "ci/cd",
+      "scala",
+      "rust",
+      "generative ai"
+    ],
+    "description_snippet": "**Build What Matters at RevStar**\n\n**Position:** Data & AI Forward Deployed Engineer (FDE)\n\n* **Reports To:** Product Manager/Engineering Lead\n* **Location**: Remote (AZ, DC, FL, GA, IA, IL, ME, NY, NJ, SC, TX, VA)\n* **Employment Type:** Full-Time W2\n\n**Job Summary**\n\nAt RevStar, we build cutting-ed",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-21T12:50:44.954340",
+    "first_seen": "2026-10-21T12:50:44.954342"
+  },
+  {
+    "id": "618c9d51847afcf7",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=8420f866fae9ed89",
+    "title": "Banner Modernization Engineer",
+    "company": "Ellucian",
+    "location": "Remote, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "scala",
+      "rust",
+      "llm"
+    ],
+    "description_snippet": "Ellucian powers innovation for higher education, partnering with approximately 3,000 customers across 50 countries, serving more than 21 million students. Ellucian's AI-powered platform, trained on the richest dataset available in higher education, drives efficiency, personalized experiences, and st",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-21T12:50:44.953838",
+    "first_seen": "2026-10-21T12:50:44.953840"
+  },
+  {
     "id": "de19ba57a898708f",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923",
