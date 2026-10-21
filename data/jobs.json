@@ -1,5 +1,386 @@
 [
   {
+    "id": "285e4d39464c3f6b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156226-pmo-portfolio-analyst",
+    "title": "PMO & Portfolio Analyst",
+    "company": "Rithum",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Rithum ™ is the world’s most trusted commerce network, accelerating how brands, suppliers, and retailers work together to deliver seamless e-commerce experiences. We provide an unmatched platform for brands and retailers, enabling them to accelerate growth, optimize operations across channels, scale",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:41.830999",
+    "first_seen": "2026-10-21T23:32:41.831000"
+  },
+  {
+    "id": "478f9b68f616f74a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156228-mobile-developer-i-us-remote",
+    "title": "Mobile Developer I - US Remote",
+    "company": "PerfectServe",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "What is PerfectServe ? PerfectServe is a leading provider of clinical communication and physician scheduling solutions in the health IT space. The company was founded in 1997 and has grown steadily since then, with a notable jump after several major acquisitions were announced in 2019. PerfectServe ",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:41.830664",
+    "first_seen": "2026-10-21T23:32:41.830666"
+  },
+  {
+    "id": "237d130e2144a508",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156231-senior-platform-engineer-us-remote",
+    "title": "Senior Platform Engineer - US Remote",
+    "company": "PerfectServe",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "What is PerfectServe ? PerfectServe is a leading provider of clinical communication and physician scheduling solutions in the health IT space. The company was founded in 1997 and has grown steadily since then, with a notable jump after several major acquisitions were announced in 2019. PerfectServe ",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:41.830371",
+    "first_seen": "2026-10-21T23:32:41.830373"
+  },
+  {
+    "id": "2bf46bc735eb9273",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156235-senior-product-analyst",
+    "title": "Senior Product Analyst",
+    "company": "Tala",
+    "location": "Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About Tala Tala is the AI-native credit infrastructure that connects global capital to the global majority. We combine proprietary risk intelligence with an expanding network of capital and distribution partners to power credit access at scale. To date, Tala has distributed more than $9 billion in c",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:41.830107",
+    "first_seen": "2026-10-21T23:32:41.830108"
+  },
+  {
+    "id": "c4b6b7cc5e69dea9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156237-senior-secops-engineer",
+    "title": "Senior SecOps Engineer",
+    "company": "Tala",
+    "location": "Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About Tala Tala is the AI-native credit infrastructure that connects global capital to the global majority. We combine proprietary risk intelligence with an expanding network of capital and distribution partners to power credit access at scale. To date, Tala has distributed more than $9 billion in c",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:41.829964",
+    "first_seen": "2026-10-21T23:32:41.829966"
+  },
+  {
+    "id": "02055193bf304f9a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156234-ai-automation-manager",
+    "title": "AI Automation Manager",
+    "company": "Acquia, Inc.",
+    "location": "Costa Rica",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Acquia empowers the world’s most ambitious brands to create digital customer experiences that matter. With open source Drupal at its core, the Acquia Digital Experience Platform (DXP) enables marketers, developers, and IT operations teams at thousands of global organizations to rapidly compose and d",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:41.829790",
+    "first_seen": "2026-10-21T23:32:41.829792"
+  },
+  {
+    "id": "6f03ebff82548515",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156241-data-architect-2",
+    "title": "Data Architect",
+    "company": "Caylent",
+    "location": "Argentina",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s ",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:41.829536",
+    "first_seen": "2026-10-21T23:32:41.829538"
+  },
+  {
+    "id": "26303cd5e7a6549f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156242-functional-consultant-contact-center",
+    "title": "Functional Consultant - Contact Center",
+    "company": "Caylent",
+    "location": "Brazil",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s ",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:41.829327",
+    "first_seen": "2026-10-21T23:32:41.829328"
+  },
+  {
+    "id": "7032e29b6f38c56e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156244-manager-product-support-apac",
+    "title": "Manager, Product Support - APAC",
+    "company": "Ashby",
+    "location": "Australia,  Japan,  Philippines,  Singapore,  South Korea",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Caring deeply about our customers is one of our favorite Ashby Operating Principles in Support. As we continue to grow our Product Support Team with the customer experience at the heart of everything we do, we're excited to hire our first Manager of Product Support in the APAC region. In this role, ",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:41.828980",
+    "first_seen": "2026-10-21T23:32:41.828982"
+  },
+  {
+    "id": "d4883298378e07be",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156246-enterprise-solutions-consultant-anz",
+    "title": "Enterprise Solutions Consultant, ANZ",
+    "company": "Nash",
+    "location": "Australia,  New Zealand",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "ABOUT NASH Nash is last-mile delivery infrastructure. We help the world's largest retailers and commerce companies orchestrate, optimize, and manage their delivery operations. Founded in San Francisco in 2021, backed by Andreessen Horowitz and Y Combinator, Nash works with enterprise customers acros",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:41.828656",
+    "first_seen": "2026-10-21T23:32:41.828659"
+  },
+  {
+    "id": "3585a2142f5be058",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156247-technical-account-manager-7",
+    "title": "Technical Account Manager",
+    "company": "ClickUp",
+    "location": "Philippines",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:41.828313",
+    "first_seen": "2026-10-21T23:32:41.828315"
+  },
+  {
+    "id": "10cbd1750c686ad1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156252-product-support-engineer-apac",
+    "title": "Product Support Engineer - APAC",
+    "company": "Ashby",
+    "location": "Australia,  Japan,  New Zealand,  Singapore,  South Korea",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Hello! I’m Allie, Head of Support at Ashby . I’m excited to share that we’re hiring a Support Engineer in APAC We’re expanding our global Support team to provide 24/7 coverage across time zones. You’ll join a global team while establishing the technical Support Engineering presence in APAC, with the",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:41.827881",
+    "first_seen": "2026-10-21T23:32:41.827883"
+  },
+  {
+    "id": "db0a1befa23892b9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156249-database-support-engineer-japanese-speaking",
+    "title": "Database Support Engineer (Japanese Speaking)",
+    "company": "Supabase",
+    "location": "APAC",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re lo",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:41.827457",
+    "first_seen": "2026-10-21T23:32:41.827459"
+  },
+  {
+    "id": "de345f867a5fa274",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156253-solutions-engineer-singapore",
+    "title": "Solutions Engineer, Singapore",
+    "company": "Cribl",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl , we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telem",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:41.827194",
+    "first_seen": "2026-10-21T23:32:41.827195"
+  },
+  {
+    "id": "2e6bdebe2a66c9d0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156254-partner-solutions-architect-aws",
+    "title": "Partner Solutions Architect - AWS",
+    "company": "Amplitude",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Amplitude is the leading AI analytics platform, helping over 5,200 customers—including Atlassian, Burger King, NBCUniversal, and Square—build better products and digital experiences. With powerful AI Agents embedded across our platform, teams can analyze, test, and optimize user experiences faster t",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:41.827067",
+    "first_seen": "2026-10-21T23:32:41.827068"
+  },
+  {
+    "id": "3ba7f89e2bdefe31",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156263-enterprise-solution-engineer-south-east-mid-atlantic",
+    "title": "Enterprise Solution Engineer - South East / Mid Atlantic",
+    "company": "Sigma Computing",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Sigma’s vision is to create an insight-driven world where people, organizations, and, ultimately, humanity are transformed for the better by data. At Sigma, we are building a cloud-native business intelligence platform that allows users to tap into their biggest databases hosted in the cloud and eas",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:41.826764",
+    "first_seen": "2026-10-21T23:32:41.826766"
+  },
+  {
+    "id": "24f7a15e46133d40",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156257-senior-director-bss-engineering-product",
+    "title": "Senior Director, BSS Engineering & Product​",
+    "company": "Vonage",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Join Vonage and help us innovate cloud communications for businesses worldwide! Why this role matters: BSS Engineering and Product is a critical enabler of Vonage's commercial platform, ensuring our business support systems are scalable, reliable, commercially aligned, and able to support growth acr",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:41.826424",
+    "first_seen": "2026-10-21T23:32:41.826433"
+  },
+  {
+    "id": "1e5fd5c395753ebe",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3775ccca4e7ff8e2",
+    "title": "Senior Forward Deployed Engineer, Cyber",
+    "company": "Eliza",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "ci/cd",
+      "scala",
+      "rust",
+      "llm",
+      "openai",
+      "generative ai"
+    ],
+    "description_snippet": "**About Us**\n------------\n\nEliza is a technology services company and Advanced-tier OpenAI partner that's dedicated to helping organizations build and deploy cutting-edge AI solutions. From generative AI and custom LLM integrations to predictive analytics and intelligent automation, we work across i",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:23.071553",
+    "first_seen": "2026-10-21T23:32:23.071555"
+  },
+  {
+    "id": "7de05327cf7feaaa",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=a2a322a7d9d21010",
+    "title": "Senior Snowflake Data Engineer DBT",
+    "company": "RPA INFOTECH INDIA",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 45 – 52/hourly",
+    "job_type": "contract",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "azure",
+      "aws",
+      "data engineering",
+      "snowflake",
+      "data warehouse",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Position 1- (2 open roles)- Senior Data Engineer- Snowflake+DBT**\n\n**Experience Range**: 4 to 6 years of experience, including substantial hands-on expertise in Snowflake engineering and data platform development\n\n**Location Remote**\n\n**Key Responsibilities:**\n\n1. Design and implement scalable Sno",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-21T23:32:19.869403",
+    "first_seen": "2026-10-21T23:32:19.869406"
+  },
+  {
+    "id": "a9c15c0af6a352c4",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4a4eaa7e46f6846e",
+    "title": "Data Engineer",
+    "company": "American business solutions inc",
+    "location": "Columbus, OH, USA",
+    "is_remote": false,
+    "salary": "USD 1 – 1/hourly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "power bi",
+      "tableau",
+      "machine learning",
+      "snowflake",
+      "scala"
+    ],
+    "description_snippet": "##### **Engagement Type**\n\nContract\n\n##### **Short Description**\n\n##### **Complete Description**\n\n* Team expansion into AWS, Snowflake, and advanced Python\n\ndevelopment requires additional specialized technical expertise.  \n  \n  \n\n* Projects involving cloud architecture, analytical engineering,\n\ndat",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T23:32:19.867534",
+    "first_seen": "2026-10-21T23:32:19.867540"
+  },
+  {
     "id": "f256a0f84730e8e8",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/156211-commercial-account-manager-2",
