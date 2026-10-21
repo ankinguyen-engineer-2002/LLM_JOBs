@@ -1,5 +1,415 @@
 [
   {
+    "id": "bce43b248c09de1f",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
+    "title": "Senior Vue Developer",
+    "company": "Lemon.io",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: New York, NY URL: https://lemon.io Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for ",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:35:13.158816",
+    "first_seen": "2026-10-21T15:35:13.158821"
+  },
+  {
+    "id": "4833a731098d45e6",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/duckduckgo-senior-backend-engineer",
+    "title": "Senior Backend Engineer",
+    "company": "DuckDuckGo",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "back-end programming"
+    ],
+    "description_snippet": "Headquarters: Paoli, Pennsylvania URL: https://duckduckgo.com Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions ",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:35:12.529357",
+    "first_seen": "2026-10-21T15:35:12.529362"
+  },
+  {
+    "id": "2dfdfaaa6e1015a4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156145-it-specialist",
+    "title": "IT Specialist",
+    "company": "Chainguard",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:27.822396",
+    "first_seen": "2026-10-21T15:30:27.822397"
+  },
+  {
+    "id": "3b3499b59e098ce6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156176-contract-staff-software-engineer-firefox-cstorage-encryption",
+    "title": "Contract Staff Software Engineer - (Firefox) C++,Storage Encryption",
+    "company": "Mozilla",
+    "location": "Canada,  Germany,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "The role You will help the Firefox DOM LWS team to implement tasks for Storage Encryption everywhere, helping to drive the in-progress project through to completion . Responsibilities Contributing to delivering Storage Encryption Everywhere in Gecko, which may include tasks such as migrating data be",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:27.819770",
+    "first_seen": "2026-10-21T15:30:27.819771"
+  },
+  {
+    "id": "1dfc1c7bacf428c4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156177-policy-communications-lead-europe",
+    "title": "Policy Communications Lead, Europe",
+    "company": "Mozilla",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Why Mozilla ? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each mo",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:27.819713",
+    "first_seen": "2026-10-21T15:30:27.819715"
+  },
+  {
+    "id": "9aaa3d6ff3716701",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156171-solutions-architect-2",
+    "title": "Solutions Architect",
+    "company": "Vercel",
+    "location": "Germany,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Vercel : Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience. Now we're scaling our products for both agents and people ",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:27.819357",
+    "first_seen": "2026-10-21T15:30:27.819359"
+  },
+  {
+    "id": "f37828cf342e7033",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156169-contract-sr-data-analyst-sqltelemetrybrowser-engine",
+    "title": "Contract Sr Data Analyst (SQL,Telemetry,Browser Engine)",
+    "company": "Mozilla",
+    "location": "Canada,  Germany,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "The Gecko platform is the core engine of our product experience. To maintain competitiveness and user satisfaction, we must move beyond surface-level metrics to understand the deep correlations between engine performance and real-world user behavior. We currently face challenges with data quality, s",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:27.819102",
+    "first_seen": "2026-10-21T15:30:27.819104"
+  },
+  {
+    "id": "2e43d17e0456af36",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156179-senior-product-manager-audiobooks-format-foundations",
+    "title": "Senior Product Manager - Audiobooks Format Foundations",
+    "company": "Spotify",
+    "location": "Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "We design Spotify ’s consumer experience - end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds o",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:27.818992",
+    "first_seen": "2026-10-21T15:30:27.818994"
+  },
+  {
+    "id": "9208eacd7f428b1c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156181-staff-software-engineer-9",
+    "title": "Staff Software Engineer",
+    "company": "Cision",
+    "location": "Bulgaria",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At Cision , we believe in empowering every individual to make an impact. Here, your voice is heard, your ideas are valued, and your unique perspective fuels our collective success. As part of our global team, you'll thrive in an environment that champions curiosity, collaboration, and innovation, al",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:27.818851",
+    "first_seen": "2026-10-21T15:30:27.818853"
+  },
+  {
+    "id": "d17d5c80b6d6afcf",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156184-staff-software-engineer-platform-infrastructure",
+    "title": "Staff Software Engineer, Platform Infrastructure",
+    "company": "Astronomer",
+    "location": "Ireland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:27.818576",
+    "first_seen": "2026-10-21T15:30:27.818578"
+  },
+  {
+    "id": "38b82be6db196a39",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156186-senior-web-engineer-subscriptions",
+    "title": "Senior Web Engineer - Subscriptions",
+    "company": "Spotify",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "The Subscriptions Mission is shaping the future of how millions of people discover, purchase, and experience Spotify Premium. We build the platforms and tools that power Spotify's global subscription business, enabling new offers, pricing strategies, and commerce experiences that help our business m",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:27.818327",
+    "first_seen": "2026-10-21T15:30:27.818329"
+  },
+  {
+    "id": "b2112a7f4829c802",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156187-senior-software-engineer-platform-3",
+    "title": "Senior Software Engineer, Platform",
+    "company": "Astronomer",
+    "location": "Ireland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:27.818136",
+    "first_seen": "2026-10-21T15:30:27.818137"
+  },
+  {
+    "id": "bb0632ba2419ee95",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156180-enterprise-account-executive-dach-5",
+    "title": "Enterprise Account Executive, DACH",
+    "company": "Astronomer",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:27.817943",
+    "first_seen": "2026-10-21T15:30:27.817944"
+  },
+  {
+    "id": "6290c917e6344e58",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156192-commercial-account-executive-south-korea",
+    "title": "Commercial Account Executive - South Korea",
+    "company": "GitLab",
+    "location": "South Korea",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:27.817822",
+    "first_seen": "2026-10-21T15:30:27.817824"
+  },
+  {
+    "id": "4b2db8f3511ccd73",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156189-commercial-account-executive-australia",
+    "title": "Commercial Account Executive - Australia",
+    "company": "GitLab",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:27.817482",
+    "first_seen": "2026-10-21T15:30:27.817484"
+  },
+  {
+    "id": "b6e899b14da59b82",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156193-senior-manager-inventory-development",
+    "title": "Senior Manager, Inventory Development",
+    "company": "StackAdapt",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable resul",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:27.817127",
+    "first_seen": "2026-10-21T15:30:27.817129"
+  },
+  {
+    "id": "92d96b1bd1ef2767",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156195-customer-success-architect-japan",
+    "title": "Customer Success Architect, Japan",
+    "company": "GitLab",
+    "location": "Japan",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:27.816831",
+    "first_seen": "2026-10-21T15:30:27.816833"
+  },
+  {
+    "id": "3e2eca8fabc1b0b8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156197-senior-product-manager-11",
+    "title": "Senior Product Manager",
+    "company": "Envato",
+    "location": "Australia,  New Zealand",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "The role Envato is an all in one creative asset toolkit, bringing together world class creative assets and AI tools to help creative professionals bring their ideas to life. We’re looking for an experienced Senior Product Manager to join Envato on a contract basis and help us deliver some important ",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:27.816192",
+    "first_seen": "2026-10-21T15:30:27.816197"
+  },
+  {
+    "id": "c90f06f524b122c5",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=48684fa04724885f",
+    "title": "IT Architect/Data Scientist (Job 1499)",
+    "company": "DLH",
+    "location": "Bethesda, MD, USA",
+    "is_remote": true,
+    "salary": "USD 180,000 – 190,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "data engineering",
+      "rust"
+    ],
+    "description_snippet": "**About Us**\n\nDLH delivers improved health and national security readiness solutions for federal programs through science research and development, systems engineering and integration, and digital transformation. Our experts in public health, performance evaluation, and health operations solve the c",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-21T15:30:14.369035",
+    "first_seen": "2026-10-21T15:30:14.369037"
+  },
+  {
+    "id": "a062e46b79c2821c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=257d49fdb25922da",
+    "title": "Database/Python Generalist",
+    "company": "Castelion",
+    "location": "Allen, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "machine learning",
+      "postgres",
+      "scala"
+    ],
+    "description_snippet": "**Why Castelion, Why Now**\n\nCastelion is moving incredibly fast to develop and deliver advanced defense systems at a time when execution matters more than ever. We believe focus, ownership, and excellence are decisive advantages - and we're building a world-class team to turn bold ideas into real ca",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-21T15:30:14.368744",
+    "first_seen": "2026-10-21T15:30:14.368746"
+  },
+  {
+    "id": "005c7a9a67b6ad72",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=0226d8350fc31522",
+    "title": "Senior Staff MLOps Engineer",
+    "company": "HCA Healthcare",
+    "location": "Nashville, TN, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "machine learning",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "Experience the HCA Healthcare difference where colleagues are trusted, valued members of our healthcare team. Grow your career with an organization committed to delivering respectful, compassionate care, and where the unique and intrinsic worth of each individual is recognized. Submit your applicati",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:14.368142",
+    "first_seen": "2026-10-21T15:30:14.368145"
+  },
+  {
+    "id": "6b37032b84c7b149",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=fe7a9d93aa5a5d8a",
+    "title": "Senior Platform Engineer - Core",
+    "company": "Fanatics",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 170,000 – 212,500/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "kafka",
+      "aws",
+      "kubernetes",
+      "ci/cd",
+      "java",
+      "scala"
+    ],
+    "description_snippet": "**About Us**\n------------\n\nFanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fanatics Collectibles, a",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-21T15:30:10.194395",
+    "first_seen": "2026-10-21T15:30:10.194399"
+  },
+  {
     "id": "14690e5f51262f40",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-developer",
