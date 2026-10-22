@@ -1,5 +1,795 @@
 [
   {
+    "id": "a8a7891917d260ba",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156331-senior-solutions-architect",
+    "title": "Senior Solutions Architect",
+    "company": "Ada",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Us Ada is an AI customer service company whose mission is to make customer service extraordinary for everyone. We're driven to raise a new standard of quality customer service at scale, enabling enterprise companies to deliver experiences that people love–instant, proactive, personalized, and ",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:20.042356",
+    "first_seen": "2026-10-22T12:54:20.042358"
+  },
+  {
+    "id": "b95c762204bc4871",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156333-senior-product-manager-platform-2",
+    "title": "Senior Product Manager, Platform",
+    "company": "Vultr",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 coun",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:20.042037",
+    "first_seen": "2026-10-22T12:54:20.042039"
+  },
+  {
+    "id": "1f3796fbb5aff5cc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156338-technical-account-manager-8",
+    "title": "Technical Account Manager",
+    "company": "Vultr",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 coun",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:20.041708",
+    "first_seen": "2026-10-22T12:54:20.041709"
+  },
+  {
+    "id": "a16320a8bf0484d0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156340-senior-technical-project-manager-data-center-network-delivery",
+    "title": "Senior Technical Project Manager, Data Center & Network Delivery",
+    "company": "Vultr",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 coun",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:20.041474",
+    "first_seen": "2026-10-22T12:54:20.041476"
+  },
+  {
+    "id": "d747ab4418e5e5bf",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156341-linux-systems-administrator",
+    "title": "Linux Systems Administrator",
+    "company": "Vultr",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 coun",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:20.041270",
+    "first_seen": "2026-10-22T12:54:20.041272"
+  },
+  {
+    "id": "9a8b97a54918db79",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156342-rma-systems-engineer",
+    "title": "RMA Systems Engineer",
+    "company": "Vultr",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 coun",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:20.041007",
+    "first_seen": "2026-10-22T12:54:20.041008"
+  },
+  {
+    "id": "9bee764ae0b97293",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156346-principal-product-manager-strategic-accounts",
+    "title": "Principal Product Manager, Strategic Accounts",
+    "company": "Vultr",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 coun",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:20.040720",
+    "first_seen": "2026-10-22T12:54:20.040722"
+  },
+  {
+    "id": "2bcf11fe243b90a1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156344-strategic-technical-account-manager-gpu",
+    "title": "Strategic Technical Account Manager GPU",
+    "company": "Vultr",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 coun",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:20.040471",
+    "first_seen": "2026-10-22T12:54:20.040473"
+  },
+  {
+    "id": "b01e5e183a3e66d8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156348-data-center-site-selection-manager-2",
+    "title": "Data Center Site Selection Manager",
+    "company": "Vultr",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 coun",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:20.040192",
+    "first_seen": "2026-10-22T12:54:20.040202"
+  },
+  {
+    "id": "e822f4a3ab18f056",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156322-senior-ai-ml-engineer",
+    "title": "Senior AI/ML Engineer",
+    "company": "Limbic",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Senior AI/ML Engineer, remote in Canada: own the AI that assesses patients for US healthcare providers and gets them to the right mental health care faster. About Limbic Limbic’s vision is to ensure the highest quality therapy is accessible to everyone, everywhere. Limbic has supported more than 820",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:19.401201",
+    "first_seen": "2026-10-22T12:54:19.401203"
+  },
+  {
+    "id": "a268a19b884eb1d7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156332-senior-customer-success-manager-20",
+    "title": "Senior Customer Success Manager",
+    "company": "Karbon",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About Karbon Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps tens of thousands of accounting professionals work more efficiently and collaboratively every day. With customers in 40 countries, we have g",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:19.400937",
+    "first_seen": "2026-10-22T12:54:19.400938"
+  },
+  {
+    "id": "f7c5309be91bc4bb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156345-tech-lead-data-engineer",
+    "title": "Tech Lead Data Engineer",
+    "company": "Cloudbeds",
+    "location": "LATAM,  Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "What Makes Cloudbeds Unique At Cloudbeds , we're not just building software, we're transforming hospitality. Our platform powers hotels across 150 countries, processing billions in bookings annually. From boutique properties to large hotel groups, we help hoteliers transform operations and uplevel t",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:19.400588",
+    "first_seen": "2026-10-22T12:54:19.400597"
+  },
+  {
+    "id": "fc3bccfbde99896b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153826-enterprise-account-executive-22",
+    "title": "Enterprise Account Executive",
+    "company": "infisical",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, cer",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.750599",
+    "first_seen": "2026-10-22T12:54:18.750600"
+  },
+  {
+    "id": "3128a28fed93913b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153726-enterprise-customer-success-manager-7",
+    "title": "Enterprise, Customer Success Manager",
+    "company": "DeleteMe",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About DeleteMe : DeleteMe is the leader in proactive privacy protection. We help security teams reduce their human attack surface by continuously monitoring and removing exposed personal data (PII) from the open web — the very data threat actors use to launch social engineering, phishing, Gen-AI dee",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.750357",
+    "first_seen": "2026-10-22T12:54:18.750358"
+  },
+  {
+    "id": "06b0acc4f7940e4e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156273-customer-success-manager-dutch-english-speaker",
+    "title": "Customer Success Manager - Dutch & English Speaker",
+    "company": "Instructure",
+    "location": "Hungary,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education an",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.749992",
+    "first_seen": "2026-10-22T12:54:18.749993"
+  },
+  {
+    "id": "4b4f7954c5f59668",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156266-mid-market-implementation-specialist-emea",
+    "title": "Mid-Market Implementation Specialist - EMEA",
+    "company": "Ashby",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "High Touch Implementation Specialist Hi, I’m Daryl and I’m the Manager of Mid-Market Implementations at Ashby . One of my favorite aspects of Ashby is our operating principle of Continuous Improvement . Coupled with our principle of caring deeply about our customers, we often find ourselves wonderin",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.749831",
+    "first_seen": "2026-10-22T12:54:18.749832"
+  },
+  {
+    "id": "2124e4bdf556c148",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156267-b2b-senior-site-reliability-engineer",
+    "title": "B2B Senior Site Reliability Engineer",
+    "company": "Jamf",
+    "location": "Poland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "At Jamf , we believe in an open, flexible culture based on respect and trust. Our track record and thriving work environment all stem from the freedom we grant ourselves to get the job done right. We take pride in helping tens of thousands of customers around the globe succeed with Apple. The secret",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.749514",
+    "first_seen": "2026-10-22T12:54:18.749515"
+  },
+  {
+    "id": "4fbecaea4afe9d87",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156274-commercial-account-executive-4",
+    "title": "Commercial Account Executive",
+    "company": "Zscaler",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. ",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.749172",
+    "first_seen": "2026-10-22T12:54:18.749174"
+  },
+  {
+    "id": "4f73b5022ed3204c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156270-member-of-technical-staff",
+    "title": "Member of Technical Staff",
+    "company": "Socket",
+    "location": "Canada,  UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Fou",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.748907",
+    "first_seen": "2026-10-22T12:54:18.748908"
+  },
+  {
+    "id": "cf6696eeeb2b31ba",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156281-growth-product-manager-activation-monetization",
+    "title": "Growth Product Manager, Activation & Monetization",
+    "company": "ClickUp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.748749",
+    "first_seen": "2026-10-22T12:54:18.748751"
+  },
+  {
+    "id": "bb9659940358af43",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156285-gtm-devops-engineer",
+    "title": "GTM DevOps Engineer",
+    "company": "ClickUp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.748573",
+    "first_seen": "2026-10-22T12:54:18.748574"
+  },
+  {
+    "id": "3fd84e6a5bc2dbd1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156289-senior-backend-engineer-search",
+    "title": "Senior Backend Engineer, Search",
+    "company": "ClickUp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.748147",
+    "first_seen": "2026-10-22T12:54:18.748148"
+  },
+  {
+    "id": "f0d680282a58b891",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156280-backend-engineer-multiple-positions",
+    "title": "Backend Engineer (Multiple Positions)",
+    "company": "LaunchDarkly",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Backend Engineer About LaunchDarkly Engineering LaunchDarkly helps engineering organizations ship software and AI with speed, safety, and control. Our platform gives teams the confidence to release gradually, target experiences to the right audiences, learn through experimentation, understand what i",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.747922",
+    "first_seen": "2026-10-22T12:54:18.747923"
+  },
+  {
+    "id": "692423812bb71b33",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156283-senior-technical-account-manager-federal",
+    "title": "Senior Technical Account Manager (Federal)",
+    "company": "Mattermost",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of War and Fortune 500s, our platform runs on-premises and in private clouds, delivering secure messaging, file sharing, workflow automation, aud",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.747633",
+    "first_seen": "2026-10-22T12:54:18.747635"
+  },
+  {
+    "id": "102a5eb67d19eb6b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156284-backend-software-engineer-sdk",
+    "title": "Backend Software Engineer, SDK",
+    "company": "LaunchDarkly",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About LaunchDarkly Engineering LaunchDarkly helps engineering organizations ship software and AI with speed, safety, and control. Our platform gives teams the confidence to release gradually, target experiences to the right audiences, learn through experimentation, understand what is happening in pr",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.747381",
+    "first_seen": "2026-10-22T12:54:18.747383"
+  },
+  {
+    "id": "1271f760082206f1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156288-director-of-people-programs-systems-analytics",
+    "title": "Director of People Programs, Systems & Analytics",
+    "company": "LaunchDarkly",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "About the Job: LaunchDarkly is looking for a Director, People Programs, Systems &amp; Analytics to establish operational objectives, roadmaps, work plans, and operating rhythms for People programs, systems, analytics, and AI, translating the People Operations strategy and LaunchDarkly’s priorities i",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.747066",
+    "first_seen": "2026-10-22T12:54:18.747067"
+  },
+  {
+    "id": "6e2e1b49505a6e5f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156287-staff-full-stack-engineer",
+    "title": "Staff Full Stack Engineer",
+    "company": "Mattermost",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of War and Fortune 500s, our platform runs on-premises and in private clouds, delivering secure messaging, file sharing, workflow automation, aud",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.746697",
+    "first_seen": "2026-10-22T12:54:18.746699"
+  },
+  {
+    "id": "9ba3143087135260",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156291-technical-program-manager-data-center-infrastructure-delivery",
+    "title": "Technical Program Manager - Data Center Infrastructure Delivery",
+    "company": "Lambda",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Lambda , The Superintelligence Cloud, is a leader in AI cloud infrastructure serving tens of thousands of customers. Our customers range from AI researchers to enterprises and hyperscalers. Lambda's mission is to make compute as ubiquitous as electricity and give everyone the power of superintellige",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.746425",
+    "first_seen": "2026-10-22T12:54:18.746427"
+  },
+  {
+    "id": "6ddb589a334ee408",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156297-learning-experience-designer",
+    "title": "Learning Experience Designer",
+    "company": "Amplitude",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "education & e-learning"
+    ],
+    "description_snippet": "Amplitude is the leading AI analytics platform, helping over 5,200 customers—including Atlassian, Burger King, NBCUniversal, and Square—build better products and digital experiences. With powerful AI Agents embedded across our platform, teams can analyze, test, and optimize user experiences faster t",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.746160",
+    "first_seen": "2026-10-22T12:54:18.746162"
+  },
+  {
+    "id": "59464034722989c1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156290-onboarding-implementation-specialist",
+    "title": "Onboarding & Implementation Specialist",
+    "company": "Cordance",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Cordance is dedicated to accelerating the growth of vertically focused business-to-business (B2B) software-as-a-service (SaaS) companies through acquisition and long-term tactical and financial guidance. We’re experienced operators and subject-matter experts with a passion for software and building ",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.745841",
+    "first_seen": "2026-10-22T12:54:18.745843"
+  },
+  {
+    "id": "fdb6d6c6793809dc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156299-audit-methodology-lead",
+    "title": "Audit Methodology Lead",
+    "company": "Fieldguide",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "About Fieldguide Fieldguide is establishing a new state of trust for global commerce and capital markets through automating and streamlining the work of assurance and audit practitioners specifically within cybersecurity, privacy, and financial audit. Put simply, we build software for the people who",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.745462",
+    "first_seen": "2026-10-22T12:54:18.745464"
+  },
+  {
+    "id": "d8003c43fc2483eb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156308-senior-software-engineer-15",
+    "title": "Senior Software Engineer",
+    "company": "saas.group",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "This role is part of our ScraperAPI team, one of our growing brands at saas.group . ScraperAPI is an enterprise-scale web scraping solution, trusted by businesses across a wide range of industries to extract crucial data at scale. From e-commerce, travel to real estate and market research, we suppor",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.745246",
+    "first_seen": "2026-10-22T12:54:18.745248"
+  },
+  {
+    "id": "02d39d88e7549afc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156306-senior-platform-engineer-6",
+    "title": "Senior Platform Engineer",
+    "company": "saas.group",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "This role is part of our Central Platform Engineering Team at saas.group . What is saas.group? Think of us as the driving catalyst behind your favorite software success stories. saas.group, established in 2017, is on a mission to turbocharge promising B2B SaaS ventures, unlocking their full potentia",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.744952",
+    "first_seen": "2026-10-22T12:54:18.744954"
+  },
+  {
+    "id": "3c3e634f513ccc62",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156316-manager-technical-account-teams-europe",
+    "title": "Manager, Technical Account Teams (Europe)",
+    "company": "Socket",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Fou",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.744693",
+    "first_seen": "2026-10-22T12:54:18.744695"
+  },
+  {
+    "id": "50a951de1dff62bb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156312-solutions-engineer-edi-e-invoicing-f-m-d",
+    "title": "Solutions Engineer - EDI/e-invoicing (f/m/d)",
+    "company": "ecosio",
+    "location": "Austria,  Croatia,  France,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Company Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX).",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.744417",
+    "first_seen": "2026-10-22T12:54:18.744418"
+  },
+  {
+    "id": "1a14a3e2f7c2d940",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156317-senior-sales-engineer-data-ai-security",
+    "title": "Senior Sales Engineer - Data & AI Security",
+    "company": "Veeam Software",
+    "location": "France",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for th",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:18.744265",
+    "first_seen": "2026-10-22T12:54:18.744274"
+  },
+  {
+    "id": "b7312101de2e2027",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=8647c65f36c20d2b",
+    "title": "Senior Power BI Developer",
+    "company": "Culligan Water",
+    "location": "Rosemont, IL, USA",
+    "is_remote": false,
+    "salary": "USD 120,000 – 140,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "aws",
+      "power bi",
+      "data engineering",
+      "databricks",
+      "microsoft fabric",
+      "synapse",
+      "data warehouse",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Position Summary**\n\nThe Senior Power BI Developer leads the design, development, and optimization of the enterprise reporting and analytics platform supporting the Americas business. This role owns the semantic models, dashboards, and paginated reports that leadership and operational teams rely on",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-22T12:54:14.424738",
+    "first_seen": "2026-10-22T12:54:14.424740"
+  },
+  {
+    "id": "b7a5e16945efb46b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=6349c2945d39b5df",
+    "title": "Lead Data Platform & Database Engineer",
+    "company": "TrustEngine",
+    "location": "Tampa, FL, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "dbt",
+      "azure",
+      "aws",
+      "data engineering",
+      "snowflake",
+      "data warehouse",
+      "java",
+      "rust"
+    ],
+    "description_snippet": "We are hiring a Lead Data Platform & Database Engineer to take full ownership of our relational database estate. We are hiring the person who will own the database and data estate at TrustEngine end to end: assess what we have, run a time-critical upgrade as the first job, and then set the direction",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-22T12:54:14.423355",
+    "first_seen": "2026-10-22T12:54:14.423357"
+  },
+  {
+    "id": "385d124562f19810",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=8febaa144c3820ca",
+    "title": "Lead Platform Engineer",
+    "company": "OMS Medical Billing",
+    "location": "Addison, TX, USA",
+    "is_remote": false,
+    "salary": "USD 140,000 – 155,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "azure",
+      "snowflake",
+      "ci/cd",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**Lead Data Platform Engineer**\n\n**Dallas, TX | On-Site | 5 Days/Week**\n\n**About the Role**\n\nWe are seeking a **Lead Data Platform Engineer** to serve as the technical owner of our enterprise data platform. This is a hands-on engineering role responsible for designing, building, operating, and conti",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:14.422774",
+    "first_seen": "2026-10-22T12:54:14.422776"
+  },
+  {
+    "id": "9a60c1bf6378bb3b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=132b081023c5df67",
+    "title": "GNC Engineer",
+    "company": "Anduril",
+    "location": "Atlanta, GA, USA",
+    "is_remote": false,
+    "salary": "USD 167,000 – 222,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "rust"
+    ],
+    "description_snippet": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century's most innovative companies to the defense industry, Anduril is changing how mi",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-22T12:54:10.318010",
+    "first_seen": "2026-10-22T12:54:10.318012"
+  },
+  {
+    "id": "978ba4649ca818ef",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f9ec401c468e36e6",
+    "title": "Model-Based Systems Engineer",
+    "company": "Banner Defense, Inc.",
+    "location": "Huntsville, AL, USA",
+    "is_remote": false,
+    "salary": "USD 70,000 – 92,000/yearly",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "**Model-Based Systems Engineer (MBSE)**\n\nHuntsville, AL **|** Active Secret Clearance\n\n**Your expertise. Our nation's defense.**\n\nAt Banner Defense, you're more than a name on a contract. As a Service-Disabled Veteran-Owned Small Business, we know what it means to serve, and we build our team around",
+    "posted_date": "2026-09-29",
+    "scraped_at": "2026-10-22T12:54:06.378475",
+    "first_seen": "2026-10-22T12:54:06.378477"
+  },
+  {
+    "id": "f9f9915aec607077",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=bf967438a32d4bb3",
+    "title": "Analytics Engineer - Data Platform",
+    "company": "Aline",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 110,000 – 140,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "power bi",
+      "snowflake",
+      "medallion",
+      "ci/cd",
+      "rust"
+    ],
+    "description_snippet": "Aline is building the resident lifecycle platform for senior living: one record that follows every resident from first inquiry through end of life. As part of our Data Platform team, you will build the data foundation behind that vision, giving operators a canonical, reliable record of their residen",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T12:54:01.658227",
+    "first_seen": "2026-10-22T12:54:01.658231"
+  },
+  {
     "id": "59c8119a4f365a86",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
