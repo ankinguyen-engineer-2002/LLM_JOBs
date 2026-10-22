@@ -1,5 +1,600 @@
 [
   {
+    "id": "9d9a5c6edd6c4b52",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote",
+    "title": "(Solidity / Rust) – Remote",
+    "company": "Moonshot",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Miami URL: https://moonshot.com Smart Contract Engineer — Moonshot Remote · $150K + equity About Moonshot Moonshot makes trading simple. Our mobile-first app gives more than 2 million users access to the latest tokens, tokenized stocks, and leverage trading, with over $4B in volume pro",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:33:49.091879",
+    "first_seen": "2026-10-22T15:33:49.091888"
+  },
+  {
+    "id": "3e655f5df0347d98",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156382-key-customers-solutions-architect-mea",
+    "title": "Key Customers Solutions Architect MEA",
+    "company": "Nebius",
+    "location": "UAE",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:31.786873",
+    "first_seen": "2026-10-22T15:29:31.786883"
+  },
+  {
+    "id": "c3750cae37ec659d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156383-firefox-enterprise-partnership-lead-dach",
+    "title": "Firefox Enterprise Partnership Lead (DACH)",
+    "company": "Mozilla",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Why Mozilla ? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each mo",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:31.181247",
+    "first_seen": "2026-10-22T15:29:31.181248"
+  },
+  {
+    "id": "66ef2f774bfbd9bd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156380-software-engineer-c-developer-pgd",
+    "title": "Software Engineer/C Developer-PGD",
+    "company": "EDB",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world.",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:31.180993",
+    "first_seen": "2026-10-22T15:29:31.180994"
+  },
+  {
+    "id": "b42d01fc80dffa9f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156389-product-manager-security",
+    "title": "Product Manager - Security",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:31.180818",
+    "first_seen": "2026-10-22T15:29:31.180820"
+  },
+  {
+    "id": "b7dc4e1641351084",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156386-offensive-security-engineer-2",
+    "title": "Offensive Security Engineer",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:31.180527",
+    "first_seen": "2026-10-22T15:29:31.180529"
+  },
+  {
+    "id": "82f53506a81e9716",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156388-product-manager-commercial-agreements-pricing-mechanics",
+    "title": "Product Manager - Commercial Agreements & Pricing Mechanics",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:31.180273",
+    "first_seen": "2026-10-22T15:29:31.180275"
+  },
+  {
+    "id": "a3bfd0d8c9e7ec24",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156384-firefox-enterprise-partnership-lead-france",
+    "title": "Firefox Enterprise Partnership Lead (France)",
+    "company": "Mozilla",
+    "location": "France",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Why Mozilla ? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each mo",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:31.180114",
+    "first_seen": "2026-10-22T15:29:31.180116"
+  },
+  {
+    "id": "4b9e51fc977c49a7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156387-principal-solutions-architect-middle-east",
+    "title": "Principal Solutions Architect Middle East",
+    "company": "Nebius",
+    "location": "UAE",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:31.179836",
+    "first_seen": "2026-10-22T15:29:31.179846"
+  },
+  {
+    "id": "b619f4e7bf63ec18",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156381-staff-software-engineer-clickhouse-committer",
+    "title": "Staff Software Engineer-ClickHouse Committer",
+    "company": "EDB",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world.",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:30.560179",
+    "first_seen": "2026-10-22T15:29:30.560180"
+  },
+  {
+    "id": "ba2d3f8d3b8deb15",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156385-network-security-engineer",
+    "title": "Network Security Engineer",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:30.559980",
+    "first_seen": "2026-10-22T15:29:30.559989"
+  },
+  {
+    "id": "63c3d11199503bce",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156320-senior-product-partnerships-manager-remote-within-usa-or-canada",
+    "title": "Senior Product Partnerships Manager (Remote within USA or Canada)",
+    "company": "DuckDuckGo",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Who We Are Hi, we're DuckDuckGo , the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use our browser on Mac , Windows , iOS , and",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:29.855492",
+    "first_seen": "2026-10-22T15:29:29.855494"
+  },
+  {
+    "id": "0046361dd80119c1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156329-technical-support-engineer-2",
+    "title": "Technical Support Engineer",
+    "company": "Vultr",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 coun",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:29.854939",
+    "first_seen": "2026-10-22T15:29:29.854940"
+  },
+  {
+    "id": "b87f3e575cd8bde8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156330-overseas-operations-manager-p2p",
+    "title": "Overseas Operations Manager (P2P)",
+    "company": "OKX",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Who We Are At OKX , we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:29.854686",
+    "first_seen": "2026-10-22T15:29:29.854688"
+  },
+  {
+    "id": "573428d320d8a956",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156336-senior-product-manager-marketplace-partner-ecosystem",
+    "title": "Senior Product Manager, Marketplace & Partner Ecosystem",
+    "company": "Vultr",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 coun",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:29.854485",
+    "first_seen": "2026-10-22T15:29:29.854487"
+  },
+  {
+    "id": "2a538b3b4010f6c6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156337-technical-support-specialist",
+    "title": "Technical Support Specialist",
+    "company": "Vultr",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Who We Are Vultr is on a mission to make high-performance cloud infrastructure easy to use, affordable, and locally accessible for enterprises and AI innovators around the world. With 33 global cloud data center locations, Vultr is trusted by hundreds of thousands of active customers across 185 coun",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:29.854219",
+    "first_seen": "2026-10-22T15:29:29.854221"
+  },
+  {
+    "id": "57633339479e0259",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156334-mid-market-onboarding-lead",
+    "title": "Mid-Market Onboarding Lead",
+    "company": "Cloudbeds",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "What Makes Cloudbeds Unique At Cloudbeds , we're not just building software, we're transforming hospitality. Our platform powers hotels across 150 countries, processing billions in bookings annually. From boutique properties to large hotel groups, we help hoteliers transform operations and uplevel t",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:29.852820",
+    "first_seen": "2026-10-22T15:29:29.852823"
+  },
+  {
+    "id": "9185559c73f04a2c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156355-corporate-development-director-2",
+    "title": "Corporate Development Director",
+    "company": "GitLab",
+    "location": "France,  Germany,  Ireland,  Israel,  Netherlands,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:29.850491",
+    "first_seen": "2026-10-22T15:29:29.850493"
+  },
+  {
+    "id": "26805e26f0ef3300",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156357-engineering-manager-build",
+    "title": "Engineering Manager, Build",
+    "company": "GitLab",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:29.850079",
+    "first_seen": "2026-10-22T15:29:29.850080"
+  },
+  {
+    "id": "17e03963941d5140",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156350-principal-engineer-core-cloud-platform",
+    "title": "Principal Engineer - Core Cloud Platform",
+    "company": "AlphaSense",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About AlphaSense : AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI with a vast content universe of over 5",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:29.849854",
+    "first_seen": "2026-10-22T15:29:29.849856"
+  },
+  {
+    "id": "af22ac3d91fbfa74",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156359-engineering-manager-dedicated-integrations",
+    "title": "Engineering Manager, Dedicated Integrations",
+    "company": "GitLab",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:29.849594",
+    "first_seen": "2026-10-22T15:29:29.849597"
+  },
+  {
+    "id": "41b8982321443a48",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156358-senior-staff-product-designer",
+    "title": "Senior/Staff Product Designer",
+    "company": "AlphaSense",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "About AlphaSense : AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI with a vast content universe of over 5",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:29.849328",
+    "first_seen": "2026-10-22T15:29:29.849329"
+  },
+  {
+    "id": "48bb9bbedcc8b573",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156363-lead-machine-learning-scientist-customer-operations",
+    "title": "Lead Machine Learning Scientist, Customer Operations",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:29.848963",
+    "first_seen": "2026-10-22T15:29:29.848964"
+  },
+  {
+    "id": "a641f1a8322a748c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156368-senior-capture-manager-uk",
+    "title": "Senior Capture Manager - UK",
+    "company": "TRM Labs",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and ",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:29.848626",
+    "first_seen": "2026-10-22T15:29:29.848628"
+  },
+  {
+    "id": "e0844d45b0a3515b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156367-lead-machine-learning-scientist-fincrime",
+    "title": "Lead Machine Learning Scientist, FinCrime",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:29.848058",
+    "first_seen": "2026-10-22T15:29:29.848060"
+  },
+  {
+    "id": "0ca24010eacf71ba",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156373-growth-partnerships-manager-korea",
+    "title": "Growth Partnerships Manager, Korea",
+    "company": "OpenAI",
+    "location": "South Korea",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "About the Team OpenAI ’s Partnerships team builds relationships that expand the reach of our products, make them more useful and accelerate adoption around the world. The Growth Partnerships Manager will grow the impact of OpenAI’s strategic partnerships in Korea, expanding adoption, deepening engag",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:29.847695",
+    "first_seen": "2026-10-22T15:29:29.847697"
+  },
+  {
+    "id": "fb86b22d609647ae",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156371-sales-engineer-thailand",
+    "title": "Sales Engineer | Thailand",
+    "company": "ExtraHop",
+    "location": "Thailand",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "At ExtraHop , we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide vis",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:29.847436",
+    "first_seen": "2026-10-22T15:29:29.847438"
+  },
+  {
+    "id": "aa84db5a75c64e1f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156376-data-analytics-revenue-reporting-specialist",
+    "title": "Data Analytics & Revenue Reporting Specialist",
+    "company": "LevelUp",
+    "location": "Philippines",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "part_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Company Overview LevelUp is a specialist agency that provides outsourcing solutions to agencies, software vendors, and website owners. For over seven years, we have successfully collaborated with a variety of companies, providing valuable technical, operational, and back-office support. We have a la",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-22T15:29:29.847062",
+    "first_seen": "2026-10-22T15:29:29.847072"
+  },
+  {
+    "id": "e64600383cc9daa7",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
+    "title": "Senior Backend Engineer",
+    "company": "DuckDuckGo",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "USD 190,000 – 190,000/year",
+    "job_type": "N/A",
+    "tags": [
+      "backend",
+      "perl",
+      "golang",
+      "javascript",
+      "node"
+    ],
+    "description_snippet": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use our browser on Mac , Windows , iOS , and ",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-22T15:29:29.454171",
+    "first_seen": "2026-10-22T15:29:29.454179"
+  },
+  {
+    "id": "437fe78ac49ea53d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=96a21d54cdaa8915",
+    "title": "Data Platform Engineer IV",
+    "company": "Gama-1 Technologies",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "docker",
+      "kafka",
+      "azure",
+      "aws",
+      "gcp",
+      "data engineering",
+      "ci/cd",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**About the Opportunity**\n\nThe Data Platform Engineer IV will join the Product and Services team as a senior, hands-on engineer, implementing cloud-based data platforms that include data ingestion and processing pipelines, storage, integrations, APIs, and automation in a **remote** work environment.",
+    "posted_date": "2026-09-28",
+    "scraped_at": "2026-10-22T15:29:20.507175",
+    "first_seen": "2026-10-22T15:29:20.507177"
+  },
+  {
+    "id": "0d3202185ddc5663",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=14ff47b7fbc55f62",
+    "title": "Senior MACE Modeling & Simulation Engineer Lead",
+    "company": "John H. Northrop & Associates",
+    "location": "Newport News, VA, USA",
+    "is_remote": false,
+    "salary": "USD 120,000 – 140,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "scala"
+    ],
+    "description_snippet": "###### **Start Date: Immediate**\n\nJHNA, CTSi, and EXPANSIA have come together to form a Defense Technology platform focused on delivering high-impact technologies, technology-enabled services and advanced manufacturing solutions to the U.S. Department of Defense and related national security custome",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-22T15:29:16.968771",
+    "first_seen": "2026-10-22T15:29:16.968773"
+  },
+  {
+    "id": "9b95691e7f260c7c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=15e26c8233316200",
+    "title": "Data Network Engineer",
+    "company": "nou Systems, Inc.",
+    "location": "Huntsville, AL, USA",
+    "is_remote": false,
+    "salary": "USD 155,000 – 205,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "azure",
+      "aws",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**nou Systems, Inc. (nSI) is a 100% employee-owned company!** We value teamwork and collaboration, and this transition allows us to take that commitment to a new level. nSI empowers our customers by supplying products, services, and expertise with powerful, data driven insights that transform defens",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-22T15:29:09.588786",
+    "first_seen": "2026-10-22T15:29:09.588788"
+  },
+  {
     "id": "a8a7891917d260ba",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/156331-senior-solutions-architect",
