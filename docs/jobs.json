@@ -1,5 +1,146 @@
 [
   {
+    "id": "f43ef67083a25106",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156623-head-of-data-feeds",
+    "title": "Head of Data Feeds",
+    "company": "YipitData",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across ",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T20:12:40.521238",
+    "first_seen": "2026-10-23T20:12:40.521240"
+  },
+  {
+    "id": "b7df136ced4d2f91",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156626-insights-sector-lead-emerging-verticals",
+    "title": "Insights Sector Lead, Emerging Verticals",
+    "company": "YipitData",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across ",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T20:12:40.520797",
+    "first_seen": "2026-10-23T20:12:40.520808"
+  },
+  {
+    "id": "c8524e9102277d72",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=83b375203e3fc07b",
+    "title": "Engineering Team Lead (SDET)",
+    "company": "Ten Mile Square Technologies",
+    "location": "Arlington, VA, USA",
+    "is_remote": true,
+    "salary": "USD 182,500 – 182,500/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "aws",
+      "ci/cd",
+      "java"
+    ],
+    "description_snippet": "**Company Description**\n\nTen Mile Square Technologies is a high-end technology consulting firm based in the Northern Virginia area. Our customers routinely call upon us to solve some of the largest scale and hardest problems in computer science and software development. If you have a solid grounding",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T20:12:31.846444",
+    "first_seen": "2026-10-23T20:12:31.846447"
+  },
+  {
+    "id": "df986b9090e3124b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=49c24d994907f2db",
+    "title": "C3BM Principal Systems Engineer – Advanced Technologies (MDA)",
+    "company": "Mission Driven Research",
+    "location": "Huntsville, AL, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "MDR is looking for an amazing **Systems Engineer** to join our team! In this role you will be part of the Command, Control, Communications, and Battle Management (C3BM) systems engineering efforts to include engaging in Command, Control, Battle Management, and Communications (C2BMC) technical engine",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-23T20:12:27.424411",
+    "first_seen": "2026-10-23T20:12:27.424413"
+  },
+  {
+    "id": "2dcbb804726e2916",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=af22d4d90e1b86f6",
+    "title": "Systems Engineer - Missile Defense",
+    "company": "Anduril",
+    "location": "Huntsville, AL, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "aws",
+      "rust"
+    ],
+    "description_snippet": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century's most innovative companies to the defense industry, Anduril is changing how mi",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T20:12:27.423271",
+    "first_seen": "2026-10-23T20:12:27.423275"
+  },
+  {
+    "id": "b432459df709a840",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=75631e1e395b4994",
+    "title": "Data Migration Engineer",
+    "company": "Applied Systems",
+    "location": "Chicago, IL, USA",
+    "is_remote": true,
+    "salary": "USD 60,000 – 90,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "aws",
+      "gcp",
+      "bigquery",
+      "scala"
+    ],
+    "description_snippet": "Job Description:\n\n**Role title:** Data Migration Engineer\n\n**Salary range:** $60,000 - $90,000 USD\n\n**Location:** Remote - US - Chicago, Dallas, Atlanta\n\nApplied Systems, Inc., a worldwide leader in insurance technology, is currently searching for a Data Migration Engineer to join our Data Services ",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-23T20:12:22.856091",
+    "first_seen": "2026-10-23T20:12:22.856093"
+  },
+  {
+    "id": "f49ed8e6da274ae4",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=a24a625af9eef932",
+    "title": "Analytics Engineer",
+    "company": "Convene Hospitality Group",
+    "location": "Philadelphia, PA, USA",
+    "is_remote": true,
+    "salary": "USD 120,000 – 160,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "dbt",
+      "data engineering",
+      "analytics engineering",
+      "snowflake",
+      "data warehouse",
+      "medallion",
+      "rust",
+      "llm"
+    ],
+    "description_snippet": "Convene Hospitality Group (CHG) operates a global portfolio of lifestyle brands focused on creating places and experiences that bring people together. The company designs, develops, and operates hospitality-driven destinations to host gatherings of all kinds, ranging from small corporate meetings to",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T20:12:22.855432",
+    "first_seen": "2026-10-23T20:12:22.855437"
+  },
+  {
     "id": "31d5f605955c810f",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/aquifer-development-manager",
