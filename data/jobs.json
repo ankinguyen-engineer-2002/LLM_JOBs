@@ -1,5 +1,888 @@
 [
   {
+    "id": "241e531d8c64b8ef",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156564-sr-engineer-database-reliability",
+    "title": "Sr. Engineer, Database Reliability",
+    "company": "Zapier",
+    "location": "EMEA,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "AI at Zapier At Zapier , we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently . Check out our guidance on How to Collaborate with AI During Z",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:31.167598",
+    "first_seen": "2026-10-23T12:31:31.167599"
+  },
+  {
+    "id": "466e4a7b7ef46e61",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156566-senior-technical-account-manager-customer-success-emea",
+    "title": "Senior Technical Account Manager - Customer Success (EMEA)",
+    "company": "ClickUp",
+    "location": "Ireland,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:31.167322",
+    "first_seen": "2026-10-23T12:31:31.167323"
+  },
+  {
+    "id": "fb7f621ee4700e4d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156567-sr-engineer-infrastructure-security",
+    "title": "Sr. Engineer, Infrastructure Security",
+    "company": "Zapier",
+    "location": "EMEA,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "AI at Zapier At Zapier , we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently . Check out our guidance on How to Collaborate with AI During Z",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:31.167140",
+    "first_seen": "2026-10-23T12:31:31.167140"
+  },
+  {
+    "id": "c7ed0318897b7291",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156571-engineering-manager-ceph-distributed-storage-2",
+    "title": "Engineering Manager- Ceph & Distributed Storage",
+    "company": "Canonical",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:31.166949",
+    "first_seen": "2026-10-23T12:31:31.166950"
+  },
+  {
+    "id": "c81b8674889efd13",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156572-engineering-manager-commercial-systems",
+    "title": "Engineering Manager, Commercial Systems",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include t",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:31.166835",
+    "first_seen": "2026-10-23T12:31:31.166835"
+  },
+  {
+    "id": "3428e63e1f15b14b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156570-engineering-director-commercial-systems",
+    "title": "Engineering Director - Commercial Systems",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include t",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:31.166672",
+    "first_seen": "2026-10-23T12:31:31.166672"
+  },
+  {
+    "id": "d0404fee0f00e1ae",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156573-engineering-manager-distributed-systems-python-go",
+    "title": "Engineering Manager - Distributed Systems, Python / Go",
+    "company": "Canonical",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "qa & testing"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include th",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:31.166502",
+    "first_seen": "2026-10-23T12:31:31.166503"
+  },
+  {
+    "id": "8521e8e72a21e355",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156579-release-engineer",
+    "title": "Release Engineer",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We're lo",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:31.166331",
+    "first_seen": "2026-10-23T12:31:31.166332"
+  },
+  {
+    "id": "3de64fbf2e8009c8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156583-cloud-platform-engineer",
+    "title": "Cloud Platform Engineer",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About the Role As a Cloud Platform Engineer at Supabase , you’ll join Cloud Engineering, part of Engineering Operations, and shape the foundations that let engineering teams build, ship, and operate infrastructure safely and independently across AWS and GCP. This is a role spanning cloud governance,",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:31.166185",
+    "first_seen": "2026-10-23T12:31:31.166185"
+  },
+  {
+    "id": "cf5af54a5e12b207",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156578-business-development-representative-20",
+    "title": "Business Development Representative",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:31.166035",
+    "first_seen": "2026-10-23T12:31:31.166036"
+  },
+  {
+    "id": "bfc61c5ca859f9a5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156582-performance-engineer-benchmarking",
+    "title": "Performance Engineer - Benchmarking",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "qa & testing"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About this role We’re h",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:31.165901",
+    "first_seen": "2026-10-23T12:31:31.165902"
+  },
+  {
+    "id": "af981877610f2fb5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156581-performance-engineer-performance-analysis-tuning",
+    "title": "Performance Engineer - Performance Analysis & Tuning",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We're hi",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:31.165772",
+    "first_seen": "2026-10-23T12:31:31.165772"
+  },
+  {
+    "id": "068ed695c00954cd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156580-business-services-team-manager",
+    "title": "Business Services Team Manager",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:31.165621",
+    "first_seen": "2026-10-23T12:31:31.165633"
+  },
+  {
+    "id": "e4ebc0a268cdac3a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156559-senior-sales-engineer-enterprise",
+    "title": "Senior Sales Engineer, Enterprise",
+    "company": "Fivetran",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "From Fivetran ’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizatio",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:30.383546",
+    "first_seen": "2026-10-23T12:31:30.383547"
+  },
+  {
+    "id": "857e7465c4e81f2b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156569-engineering-director-business-data",
+    "title": "Engineering Director - Business Data",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include t",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:30.383359",
+    "first_seen": "2026-10-23T12:31:30.383370"
+  },
+  {
+    "id": "7004d5949e3463bd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156482-gtm-solutions-consultant-ii-presales",
+    "title": "GTM Solutions Consultant II (Presales)",
+    "company": "Apollo.io",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Apollo.io is the leading go-to-market solution for revenue teams, trusted by over 500,000 companies and millions of users globally, from rapidly growing startups to some of the world's largest enterprises. Founded in 2015, the company is one of the fastest growing companies in SaaS, raising approxim",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.674103",
+    "first_seen": "2026-10-23T12:31:29.674104"
+  },
+  {
+    "id": "f7a2b10ade9956d0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156478-gtm-senior-solutions-consultant-presales",
+    "title": "GTM Senior Solutions Consultant (Presales)",
+    "company": "Apollo.io",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Apollo.io is the leading go-to-market solution for revenue teams, trusted by over 500,000 companies and millions of users globally, from rapidly growing startups to some of the world's largest enterprises. Founded in 2015, the company is one of the fastest growing companies in SaaS, raising approxim",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.673902",
+    "first_seen": "2026-10-23T12:31:29.673902"
+  },
+  {
+    "id": "69185e81c6bef6af",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156476-senior-rd-supply-chain-specialist",
+    "title": "Senior R&D Supply Chain Specialist",
+    "company": "ICEYE",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Role Highlights Senior R&amp;D Supply Chain Specialist Global Supply Chain Munich Permanent Employment Office/On-site based Language: German ( native ) / English (B2 minimum) Employment is subject to applicable security screening (incl. SUPO, where required) Why this role matters: We are looking for",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.673689",
+    "first_seen": "2026-10-23T12:31:29.673690"
+  },
+  {
+    "id": "4e29ad43b2cec51a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156483-software-engineer-ai-ml-infrastructure-us-based",
+    "title": "Software Engineer, AI/ML Infrastructure (US-Based)",
+    "company": "Thumbtack",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urg",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.673504",
+    "first_seen": "2026-10-23T12:31:29.673505"
+  },
+  {
+    "id": "b7ea8d45e91f1ac9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156491-senior-devops-sre-engineer",
+    "title": "Senior DevOps/SRE Engineer",
+    "company": "Oddball",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.673381",
+    "first_seen": "2026-10-23T12:31:29.673382"
+  },
+  {
+    "id": "ad98f04bca580f9c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156485-senior-recruiter",
+    "title": "Senior Recruiter",
+    "company": "Bayesian Health",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. You'll own full-cycle recruiting across the company, with a primary focus on engineering, data science, and AI/ML, and help us",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.673262",
+    "first_seen": "2026-10-23T12:31:29.673262"
+  },
+  {
+    "id": "1a1b65f44e6e62d1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156487-capture-manager",
+    "title": "Capture Manager",
+    "company": "Oddball",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.673018",
+    "first_seen": "2026-10-23T12:31:29.673019"
+  },
+  {
+    "id": "c3e098f600b18c37",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156492-engineering-manager-cloud-engineering",
+    "title": "Engineering Manager, Cloud Engineering",
+    "company": "LaunchDarkly",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About the Job: We’re looking for an Engineering Manager to lead LaunchDarkly ’s Cloud Engineering team, the team responsible for the foundational infrastructure our products and engineering teams depend on. Cloud Engineering owns LaunchDarkly’s AWS accounts and networking, multi-region Kubernetes in",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.672900",
+    "first_seen": "2026-10-23T12:31:29.672901"
+  },
+  {
+    "id": "ec563e61c6c7b768",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156488-director-people-operations",
+    "title": "Director, People Operations",
+    "company": "LaunchDarkly",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "About the Job: LaunchDarkly is looking for a Director, People Operations to lead the operating model, service delivery, and continuous improvement of People Operations and Talent Acquisition operations across the employee and candidate lifecycles. Reporting to the Senior Director, People Operations,",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.672715",
+    "first_seen": "2026-10-23T12:31:29.672716"
+  },
+  {
+    "id": "ef8fef4757cfd4ae",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156500-senior-software-engineer-frontend-3",
+    "title": "Senior Software Engineer (Frontend)",
+    "company": "Happy Money",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "ABOUT HAPPY MONEY Happy Money is a consumer finance company that empowers people to achieve their goals through simple, transparent loans funded by trusted financial institutions. Through its proprietary lending platform, Hive, Happy Money delivers a fully digital experience that simplifies borrowin",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.672393",
+    "first_seen": "2026-10-23T12:31:29.672394"
+  },
+  {
+    "id": "1d6c8dde73131935",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156501-senior-salesforce-business-systems-administrator",
+    "title": "Senior Salesforce Business Systems Administrator",
+    "company": "Salesloft",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Job Title: Senior Business Systems Administrator Location: United States, Remote This job is eligible for remote work anywhere in the United States ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. B",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.672279",
+    "first_seen": "2026-10-23T12:31:29.672279"
+  },
+  {
+    "id": "7eb6c4d419612e3d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156502-regional-sales-manager-financial-services",
+    "title": "Regional Sales Manager, Financial Services",
+    "company": "ExtraHop",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "At ExtraHop , we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide vis",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.672102",
+    "first_seen": "2026-10-23T12:31:29.672103"
+  },
+  {
+    "id": "afa74fcf40b26575",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156494-head-of-customer-operations",
+    "title": "Head of Customer Operations",
+    "company": "Happy Money",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "ABOUT HAPPY MONEY Happy Money is a consumer finance company that empowers people to achieve their goals through simple, transparent loans funded by trusted financial institutions. Through its proprietary lending platform, Hive, Happy Money delivers a fully digital experience that simplifies borrowin",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.671906",
+    "first_seen": "2026-10-23T12:31:29.671906"
+  },
+  {
+    "id": "30436434df53cc20",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156503-senior-product-designer-16",
+    "title": "Senior Product Designer",
+    "company": "Nextiva",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Redefine the future of customer experiences. One conversation at a time. At Nextiva , we’re reimagining how businesses connect, bringing together customer experience and team collaboration on a single, conversation centric platform. Powered by AI, driven by human innovation. Our culture is forward t",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.671758",
+    "first_seen": "2026-10-23T12:31:29.671759"
+  },
+  {
+    "id": "ba5c904875b2b454",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156496-principal-product-manager-omnichannel-cx-2",
+    "title": "Principal Product Manager, Omnichannel CX",
+    "company": "Nextiva",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Redefine the future of customer experiences. One conversation at a time. At Nextiva , we’re reimagining how businesses connect, bringing together customer experience and team collaboration on a single, conversation centric platform. Powered by AI, driven by human innovation. Our culture is forward t",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.671530",
+    "first_seen": "2026-10-23T12:31:29.671531"
+  },
+  {
+    "id": "c657fca3ccd78fc3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156505-manager-solutions-engineering-norben-remote",
+    "title": "Manager, Solutions Engineering | NorBen | Remote",
+    "company": "Grafana Labs",
+    "location": "Netherlands",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.671321",
+    "first_seen": "2026-10-23T12:31:29.671321"
+  },
+  {
+    "id": "0a0ace5db17e84cf",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156509-regional-sales-director-enterprise-growth-uk-remote",
+    "title": "Regional Sales Director, Enterprise Growth | UK | Remote",
+    "company": "Grafana Labs",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.671127",
+    "first_seen": "2026-10-23T12:31:29.671127"
+  },
+  {
+    "id": "7efe44765d64fe2c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156510-lead-product-designer-growth",
+    "title": "Lead Product Designer, Growth",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.670946",
+    "first_seen": "2026-10-23T12:31:29.670947"
+  },
+  {
+    "id": "787699cbdb6544eb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156514-customer-success-associate-spanish-english-speaker",
+    "title": "Customer Success Associate - Spanish & English speaker",
+    "company": "Instructure",
+    "location": "Hungary",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education an",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.670736",
+    "first_seen": "2026-10-23T12:31:29.670736"
+  },
+  {
+    "id": "d637dc692e0707c3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156517-compliance-risk-lead-maternity-cover",
+    "title": "Compliance & Risk Lead (Maternity Cover)",
+    "company": "Paddle",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "What do we do? Paddle offers digital product companies a completely different approach to their payment infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain ",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.670607",
+    "first_seen": "2026-10-23T12:31:29.670607"
+  },
+  {
+    "id": "d44739292b81db2b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156525-product-manager-anti-fraud",
+    "title": "Product Manager - Anti Fraud",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.670465",
+    "first_seen": "2026-10-23T12:31:29.670466"
+  },
+  {
+    "id": "508e9b094899c87a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156529-security-solutions-engineer",
+    "title": "Security Solutions Engineer",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.670328",
+    "first_seen": "2026-10-23T12:31:29.670329"
+  },
+  {
+    "id": "53f032b82de1140e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156531-enterprise-account-executive-24",
+    "title": "Enterprise Account Executive",
+    "company": "Algolia",
+    "location": "Netherlands",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Algolia is the retrieval intelligence layer that turns intent into trusted, decision-grade outcomes. Powering more than 1.7 trillion queries a year for over 18,000 customers with millisecond latency and 99.999% reliability, we are the recognized leader for Search and Product Discovery by top industr",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.670196",
+    "first_seen": "2026-10-23T12:31:29.670196"
+  },
+  {
+    "id": "a9237a4d910aa1db",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156532-senior-applied-ai-solutions-engineer",
+    "title": "Senior Applied AI Solutions Engineer",
+    "company": "Nebius",
+    "location": "Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.670008",
+    "first_seen": "2026-10-23T12:31:29.670009"
+  },
+  {
+    "id": "d05afd76b57f42f5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156535-senior-customer-ai-engineer-token-factory",
+    "title": "Senior Customer AI Engineer - Token Factory",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.669849",
+    "first_seen": "2026-10-23T12:31:29.669850"
+  },
+  {
+    "id": "45d0a9101fb8c6d0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156537-senior-data-engineer-5",
+    "title": "Senior Data Engineer",
+    "company": "Nebius",
+    "location": "Europe,  Israel",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.669710",
+    "first_seen": "2026-10-23T12:31:29.669711"
+  },
+  {
+    "id": "d9840f8899a2e9bd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156539-partner-manager",
+    "title": "Partner Manager",
+    "company": "Algolia",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Algolia is the retrieval intelligence layer that turns intent into trusted, decision-grade outcomes. Powering more than 1.7 trillion queries a year for over 18,000 customers with millisecond latency and 99.999% reliability, we are the recognized leader for Search and Product Discovery by top industr",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.669593",
+    "first_seen": "2026-10-23T12:31:29.669593"
+  },
+  {
+    "id": "d329c203fa90a726",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156542-partner-manager-german-speaker",
+    "title": "Partner Manager - German Speaker",
+    "company": "Algolia",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Algolia is the retrieval intelligence layer that turns intent into trusted, decision-grade outcomes. Powering more than 1.7 trillion queries a year for over 18,000 customers with millisecond latency and 99.999% reliability, we are the recognized leader for Search and Product Discovery by top industr",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.669369",
+    "first_seen": "2026-10-23T12:31:29.669369"
+  },
+  {
+    "id": "b3da1654c3a92f5f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156543-senior-hpc-engineer-gpu-compute",
+    "title": "Senior HPC Engineer, GPU Compute",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.669095",
+    "first_seen": "2026-10-23T12:31:29.669096"
+  },
+  {
+    "id": "04a18030be24cac4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156540-senior-hpc-cluster-engineer",
+    "title": "Senior HPC Cluster Engineer",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:29.668965",
+    "first_seen": "2026-10-23T12:31:29.668972"
+  },
+  {
+    "id": "c319fc90e183e0ec",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=73b6de841a3a14d0",
+    "title": "Engineer- Software, AI and Data Analytics",
+    "company": "American Honda Motor",
+    "location": "East Liberty, OH, USA",
+    "is_remote": false,
+    "salary": "USD 76,800 – 115,100/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "kafka",
+      "azure",
+      "aws",
+      "power bi",
+      "tableau",
+      "data engineering",
+      "databricks",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "Job ID: 13079\n\nEast Liberty, Ohio, 43319\n\n1st Shift\n\n$76,800.00 - $115,100.00\n\n  \n\n**Job Purpose**\n---------------\n\nSoftwareAI & Data Analytics Engineer - develop data-driven software solutions that support engineering analysis and decision-making. This position will design, build, and maintain full",
+    "posted_date": "2026-10-17",
+    "scraped_at": "2026-10-23T12:31:19.719946",
+    "first_seen": "2026-10-23T12:31:19.719947"
+  },
+  {
+    "id": "e4a5dcfea95d8dce",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f7d2c6a47746c5e9",
+    "title": "Software Engineer",
+    "company": "Archarithms Inc",
+    "location": "Colorado Springs, CO, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "machine learning"
+    ],
+    "description_snippet": "**WE ARE ARCARITHM, and we are changing the world!**\n\nIf you are ready to grow your career and change the world with us, then join the Arcarithm team!\n\nWe are located in beautiful, downtown Huntsville, AL, one of the fastest growing cities in the U.S.! At Arcarithm, we cultivate and foster an enviro",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-23T12:31:16.051672",
+    "first_seen": "2026-10-23T12:31:16.051672"
+  },
+  {
+    "id": "9637fe7689f5991c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f8d1fb95159cf148",
+    "title": "Senior Analytics Engineer",
+    "company": "Remedy",
+    "location": "Summit, NJ, USA",
+    "is_remote": false,
+    "salary": "USD 160,000 – 180,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "dbt",
+      "data engineering",
+      "analytics engineering",
+      "snowflake",
+      "data warehouse",
+      "medallion",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**Thirty Madison is now part of** **Remedy****! You can read more about the acquisition** **here****. We are excited to join forces and continue to revolutionize healthcare accessibility!**\n\n**About the role**\n\nWe're hiring a Senior Analytics Engineer within our centralized data team to own a core a",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T12:31:11.354285",
+    "first_seen": "2026-10-23T12:31:11.354288"
+  },
+  {
     "id": "6a235d6510b531fd",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/ping-identity-channel-account-manager",
