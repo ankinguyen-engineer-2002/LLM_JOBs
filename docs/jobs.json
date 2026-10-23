@@ -1,5 +1,774 @@
 [
   {
+    "id": "4cf9e5d0b22862f6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156631-b2b-growth-marketing-manager-industrial-saas",
+    "title": "B2B Growth Marketing Manager – Industrial/SaaS",
+    "company": "AssetWatch",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an unparalleled condition monitoring experience, with a passion to care about the assets our customers care for every day. We are a devoted and capable team that includes world-renowned engineers and dist",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.359584",
+    "first_seen": "2026-10-23T23:18:41.359584"
+  },
+  {
+    "id": "c554b78206d0f367",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156633-business-development-representative-saas",
+    "title": "Business Development Representative (SaaS)",
+    "company": "AssetWatch",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an unparalleled condition monitoring experience, with a passion to care about the assets our customers care for every day. We are a devoted and capable team that includes world-renowned engineers and dist",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.359473",
+    "first_seen": "2026-10-23T23:18:41.359473"
+  },
+  {
+    "id": "9f75de3b764ef041",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156630-senior-data-analyst-2",
+    "title": "Senior Data Analyst",
+    "company": "ShopFully",
+    "location": "Italy",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "We are the platform turning browsing into shopping . We connect 200 million shoppers with deals they love while boosting local sales for hundreds of top retailers and brands. We help consumers save time and money while making smart shopping decisions, and we support retailers and brands in engaging ",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.359387",
+    "first_seen": "2026-10-23T23:18:41.359387"
+  },
+  {
+    "id": "dd3b25bab5d9e60e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156639-engineering-manager-12",
+    "title": "Engineering Manager",
+    "company": "Signifyd",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At Signifyd , we help merchants confidently grow their businesses by building trusted relationships with their customers. Our advanced technology, combined with a team genuinely invested in our clients’ success, creates frictionless shopping experiences, approving more good orders, protecting revenu",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.359196",
+    "first_seen": "2026-10-23T23:18:41.359197"
+  },
+  {
+    "id": "2111905d7f723067",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156638-critical-facilities-lead-compute-infrastructure",
+    "title": "Critical Facilities Lead, Compute Infrastructure",
+    "company": "OpenAI",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About the Team OpenAI , in close collaboration with our capital partners, is embarking on a journey to build the world’s most advanced AI infrastructure ecosystem. The Infrastructure team is central to this mission, setting the core strategy and implementing the vision. From site selection to deploy",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.359028",
+    "first_seen": "2026-10-23T23:18:41.359028"
+  },
+  {
+    "id": "49d27a43076a46ef",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156642-risk-intelligence-manager",
+    "title": "Risk Intelligence Manager",
+    "company": "Signifyd",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "At Signifyd , we help merchants confidently grow their businesses by building trusted relationships with their customers. Our advanced technology, combined with a team genuinely invested in our clients’ success, creates frictionless shopping experiences, approving more good orders, protecting revenu",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.358918",
+    "first_seen": "2026-10-23T23:18:41.358919"
+  },
+  {
+    "id": "1cd8df75fe258c29",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156640-engineering-leader-platform-engineering",
+    "title": "Engineering Leader, Platform Engineering",
+    "company": "ClassDojo",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "ClassDojo 's goal is to give every child on Earth an education they love. We started by building a communication network that connects teachers, children, and families. Today, ClassDojo is used in the vast majority of U.S. schools and reaches tens of millions of children and families globally. We're",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.358784",
+    "first_seen": "2026-10-23T23:18:41.358784"
+  },
+  {
+    "id": "e3a4b3ded5225ead",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156643-senior-software-engineer-developer-experience-ai-platform-team",
+    "title": "Senior Software Engineer, Developer Experience & AI Platform team",
+    "company": "ClassDojo",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "ClassDojo 's goal is to give every child on Earth an education they love. We started by building a powerful network for communication. ClassDojo’s flagship app is the #1 communication app connecting K-12 teachers, children, and families globally. Teachers use it to share what’s happening throughout ",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.358639",
+    "first_seen": "2026-10-23T23:18:41.358639"
+  },
+  {
+    "id": "1f6fc8ddc4c7e951",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156650-commercial-account-executive-remote-eligible-costa-rica",
+    "title": "Commercial Account Executive (Remote Eligible - Costa Rica)",
+    "company": "Smartsheet",
+    "location": "Costa Rica",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create th",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.358484",
+    "first_seen": "2026-10-23T23:18:41.358485"
+  },
+  {
+    "id": "3ffb8d6b1f3544c9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156653-content-designer-ii-remote-eligible-costa-rica",
+    "title": "Content Designer II (Remote Eligible - Costa Rica)",
+    "company": "Smartsheet",
+    "location": "Costa Rica",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create th",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.358363",
+    "first_seen": "2026-10-23T23:18:41.358363"
+  },
+  {
+    "id": "2a998dd15b02bc63",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156648-manager-professional-services-federal",
+    "title": "Manager, Professional Services Federal",
+    "company": "Collibra",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Joining Collibra ’s Professional Services Team At Collibra Public Sector (CPS), the Manager, Federal Professional Services is responsible for leading all services roles and functions to ensure the long-term success, adoption, and satisfaction of government clients. The role drives a cohesive custome",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.358258",
+    "first_seen": "2026-10-23T23:18:41.358259"
+  },
+  {
+    "id": "ef3ecb0775a29bd7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156654-senior-fpa-analyst-2",
+    "title": "Senior FP&A Analyst",
+    "company": "dscout",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "At Dscout , we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Faceb",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.358050",
+    "first_seen": "2026-10-23T23:18:41.358050"
+  },
+  {
+    "id": "1fbb9219bbb0b372",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156655-senior-customer-engineer-collibra-public-sector",
+    "title": "Senior Customer Engineer - Collibra Public Sector",
+    "company": "Collibra",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "J oining Collibra ’s Public Sector team The Federal Customer Engineer (CE) serves as the guiding force behind bringing Collibra Public Sector's (CPS) product and vision to customers and prospects. Senior Customer Engineers are responsible for both net-new and expansion opportunities in existing acco",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.357916",
+    "first_seen": "2026-10-23T23:18:41.357917"
+  },
+  {
+    "id": "dd49dab47aa44bb3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156651-mobile-principal-software-engineer",
+    "title": "Mobile Principal Software Engineer",
+    "company": "dscout",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At Dscout , we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Faceb",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.357665",
+    "first_seen": "2026-10-23T23:18:41.357665"
+  },
+  {
+    "id": "6f22460cc56d4e95",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156647-cybersecurity-engineer",
+    "title": "Cybersecurity Engineer",
+    "company": "dscout",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "At Dscout , we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Faceb",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.357494",
+    "first_seen": "2026-10-23T23:18:41.357494"
+  },
+  {
+    "id": "ed3003c4fe7a9c45",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156663-solutions-manager-german-fluency",
+    "title": "Solutions Manager- (German Fluency)",
+    "company": "Zip",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "About Zip Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before. The world’s most i",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.357349",
+    "first_seen": "2026-10-23T23:18:41.357350"
+  },
+  {
+    "id": "f7336db6c4cafb6d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156659-senior-customer-success-manager-technical-account-manager",
+    "title": "Senior Customer Success Manager - Technical Account Manager",
+    "company": "Zip",
+    "location": "Israel",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About Zip Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before. The world’s most i",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.357261",
+    "first_seen": "2026-10-23T23:18:41.357261"
+  },
+  {
+    "id": "41bd83c52d986bfe",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156660-engineering-manager-switchboard",
+    "title": "Engineering Manager, Switchboard",
+    "company": "GitLab",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.357144",
+    "first_seen": "2026-10-23T23:18:41.357145"
+  },
+  {
+    "id": "fe86134bec315ff3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156662-engineering-manager-tenant-scale-gitaly",
+    "title": "Engineering Manager, Tenant Scale: Gitaly",
+    "company": "GitLab",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.357010",
+    "first_seen": "2026-10-23T23:18:41.357010"
+  },
+  {
+    "id": "bdea376bbce79c9d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156658-vice-president-deputy-general-counsel",
+    "title": "Vice President, Deputy General Counsel",
+    "company": "HackerOne",
+    "location": "UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "HackerOne is a global leader in Continuous Threat Exposure Management (CTEM). The HackerOne Platform unites agentic AI solutions with the ingenuity of the world’s largest community of security researchers to continuously discover, validate, prioritize, and remediate exposures across code, cloud, and",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.356840",
+    "first_seen": "2026-10-23T23:18:41.356841"
+  },
+  {
+    "id": "e3d910e152b08cd3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156665-forward-deployed-engineer-emea",
+    "title": "Forward Deployed Engineer - EMEA",
+    "company": "GitLab",
+    "location": "France,  Germany,  Ireland,  Netherlands,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.356666",
+    "first_seen": "2026-10-23T23:18:41.356667"
+  },
+  {
+    "id": "e6c5800b98b73958",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156672-senior-information-security-engineer-2",
+    "title": "Senior Information Security Engineer",
+    "company": "Zscaler",
+    "location": "Costa Rica",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. ",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.356368",
+    "first_seen": "2026-10-23T23:18:41.356368"
+  },
+  {
+    "id": "b33590b6c1829ae2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156673-senior-product-designer-fully-remote-anywhere-in-south-america",
+    "title": "Senior Product Designer (Fully Remote - anywhere in South America)",
+    "company": "PadSplit",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "The Role We Need: PadSplit is hiring a Senior Product Designer to shape and improve experiences across our two-sided housing marketplace. Working on a growth-focused product team, you’ll tackle meaningful, complex problems for members and hosts, helping make it easier to find, access, and provide af",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.356238",
+    "first_seen": "2026-10-23T23:18:41.356239"
+  },
+  {
+    "id": "a14805d3080b6901",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156669-enablement-consultant",
+    "title": "Enablement Consultant",
+    "company": "Samsara",
+    "location": "Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.356137",
+    "first_seen": "2026-10-23T23:18:41.356138"
+  },
+  {
+    "id": "b5420aafe94c31c1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156670-adoption-strategist-latam",
+    "title": "Adoption Strategist - LATAM",
+    "company": "Elevenlabs",
+    "location": "Argentina,  Brazil",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.355930",
+    "first_seen": "2026-10-23T23:18:41.355931"
+  },
+  {
+    "id": "5a8a6135791db45a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156675-cloud-alliances-business-development-lead",
+    "title": "Cloud Alliances Business Development Lead",
+    "company": "Canonical",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.355760",
+    "first_seen": "2026-10-23T23:18:41.355761"
+  },
+  {
+    "id": "17b67b1e2cb18dcc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156674-principal-product-manager-hts-api-marketplace",
+    "title": "Principal Product Manager, HTS API Marketplace",
+    "company": "Hopper",
+    "location": "Brazil",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About the Role We are seeking an exceptional Principal Product Manager to build the HTS API Marketplace — the commercial and developer-facing layer through which enterprise partners access Hopper 's lodging and cars capabilities. This is a true 0-to-1 role. You will be the person who defines what it",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.355639",
+    "first_seen": "2026-10-23T23:18:41.355639"
+  },
+  {
+    "id": "7c4efa8f4fd49b53",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156685-staff-product-designer-6",
+    "title": "Staff Product Designer",
+    "company": "Medium",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "About Medium Medium is one of the world's most influential writing platforms, connecting millions of readers with ideas that matter. We're a small, dedicated team that cares deeply and takes real ownership of the problems we tackle, moving fast while building something that lasts. Our actions and de",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.355441",
+    "first_seen": "2026-10-23T23:18:41.355442"
+  },
+  {
+    "id": "76992ca83c98caa4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156680-senior-android-engineer-4",
+    "title": "Senior Android Engineer",
+    "company": "Medium",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Medium Medium is one of the world's most influential writing platforms, connecting millions of readers with ideas that matter. We're a small, dedicated team that cares deeply and takes real ownership of the problems we tackle, moving fast while building something that lasts. Our actions and de",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.355265",
+    "first_seen": "2026-10-23T23:18:41.355265"
+  },
+  {
+    "id": "a579e2c7f77f2515",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156682-bilingual-cx-specialist-french",
+    "title": "Bilingual CX Specialist (French)",
+    "company": "Instacart",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "We're transforming the grocery industry At Instacart , we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless o",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.355057",
+    "first_seen": "2026-10-23T23:18:41.355057"
+  },
+  {
+    "id": "47bd7ee6cf2dd0b9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156681-solutions-engineer-critical-infrastructure",
+    "title": "Solutions Engineer - Critical Infrastructure",
+    "company": "Echodyne",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Radar Reinvented. Echodyne offers the world’s first compact solid-state true beam-steering radar for a wide range of industries and applications. Our high-performance radars work in all weather and are designed for autonomous vehicles, uncrewed aircraft &amp; drones, and security of borders, critica",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.354896",
+    "first_seen": "2026-10-23T23:18:41.354896"
+  },
+  {
+    "id": "7ecea155f94d5b44",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156686-billing-operations-lead",
+    "title": "Billing Operations Lead",
+    "company": "Instacart",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "We're transforming the grocery industry At Instacart , we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless o",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:41.354746",
+    "first_seen": "2026-10-23T23:18:41.354757"
+  },
+  {
+    "id": "2a026f3041a8ef76",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=6575b6db408f0855",
+    "title": "Data Engineer",
+    "company": "Futurefit Recruitment Services",
+    "location": "Dallas, TX, USA",
+    "is_remote": false,
+    "salary": "USD 123,000 – 149,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "azure",
+      "data engineering",
+      "snowflake",
+      "databricks",
+      "data warehouse",
+      "scala"
+    ],
+    "description_snippet": "Seagate Technology is seeking a **Senior Data Engineer / ETL Developer** to design, develop, and support scalable enterprise data integration and data warehouse solutions. The ideal candidate will have strong experience with **Informatica IICS, Informatica PowerCenter, Azure Data Factory, Snowflake,",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:36.584655",
+    "first_seen": "2026-10-23T23:18:36.584656"
+  },
+  {
+    "id": "b6cac630b6c41bf4",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=0905d68ff69a7321",
+    "title": "Sr. Big Data Engineer",
+    "company": "Ariel Partners",
+    "location": "Fort Belvoir, VA, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "data engineering",
+      "ci/cd",
+      "java",
+      "scala",
+      "nlp"
+    ],
+    "description_snippet": "**Project Overview**\n\nThe DLA Procurement Integrated Enterprise Environment (PIEE) Development and Sustainment program supports modernization, enhancement, and sustainment of a mission-critical defense procurement and payment platform comprising approximately 34 applications.\n\nThe program focuses on",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-23T23:18:31.544180",
+    "first_seen": "2026-10-23T23:18:31.544180"
+  },
+  {
+    "id": "28a964fa715a79c2",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b2b0a4f45e0cc40c",
+    "title": "MSS Developer - DC",
+    "company": "Agile Defense",
+    "location": "Washington, DC, USA",
+    "is_remote": false,
+    "salary": "USD 135,000 – 165,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "data engineering",
+      "java",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**About Agile Defense**\n\nAt Agile Defense we know that action defines the outcome and new challenges require new solutions. That’s why we always look to the future and embrace change with an unmovable spirit and the courage to build for what comes next.\n\nOur vision is to bring adaptive innovation to",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:31.543788",
+    "first_seen": "2026-10-23T23:18:31.543793"
+  },
+  {
+    "id": "14f2852e8feb0e58",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d72260f4a802bc44",
+    "title": "Computer Scientist - Senior",
+    "company": "Cherokee Federal",
+    "location": "Reston, VA, USA",
+    "is_remote": false,
+    "salary": "USD 175,000 – 190,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "data engineering",
+      "machine learning"
+    ],
+    "description_snippet": "**Computer Scientist - Senior**\n\nReston, VA, United States (On-site)\n\n**Job Title:** Computer Scientist - Senior\n\n**Job Code:** ITS952\n\n**Location:** Reston, VA\n\n**Reports to:** Program Manager\n\n**FLSA Status:** Exempt\n\n**Supervisory:** No supervisory/management authority\n\n**Prepared Date:** 10/22/2",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:28.232224",
+    "first_seen": "2026-10-23T23:18:28.232225"
+  },
+  {
+    "id": "67fb969c7165de3d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4fcf68fcc0066111",
+    "title": "Data Platform Lead",
+    "company": "Convene Hospitality Group",
+    "location": "Washington, DC, USA",
+    "is_remote": true,
+    "salary": "USD 180,000 – 220,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "dbt",
+      "data engineering",
+      "analytics engineering",
+      "snowflake",
+      "rust"
+    ],
+    "description_snippet": "Convene Hospitality Group (CHG) operates a global portfolio of lifestyle brands focused on creating places and experiences that bring people together. The company designs, develops, and operates hospitality-driven destinations to host gatherings of all kinds, ranging from small corporate meetings to",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:28.231895",
+    "first_seen": "2026-10-23T23:18:28.231899"
+  },
+  {
+    "id": "ffa835bc31dc3206",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4ae55da6d9295474",
+    "title": "IT MES Engineer",
+    "company": "Magna International",
+    "location": "Mesa, AZ, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "power bi",
+      "scala"
+    ],
+    "description_snippet": "**Job descriptions may display in multiple languages****based on your language selection.**\n\n**What we offer:**\n------------------\n\nAt Magna, you can expect an engaging and dynamic environment where you can help to develop industry-leading automotive technologies. We invest in our employees, providi",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-23T23:18:24.557952",
+    "first_seen": "2026-10-23T23:18:24.557952"
+  },
+  {
+    "id": "854bbf1978ef0da1",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1863d3f9798c77d1",
+    "title": "Data Platform Engineer, Ingestion",
+    "company": "Minerva",
+    "location": "New York, NY, USA",
+    "is_remote": false,
+    "salary": "USD 150,000 – 236,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "dbt",
+      "airflow",
+      "aws",
+      "snowflake"
+    ],
+    "description_snippet": "**ABOUT MINERVA**\n-----------------\n\nMinerva builds AI for marketing leaders. We work together with marketers to automate and accelerate their workflows with AI agents. Our agents augment the end-to-end workflow of the marketer by automating analysis, campaign planning, activation, measurement and r",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:19.552804",
+    "first_seen": "2026-10-23T23:18:19.552804"
+  },
+  {
+    "id": "d083c55dfa9383bd",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=186eba03328115e5",
+    "title": "AI Data Engineer",
+    "company": "InterMed, P.A.",
+    "location": "South Portland, ME, USA",
+    "is_remote": false,
+    "salary": "USD 105,372 – 152,880/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "azure",
+      "aws",
+      "power bi",
+      "tableau",
+      "data engineering",
+      "snowflake",
+      "microsoft fabric",
+      "data warehouse",
+      "medallion",
+      "ci/cd",
+      "llm"
+    ],
+    "description_snippet": "**SUMMARY:** The AI Data Engineer is a hands-on technical expert who builds the data foundation and AI-driven applications that help InterMed automate work and make better decisions. The role develops custom applications and AI agents that automate business and clinical workflows end to end, creativ",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T23:18:19.552422",
+    "first_seen": "2026-10-23T23:18:19.552425"
+  },
+  {
     "id": "f43ef67083a25106",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/156623-head-of-data-feeds",
