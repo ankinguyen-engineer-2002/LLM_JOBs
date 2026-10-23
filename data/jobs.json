@@ -1,5 +1,196 @@
 [
   {
+    "id": "31d5f605955c810f",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/aquifer-development-manager",
+    "title": "Development Manager",
+    "company": "Aquifer",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: New Hampshire URL: https://aquifer.org/ Summary The Development Manager reports into the Chief Technology Officer and owns the engineering capacity, delivery commitments, and technical execution quality across Aquifer's development pods. Directly manages all engineers, including the po",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T18:09:26.816906",
+    "first_seen": "2026-10-23T18:09:26.816915"
+  },
+  {
+    "id": "2da71293c63e96e0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156592-engineering-manager-core-engineering",
+    "title": "Engineering Manager, Core Engineering",
+    "company": "SeatGeek",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we’re simplifying and modernizing the ticketing industry. The Core Engineering department owns the infrastructure and networking that powers SeatGeek.com along with transvers",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T18:04:56.955222",
+    "first_seen": "2026-10-23T18:04:56.955223"
+  },
+  {
+    "id": "434ea0608ea35b84",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156593-senior-manager-software-engineering-ai",
+    "title": "Senior Manager, Software Engineering - AI",
+    "company": "NetDocuments",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "NetDocuments is committed to providing an excellent candidate experience and will never ask you to engage in recruitment activity without phone, video, and in person meetings and communications from emails using the @netdocuments.com domain. If you have any concerns or questions about communications",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T18:04:56.955018",
+    "first_seen": "2026-10-23T18:04:56.955020"
+  },
+  {
+    "id": "04558044855170af",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156596-senior-strategic-implementation-specialist-americas",
+    "title": "Senior Strategic Implementation Specialist - Americas",
+    "company": "Ashby",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Senior Strategic Implementation Specialist, Americas Hi! I’m Morgan, the Manager of Strategic Implementations here at Ashby . Our customers are at the center of everything we do, and that’s especially true during implementation. We take pride in being responsive, collaborative partners who focus not",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T18:04:56.954671",
+    "first_seen": "2026-10-23T18:04:56.954673"
+  },
+  {
+    "id": "b15d47102e897d80",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156599-account-executive-director-gaming",
+    "title": "Account Executive Director, Gaming",
+    "company": "Socure",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Why Socure ? Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people ever",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T18:04:56.954323",
+    "first_seen": "2026-10-23T18:04:56.954324"
+  },
+  {
+    "id": "3ee4719a73b64285",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156598-senior-site-reliability-engineer-ii",
+    "title": "Senior Site Reliability Engineer II",
+    "company": "Juniper Square",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Juniper Square Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full potential. We’re the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services ",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T18:04:56.954184",
+    "first_seen": "2026-10-23T18:04:56.954185"
+  },
+  {
+    "id": "24bb40a8472776b3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156602-forward-deployed-engineer-8",
+    "title": "Forward Deployed Engineer",
+    "company": "Banyan Software",
+    "location": "Belgium,  Germany,  Netherlands,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Banyan Software is the best permanent home for software businesses that serve specialized industries, their employees, and their customers. With a buy-grow-and-hold-for-life approach and a permanent capital base, Banyan acquires and grows companies worldwide, honoring founder legacies and helping po",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T18:04:56.953940",
+    "first_seen": "2026-10-23T18:04:56.953941"
+  },
+  {
+    "id": "bc0ae07cc18f43ac",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156604-adoption-strategist-apac",
+    "title": "Adoption Strategist - APAC",
+    "company": "Elevenlabs",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T18:04:56.953646",
+    "first_seen": "2026-10-23T18:04:56.953658"
+  },
+  {
+    "id": "04541e66ace51e91",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=96ee49db6818dd24",
+    "title": "Sr Data Analytics Engineer",
+    "company": "Cloud Destinations",
+    "location": "Santa Clara, CA, USA",
+    "is_remote": false,
+    "salary": "USD 60 – 63/hourly",
+    "job_type": "contract",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "aws",
+      "power bi",
+      "machine learning",
+      "pandas",
+      "databricks",
+      "microsoft fabric",
+      "scala",
+      "llm"
+    ],
+    "description_snippet": "Data Engineer - Designs data pipelines and architectures for clean, usable analytics.  \nBuild scalable analytics, monitoring, and correlation solutions across CAE, Mission Control, and other SPT platforms to turn large engineering and operational datasets into actionable insights.\n\n**Core Skills**\n\n",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T18:04:52.213283",
+    "first_seen": "2026-10-23T18:04:52.213285"
+  },
+  {
+    "id": "c7eba1d64c58be3d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5efb7af5aa4ff71a",
+    "title": "Senior Human Factors Engineer",
+    "company": "Synensys LLC",
+    "location": "Peachtree City, GA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "rust"
+    ],
+    "description_snippet": "Work Location: This position is a remote/hybrid/onsite position (as required by client), located anywhere within the United States.\n\n#### **Position Summary**\n\nSynensys is seeking a highly experienced Senior Human Factors Engineer to support a U.S. Federal Healthcare client in the evaluation, design",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-23T18:04:37.565110",
+    "first_seen": "2026-10-23T18:04:37.565114"
+  },
+  {
     "id": "ae3ed1ec154b71bb",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/156547-junior-software-engineer-early-career-strong-problem-solving-coding-focus-100-remote-within-poland-2",
