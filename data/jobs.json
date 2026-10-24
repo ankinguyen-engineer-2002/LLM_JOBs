@@ -1,5 +1,68 @@
 [
   {
+    "id": "0b3655c18026b3fe",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f39711b79889485b",
+    "title": "Data Operations Engineer",
+    "company": "Evlos Technology",
+    "location": "San Antonio, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "java",
+      "scala"
+    ],
+    "description_snippet": "Job Description\n  \n  \nEssential Job Responsibilities\n  \n**Customer Engagement:** Serve as a primary technical liaison between the customer and Evlos technical teams, managing expectations, communicating technical roadmaps, and translating mission-specific data requirements into actionable engineerin",
+    "posted_date": "2026-10-01",
+    "scraped_at": "2026-10-24T19:12:14.908429",
+    "first_seen": "2026-10-24T19:12:14.908430"
+  },
+  {
+    "id": "d11f52e4cd16bc02",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3918eabf64dbad83",
+    "title": "Data Engineer",
+    "company": "Intuitive Machines",
+    "location": "Houston, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "power bi",
+      "data engineering"
+    ],
+    "description_snippet": "**Data Engineer**\n\n**About Intuitive Machines:**\n\nIntuitive Machines is an innovative and cutting-edge space company making cislunar space accessible to both public and private customers. Our mission is to further science and exploration, communications, and economic progress from the Earth to the M",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-24T19:12:10.767785",
+    "first_seen": "2026-10-24T19:12:10.767786"
+  },
+  {
+    "id": "c7b3df4af8ecdb73",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=a7a19f5e88e88adc",
+    "title": "Transformation Engineer",
+    "company": "Global Data Systems",
+    "location": "Lafayette, LA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "power bi",
+      "microsoft fabric",
+      "rust",
+      "generative ai"
+    ],
+    "description_snippet": "Description:\n\n**About the role**\n\nGlobal Data Systems is moving from Managed Services Provider to Managed Intelligence Provider, and we are proving it on ourselves first. Our Customer Zero program turns twenty years of operational data (tickets, SLA clocks, devices, contracts) into managed intellige",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T19:12:10.767114",
+    "first_seen": "2026-10-24T19:12:10.767118"
+  },
+  {
     "id": "16b8ae56a2dfdeea",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/156724-mid-market-expansion",
