@@ -1,5 +1,573 @@
 [
   {
+    "id": "4e53a73b330554b9",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/oportun-senior-software-engineer-r14285",
+    "title": "Senior Software Engineer (R14285)",
+    "company": "Oportun",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote - US Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial fu",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:26:56.431869",
+    "first_seen": "2026-10-24T08:26:56.431870"
+  },
+  {
+    "id": "58f42821aefddbe4",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153",
+    "title": "Sr. Data Analytics Engineer (R14153)",
+    "company": "Oportun",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote - MX Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial fu",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:26:56.431316",
+    "first_seen": "2026-10-24T08:26:56.431318"
+  },
+  {
+    "id": "236281bfc7483c46",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
+    "title": "Associate Data Engineer",
+    "company": "BeyondTrust",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, an",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:26:56.430714",
+    "first_seen": "2026-10-24T08:26:56.430715"
+  },
+  {
+    "id": "acdb0ee4af4fd9f6",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-sneakers",
+    "title": "Category Manager - Sneakers",
+    "company": "StockX",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote, USA Help empower our global customers to connect to culture through their passions. Why you’ll love this role: StockX is the world’s leading marketplace for current culture, built at the intersection of commerce, community, and credibility. Sneakers are foundational to StockX —",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:26:56.430388",
+    "first_seen": "2026-10-24T08:26:56.430390"
+  },
+  {
+    "id": "309f52c2ec6edb10",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/carrot-lead-product-management",
+    "title": "Lead Product Management",
+    "company": "Carrot",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health ",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:26:56.429879",
+    "first_seen": "2026-10-24T08:26:56.429881"
+  },
+  {
+    "id": "10f8714671ed3d28",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-trading-cards",
+    "title": "Category Manager - Trading Cards",
+    "company": "StockX",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote, USA Help empower our global customers to connect to culture through their passions. Why you’ll love this role: StockX is the world’s leading marketplace for current culture, built at the intersection of commerce, community, and credibility. Trading Cards are foundational to Sto",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:26:56.429263",
+    "first_seen": "2026-10-24T08:26:56.429273"
+  },
+  {
+    "id": "5c19faed92953f14",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149549-enterprise-project-manager",
+    "title": "Enterprise Project Manager",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:38.429923",
+    "first_seen": "2026-10-24T08:22:38.429924"
+  },
+  {
+    "id": "dd26babe8660a98b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149522-senior-staff-principal-engineer",
+    "title": "Senior/Staff/Principal Engineer",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.095011",
+    "first_seen": "2026-10-24T08:22:37.095013"
+  },
+  {
+    "id": "cf52db349ba37925",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.094821",
+    "first_seen": "2026-10-24T08:22:37.094823"
+  },
+  {
+    "id": "3b7701ef935e3cf5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149529-partner-sales-director-global-system-integrator-gsi",
+    "title": "Partner Sales Director - Global System Integrator (GSI)",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.094645",
+    "first_seen": "2026-10-24T08:22:37.094646"
+  },
+  {
+    "id": "89236b085b0ff06a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149530-enterprise-account-executive",
+    "title": "Enterprise Account Executive",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "This is a general track role, hiring for opportunities across all levels of seniority in our Sales Teams. Apply here if you believe you possess outstanding revenue generating experience from the Technology industry. Open source software is the new default in the enterprise, and Canonical is the new ",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.094514",
+    "first_seen": "2026-10-24T08:22:37.094515"
+  },
+  {
+    "id": "6ded87a92c246c80",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149525-senior-partner-sales-manager-global-system-integrator-gsi",
+    "title": "Senior Partner Sales Manager - Global System Integrator (GSI)",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.094075",
+    "first_seen": "2026-10-24T08:22:37.094076"
+  },
+  {
+    "id": "300f7016b7935e52",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149542-threat-intelligence-lead",
+    "title": "Threat Intelligence Lead",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "The Threat Intelligence Lead will own Canonical ’s threat intelligence strategy and execution, including understanding of which cyber threat actors are targeting Canonical, and the use of intelligence on Tactics, Techniques and Procedures (TTP) to better our products and internal cybersecurity contr",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.093774",
+    "first_seen": "2026-10-24T08:22:37.093776"
+  },
+  {
+    "id": "690327be8e98f14a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149534-alliances-field-engineer",
+    "title": "Alliances Field Engineer",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.093482",
+    "first_seen": "2026-10-24T08:22:37.093483"
+  },
+  {
+    "id": "82b2282248fb12ee",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149579-iot-solutions-architecture-manager-americas-only",
+    "title": "IoT Solutions Architecture Manager (Americas only)",
+    "company": "Canonical",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.093113",
+    "first_seen": "2026-10-24T08:22:37.093115"
+  },
+  {
+    "id": "c55e752dfe0ff6ce",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149568-cloud-solutions-architect-alliances",
+    "title": "Cloud Solutions Architect - Alliances",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.092242",
+    "first_seen": "2026-10-24T08:22:37.092244"
+  },
+  {
+    "id": "2ee0137c7831c9bd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149564-security-risk-management-specialist",
+    "title": "Security Risk Management Specialist",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "In security risk management we’re looking to harness the power of industry best practice combined with driving new innovation on how we do security risk assessments and modelling. Our security risk management team is the primary owner of the strategy and practices of how we identify, track and reduc",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.091743",
+    "first_seen": "2026-10-24T08:22:37.091745"
+  },
+  {
+    "id": "94a4ff4ca9cbb232",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot",
+    "title": "Embedded Linux Field Engineer for Devices/IoT",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Job Description Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our ",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.090596",
+    "first_seen": "2026-10-24T08:22:37.090597"
+  },
+  {
+    "id": "d7c4bbcac5135d65",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153932-principal-product-manager-ads",
+    "title": "Principal Product Manager, Ads",
+    "company": "TeamSnap",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Us At TeamSnap , we believe when the world connects through sports; the world becomes better. TeamSnap is a sports and communication platform dedicated to taking the work out of play in youth sports. We also believe our jobs should excite us, our teammates should support us and our bosses shou",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.089487",
+    "first_seen": "2026-10-24T08:22:37.089489"
+  },
+  {
+    "id": "cf2643376b341305",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/152297-senior-product-manager-learner-platform-experience",
+    "title": "Senior Product Manager, Learner Platform Experience",
+    "company": "CodePath",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "CodePath is the largest educator of college computer science students in the country. We've trained over 40,000 students from 1,000+ universities, and our partners include Amazon, Google, and other leading technology companies. We've spent nearly a decade training the next generation of technical ta",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.088755",
+    "first_seen": "2026-10-24T08:22:37.088756"
+  },
+  {
+    "id": "7c2d3198eee13deb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149531-solution-architecture-manager",
+    "title": "Solution Architecture Manager",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "This is an opportunity to run a field engineering team, helping customers understand and implement Canonical 's open source solutions in public clouds and in their own data centers. We work across the entire spectrum of cloud offerings, from Ubuntu itself to virtualisation and private cloud, Kuberne",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.088521",
+    "first_seen": "2026-10-24T08:22:37.088522"
+  },
+  {
+    "id": "9acd10d1cdaab915",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153956-senior-partner-consultant-systems-integrators",
+    "title": "Senior Partner Consultant, Systems Integrators",
+    "company": "Ramp",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.087393",
+    "first_seen": "2026-10-24T08:22:37.087395"
+  },
+  {
+    "id": "fb450389c998bb17",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153950-enterprise-account-executive-matl",
+    "title": "Enterprise Account Executive - MATL",
+    "company": "DevRev",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About DevRev At DevRev, we're building the future of work with Computer – your AI teammate. Unlike traditional tools, Computer unifies all your data sources, tools, and workflows into a single AI-ready platform, giving employees real-time insights, proactive suggestions, and powerful agentic actions",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.087145",
+    "first_seen": "2026-10-24T08:22:37.087147"
+  },
+  {
+    "id": "1c995c40eb05582d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153954-enterprise-account-executive-nyc",
+    "title": "Enterprise Account Executive - NYC",
+    "company": "DevRev",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About DevRev At DevRev, we're building the future of work with Computer – your AI teammate. Unlike traditional tools, Computer unifies all your data sources, tools, and workflows into a single AI-ready platform, giving employees real-time insights, proactive suggestions, and powerful agentic actions",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.087011",
+    "first_seen": "2026-10-24T08:22:37.087012"
+  },
+  {
+    "id": "5553219b8596b49a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153951-director-of-discovery-framing",
+    "title": "Director of Discovery & Framing",
+    "company": "Defense Unicorns",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Role Mission Own, lead, and scale Discovery &amp; Framing at Defense Unicorns —help customers identify and clearly define the mission problems that matter, quantify their impact, establish what success looks like, and create the clarity needed to determine the right path forward. The Head of Discove",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.086860",
+    "first_seen": "2026-10-24T08:22:37.086862"
+  },
+  {
+    "id": "043e56a6557e4089",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153968-country-manager-canada",
+    "title": "Country Manager, Canada",
+    "company": "Tenable",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Who is Tenable ? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our ",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:37.086280",
+    "first_seen": "2026-10-24T08:22:37.086282"
+  },
+  {
+    "id": "c5f909084fae8082",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560",
+    "title": "Accounting and Implementation Manager",
+    "company": "Aprio",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "exec",
+      "accounting",
+      "design",
+      "sys admin",
+      "education",
+      "consulting",
+      "customer support",
+      "testing",
+      "marketing",
+      "payroll"
+    ],
+    "description_snippet": "Work with a Top 20 CPA and advisory firm that Accounts for Anything. &nbsp;Aprio has 40 U.S. office locations, as well as international office locations and more than 3,200 team members that speak 60+ languages across the globe. &nbsp;By bringing together proven expertise, deep understanding, and st",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-24T08:22:36.251827",
+    "first_seen": "2026-10-24T08:22:36.251836"
+  },
+  {
+    "id": "2c9bf88f33d0bc02",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=99040e77f6b92de0",
+    "title": "Senior Analytics Engineer, Enterprise Analytics",
+    "company": "The Inland Real Estate Group of Companies, Inc.",
+    "location": "Downers Grove, IL, USA",
+    "is_remote": false,
+    "salary": "USD 126,580 – 164,554/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "aws",
+      "power bi",
+      "tableau",
+      "data engineering",
+      "analytics engineering",
+      "machine learning",
+      "snowflake",
+      "databricks",
+      "microsoft fabric",
+      "synapse",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "Inland is seeking a highly skilled Senior Analytics Engineer to serve as a technical and analytical leader within our Enterprise Analytics team. This role sits at the intersection of business intelligence, data engineering, commercial real estate, and artificial intelligence, helping transform enter",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-24T08:22:31.668882",
+    "first_seen": "2026-10-24T08:22:31.668883"
+  },
+  {
+    "id": "fffa5cb3ae2e8d80",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=443a7d0265d9fc11",
+    "title": "Space Datacenter Networking Engineer",
+    "company": "Cowboy Space Corp.",
+    "location": "San Carlos, CA, USA",
+    "is_remote": false,
+    "salary": "USD 196,720 – 236,484/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "aws"
+    ],
+    "description_snippet": "**Space Datacenter Networking Engineer | Job Description**\n\nCowboy Space Corp. is building the infrastructure to power and connect the orbital economy. Our satellites operate in low Earth orbit to collect sunlight and enable a new class of capabilities—from powering on-orbit compute and transmitting",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-10-24T08:22:18.587455",
+    "first_seen": "2026-10-24T08:22:18.587457"
+  },
+  {
+    "id": "0285c9fbdc494913",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f71136d241420f71",
+    "title": "Data Engineer",
+    "company": "VetsEZ",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "data engineering",
+      "rust"
+    ],
+    "description_snippet": "VetsEZ is seeking a **Data Engineer** for a remote opportunity supporting the implementation and operation of a statewide Health Information Exchange (HIE) and the development of a Health Data Utility (HDU). This role will build healthcare data pipelines while owning terminology mapping, validation,",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T08:22:14.996581",
+    "first_seen": "2026-10-24T08:22:14.996586"
+  },
+  {
     "id": "2ae15332d658d89b",
     "source": "remoteok",
     "url": "https://remoteOK.com/remote-jobs/remote-travel-support-specialist-aisles-amp-abroad-1137559",
