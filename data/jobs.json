@@ -1,5 +1,321 @@
 [
   {
+    "id": "e99be98473197cb5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156693-account-executive-emea-4",
+    "title": "Account Executive EMEA",
+    "company": "Litmus",
+    "location": "Italy,  Portugal,  Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Who is Litmus Litmus is building the data foundation that powers industrial AI. AI doesn’t work without real-world, contextualized data - Litmus makes that data usable. As AI adoption accelerates, most industrial environments still can’t access or use their operational data. We solve that gap. We’re",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T14:07:37.265117",
+    "first_seen": "2026-10-24T14:07:37.265118"
+  },
+  {
+    "id": "d519f0337c826229",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156699-senior-backend-engineer-12",
+    "title": "Senior Backend Engineer",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "part_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T14:07:37.264887",
+    "first_seen": "2026-10-24T14:07:37.264889"
+  },
+  {
+    "id": "2f883bede5c8254e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156701-research-engineer-data-infrastructure",
+    "title": "Research Engineer - Data Infrastructure",
+    "company": "Elevenlabs",
+    "location": "Bulgaria,  Poland,  UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T14:07:37.264501",
+    "first_seen": "2026-10-24T14:07:37.264503"
+  },
+  {
+    "id": "0828ea868fefeea0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156702-senior-account-executive-emea-2",
+    "title": "Senior Account Executive / EMEA",
+    "company": "Veriff",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Veriff Veriff is a global identity verification and fraud prevention company helping businesses build trust online. We make it easier for organisations to verify real people, detect fraud and create safer digital experiences at scale. Our teams work across product, engineering, commercial and ",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T14:07:37.264318",
+    "first_seen": "2026-10-24T14:07:37.264319"
+  },
+  {
+    "id": "a468cde249ceca19",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156706-senior-sales-engineer-8",
+    "title": "Senior Sales Engineer",
+    "company": "Veeam Software",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for th",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T14:07:37.264124",
+    "first_seen": "2026-10-24T14:07:37.264125"
+  },
+  {
+    "id": "be78d5ece6ebf4b7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156707-public-sector-partnerships-lead-europe",
+    "title": "Public Sector Partnerships Lead - Europe",
+    "company": "Elevenlabs",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T14:07:37.263921",
+    "first_seen": "2026-10-24T14:07:37.263924"
+  },
+  {
+    "id": "3396a31ffe6dc7d2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156708-senior-systems-engineer-3",
+    "title": "Senior Systems Engineer",
+    "company": "Veeam Software",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for th",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T14:07:37.263598",
+    "first_seen": "2026-10-24T14:07:37.263600"
+  },
+  {
+    "id": "d71b03c842ec145b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156704-global-gtm-talent-lead",
+    "title": "Global GTM Talent Lead",
+    "company": "Elevenlabs",
+    "location": "Canada,  Ireland,  UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T14:07:37.263387",
+    "first_seen": "2026-10-24T14:07:37.263389"
+  },
+  {
+    "id": "6dc951efeefe9706",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156705-senior-software-engineer-16",
+    "title": "Senior Software Engineer",
+    "company": "Veriff",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At Veriff 's Biometric Solutions team, we are trying to prove, in real time, that the person on the other side of the screen is real and who they claim to be. Our ML-powered platform uses advanced image recognition, facial verification, face recognition, facial anti-spoofing (liveness detection), an",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T14:07:37.263148",
+    "first_seen": "2026-10-24T14:07:37.263150"
+  },
+  {
+    "id": "1374db992a537ee1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156711-partner-solutions-architect-emea",
+    "title": "Partner Solutions Architect (EMEA)",
+    "company": "Datadog",
+    "location": "Italy,  Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "The Team: We are Datadog 's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. We share our technical and product expertise with customers through demos, presentations",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T14:07:37.262963",
+    "first_seen": "2026-10-24T14:07:37.262965"
+  },
+  {
+    "id": "d6a19ae0ce242667",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156714-principal-ai-security-specialist-benelux-nordics",
+    "title": "Principal AI Security Specialist, BeNeLux & Nordics",
+    "company": "Zscaler",
+    "location": "Netherlands",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. ",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T14:07:37.262717",
+    "first_seen": "2026-10-24T14:07:37.262719"
+  },
+  {
+    "id": "1cc063f2eec753c2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156716-principal-ai-security-specialist-uki",
+    "title": "Principal AI Security Specialist, UK&I",
+    "company": "Zscaler",
+    "location": "Ireland,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. ",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T14:07:37.262388",
+    "first_seen": "2026-10-24T14:07:37.262390"
+  },
+  {
+    "id": "c1155731cd4a92b5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156717-sales-engineer-storage-analysis-emea-2",
+    "title": "Sales Engineer, Storage & Analysis (EMEA)",
+    "company": "Cribl",
+    "location": "France,  Germany,  Netherlands,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl , we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telem",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T14:07:37.262055",
+    "first_seen": "2026-10-24T14:07:37.262057"
+  },
+  {
+    "id": "7e3c5e98130d8916",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156719-senior-partner-solutions-architect-pan-emea-gsi",
+    "title": "Senior Partner Solutions Architect (Pan-EMEA GSI)",
+    "company": "Datadog",
+    "location": "Germany,  Netherlands",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "The Team: We are Datadog 's in-house product experts. The technical solutions team enables Datadog's worldwide growth by educating potential clients and ensuring that existing customers are happy and successful. We share our technical and product expertise with customers through demos, presentations",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T14:07:37.261842",
+    "first_seen": "2026-10-24T14:07:37.261854"
+  },
+  {
+    "id": "c1ae761a428e0526",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=ccb82f64586fafeb",
+    "title": "Senior Automation Engineer",
+    "company": "SolidMark Technologies",
+    "location": "Tampa, FL, USA",
+    "is_remote": false,
+    "salary": "USD 130,000 – 140,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "llm"
+    ],
+    "description_snippet": "**Location:** Tampa, FL\n\n**Employment type:** Full-time, on-site\n\n**Pay:** $130,000 - $140,000 per year, commensurate with experience\n\n**Schedule:** Monday through Friday, 7:00 a.m. to 3:30 p.m., with scheduled call-in coverage for planned shutdowns and critical downtime events, compensated at time-",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-24T14:07:27.240973",
+    "first_seen": "2026-10-24T14:07:27.240976"
+  },
+  {
+    "id": "a23eca1b84f713cd",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c2e4031d47f659ff",
+    "title": "Digital Manufacturing & BI Engineer",
+    "company": "Saint-Gobain",
+    "location": "Worcester, MA, USA",
+    "is_remote": false,
+    "salary": "USD 102,000 – 178,500/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "power bi",
+      "rust"
+    ],
+    "description_snippet": "**WHY DO WE NEED YOU?**  \n\nIn this role, you will drive digital manufacturing and business intelligence across Coated Abrasives North America by connecting manufacturing systems, standardizing trusted data, and turning operational and financial information into actionable insights.\n\nYour Day to Day:",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-24T14:07:18.493622",
+    "first_seen": "2026-10-24T14:07:18.493624"
+  },
+  {
+    "id": "67402f5a776f373c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=28508b74984b8c5f",
+    "title": "Data Engineer",
+    "company": "VetsEZ",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "data engineering",
+      "rust"
+    ],
+    "description_snippet": "VetsEZ is seeking a **Data Engineer** for a remote opportunity supporting the implementation and operation of a statewide Health Information Exchange (HIE) and the development of a Health Data Utility (HDU). This role will build healthcare data pipelines while owning terminology mapping, validation,",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-24T14:07:14.327147",
+    "first_seen": "2026-10-24T14:07:14.327152"
+  },
+  {
     "id": "dd21adeeda5b3eae",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=9283174d498845f0",
