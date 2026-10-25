@@ -1,5 +1,211 @@
 [
   {
+    "id": "521515fd05ffd712",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157004-director-of-products",
+    "title": "Director of Products",
+    "company": "Cyware",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Job Title: Director of Products Location: USA Reports To: Chief Product Officer About Cyware Cyware delivers an innovative approach to cybersecurity that unifies threat intelligence, automation, threat response, and vulnerability management with data insights gleaned from assets, users, malware, att",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T22:44:37.177799",
+    "first_seen": "2026-10-25T22:44:37.177800"
+  },
+  {
+    "id": "b8ef6f99ddb983c2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157007-senior-product-manager-12",
+    "title": "Senior Product Manager",
+    "company": "Thinkific",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Who we are ⬇️ Thinkific (TSX:THNC) is an award-winning learning commerce platform built for scale. By bringing together community, courses, and content with commerce, we power transformative learning experiences and give businesses everything they need to grow their revenue — all from one AI-powered",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T22:44:37.177536",
+    "first_seen": "2026-10-25T22:44:37.177537"
+  },
+  {
+    "id": "b02957b1b3a8636e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157008-senior-software-engineer-17",
+    "title": "Senior Software Engineer",
+    "company": "Cyware",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Job Title: Senior Software Engineer Location: USA (Remote or Regional Office) Reports To: Senior VP of Engineering About Cyware : Cyware delivers an innovative approach to cybersecurity that unifies threat intelligence, automation, threat response, and vulnerability management with data insights gle",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T22:44:37.177153",
+    "first_seen": "2026-10-25T22:44:37.177154"
+  },
+  {
+    "id": "6c4644b3250b5950",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157011-senior-solutions-architect-public-sector",
+    "title": "Senior Solutions Architect - Public Sector",
+    "company": "Cyware",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Job Title: Solutions Architect Location: Northern Virginia region or DC area. USA Reports To: VP of Solution Delivery &amp; Customer Success About Cyware Cyware delivers an innovative approach to cybersecurity that unifies threat intelligence, automation, threat response, and vulnerability managemen",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T22:44:37.176921",
+    "first_seen": "2026-10-25T22:44:37.176922"
+  },
+  {
+    "id": "0e4187b8feffdb15",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157012-operations-manager",
+    "title": "Operations Manager",
+    "company": "TripActions",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "The Operations team works at the intersection of the most important issues facing the Global Operations &amp; Service team. The Operations team works closely with senior leadership and cross functionally shaping and driving strategic, operational, and organizational improvements across the team such",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T22:44:37.176597",
+    "first_seen": "2026-10-25T22:44:37.176598"
+  },
+  {
+    "id": "d665d5d342f60a29",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157015-procurement-solutions-architect",
+    "title": "Procurement Solutions Architect",
+    "company": "Ramp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T22:44:37.176411",
+    "first_seen": "2026-10-25T22:44:37.176412"
+  },
+  {
+    "id": "0b19cda1fe6fc7af",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157019-technical-consultant-enterprise-oracle-cloud",
+    "title": "Technical Consultant, Enterprise, Oracle Cloud",
+    "company": "Ramp",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T22:44:37.176175",
+    "first_seen": "2026-10-25T22:44:37.176176"
+  },
+  {
+    "id": "cb6703972900182d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157020-enterprise-sales-account-executive-federal",
+    "title": "Enterprise Sales Account Executive (Federal)",
+    "company": "Keyfactor, Inc.",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital inter",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T22:44:37.175932",
+    "first_seen": "2026-10-25T22:44:37.175933"
+  },
+  {
+    "id": "72e271e9616558f1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157028-senior-customer-success-engineer-audit",
+    "title": "Senior Customer Success Engineer, Audit",
+    "company": "Fieldguide",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About Us Fieldguide is establishing a new state of trust for global commerce and capital markets through automating and streamlining the work of assurance and audit practitioners specifically within cybersecurity, privacy, and financial audit. Put simply, we build software for the people who enable ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T22:44:37.175702",
+    "first_seen": "2026-10-25T22:44:37.175704"
+  },
+  {
+    "id": "f5a67e5d6b7337ff",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157030-senior-product-manager-ii-vendor-spend",
+    "title": "Senior Product Manager II - Vendor Spend",
+    "company": "Wrapbook",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Us: Wrapbook is the AI platform for production finance. We’re building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anony",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T22:44:37.175494",
+    "first_seen": "2026-10-25T22:44:37.175508"
+  },
+  {
+    "id": "b4bdb2aba054d90e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=490e4b703bb216c0",
+    "title": "Data Engineer",
+    "company": "Xlent IT Service LLC",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 118,783 – 143,050/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "aws",
+      "machine learning",
+      "data warehouse",
+      "java",
+      "scala"
+    ],
+    "description_snippet": "**Overview**  \nJoin our dynamic team as a Data Engineer and become a vital driver of our data-driven decision-making process! In this role, you will design, develop, and maintain robust data pipelines and architectures that empower our organization to harness the full potential of big data. You’ll w",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T22:44:32.281838",
+    "first_seen": "2026-10-25T22:44:32.281839"
+  },
+  {
     "id": "aefed30b23c82d83",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=edccdd9d9ae53b5b",
