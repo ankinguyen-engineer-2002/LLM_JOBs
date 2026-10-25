@@ -1,5 +1,351 @@
 [
   {
+    "id": "e89d7614c07c45e5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156877-industrial-compute",
+    "title": "Industrial Compute",
+    "company": "OpenAI",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About the Team OpenAI ’s Compute organization turns ambitious AI research into real-world capability by delivering the compute infrastructure behind our most advanced models. The team works across software, hardware, facilities, operations, and engineering disciplines to make enormous amounts of com",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T12:27:50.404073",
+    "first_seen": "2026-10-25T12:27:50.404075"
+  },
+  {
+    "id": "156f5ef9237c7dff",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156876-principal-frontend-engineer",
+    "title": "Principal Frontend Engineer",
+    "company": "ClickUp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T12:27:50.403789",
+    "first_seen": "2026-10-25T12:27:50.403791"
+  },
+  {
+    "id": "7962edf37a8392a3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156872-staff-data-engineer-5",
+    "title": "Staff Data Engineer",
+    "company": "ClickUp",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T12:27:50.403592",
+    "first_seen": "2026-10-25T12:27:50.403593"
+  },
+  {
+    "id": "79633137095a0708",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156882-people-operations-coordinator-temp-to-fte-opportunity",
+    "title": "People Operations Coordinator - Temp to FTE Opportunity",
+    "company": "Salesloft",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "Job Title: People Operations Coordinator - Temp to FTE Opportunity, 3 month contract Job Location: United States, Remote This is a fully remote opportunity and can be worked from any location in the United States. ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue — one wher",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T12:27:50.403331",
+    "first_seen": "2026-10-25T12:27:50.403333"
+  },
+  {
+    "id": "9288ec135550abda",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156884-staff-analyst-gtm",
+    "title": "Staff Analyst, GTM",
+    "company": "ClickUp",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T12:27:50.402821",
+    "first_seen": "2026-10-25T12:27:50.402823"
+  },
+  {
+    "id": "b1a56dcb64bfd522",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156881-senior-manager-software-engineering-infrastructure",
+    "title": "Senior Manager, Software Engineering - Infrastructure",
+    "company": "ClickUp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T12:27:50.402575",
+    "first_seen": "2026-10-25T12:27:50.402577"
+  },
+  {
+    "id": "62dbe6eebe1ef955",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156880-customer-success-operations-analyst-4",
+    "title": "Customer Success Operations Analyst",
+    "company": "Obsidian Security",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Obsidian Security is a global leader in cyber security protecting the SaaS and non-human identity layer modern enterprises run on — from Salesforce and Snowflake to the AI agents now deployed inside them. The Obsidian Security platform gives unified visibility into every human and machine identity, ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T12:27:50.402286",
+    "first_seen": "2026-10-25T12:27:50.402287"
+  },
+  {
+    "id": "ca233b74a47e7ea8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156883-senior-solutions-engineer-east",
+    "title": "Senior Solutions Engineer - East",
+    "company": "Obsidian Security",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Obsidian Security is a global leader in cyber security protecting the SaaS and non-human identity layer modern enterprises run on — from Salesforce and Snowflake to the AI agents now deployed inside them. The Obsidian Security platform gives unified visibility into every human and machine identity, ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T12:27:50.401999",
+    "first_seen": "2026-10-25T12:27:50.402001"
+  },
+  {
+    "id": "b8917246abcaba1a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156885-senior-manager-engineering-identity-access-management",
+    "title": "Senior Manager, Engineering - Identity & Access Management",
+    "company": "ClickUp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T12:27:50.401711",
+    "first_seen": "2026-10-25T12:27:50.401712"
+  },
+  {
+    "id": "ed6bdfa065aaeeec",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156886-lead-brand-designer",
+    "title": "Lead Brand Designer",
+    "company": "ClickUp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "creative & design"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T12:27:50.401391",
+    "first_seen": "2026-10-25T12:27:50.401393"
+  },
+  {
+    "id": "dd880bd33b91a9e5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156887-machine-learning-engineer-ranking-retrieval",
+    "title": "Machine Learning Engineer, Ranking & Retrieval",
+    "company": "ClickUp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T12:27:50.401210",
+    "first_seen": "2026-10-25T12:27:50.401211"
+  },
+  {
+    "id": "0d300217f0f221fa",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156878-threat-detection-analyst-japanese-english-speaking-2",
+    "title": "Threat Detection Analyst (Japanese & English speaking)",
+    "company": "Fastly",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the ed",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T12:27:50.401010",
+    "first_seen": "2026-10-25T12:27:50.401012"
+  },
+  {
+    "id": "4fbab76764766481",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156889-senior-engineering-manager-machine-learning",
+    "title": "Senior Engineering Manager, Machine Learning",
+    "company": "Signifyd",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "At Signifyd , we help merchants confidently grow their businesses by building trusted relationships with their customers. Our advanced technology, combined with a team genuinely invested in our clients’ success, creates frictionless shopping experiences, approving more good orders, protecting revenu",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T12:27:50.400614",
+    "first_seen": "2026-10-25T12:27:50.400615"
+  },
+  {
+    "id": "8fc35d8c895cface",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156897-staff-software-engineer-10",
+    "title": "Staff Software Engineer",
+    "company": "Signifyd",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At Signifyd , we help merchants confidently grow their businesses by building trusted relationships with their customers. Our advanced technology, combined with a team genuinely invested in our clients’ success, creates frictionless shopping experiences, approving more good orders, protecting revenu",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T12:27:50.400273",
+    "first_seen": "2026-10-25T12:27:50.400275"
+  },
+  {
+    "id": "80e8044e373cf1c1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156894-business-continuity-management-lead",
+    "title": "Business Continuity Management Lead",
+    "company": "Mercury",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "About the Role Mercury is seeking a Business Continuity Management (BCM) Lead to build and lead an enterprise-wide continuity program as we prepare to become a bank. As part of the Risk team, this leader will establish practical standards, clear accountability, and tested capabilities to maintain cr",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T12:27:50.400016",
+    "first_seen": "2026-10-25T12:27:50.400018"
+  },
+  {
+    "id": "4533d35b4723940f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156895-director-pmo-engineering",
+    "title": "Director, PMO (Engineering)",
+    "company": "Juniper Square",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "About Juniper Square Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full potential. We’re the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T12:27:50.399722",
+    "first_seen": "2026-10-25T12:27:50.399723"
+  },
+  {
+    "id": "3a45b8b78d4c0d8d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156896-director-of-product-machine-learning-decisioning-platforms",
+    "title": "Director of Product, Machine Learning & Decisioning Platforms",
+    "company": "Upstart",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confi",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T12:27:50.399401",
+    "first_seen": "2026-10-25T12:27:50.399411"
+  },
+  {
+    "id": "4e3aa3a6ea194cae",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c21a01243d3224f7",
+    "title": "MES (Manufacturing Systems) Engineer (Korean bilingual)",
+    "company": "Sbt Global",
+    "location": "Lansing, MI, USA",
+    "is_remote": false,
+    "salary": "USD 71,000 – 110,000/yearly",
+    "job_type": "contract",
+    "tags": [
+      "sql"
+    ],
+    "description_snippet": "**Company Description**\n\nLansing, MI, USA  \nFull-time  \nCompany Description  \nJob Type: Full Time  \nWorkspace: On-site\n\nSalary : $71,000-$110,000 DOE\n\nKorean/English Bilingual REQUIRED\n\n **Job Description**\n\nThis is a full-time position as a Manufacturing Systems (MES) Engineer. Under the general su",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-25T12:27:33.596044",
+    "first_seen": "2026-10-25T12:27:33.596046"
+  },
+  {
+    "id": "613daa4524af533f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=816bde83eff85e0e",
+    "title": "Data Engineer",
+    "company": "VetsEZ",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "data engineering",
+      "rust"
+    ],
+    "description_snippet": "VetsEZ is seeking a **Data Engineer** for a remote opportunity supporting the implementation and operation of a statewide Health Information Exchange (HIE) and the development of a Health Data Utility (HDU). This role will build healthcare data pipelines while owning terminology mapping, validation,",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-25T12:27:28.944798",
+    "first_seen": "2026-10-25T12:27:28.944800"
+  },
+  {
     "id": "bbdff6c790b9d3df",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/keeper-security-bilingual-channel-sales-engineer-french-emea",
