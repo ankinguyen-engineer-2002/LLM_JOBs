@@ -1,5 +1,681 @@
 [
   {
+    "id": "40dce2f289d528f9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156905-senior-staff-software-engineer-data",
+    "title": "Senior Staff Software Engineer, Data",
+    "company": "Juniper Square",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About Juniper Square Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full potential. We’re the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.817799",
+    "first_seen": "2026-10-25T14:32:02.817802"
+  },
+  {
+    "id": "30e5b340ff5dca86",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156913-devops-engineer-live-entertainment-company",
+    "title": "DevOps Engineer | Live Entertainment Company",
+    "company": "GT",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "GT was founded in 2019 by a former Apple, Nest, and Google executive. GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in the UK, USA, Canada, Germany, and the Netherlands. On behalf of our client, an international company in the live entertain",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.817413",
+    "first_seen": "2026-10-25T14:32:02.817414"
+  },
+  {
+    "id": "1e7f96460fe460dc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156912-sales-enablement-programs-manager",
+    "title": "Sales Enablement Programs Manager",
+    "company": "ExtraHop",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "education & e-learning"
+    ],
+    "description_snippet": "At ExtraHop , we’re on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide vis",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.817173",
+    "first_seen": "2026-10-25T14:32:02.817175"
+  },
+  {
+    "id": "39248eb1c765cc5c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156914-senior-product-designer-fully-remote",
+    "title": "Senior Product Designer (Fully Remote)",
+    "company": "PadSplit",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "The Role We Need: PadSplit is hiring a Senior Product Designer to shape and improve experiences across our two-sided housing marketplace. Working on a growth-focused product team, you’ll tackle meaningful, complex problems for members and hosts, helping make it easier to find, access, and provide af",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.816898",
+    "first_seen": "2026-10-25T14:32:02.816899"
+  },
+  {
+    "id": "25554b284282add6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156928-intermediate-support-engineer-shift",
+    "title": "Intermediate Support Engineer (SHIFT)",
+    "company": "GitLab",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.816673",
+    "first_seen": "2026-10-25T14:32:02.816675"
+  },
+  {
+    "id": "b4158f0c22e5827b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156925-senior-technical-product-marketing-manager-agent-identity-auth-emea",
+    "title": "Senior Technical Product Marketing Manager, Agent Identity & Auth (EMEA)",
+    "company": "Kong Inc.",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. Senior",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.816313",
+    "first_seen": "2026-10-25T14:32:02.816314"
+  },
+  {
+    "id": "af603cfeca850d2b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156926-intermediate-software-engineer-security-factory-vulnerability-management",
+    "title": "Intermediate Software Engineer, Security Factory: Vulnerability Management",
+    "company": "GitLab",
+    "location": "Canada,  Israel,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.816139",
+    "first_seen": "2026-10-25T14:32:02.816141"
+  },
+  {
+    "id": "d3ab3e7712dc9405",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156927-product-marketing-manager-ai-governance-emea",
+    "title": "Product Marketing Manager, AI Governance (EMEA)",
+    "company": "Kong Inc.",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. Produc",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.815867",
+    "first_seen": "2026-10-25T14:32:02.815868"
+  },
+  {
+    "id": "83be6e43d1c6ff43",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156923-intermediate-fullstack-engineer-ruby-vue-js-growth",
+    "title": "Intermediate Fullstack Engineer (Ruby/Vue.js), Growth",
+    "company": "GitLab",
+    "location": "Poland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.815699",
+    "first_seen": "2026-10-25T14:32:02.815701"
+  },
+  {
+    "id": "5d98032f8e690a02",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156931-product-manager-data-platform",
+    "title": "Product Manager - Data Platform",
+    "company": "Spotify",
+    "location": "Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Spotify ’s mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Data is a means to an end, and Spotify extracts value from data through applic",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.815363",
+    "first_seen": "2026-10-25T14:32:02.815364"
+  },
+  {
+    "id": "0bc1f3f387378c31",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156935-staff-product-designer-platform-design",
+    "title": "Staff Product Designer - Platform Design",
+    "company": "Spotify",
+    "location": "Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities need",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.815199",
+    "first_seen": "2026-10-25T14:32:02.815200"
+  },
+  {
+    "id": "617afcc4afbcf035",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156937-manager-emea-community-contract",
+    "title": "Manager, EMEA Community (Contract)",
+    "company": "Reddit",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.815037",
+    "first_seen": "2026-10-25T14:32:02.815040"
+  },
+  {
+    "id": "ab6efa99fdd58b9f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156939-data-api-engineer",
+    "title": "Data API Engineer",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re lo",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.814787",
+    "first_seen": "2026-10-25T14:32:02.814788"
+  },
+  {
+    "id": "975ce4219e9bf544",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156942-technical-account-management-tam-leader",
+    "title": "Technical Account Management (TAM) Leader",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role The Tech",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.814632",
+    "first_seen": "2026-10-25T14:32:02.814634"
+  },
+  {
+    "id": "987e9ab946a97117",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156943-product-manager-realtime",
+    "title": "Product Manager - Realtime",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We're hi",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.814095",
+    "first_seen": "2026-10-25T14:32:02.814096"
+  },
+  {
+    "id": "b14dfd553c8c5012",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156948-platform-security-engineer-amer-apac",
+    "title": "Platform Security Engineer (AMER/APAC)",
+    "company": "Supabase",
+    "location": "APAC,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. Start in minutes with a",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.813885",
+    "first_seen": "2026-10-25T14:32:02.813886"
+  },
+  {
+    "id": "c2999ece6aba6e55",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156940-software-engineer-storage",
+    "title": "Software Engineer - Storage",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role Supabase",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.813662",
+    "first_seen": "2026-10-25T14:32:02.813663"
+  },
+  {
+    "id": "9d6ec2bf91e56c40",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156944-aws-gaming-gtm-segment-lead",
+    "title": "AWS Gaming GTM Segment Lead",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the role Supabase",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.813454",
+    "first_seen": "2026-10-25T14:32:02.813456"
+  },
+  {
+    "id": "46c9818c11674402",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156945-distributed-systems-engineer-3",
+    "title": "Distributed Systems Engineer",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.813244",
+    "first_seen": "2026-10-25T14:32:02.813246"
+  },
+  {
+    "id": "0837015a59116464",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156946-platform-engineer-compute-capacity",
+    "title": "Platform Engineer - Compute Capacity",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We are s",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.812984",
+    "first_seen": "2026-10-25T14:32:02.812985"
+  },
+  {
+    "id": "c20899aa25924a9e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156947-software-engineer-branching",
+    "title": "Software Engineer - Branching",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re bu",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.812750",
+    "first_seen": "2026-10-25T14:32:02.812752"
+  },
+  {
+    "id": "f13c378146d912be",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156953-sr-ai-ml-engineer-mxc",
+    "title": "Sr. AI/ML Engineer (MXC)",
+    "company": "AlertMedia",
+    "location": "Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Do work that matters. At AlertMedia , we help organizations protect their people, operations, and brand. Our modern Risk Intelligence and Response platform empowers teams to detect emerging threats, assess impact, and respond with confidence. We believe building resilience should be simpler—and it s",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.812551",
+    "first_seen": "2026-10-25T14:32:02.812553"
+  },
+  {
+    "id": "79c72cd2e13ea517",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156950-customer-support-specialist-bilingual-spanish-contract",
+    "title": "Customer Support Specialist, Bilingual (Spanish), Contract",
+    "company": "Roofr",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "At Roofr , we’re obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That’s what makes Roofr’s CRM special. We started by building essential sales tools like aerial roof measurements and digital sales proposals. But when our custo",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.812221",
+    "first_seen": "2026-10-25T14:32:02.812223"
+  },
+  {
+    "id": "f9d5e64bef549ac1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156955-staff-design-engineer-2",
+    "title": "Staff Design Engineer",
+    "company": "Juniper Square",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "About Juniper Square Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full potential. We’re the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.811903",
+    "first_seen": "2026-10-25T14:32:02.811905"
+  },
+  {
+    "id": "6776a1b951bb28fe",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156967-sales-development-anz",
+    "title": "Sales Development - ANZ",
+    "company": "Elevenlabs",
+    "location": "Australia,  New Zealand",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.811631",
+    "first_seen": "2026-10-25T14:32:02.811633"
+  },
+  {
+    "id": "1dd62aa83f70dc54",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156962-strategic-account-executive-singapore",
+    "title": "Strategic Account Executive - Singapore",
+    "company": "Elevenlabs",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.811437",
+    "first_seen": "2026-10-25T14:32:02.811439"
+  },
+  {
+    "id": "108ebf1a461e490c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156968-senior-technical-support-engineer",
+    "title": "Senior Technical Support Engineer",
+    "company": "Zscaler",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.811164",
+    "first_seen": "2026-10-25T14:32:02.811165"
+  },
+  {
+    "id": "ba284d88f31b7dbe",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156976-senior-sales-engineer-majors-uk-nordics-netherlands",
+    "title": "Senior Sales Engineer - Majors (UK/Nordics/Netherlands)",
+    "company": "Datadog",
+    "location": "Denmark,  Netherlands,  Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "As a Senior Enterprise Sales Engineer, you’ll serve as a trusted technical advisor and strategic partner to both customers and Sales. You’ll lead complex technical evaluations, align solutions to business outcomes, and help shape deal strategy in high-impact opportunities. This role goes beyond deli",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.810924",
+    "first_seen": "2026-10-25T14:32:02.810926"
+  },
+  {
+    "id": "e606c175319097aa",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156981-risk-manager",
+    "title": "Risk Manager",
+    "company": "Ping Identity",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About Ping Identity : At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.810690",
+    "first_seen": "2026-10-25T14:32:02.810692"
+  },
+  {
+    "id": "009bff178971db4e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156982-sales-specialist-italy",
+    "title": "Sales Specialist (Italy)",
+    "company": "Ping Identity",
+    "location": "Italy",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Ping Identity : At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.810369",
+    "first_seen": "2026-10-25T14:32:02.810371"
+  },
+  {
+    "id": "72eca0b5d50199d6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156958-sr-software-engineer-5",
+    "title": "Sr. Software Engineer",
+    "company": "AlertMedia",
+    "location": "Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Do work that matters. At AlertMedia , we help organizations protect their people, operations, and brand. Our modern Risk Intelligence and Response platform empowers teams to detect emerging threats, assess impact, and respond with confidence. We believe building resilience should be simpler—and it s",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.810167",
+    "first_seen": "2026-10-25T14:32:02.810169"
+  },
+  {
+    "id": "a9265d136c6c837f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156991-partner-operations-analyst",
+    "title": "Partner Operations Analyst",
+    "company": "Thumbtack",
+    "location": "Philippines",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urg",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.809905",
+    "first_seen": "2026-10-25T14:32:02.809907"
+  },
+  {
+    "id": "6e0b8068103c327a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156992-senior-product-manager-user-acquisition",
+    "title": "Senior Product Manager, User Acquisition",
+    "company": "RevenueCat",
+    "location": "APAC,  EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volum",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.809686",
+    "first_seen": "2026-10-25T14:32:02.809688"
+  },
+  {
+    "id": "9857a424e3c0d2b8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156997-linux-software-engineer-ubuntu-for-next-gen-silicon-multiple-roles-and-seniority-levels",
+    "title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.809318",
+    "first_seen": "2026-10-25T14:32:02.809320"
+  },
+  {
+    "id": "ec3820708aaf4af2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156990-senior-solutions-engineer-tokyo-japan-remote",
+    "title": "Senior Solutions Engineer | Tokyo, Japan | Remote",
+    "company": "Grafana Labs",
+    "location": "Japan",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T14:32:02.809081",
+    "first_seen": "2026-10-25T14:32:02.809089"
+  },
+  {
+    "id": "85a2a94d15ba51dd",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=0eb57637db885eae",
+    "title": "MSS Developer - Omaha",
+    "company": "Agile Defense",
+    "location": "NE, USA",
+    "is_remote": false,
+    "salary": "USD 135,000 – 165,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "data engineering",
+      "java",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**About Agile Defense**\n\nAt Agile Defense we know that action defines the outcome and new challenges require new solutions. That’s why we always look to the future and embrace change with an unmovable spirit and the courage to build for what comes next.\n\nOur vision is to bring adaptive innovation to",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-25T14:31:52.956028",
+    "first_seen": "2026-10-25T14:31:52.956030"
+  },
+  {
+    "id": "87a17a4f04461aff",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=9d80826261848aaf",
+    "title": "Power Systems Software Engineer",
+    "company": "Electric Power Engineers",
+    "location": "Austin, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "pandas",
+      "numpy",
+      "rust"
+    ],
+    "description_snippet": "Overview:\n\n**We are designing the grid of the future!**\n\nBe a part of an innovative team shaping the grid of the future through advanced energy intelligence. For more than half a century, Electric Power Engineers (EPE) has partnered with power and energy clients across the globe, providing consultin",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-25T14:31:48.357478",
+    "first_seen": "2026-10-25T14:31:48.357480"
+  },
+  {
     "id": "e89d7614c07c45e5",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/156877-industrial-compute",
