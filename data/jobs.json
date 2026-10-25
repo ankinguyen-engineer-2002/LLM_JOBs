@@ -1,5 +1,355 @@
 [
   {
+    "id": "bbdff6c790b9d3df",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/keeper-security-bilingual-channel-sales-engineer-french-emea",
+    "title": "Bilingual Channel Sales Engineer, French (EMEA)",
+    "company": "Keeper Security",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote, Ireland; Remote, UK Description Keeper Security is hiring an experienced Bilingual (French) Channel Sales Engineer to work with our EMEA channel sales team. This is a remote position and qualified candidates must permanently reside in Ireland or the UK.&nbsp; Keeper’s cybersecu",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T08:44:52.127505",
+    "first_seen": "2026-10-25T08:44:52.127506"
+  },
+  {
+    "id": "cab023f2ca243976",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/tebra-senior-software-engineer",
+    "title": "Senior Software Engineer",
+    "company": "Tebra",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: United States - Remote Tebra only initiates contact with candidates via email from an official Tebra email address (@ tebra.com , @ patientpop.com , or @ kareo.com ) or through our applicant tracking system, Greenhouse.&nbsp;We will only ask you to provide sensitive personal informatio",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T08:44:51.699705",
+    "first_seen": "2026-10-25T08:44:51.699706"
+  },
+  {
+    "id": "39436728e3ad74f1",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
+    "title": "Software Engineer - PlanetScale Postgres",
+    "company": "PlanetScale",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote PlanetScale is growing rapidly and reinventing the database space. The PlanetScale platform delivers a fully managed, multi-cloud Postgres service designed for the most demanding production workloads. We handle the complexity of provisioning, scaling, replication, and failover -",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T08:44:51.699348",
+    "first_seen": "2026-10-25T08:44:51.699359"
+  },
+  {
+    "id": "81b7b7a1575434f5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151483-product-manager-3",
+    "title": "Product Manager",
+    "company": "Limbic",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Product Manager - Limbic Access Limbic builds AI-powered mental healthcare. Our front-door Access product talks to thousands of patients a month across the NHS and major US health systems. Access is past 0→1 in the UK and US: the product exists, customers are live, the model is proven. We're hiring ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T08:40:30.693421",
+    "first_seen": "2026-10-25T08:40:30.693422"
+  },
+  {
+    "id": "891ffd46bdf3aca9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151512-project-manager-4",
+    "title": "Project Manager",
+    "company": "Verra Mobility",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Position Overview As a Project Manager, you will play a key role in providing world class support to our external clients and internal teams by managing the end-to-end implementation of contracted technical programs and ensuring they are delivered in a timely manner. No challenge will be too big, an",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T08:40:30.693207",
+    "first_seen": "2026-10-25T08:40:30.693208"
+  },
+  {
+    "id": "76cab17736e91fc0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153990-account-executive-commercial-named-east",
+    "title": "Account Executive, Commercial - Named (East)",
+    "company": "Smartsheet",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create th",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T08:40:30.693090",
+    "first_seen": "2026-10-25T08:40:30.693091"
+  },
+  {
+    "id": "6e2f8caeedde3b9d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/153985-senior-product-manager-8",
+    "title": "Senior Product Manager",
+    "company": "Best Egg",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Best Egg is the leading financial confidence platform that provides flexible solutions to real-life challenges for people with limited savings. We leverage real-time customer insights and data science to connect more people with the right products for their financial needs. Our offers include a suit",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T08:40:30.692788",
+    "first_seen": "2026-10-25T08:40:30.692789"
+  },
+  {
+    "id": "3c804c814adb363e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154003-cps-solution-architect",
+    "title": "CPS Solution Architect",
+    "company": "Collibra",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Joining Collibra ’s CPS Solution Architect Team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journe",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T08:40:30.692675",
+    "first_seen": "2026-10-25T08:40:30.692675"
+  },
+  {
+    "id": "b2fa59f8ae054ade",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154002-technical-product-analyst",
+    "title": "Technical Product Analyst",
+    "company": "CentralReach",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T08:40:30.691026",
+    "first_seen": "2026-10-25T08:40:30.691026"
+  },
+  {
+    "id": "9cc43da0bf0eb5ad",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154008-senior-product-designer-14",
+    "title": "Senior Product Designer",
+    "company": "TrustedHousesitters",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Fully Remote (UK based) | Competitive Salary + Bonus + Generous Equity | B Corp Certified TrustedHousesitters is a fast growing, direct-to-consumer marketplace that is redefining pet care and travel. Here at TrustedHousesitters, we’re on a mission to make travel work better for pets, for their peopl",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T08:40:30.690667",
+    "first_seen": "2026-10-25T08:40:30.690668"
+  },
+  {
+    "id": "a7fe896783f87a9e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154056-business-travel-consultant-hebrew-portugal",
+    "title": "Business Travel Consultant - Hebrew - Portugal",
+    "company": "TripActions",
+    "location": "Portugal",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Join Navan in Powering In-Person Connections with Relentless Innovation At Navan, our mission is to make travel seamless and empowering, so travelers can focus on being there, not getting there. Our Travel Experience team is at the heart of this mission! As a key member of our fast-growing Travel Ex",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T08:40:30.690453",
+    "first_seen": "2026-10-25T08:40:30.690454"
+  },
+  {
+    "id": "481f9df6be20b32a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154053-business-travel-consultant-english-remote-portugal",
+    "title": "Business Travel Consultant - English - Remote Portugal",
+    "company": "TripActions",
+    "location": "Portugal",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Join Navan in Powering In-Person Connections with Relentless Innovation At Navan, our mission is to make travel seamless and empowering, so travelers can focus on being there, not getting there. Our Travel Experience team is at the heart of this mission! As a key member of our fast-growing Travel Ex",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T08:40:30.690113",
+    "first_seen": "2026-10-25T08:40:30.690114"
+  },
+  {
+    "id": "68a53b382fe2e838",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154054-payments-lead",
+    "title": "Payments Lead",
+    "company": "Kalshi",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Kalshi is defining a new category Kalshi has defined a new category: prediction markets. Kalshi allows people to trade on the outcome of any events and turn any question about the future into a financial asset. Kalshi fought for years and legalized prediction markets in the US for the first time in ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T08:40:30.690028",
+    "first_seen": "2026-10-25T08:40:30.690029"
+  },
+  {
+    "id": "2f70f40c1ee0d7b9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154040-chief-actuary",
+    "title": "Chief Actuary",
+    "company": "Clover Health",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "The Finance team at Clover Health is a group of strategic partners providing financial and operational insights that drive informed decision-making and efficient capital allocation. Guided by our core values of excellence, accountability, and collaboration, we provide actionable recommendations to i",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T08:40:30.689939",
+    "first_seen": "2026-10-25T08:40:30.689939"
+  },
+  {
+    "id": "5948829140b8c43b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154019-senior-strategic-implementation-specialist-emea",
+    "title": "Senior Strategic Implementation Specialist - EMEA",
+    "company": "Ashby",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Senior Strategic Implementation Specialist Hi! I’m Morgan, the Manager of Strategic Implementations here at Ashby . Our customers are at the center of everything we do, and that’s especially true during implementation. We take pride in being responsive, collaborative partners who focus not just on d",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T08:40:30.689753",
+    "first_seen": "2026-10-25T08:40:30.689754"
+  },
+  {
+    "id": "84ea08011ea4b00a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154017-director-specialty-fibers",
+    "title": "Director - Specialty Fibers",
+    "company": "Quince",
+    "location": "Italy,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "ABOUT QUINCE Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manufac",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-25T08:40:30.688892",
+    "first_seen": "2026-10-25T08:40:30.688893"
+  },
+  {
+    "id": "1eeec2cd66aef49a",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=fa3fcec896f49ae8",
+    "title": "Sr. SW Engineer (Golden Gate, Replication)",
+    "company": "Visa",
+    "location": "Highlands Ranch, CO, USA",
+    "is_remote": false,
+    "salary": "USD 112,100 – 173,400/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "scala",
+      "gpt",
+      "generative ai"
+    ],
+    "description_snippet": "**About Us**  \nVisa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid.\n\n",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-25T08:40:21.447257",
+    "first_seen": "2026-10-25T08:40:21.447258"
+  },
+  {
+    "id": "b6330a8b0bbfe53b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=e22da1059eec75c8",
+    "title": "Product Development Engineer",
+    "company": "EV2 Technologies",
+    "location": "Pittsburgh, PA, USA",
+    "is_remote": false,
+    "salary": "USD 90,000 – 106,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "scala"
+    ],
+    "description_snippet": "**Job Description**\n\nWe are seeking a Product Development Engineer to contribute to the development of a novel polymer-based scaffold technology, with a primary focus on scaffold fabrication process development and optimization. This role will involve developing and refining fabrication methods, est",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-25T08:40:18.007217",
+    "first_seen": "2026-10-25T08:40:18.007218"
+  },
+  {
+    "id": "aecfaf3602d22a78",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=6605a818a2a99f72",
+    "title": "Sr. Data Engineer",
+    "company": "Ignite Digital",
+    "location": "Charleston, SC, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "data engineering",
+      "machine learning",
+      "scala"
+    ],
+    "description_snippet": "Ignite Digital enables national security agencies to accelerate decisions, elevate operational outcomes and achieve the outsized performance only an inside partner can deliver.\n\nWe combine mission experience, domain knowledge and technology expertise with the things partners can only know by being t",
+    "posted_date": "2026-10-09",
+    "scraped_at": "2026-10-25T08:40:10.872976",
+    "first_seen": "2026-10-25T08:40:10.872977"
+  },
+  {
     "id": "0d7324ba10452fd9",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/156857-design-engineer-americas",
