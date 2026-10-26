@@ -1,5 +1,480 @@
 [
   {
+    "id": "b005c5fa12d53c14",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157257-senior-data-analyst-customer-success-operations",
+    "title": "Senior Data Analyst (Customer Success Operations)",
+    "company": "Docplanner",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Company Description At Docplanner Group, we’re on a mission to help people live longer, healthier lives. As the world’s largest healthcare platform, each month, we connect 24 million patients with 280k doctors across 13 countries (through brands like ZnanyLekarz, Doctoralia, MioDottore, DoktorTakvim",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:24.303110",
+    "first_seen": "2026-10-26T19:42:24.303119"
+  },
+  {
+    "id": "c64fdb49011d6053",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157212-major-account-executive",
+    "title": "Major Account Executive",
+    "company": "GitLab",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.786686",
+    "first_seen": "2026-10-26T19:42:22.786687"
+  },
+  {
+    "id": "715555b035b66f1e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157210-product-expert",
+    "title": "Product Expert",
+    "company": "RevenueCat",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volum",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.786438",
+    "first_seen": "2026-10-26T19:42:22.786439"
+  },
+  {
+    "id": "931784c1ef79c7a6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157213-senior-partnerships-manager-product-partnerships",
+    "title": "Senior Partnerships Manager, Product Partnerships",
+    "company": "RevenueCat",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volum",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.786100",
+    "first_seen": "2026-10-26T19:42:22.786101"
+  },
+  {
+    "id": "4056b9a90cf8f892",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157215-major-account-executive-netherlands",
+    "title": "Major Account Executive Netherlands",
+    "company": "GitLab",
+    "location": "Netherlands",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.785779",
+    "first_seen": "2026-10-26T19:42:22.785780"
+  },
+  {
+    "id": "d10fe81c75981a47",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157217-major-account-manager-sweden",
+    "title": "Major Account Manager, Sweden",
+    "company": "GitLab",
+    "location": "Sweden",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.785539",
+    "first_seen": "2026-10-26T19:42:22.785541"
+  },
+  {
+    "id": "c523efda7615db12",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157218-manager-assigned-support-engineering-emea",
+    "title": "Manager, Assigned Support Engineering (EMEA)",
+    "company": "GitLab",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.785315",
+    "first_seen": "2026-10-26T19:42:22.785317"
+  },
+  {
+    "id": "50109517c755c954",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157216-major-account-executive-uk-public-sector",
+    "title": "Major Account Executive, UK Public Sector",
+    "company": "GitLab",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.785002",
+    "first_seen": "2026-10-26T19:42:22.785003"
+  },
+  {
+    "id": "ee345e98eb5a73d8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157221-digital-product-manager-tissue-acquisition-experience",
+    "title": "Digital Product Manager, Tissue Acquisition Experience",
+    "company": "Natera",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "POSITION SUMMARY: The Product Manager will be responsible for driving the product roadmap for the E2E tissue acquisition journey across internal and external users at Natera . You will partner with key stakeholders across Natera to continuously improve the suite of products for the tissue acquisitio",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.784769",
+    "first_seen": "2026-10-26T19:42:22.784771"
+  },
+  {
+    "id": "4cffd92da38c180c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157226-director-of-data-science-and-bioinformatics-2",
+    "title": "Director of Data Science and Bioinformatics",
+    "company": "Natera",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "This is an exciting opportunity to lead and grow the Data Science and Bioinformatics function supporting Natera 's Women's Health and Organ Health product portfolios. In this role, you will build the bioinformatics capability within the Data Science development team, establish scalable AWS cloud inf",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.784546",
+    "first_seen": "2026-10-26T19:42:22.784548"
+  },
+  {
+    "id": "a34675b46abaa233",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157230-email-marketing-specialist-temp",
+    "title": "Email Marketing Specialist-Temp",
+    "company": "Natera",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "POSITION SUMMARY The Email Marketing Specialist plans, executes, and optimizes email initiatives to drive engagement and ROI. This role manages end-to-end campaign production, including audience segmentation, email building, rigorous QA, and performance analysis. The ideal candidate is detail orient",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.784330",
+    "first_seen": "2026-10-26T19:42:22.784331"
+  },
+  {
+    "id": "11d60d61001a0268",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157228-security-engineer-4",
+    "title": "Security Engineer",
+    "company": "Eight Sleep",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Join the Sleep Fitness Movement At Eight Sleep , we’re on a mission to fuel human potential through optimal sleep. As the world’s first sleep fitness company, we’re redefining what it means to be well-rested and building the most advanced hardware, software, and AI technology to make it possible. Ou",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.784123",
+    "first_seen": "2026-10-26T19:42:22.784124"
+  },
+  {
+    "id": "d498cb124bd26f3b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157235-manager-software-engineering-developer-experience",
+    "title": "Manager, Software Engineering - Developer Experience",
+    "company": "ClickUp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.783826",
+    "first_seen": "2026-10-26T19:42:22.783828"
+  },
+  {
+    "id": "46aa72cb34426b58",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157238-senior-technical-account-manager-customer-success-amer",
+    "title": "Senior Technical Account Manager - Customer Success (AMER)",
+    "company": "ClickUp",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.783497",
+    "first_seen": "2026-10-26T19:42:22.783498"
+  },
+  {
+    "id": "aad98706749c0823",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157231-staff-software-engineer-android",
+    "title": "Staff Software Engineer (Android)",
+    "company": "TeamSnap",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Us At TeamSnap , we believe when the world connects through sports; the world becomes better. TeamSnap is a sports and communication platform dedicated to taking the work out of play in youth sports. We also believe our jobs should excite us, our teammates should support us and our bosses shou",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.783176",
+    "first_seen": "2026-10-26T19:42:22.783178"
+  },
+  {
+    "id": "06aa5c9dcdf83085",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157242-senior-software-developer-3",
+    "title": "Senior Software Developer",
+    "company": "Clover Health",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "This posting is for an existing vacancy. At Counterpart Health, we are transforming healthcare and improving patient care with our innovative primary care tool, Counterpart Assistant. By supporting Primary Care Physicians (PCPs), we are able to deliver improved outcomes to our patients at a lower co",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.782946",
+    "first_seen": "2026-10-26T19:42:22.782947"
+  },
+  {
+    "id": "a2a3848d8016c1f1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157244-senior-corporate-enterprise-platform-engineer-windows",
+    "title": "Senior Corporate Enterprise Platform Engineer, Windows",
+    "company": "Dropbox",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Role Description As a Senior Client Platform Engineer on CorpFleet Engineering, you will own and improve Dropbox ’s Windows endpoint platform. You will bring deep Windows and Intune expertise, make patching and application delivery more reliable, and build automation that reduces recurring work for ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.782711",
+    "first_seen": "2026-10-26T19:42:22.782713"
+  },
+  {
+    "id": "9a1e335f7254b429",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157246-sales-engineer-eastern-canada-strategic",
+    "title": "Sales Engineer, Eastern Canada (Strategic)",
+    "company": "Cribl",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl , we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telem",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.782494",
+    "first_seen": "2026-10-26T19:42:22.782496"
+  },
+  {
+    "id": "884f311cbe5538e9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157248-senior-financial-planning-analysis-partner-product-growth",
+    "title": "Senior Financial Planning & Analysis Partner - Product & Growth",
+    "company": "Dropbox",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "Role Description We are seeking a Senior FP&amp;A Partner to help shape and accelerate growth across our core business. This highly visible role will serve as a strategic thought partner to Product leadership, using financial analysis, business insights, and structured problem-solving to influence b",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:22.782235",
+    "first_seen": "2026-10-26T19:42:22.782244"
+  },
+  {
+    "id": "9f4ed43d81f9d926",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4a0f586f211d3596",
+    "title": "Data Engineer (w/ active Secret)",
+    "company": "CRITICAL SOLUTIONS",
+    "location": "Norfolk, VA, USA",
+    "is_remote": false,
+    "salary": "USD 87,000 – 112,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "power bi",
+      "data engineering",
+      "databricks",
+      "synapse",
+      "data warehouse",
+      "scala",
+      "rust",
+      "llm"
+    ],
+    "description_snippet": "**Data Engineer (w/ active Secret)**\n\nLocation: Norfolk, VA\n  \nClearance: Secret\n  \nType: Full-time, Onsite\n  \nSalary Range: $87,000 - $112,000\n\nJOB DESCRIPTION\n\nCritical Solutions is seeking a Data Engineer to support our federal customer.\n\nThe Data Engineer designs, builds, integrates, and sustain",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:16.812699",
+    "first_seen": "2026-10-26T19:42:16.812703"
+  },
+  {
+    "id": "c9180efae70668a6",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=89810a7e8484847e",
+    "title": "Sr. Big Data Engineer with Active Secret Clearance",
+    "company": "Tekcogno",
+    "location": "PA, USA",
+    "is_remote": true,
+    "salary": "USD 100,000 – 150,000/yearly",
+    "job_type": "fulltime, contract",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "data engineering",
+      "ci/cd",
+      "java",
+      "scala",
+      "nlp"
+    ],
+    "description_snippet": "**Job Title: Sr. Big Data Engineer**  \n**Location: Remote (EST/CST Zone Candidates)**\n\n**MUST HAVE ACTIVE SECRET SECURITY CLEARANCE.**\n\n**Project Overview**\n\nProcurement Integrated Enterprise Environment (PIEE) Development and Sustainment program supports modernization, enhancement, and sustainment ",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-10-26T19:42:11.866653",
+    "first_seen": "2026-10-26T19:42:11.866656"
+  },
+  {
+    "id": "83c30535a4ef9060",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=ffcb278c3f327ae3",
+    "title": "Principal Data Engineer",
+    "company": "Integra Assist",
+    "location": "CA, USA",
+    "is_remote": false,
+    "salary": "USD 180 – 200/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "aws",
+      "power bi",
+      "tableau",
+      "data engineering",
+      "analytics engineering",
+      "snowflake",
+      "data warehouse",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "Looking for Sr. Data Engineer ( Full time with client in Orange County, CA)\n\nWhat You'll DoAs a Principal Data & Analytics engineering resource, you will:\n\nArchitect and build our enterprise data platform, reporting ecosystem, and analytics infrastructure.\n\nDesign, develop, and maintain scalable ETL",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-26T19:42:11.863228",
+    "first_seen": "2026-10-26T19:42:11.863230"
+  },
+  {
+    "id": "1cae30537ea74fb3",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=2a8843b2eb53a88c",
+    "title": "Data Engineer | 3+ yrs | Shiloh IL",
+    "company": "Silverthorne Advisory Group, LLC.",
+    "location": "Shiloh, IL, USA",
+    "is_remote": false,
+    "salary": "USD 65,000 – 65,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "aws",
+      "power bi",
+      "data engineering",
+      "databricks",
+      "java",
+      "scala"
+    ],
+    "description_snippet": "Job Description\n  \n  \nSilverthorne Advisory Group is seeking a skilled and highly motivated Data Engineer to join an exciting and growing opportunity within the Defense sector. As a Data Engineer, you will play a crucial role in designing, developing, and maintaining our client's cloud and data infr",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-26T19:42:00.962615",
+    "first_seen": "2026-10-26T19:42:00.962618"
+  },
+  {
+    "id": "b0b20e2294eb25b7",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=eca66d11d385d321",
+    "title": "Lead Data Engineer",
+    "company": "Navanta",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "kafka",
+      "data engineering",
+      "postgres",
+      "rust"
+    ],
+    "description_snippet": "The Lead Data Engineer owns the Navanta data backbone — public Call Report data in the early build, and secure ingestion from bank cores into lakehouses as each client’s on-premises environment is stood up. Working under the SVP of Technology and Commercial AI and in close partnership with the AI/ML",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T19:42:00.961071",
+    "first_seen": "2026-10-26T19:42:00.961075"
+  },
+  {
     "id": "9982eae629cf8043",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/157050-enterprise-account-executive-japan",
