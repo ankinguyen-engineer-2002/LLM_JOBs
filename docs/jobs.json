@@ -1,5 +1,620 @@
 [
   {
+    "id": "069d765295930f28",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157153-cx-technology-lead",
+    "title": "CX Technology Lead",
+    "company": "Who Gives A Crap",
+    "location": "Philippines",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Not all heroes wear capes — but plenty of them use toilet paper Want to challenge yourself at a purpose-led scale up AND make a difference in the world? Come join the revolootion! Funny name, serious business We make eco-friendly products and donate 50% of our profits to provide clean water and help",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:23.633237",
+    "first_seen": "2026-10-26T14:03:23.633249"
+  },
+  {
+    "id": "59b3a6c783799315",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157078-senior-enterprise-ai-account-executive-deasy-labs",
+    "title": "Senior Enterprise AI Account Executive — Deasy Labs",
+    "company": "Collibra",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Joining Collibra 's AI Sales team Collibra's AI Sales team is at the forefront of how enterprises adopt and scale AI, selling a suite of AI products including AI Command Center, Collibra Units, and Deasy Labs, Collibra's unstructured data platform for AI, directly to the builders and technical leade",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.613340",
+    "first_seen": "2026-10-26T14:03:22.613342"
+  },
+  {
+    "id": "1884ccc1c0c0021e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157082-sr-devops-engineer",
+    "title": "Sr. DevOps Engineer",
+    "company": "Cyware",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Job Title: Senior DevOps Engineer Location: USA (Remote or Regional Office) Reports To: SVP of Engineering About Cyware Cyware delivers an innovative approach to cybersecurity that unifies threat intelligence, automation, threat response, and vulnerability management with data insights gleaned from ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.613116",
+    "first_seen": "2026-10-26T14:03:22.613118"
+  },
+  {
+    "id": "94bf44c056acfef7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157086-frontend-engineer-ads",
+    "title": "Frontend Engineer, Ads",
+    "company": "Reddit",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.612823",
+    "first_seen": "2026-10-26T14:03:22.612825"
+  },
+  {
+    "id": "70e7bc520c5fcbe9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157096-senior-manager-of-success-architects",
+    "title": "Senior Manager of Success Architects",
+    "company": "GitLab",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.612625",
+    "first_seen": "2026-10-26T14:03:22.612627"
+  },
+  {
+    "id": "abeb2e00b0c56dd5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157088-enterprise-account-executive-28",
+    "title": "Enterprise Account Executive",
+    "company": "Chainguard",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.612333",
+    "first_seen": "2026-10-26T14:03:22.612335"
+  },
+  {
+    "id": "7d673f5fd782d42d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157090-field-cto-2",
+    "title": "Field CTO",
+    "company": "GitLab",
+    "location": "Australia,  Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.612144",
+    "first_seen": "2026-10-26T14:03:22.612146"
+  },
+  {
+    "id": "b0497dfecc757628",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157091-senior-customer-success-manager-apj",
+    "title": "Senior Customer Success Manager - APJ",
+    "company": "Chainguard",
+    "location": "APAC,  Japan",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.611894",
+    "first_seen": "2026-10-26T14:03:22.611896"
+  },
+  {
+    "id": "8385c57471bcb0d6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157093-intermediate-security-engineer-security-incident-response-team-sirt",
+    "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
+    "company": "GitLab",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.611634",
+    "first_seen": "2026-10-26T14:03:22.611635"
+  },
+  {
+    "id": "0e9afb3e71521da7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157095-senior-customer-success-engineer-japan",
+    "title": "Senior Customer Success Engineer, Japan",
+    "company": "GitLab",
+    "location": "Japan",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.611349",
+    "first_seen": "2026-10-26T14:03:22.611351"
+  },
+  {
+    "id": "d3e3159ced383f5b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157087-manager-client-analytics-partnerships",
+    "title": "Manager, Client Analytics Partnerships",
+    "company": "StackAdapt",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable resul",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.611074",
+    "first_seen": "2026-10-26T14:03:22.611076"
+  },
+  {
+    "id": "0da804a9d5367e79",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157100-director-of-product-design-3",
+    "title": "Director of Product Design",
+    "company": "Help Scout",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Who we are Help Scout started in 2011 with a simple premise: support software should treat customers like people, not tickets. 3+ billion conversations later, more than 10,000 companies use Help Scout to grow relationships with customers of all types, from clients to patients and beyond. Now we’re i",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.610788",
+    "first_seen": "2026-10-26T14:03:22.610790"
+  },
+  {
+    "id": "815c6468f7bd1b94",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157105-full-stack-software-engineer-new-grad-quora",
+    "title": "Full Stack Software Engineer, New Grad - Quora",
+    "company": "Quora",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "[ Quora is a privately held, \"remote-first\" company . This position can be performed remotely from anywhere in the US or Canada. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.] About Quora : Quora’s mission is to grow the world's collective",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.610322",
+    "first_seen": "2026-10-26T14:03:22.610323"
+  },
+  {
+    "id": "012813e5a6ba2a88",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157107-strategic-finance-manager-2",
+    "title": "Strategic Finance Manager",
+    "company": "ClickUp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "At ClickUp , we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as pa",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.610076",
+    "first_seen": "2026-10-26T14:03:22.610078"
+  },
+  {
+    "id": "711f330306f02481",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157109-senior-software-engineer-product",
+    "title": "Senior Software Engineer, Product",
+    "company": "RevenueCat",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volum",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.609881",
+    "first_seen": "2026-10-26T14:03:22.609883"
+  },
+  {
+    "id": "032bc6e4f5f3cd40",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157111-sr-associate-business-development-director-i",
+    "title": "Sr. Associate Business Development Director I",
+    "company": "ICON plc",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "ICON Prime is seeking an entrepreneurial, high-impact Associate Business Development Director to expand our defense business across the military services, from military construction (MILCON) to defense technology (MilTech). You will operate with significant autonomy to generate, shape, and close com",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.609591",
+    "first_seen": "2026-10-26T14:03:22.609593"
+  },
+  {
+    "id": "31bb1d6de9b66c4a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157117-legal-counsel-commercial-contracts",
+    "title": "Legal Counsel, Commercial Contracts",
+    "company": "Socure",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "Why Socure ? Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people ever",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.609351",
+    "first_seen": "2026-10-26T14:03:22.609353"
+  },
+  {
+    "id": "9b1d6f4b0f1af4c4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157123-regional-sales-director-dach",
+    "title": "Regional Sales Director, DACH",
+    "company": "Keyfactor, Inc.",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital inter",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.609163",
+    "first_seen": "2026-10-26T14:03:22.609164"
+  },
+  {
+    "id": "b8e10ca3d3f738d4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157128-team-lead-customer-support-2",
+    "title": "Team Lead, Customer Support",
+    "company": "Keyfactor, Inc.",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital inter",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.608839",
+    "first_seen": "2026-10-26T14:03:22.608841"
+  },
+  {
+    "id": "bac4adf84c6e34af",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157129-strategic-account-executive-transportation-and-logistics",
+    "title": "Strategic Account Executive, Transportation and Logistics",
+    "company": "Databricks",
+    "location": "Denmark",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "SLSQ427R401 Do you want to help solve the world's toughest problems with big data and AI? This is what we do every day at Databricks . As a Strategic Account Executive, you will be responsible for driving the strategic relationship between Databricks and one of our key cusotmers in the Nordic region",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.608547",
+    "first_seen": "2026-10-26T14:03:22.608548"
+  },
+  {
+    "id": "71cd507791e4dd73",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157121-senior-software-engineer-verification-platform-2",
+    "title": "Senior Software Engineer - Verification Platform",
+    "company": "Veriff",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Beneath a simple yet elegant user interface lies a complex system of functionalities. Our AI-powered product uses advanced image recognition, facial verification, face recognition, facial anti-spoofing (liveness detection), and behavior analysis to make identity decisions. We help our partners build",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.608388",
+    "first_seen": "2026-10-26T14:03:22.608390"
+  },
+  {
+    "id": "0def69a82e040869",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157134-principal-technical-marketing-engineer-sweden-remote",
+    "title": "Principal Technical Marketing Engineer | Sweden | Remote",
+    "company": "Grafana Labs",
+    "location": "Sweden",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.608187",
+    "first_seen": "2026-10-26T14:03:22.608188"
+  },
+  {
+    "id": "b55780980e1dd06c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157132-principal-technical-marketing-engineer-ireland-remote",
+    "title": "Principal Technical Marketing Engineer | Ireland | Remote",
+    "company": "Grafana Labs",
+    "location": "Ireland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.607886",
+    "first_seen": "2026-10-26T14:03:22.607888"
+  },
+  {
+    "id": "02fbdc17d9f5ca62",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157131-principal-technical-marketing-engineer-germany-remote",
+    "title": "Principal Technical Marketing Engineer | Germany | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.607579",
+    "first_seen": "2026-10-26T14:03:22.607580"
+  },
+  {
+    "id": "5b94c90907148081",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157133-principal-technical-marketing-engineer-spain-remote",
+    "title": "Principal Technical Marketing Engineer | Spain | Remote",
+    "company": "Grafana Labs",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.607256",
+    "first_seen": "2026-10-26T14:03:22.607258"
+  },
+  {
+    "id": "263d5959ffcdadc1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157135-principal-technical-marketing-engineer-uk-remote",
+    "title": "Principal Technical Marketing Engineer | UK | Remote",
+    "company": "Grafana Labs",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.606932",
+    "first_seen": "2026-10-26T14:03:22.606933"
+  },
+  {
+    "id": "2adc9a6da4cf2e66",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157139-senior-business-value-engineer-germany-remote",
+    "title": "Senior Business Value Engineer | Germany | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.606598",
+    "first_seen": "2026-10-26T14:03:22.606600"
+  },
+  {
+    "id": "80c69206cf24dd4a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157144-backend-engineer-java-web-3-wallet",
+    "title": "Backend Engineer, Java - Web 3 Wallet",
+    "company": "Binance",
+    "location": "Hong Kong,  Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.606326",
+    "first_seen": "2026-10-26T14:03:22.606328"
+  },
+  {
+    "id": "8f48edd4bfbe1bc4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157154-senior-solutions-architect-3",
+    "title": "Senior Solutions Architect",
+    "company": "GitLab",
+    "location": "South Korea",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.606183",
+    "first_seen": "2026-10-26T14:03:22.606185"
+  },
+  {
+    "id": "06519f65311eeb4d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157152-senior-professional-services-engineer-japan",
+    "title": "Senior Professional Services Engineer, Japan",
+    "company": "GitLab",
+    "location": "Japan",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.605885",
+    "first_seen": "2026-10-26T14:03:22.605887"
+  },
+  {
+    "id": "3211860f07ba1271",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157157-senior-solutions-architect-japan",
+    "title": "Senior Solutions Architect - Japan",
+    "company": "GitLab",
+    "location": "Japan",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.605592",
+    "first_seen": "2026-10-26T14:03:22.605594"
+  },
+  {
+    "id": "c1b938ee4e1ae966",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157159-senior-solutions-architect-singapore",
+    "title": "Senior Solutions Architect (Singapore)",
+    "company": "GitLab",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T14:03:22.605274",
+    "first_seen": "2026-10-26T14:03:22.605287"
+  },
+  {
+    "id": "16d16fef271fa1c9",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
+    "title": "Senior Software Engineer",
+    "company": "Klardaten",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "USD 80,000 – 100,000/year",
+    "job_type": "N/A",
+    "tags": [
+      "dev",
+      "senior",
+      "javascript",
+      "typescript",
+      "full stack",
+      "api"
+    ],
+    "description_snippet": "Klardaten connects DATEV with other software and AI applications. Weâre hiring 1â2 senior engineers to own product development, DATEV integrations and automation. Based in the EU Â· Remote or Berlin Â· Full time Â· Permanent or contract Â· Start as soon as possible Own the outcome Once we agree ",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-26T14:03:21.436384",
+    "first_seen": "2026-10-26T14:03:21.436393"
+  },
+  {
+    "id": "c0964bf0b6fd23c7",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5706688beeb45def",
+    "title": "Sr. Automation/Controls Engineer",
+    "company": "CoorsTek",
+    "location": "Milford, NH, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "It's exciting to work for a company that makes the world measurably better.\n\nWe're committed to bringing safety, quality, and customer focus to the business of advanced ceramics manufacturing.\n\n**Job Title**\n\nSr. Automation/Controls EngineerAs the Sr Automation/Controls Engineer, you will serve as a",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-26T14:03:12.284607",
+    "first_seen": "2026-10-26T14:03:12.284610"
+  },
+  {
     "id": "b94695679192b48d",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/upstart-devops-engineer-ii-cloud-platform",
