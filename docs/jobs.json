@@ -1,5 +1,92 @@
 [
   {
+    "id": "8d601d4ee4e66cb0",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/vested-inc-senior-software-engineer-1",
+    "title": "Senior Software Engineer",
+    "company": "Vested, Inc.",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: United States URL: https://vested.co About the role &nbsp; We're looking for a Senior Software Engineer who can define and deliver products that have a real impact on people's financial futures. You'll be joining a small and early-stage engineering team where each engineer has signific",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T21:23:57.144569",
+    "first_seen": "2026-10-26T21:23:57.144579"
+  },
+  {
+    "id": "12b232cb532a6e3f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157270-senior-data-engineer-datacraft-team",
+    "title": "Senior Data Engineer, Datacraft team",
+    "company": "Bloomreach",
+    "location": "Czechia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Bloomreach is building the world’s premier agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more in",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T21:19:30.016332",
+    "first_seen": "2026-10-26T21:19:30.016342"
+  },
+  {
+    "id": "6d6a1ae63cf6220f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=8ce3313e69532fdc",
+    "title": "Principal Data Architect",
+    "company": "Genpact LLC, USA-ADMCTK",
+    "location": "New York, NY, USA",
+    "is_remote": false,
+    "salary": "USD 165,300 – 235,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "spark",
+      "azure",
+      "aws",
+      "data engineering",
+      "databricks",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "Principal Data Architect\n\n**Ready to turn bold ideas into real-world impact?**  \nAt Genpact, we don’t just adapt to change, we lead it. AI and digital innovation are transforming the way businesses work, and we’re at the forefront of it. Genpact’s AI Gigafactory, our industry-first accelerator, exem",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T21:19:19.630986",
+    "first_seen": "2026-10-26T21:19:19.630991"
+  },
+  {
+    "id": "3331396e3fee8f28",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=0cb44ed9b5043f00",
+    "title": "Senior Data Engineer",
+    "company": "Symbotic",
+    "location": "Wilmington, MA, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "docker",
+      "postgres",
+      "bigquery",
+      "kubernetes",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Who we are**\n\nMore efficient. More accurate. More accessible. Exol is bringing industry-leading automation to businesses of all sizes through an innovative warehouse-as-a-service model.\n\n**What we need**\n\nExol is seeking a Senior Data Engineer to join our Data Platform team within our IT organizat",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-26T21:19:12.101751",
+    "first_seen": "2026-10-26T21:19:12.101755"
+  },
+  {
     "id": "b005c5fa12d53c14",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/157257-senior-data-analyst-customer-success-operations",
