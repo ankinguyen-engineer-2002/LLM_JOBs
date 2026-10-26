@@ -1,5 +1,87 @@
 [
   {
+    "id": "9dde60bbbea41b85",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=fa2070f371582dd4",
+    "title": "Senior VMware Engineer",
+    "company": "Elluminates Software",
+    "location": "Springfield, VA, USA",
+    "is_remote": false,
+    "salary": "USD 144,000 – 200,000/yearly",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "**Senior VMware Engineer**\n\n**Introduction**\n================\n\nElluminates Software — We Make Your Infrastructure Intelligent  \n  \nBuild your next generation organization with advanced automation and AI tools — purpose-built for enterprise scale. We engineer intelligence into the core of infrastruct",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-26T04:31:00.072083",
+    "first_seen": "2026-10-26T04:31:00.072084"
+  },
+  {
+    "id": "0848ff75d6f57116",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=aaea31722254aea0",
+    "title": "Principal EDA Engineer",
+    "company": "Renesas",
+    "location": "San Jose, CA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "scala"
+    ],
+    "description_snippet": "**Job Description**\n\n**Role Summary:**\n\nWe are seeking an experienced **Principal EDA/CAD Engineer** to provide technical leadership for Renesas’ global engineering compute and design-data-management environment.\n\nThe role combines hands-on CAD engineering with responsibility for compute infrastruct",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-26T04:31:00.070565",
+    "first_seen": "2026-10-26T04:31:00.070567"
+  },
+  {
+    "id": "e68dfb107a9fb1df",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f8a756959282b420",
+    "title": "Senior Electrical Engineer",
+    "company": "Anduril",
+    "location": "Long Beach, CA, USA",
+    "is_remote": false,
+    "salary": "USD 161,000 – 212,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "aws",
+      "rust"
+    ],
+    "description_snippet": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century's most innovative companies to the defense industry, Anduril is changing how mi",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-26T04:30:55.108795",
+    "first_seen": "2026-10-26T04:30:55.108797"
+  },
+  {
+    "id": "7dd18e75fae0df50",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=a6a8a9126725e2c1",
+    "title": "Senior Azure Databricks Data Engineer",
+    "company": "Masterapp Labs",
+    "location": "Indianapolis, IN, USA",
+    "is_remote": false,
+    "salary": "USD 40 – 40/hourly",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "spark",
+      "pyspark",
+      "azure",
+      "power bi",
+      "data engineering",
+      "databricks",
+      "synapse",
+      "medallion",
+      "ci/cd"
+    ],
+    "description_snippet": "**Benefits:**\n\n* 401(k) matching\n* Dental insurance\n* Health insurance\n* Vision insurance\n\n**Job Title:** Senior Azure Databricks Data Engineer\n\n**Location:** Indianapolis, IN (Hybrid)-Onsite one day per week\n\n**Position Type:** Contract\n\n**Interview Mode:** Web Cam\n\n**Job Duties**\n\n* Assists with t",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-26T04:30:46.843720",
+    "first_seen": "2026-10-26T04:30:46.843721"
+  },
+  {
     "id": "521515fd05ffd712",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/157004-director-of-products",
