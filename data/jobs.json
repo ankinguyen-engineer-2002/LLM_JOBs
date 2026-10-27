@@ -1,5 +1,751 @@
 [
   {
+    "id": "55789f400cd9e3cb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157348-technical-account-manager-10",
+    "title": "Technical Account Manager",
+    "company": "Ping Identity",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "About Ping Identity : At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.418278",
+    "first_seen": "2026-10-27T19:05:59.418278"
+  },
+  {
+    "id": "ed188f9bbc6483c4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157351-product-manager-trust-safety-full-remote-uk",
+    "title": "Product Manager - Trust & Safety (Full Remote - UK)",
+    "company": "EverAI",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.418152",
+    "first_seen": "2026-10-27T19:05:59.418152"
+  },
+  {
+    "id": "fe57cddb370635ee",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157352-product-manager-trust-safety-full-remote-netherlands",
+    "title": "Product Manager - Trust & Safety (Full Remote - Netherlands)",
+    "company": "EverAI",
+    "location": "Netherlands",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.417931",
+    "first_seen": "2026-10-27T19:05:59.417932"
+  },
+  {
+    "id": "b469448f5ed2663b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157353-product-manager-trust-safety-full-remote-spain",
+    "title": "Product Manager - Trust & Safety (Full Remote - Spain)",
+    "company": "EverAI",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.417709",
+    "first_seen": "2026-10-27T19:05:59.417710"
+  },
+  {
+    "id": "49e9588c328725a8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157357-customer-success-manager-55",
+    "title": "Customer Success Manager",
+    "company": "Tenable",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Who is Tenable ? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.417457",
+    "first_seen": "2026-10-27T19:05:59.417458"
+  },
+  {
+    "id": "6067ea4699fa5d4b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157374-senior-product-manager-13",
+    "title": "Senior Product Manager",
+    "company": "Rithum",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Rithum ™ is the world’s most trusted commerce network, accelerating how brands, suppliers, and retailers work together to deliver seamless e-commerce experiences. We provide an unmatched platform for brands and retailers, enabling them to accelerate growth, optimize operations across channels, scale",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.417343",
+    "first_seen": "2026-10-27T19:05:59.417344"
+  },
+  {
+    "id": "734052e0a7261bf6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157375-senior-bioinformatics-scientist",
+    "title": "Senior Bioinformatics Scientist",
+    "company": "Veracyte",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "At Veracyte , we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a meaningful impact on the lives of patients, but to also lea",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.417143",
+    "first_seen": "2026-10-27T19:05:59.417143"
+  },
+  {
+    "id": "4587a8d3ac188569",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157377-director-of-enterprise-ai-success",
+    "title": "Director of Enterprise AI Success.",
+    "company": "Cresta",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.416974",
+    "first_seen": "2026-10-27T19:05:59.416974"
+  },
+  {
+    "id": "ce538a1bce9b1513",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157382-software-development-manager-2",
+    "title": "Software Development Manager",
+    "company": "Veracyte",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At Veracyte , we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a meaningful impact on the lives of patients, but to also lea",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.416810",
+    "first_seen": "2026-10-27T19:05:59.416811"
+  },
+  {
+    "id": "55bd037e47842557",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157385-sr-bioinformatics-scientist",
+    "title": "Sr. Bioinformatics Scientist",
+    "company": "Veracyte",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "healthcare & medical"
+    ],
+    "description_snippet": "At Veracyte , we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a meaningful impact on the lives of patients, but to also lea",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.416626",
+    "first_seen": "2026-10-27T19:05:59.416626"
+  },
+  {
+    "id": "6a9099e1fa0582b6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157388-sr-manager-data-engineering-2",
+    "title": "Sr. Manager, Data Engineering",
+    "company": "Veracyte",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "At Veracyte , we offer exciting career opportunities for those interested in joining a pioneering team that is committed to transforming cancer care for patients across the globe. Working at Veracyte enables our employees to not only make a meaningful impact on the lives of patients, but to also lea",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.416438",
+    "first_seen": "2026-10-27T19:05:59.416438"
+  },
+  {
+    "id": "2a13f8178e8e663f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157391-manager-technical-account-teams-enterprise",
+    "title": "Manager, Technical Account Teams (Enterprise)",
+    "company": "Socket",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Fou",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.416238",
+    "first_seen": "2026-10-27T19:05:59.416238"
+  },
+  {
+    "id": "45be6019673175ad",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157393-manager-technical-account-teams-commercial",
+    "title": "Manager, Technical Account Teams (Commercial)",
+    "company": "Socket",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Fou",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.416112",
+    "first_seen": "2026-10-27T19:05:59.416113"
+  },
+  {
+    "id": "77bb97811a6ac6f2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157395-vulnerability-research-software-engineer",
+    "title": "Vulnerability Research Software Engineer",
+    "company": "Socket",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Fou",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.415974",
+    "first_seen": "2026-10-27T19:05:59.415975"
+  },
+  {
+    "id": "c4b5fed6b6097596",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157403-senior-sales-engineer-poland-2",
+    "title": "Senior Sales Engineer, Poland",
+    "company": "Cribl",
+    "location": "Poland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl , we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telem",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.415857",
+    "first_seen": "2026-10-27T19:05:59.415857"
+  },
+  {
+    "id": "1a2ecbde987f2689",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157404-senior-business-value-engineer-uk-remote",
+    "title": "Senior Business Value Engineer | UK | Remote",
+    "company": "Grafana Labs",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.415775",
+    "first_seen": "2026-10-27T19:05:59.415776"
+  },
+  {
+    "id": "19187715984f0edf",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157405-engineering-manager-ubuntu-core",
+    "title": "Engineering Manager - Ubuntu Core",
+    "company": "Canonical",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.415629",
+    "first_seen": "2026-10-27T19:05:59.415630"
+  },
+  {
+    "id": "cf719df338722ae9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157406-senior-security-grc-engineer",
+    "title": "Senior Security GRC Engineer",
+    "company": "Mozilla",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Why Mozilla ? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each mo",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.415506",
+    "first_seen": "2026-10-27T19:05:59.415507"
+  },
+  {
+    "id": "a13b3af563247d69",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157407-senior-machine-learning-manager-borrowing",
+    "title": "Senior Machine Learning Manager, Borrowing",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.415347",
+    "first_seen": "2026-10-27T19:05:59.415347"
+  },
+  {
+    "id": "f332ff4e707eb55a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157408-senior-engineering-manager-grafana-frontend-germany-remote",
+    "title": "Senior Engineering Manager, Grafana Frontend | Germany | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.415184",
+    "first_seen": "2026-10-27T19:05:59.415185"
+  },
+  {
+    "id": "3710ac7eb13354fe",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157409-executive-search-lead-technology",
+    "title": "Executive Search Lead - Technology",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.414947",
+    "first_seen": "2026-10-27T19:05:59.414948"
+  },
+  {
+    "id": "459eb4d5aa330824",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157414-lead-data-scientist-adtech-2",
+    "title": "Lead Data Scientist, AdTech",
+    "company": "Launch Potato",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "WHO ARE WE? Launch Potato is the discovery and conversion company. We reach tens of millions of people every month through our brands, including FinanceBuzz , All About Cookies , and OnlyInYourState . We turn that attention into real outcomes for our partners, some of the world's leading companies. ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.414795",
+    "first_seen": "2026-10-27T19:05:59.414796"
+  },
+  {
+    "id": "30376010a52d8f0f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157415-accounting-specialist-thailand",
+    "title": "Accounting Specialist - Thailand",
+    "company": "Cloudbeds",
+    "location": "Thailand",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "What Makes Cloudbeds Unique At Cloudbeds , we're not just building software, we're transforming hospitality. Our platform powers hotels across 150 countries, processing billions in bookings annually. From boutique properties to large hotel groups, we help hoteliers transform operations and uplevel t",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.414686",
+    "first_seen": "2026-10-27T19:05:59.414687"
+  },
+  {
+    "id": "ce2d9446cde4965b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157425-staff-software-engineer-12",
+    "title": "Staff Software Engineer",
+    "company": "Vonage",
+    "location": "Poland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Join Vonage and help us innovate cloud communications for businesses worldwide! About Vonage Vonage is the emerging leader in the $100B+ cloud communications platform (CPaaS) market. Customers like Airbnb, Viber, WhatsApp, Snapchat, and many others depend on our APIs and SDKs to connect with their c",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.414490",
+    "first_seen": "2026-10-27T19:05:59.414491"
+  },
+  {
+    "id": "944ececebe7e68b7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157426-partner-solutions-architect-2",
+    "title": "Partner Solutions Architect",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.414396",
+    "first_seen": "2026-10-27T19:05:59.414396"
+  },
+  {
+    "id": "c1276ef18edb5520",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157431-senior-machine-learning-engineer-llm-inference-optimization",
+    "title": "Senior Machine Learning Engineer, LLM Inference Optimization",
+    "company": "Nebius",
+    "location": "Europe,  Israel",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.414253",
+    "first_seen": "2026-10-27T19:05:59.414254"
+  },
+  {
+    "id": "e8167199b474e3c6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157433-senior-ml-engineer-agentic-search",
+    "title": "Senior ML Engineer (Agentic Search)",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.414095",
+    "first_seen": "2026-10-27T19:05:59.414096"
+  },
+  {
+    "id": "abbef3a3f714f790",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157434-senior-ml-engineer-ai-research",
+    "title": "Senior ML Engineer (AI Research)",
+    "company": "Nebius",
+    "location": "Europe,  Israel",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:59.413974",
+    "first_seen": "2026-10-27T19:05:59.413984"
+  },
+  {
+    "id": "ae314e3469fb988b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=db39962aef6fe8d9",
+    "title": "Senior Oracle Database Engineer (Development & Administration)",
+    "company": "Cloud Seven Technology",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 150,000 – 170,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "aws",
+      "scala"
+    ],
+    "description_snippet": "**Overview**\n\nWe are seeking a Senior Oracle Database Engineer with 10+ years of experience developing, troubleshooting, and supporting enterprise-scale Oracle database applications. This position is primarily focused on hands-on SQL and PL/SQL development, production debugging, script remediation, ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:53.393679",
+    "first_seen": "2026-10-27T19:05:53.393680"
+  },
+  {
+    "id": "d8c2173cc2109d49",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=2cef935b6b306bdd",
+    "title": "Senior AI Application Engineer",
+    "company": "First County Bank",
+    "location": "Stamford, CT, USA",
+    "is_remote": false,
+    "salary": "USD 170,000 – 205,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "azure",
+      "aws",
+      "power bi",
+      "data engineering",
+      "machine learning",
+      "scikit-learn",
+      "snowflake",
+      "ci/cd",
+      "java",
+      "rust",
+      "llm",
+      "openai",
+      "prompt engineering"
+    ],
+    "description_snippet": "**ABOUT FIRST COUNTY BANK**\n\nFirst County Bank is a 175-year-old mutual savings bank with approximately $2.3 billion in assets, serving Fairfield County, Connecticut through 13 branches. As a mutual, we answer to our depositors and our community rather than to shareholders, which lets us take a long",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:53.393298",
+    "first_seen": "2026-10-27T19:05:53.393301"
+  },
+  {
+    "id": "19286dfe00aec03c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=e4f6cc834dce2082",
+    "title": "Principal Data Architect",
+    "company": "Genpact",
+    "location": "New York, NY, USA",
+    "is_remote": false,
+    "salary": "USD 210,000 – 300,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "dbt",
+      "airflow",
+      "kafka",
+      "azure",
+      "aws",
+      "data engineering",
+      "snowflake",
+      "databricks",
+      "microsoft fabric",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "Principal Data Architect\n\n**Ready to turn bold ideas into real-world impact?**  \nAt Genpact, we don’t just adapt to change, we lead it. AI and digital innovation are transforming the way businesses work, and we’re at the forefront of it. Genpact’s AI Gigafactory, our industry-first accelerator, exem",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:48.473802",
+    "first_seen": "2026-10-27T19:05:48.473803"
+  },
+  {
+    "id": "f7b195e40ddb6610",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b4622e464f099cc4",
+    "title": "Onsite_Data Architect- MS Fabric_",
+    "company": "THEMESOFT",
+    "location": "Columbus, OH, USA",
+    "is_remote": false,
+    "salary": "USD 70 – 70/hourly",
+    "job_type": "contract",
+    "tags": [
+      "sql",
+      "spark",
+      "azure",
+      "power bi",
+      "tableau",
+      "data engineering",
+      "snowflake",
+      "databricks",
+      "microsoft fabric",
+      "synapse",
+      "medallion",
+      "rust"
+    ],
+    "description_snippet": "Job Title: Data Architect - MS Fabric  \nLocation: Columbus, IN  \nDuration: 6-12+ months  \nContract  \n  \nRole Summary  \n  \nSeeking a Data Modeling Architect to define and implement the enterprise modeling framework for an advanced data fabric architecture. This role translates business capabilities, ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:48.473548",
+    "first_seen": "2026-10-27T19:05:48.473551"
+  },
+  {
+    "id": "f27383509cc6ceeb",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=9e1e43ebf3d5a526",
+    "title": "Engineer, Electrical, Journeyman",
+    "company": "Magee Technologies",
+    "location": "Naval Air Station Patuxent River, MD, USA",
+    "is_remote": false,
+    "salary": "USD 43 – 60/hourly",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "Description:\n\n**Company Overview:**\n\nMagee Technologies (MTech) is a premier provider of comprehensive aerostructure solutions and complex systems integrations for defense and commercial customers. We are more than a service provider, we are a dedicated partner working side-by-side with our clients ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:43.567570",
+    "first_seen": "2026-10-27T19:05:43.567571"
+  },
+  {
+    "id": "62b9c062fa786716",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=016da2719e59d6f4",
+    "title": "Principal Engineer, Safety Analysis",
+    "company": "TerraPower",
+    "location": "Bellevue, WA, USA",
+    "is_remote": false,
+    "salary": "USD 151,994 – 197,395/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "rust"
+    ],
+    "description_snippet": "TerraPower is a nuclear technology company based in Bellevue, Washington. At its core, the company is working to raise living standards globally through a more affordable, secure, and environmentally friendly form of nuclear energy along with innovations in medical isotopes to improve human health. ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:43.567286",
+    "first_seen": "2026-10-27T19:05:43.567290"
+  },
+  {
+    "id": "e6b259c2d85d0faa",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=278b7cf0f5b8036d",
+    "title": "Data & AI Forward Deployed Engineer",
+    "company": "Revstar",
+    "location": "VA, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "machine learning",
+      "ci/cd",
+      "scala",
+      "rust",
+      "generative ai"
+    ],
+    "description_snippet": "**Build What Matters at RevStar**\n\n**Position:** Data & AI Forward Deployed Engineer (FDE)\n\n* **Reports To:** Product Manager/Engineering Lead\n* **Location**: Remote (AZ, DC, FL, GA, IA, IL, ME, NY, NJ, SC, TX, VA)\n* **Employment Type:** Full-Time W2\n\n**Job Summary**\n\nAt RevStar, we build cutting-ed",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-27T19:05:38.979345",
+    "first_seen": "2026-10-27T19:05:38.979346"
+  },
+  {
+    "id": "651674fca4d1aff5",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=cfddb20596b82425",
+    "title": "Cyber Infrastructure & Tooling Engineer | Senior",
+    "company": "The Amatriot Group",
+    "location": "Chantilly, VA, USA",
+    "is_remote": false,
+    "salary": "USD 127,000 – 171,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "postgres",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Location:** Chantilly, VA  \n**Security Clearance:** Active TS or higher [Required]  \n**Job Type:** Full-Time  \n**Target Salary Range\\*:**$127,000 - $171,000\n\n* This represents the potential salary range for this position depending on education level, years of experience and/or certifications in ad",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-27T19:05:38.977993",
+    "first_seen": "2026-10-27T19:05:38.977997"
+  },
+  {
+    "id": "bb8fd96d965d3033",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=52a9bd3188ace698",
+    "title": "C++ Market Data Engineer (USA)",
+    "company": "Trexquant Investment LP",
+    "location": "Stamford, CT, USA",
+    "is_remote": false,
+    "salary": "USD 150,000 – 200,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "scala"
+    ],
+    "description_snippet": "Trexquant is a growing systematic fund at the forefront of quantitative finance, with a core team of highly accomplished researchers and engineers. To keep pace with our expanding global trading operations, we are seeking a C++ Software Engineer to design and build high throughput / low-latency mark",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:35.545847",
+    "first_seen": "2026-10-27T19:05:35.545847"
+  },
+  {
+    "id": "403191f7204328ec",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=06a110b7ed45eb2d",
+    "title": "Senior Data Engineer",
+    "company": "Mom's Meals, a PurFoods Company",
+    "location": "Ankeny, IA, USA",
+    "is_remote": true,
+    "salary": "USD 120,000 – 130,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "dbt",
+      "azure",
+      "aws",
+      "power bi",
+      "data engineering",
+      "databricks",
+      "medallion",
+      "ci/cd",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "The Senior Data Engineer is responsible for complex design, development, deployment, operational support, technical communication, mentoring, and continuous improvement across Mom’s Meals data and integration platforms. This role works independently on complex assignments and provides guidance to ju",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T19:05:35.545460",
+    "first_seen": "2026-10-27T19:05:35.545464"
+  },
+  {
     "id": "9aeeb4003ed158dd",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer",
