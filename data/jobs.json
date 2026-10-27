@@ -1,5 +1,853 @@
 [
   {
+    "id": "9aeeb4003ed158dd",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer",
+    "title": "Senior IT Systems Engineer",
+    "company": "Upsun",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote • Canada About Upsun Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:10:51.281880",
+    "first_seen": "2026-10-27T13:10:51.281903"
+  },
+  {
+    "id": "424265cb7d97af28",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/stockx-director-category-growth-general-manager",
+    "title": "Director, Category Growth (General Manager)",
+    "company": "StockX",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote, USA Help empower our global customers to connect to culture through their passions. Why you’ll love this role: StockX has redefined the global marketplace for culture — where buyers and sellers transact with confidence on an always-on digital exchange. We are building the next ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:10:50.809085",
+    "first_seen": "2026-10-27T13:10:50.809094"
+  },
+  {
+    "id": "b2caaca78b54615f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151668-strategist-agent-development-french-speaking",
+    "title": "Strategist, Agent Development (French speaking)",
+    "company": "Sierra",
+    "location": "France",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About us At Sierra , we’re building a platform to enable every company in the world to build better, more human customer experiences with AI. We partner with industry leaders such as SoftBank, Uber, Rivian, CLEAR, and Sutter Health. We are primarily an in-person company based in San Francisco, with ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.175343",
+    "first_seen": "2026-10-27T13:06:27.175345"
+  },
+  {
+    "id": "750e120d068e90f3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151673-strategist-agent-development",
+    "title": "Strategist, Agent Development",
+    "company": "Sierra",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About us At Sierra , we’re building a platform to enable every company in the world to build better, more human customer experiences with AI. We partner with industry leaders such as SoftBank, Uber, Rivian, CLEAR, and Sutter Health. We are primarily an in-person company based in San Francisco, with ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.175019",
+    "first_seen": "2026-10-27T13:06:27.175021"
+  },
+  {
+    "id": "5b0e9b219cbc6868",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151723-developer-advocate-service-management",
+    "title": "Developer Advocate - Service Management",
+    "company": "Datadog",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call, and automate their operations, you will work with practitioners and leaders across the industry and br",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.174675",
+    "first_seen": "2026-10-27T13:06:27.174676"
+  },
+  {
+    "id": "0c46656a42ccf9ec",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151580-customer-success-manager-ii-2",
+    "title": "Customer Success Manager II",
+    "company": "Planet Labs Inc.",
+    "location": "Brazil",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Welcome to Planet. We believe in using space to help life on Earth. Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.174281",
+    "first_seen": "2026-10-27T13:06:27.174282"
+  },
+  {
+    "id": "cbb06ed7d03a335e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151702-senior-product-designer-2",
+    "title": "Senior Product Designer",
+    "company": "Future PLC",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "About Us: Future is building a personalized guidance system for lifelong health. We help people understand what to do next for their body, goals, and stage of life — then support them in turning those decisions into sustained behavior change. By combining AI, human expertise, personal health data, a",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.173729",
+    "first_seen": "2026-10-27T13:06:27.173731"
+  },
+  {
+    "id": "0487094342e52a96",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151710-staff-product-manager",
+    "title": "Staff Product Manager",
+    "company": "Future PLC",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Us: Future is building a personalized guidance system for lifelong health. We help people understand what to do next for their body, goals, and stage of life — then support them in turning those decisions into sustained behavior change. By combining AI, human expertise, personal health data, a",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.173181",
+    "first_seen": "2026-10-27T13:06:27.173183"
+  },
+  {
+    "id": "662312b24c8444cd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151761-senior-product-manager-3",
+    "title": "Senior Product Manager",
+    "company": "Medely",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "The Company Medely is a high-growth series-C technology start-up reimagining the future of healthcare work by providing an on-demand marketplace and workforce management tools. With the support of top-tier investors, Medely has quickly become a go-to platform for healthcare professionals to instantl",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.172806",
+    "first_seen": "2026-10-27T13:06:27.172808"
+  },
+  {
+    "id": "7a5ec5894485d4fc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151687-sr-technical-marketing-manager-alliances-competitive-strategy",
+    "title": "Sr Technical Marketing Manager - Alliances & Competitive Strategy",
+    "company": "Obsidian Security",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Obsidian Security is the leading SaaS security platform, trusted by global enterprises like Snowflake, T-Mobile, and Algolia. We protect 200+ organizations across North America, Europe, the Middle East, Southeast Asia, Australia, and New Zealand, including many of the world’s largest Fortune 1000 an",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.171246",
+    "first_seen": "2026-10-27T13:06:27.171248"
+  },
+  {
+    "id": "0b643c005cef7dee",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149963-business-consultant",
+    "title": "Business Consultant",
+    "company": "Autodesk",
+    "location": "Denmark,  Netherlands,  Norway,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Job Requisition ID # 26WD99977 Business Consultant - AECO Technical Advisory Position Overview Autodesk Consulting is looking for a Business Consultant to join our Northern Europe team. This remote role is based in the Netherlands and supports strategic customers across the region. This is a senior ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.170396",
+    "first_seen": "2026-10-27T13:06:27.170397"
+  },
+  {
+    "id": "2a37ea27e85b512c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151771-senior-product-designer-3",
+    "title": "Senior Product Designer",
+    "company": "TeamSnap",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "About Us At TeamSnap , we believe when the world connects through sports; the world becomes better. TeamSnap is a sports and communication platform dedicated to taking the work out of play in youth sports. We also believe our jobs should excite us, our teammates should support us and our bosses shou",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.170166",
+    "first_seen": "2026-10-27T13:06:27.170168"
+  },
+  {
+    "id": "90e7fe7d4de3ac50",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157273-staff-software-engineer-11",
+    "title": "Staff Software Engineer",
+    "company": "AudioEye",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About the Team At AudioEye , we believe access to digital content is a fundamental right, not a privilege. Our mission is clear: eliminate every barrier to digital accessibility so that everyone, regardless of ability, can experience the web without limitations. We are a team of passionate problem-s",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.169923",
+    "first_seen": "2026-10-27T13:06:27.169925"
+  },
+  {
+    "id": "7e86e7f812200056",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157282-senior-product-manager-commerce",
+    "title": "Senior Product Manager - Commerce",
+    "company": "Boulevard",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Who is Boulevard ? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most. Before launching in 2016, our founders spent months interviewing salon manager",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.169617",
+    "first_seen": "2026-10-27T13:06:27.169618"
+  },
+  {
+    "id": "8936aade10c7e2d9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157287-business-development-representative-middle-east",
+    "title": "Business Development Representative, Middle East",
+    "company": "Chainguard",
+    "location": "UAE",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.169307",
+    "first_seen": "2026-10-27T13:06:27.169309"
+  },
+  {
+    "id": "01e81c0afd360a61",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157292-commercial-business-development-representative",
+    "title": "Commercial Business Development Representative",
+    "company": "Chainguard",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.169067",
+    "first_seen": "2026-10-27T13:06:27.169068"
+  },
+  {
+    "id": "07d493c221160925",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157289-marketing-operations-manager-3",
+    "title": "Marketing Operations Manager",
+    "company": "Pleo",
+    "location": "Germany,  Portugal,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees a",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.168791",
+    "first_seen": "2026-10-27T13:06:27.168792"
+  },
+  {
+    "id": "fb67866bb15530e8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157301-supply-lead",
+    "title": "Supply Lead",
+    "company": "Reka",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Claru (a Reka business line) · San Francisco or remote · Full-time Text has run out. The physical world — where skill lives — has never been recorded in a form a model can learn from. Claru is building that layer. We sell data to frontier labs and robotics companies: zero to seven figures of ARR in ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.168296",
+    "first_seen": "2026-10-27T13:06:27.168297"
+  },
+  {
+    "id": "dd88e5b0329e6460",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157294-partner-solutions-engineer",
+    "title": "Partner Solutions Engineer",
+    "company": "DevRev",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About DevRev At DevRev, we're building the future of work with Computer – your AI teammate. Unlike traditional tools, Computer unifies all your data sources, tools, and workflows into a single AI-ready platform, giving employees real-time insights, proactive suggestions, and powerful agentic actions",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.168061",
+    "first_seen": "2026-10-27T13:06:27.168063"
+  },
+  {
+    "id": "1188f2624aed4595",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157303-lead-sales-engineer-strategic-accounts-west",
+    "title": "Lead Sales Engineer, Strategic Accounts - West",
+    "company": "Amplitude",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Amplitude is the leading AI analytics platform, helping over 5,200 customers—including Atlassian, Burger King, NBCUniversal, and Square—build better products and digital experiences. With powerful AI Agents embedded across our platform, teams can analyze, test, and optimize user experiences faster t",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.167699",
+    "first_seen": "2026-10-27T13:06:27.167700"
+  },
+  {
+    "id": "6f7b49a1d14376cb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157300-general-manager-latam-sales-partners",
+    "title": "General Manager, LATAM (Sales & Partners)",
+    "company": "Amplitude",
+    "location": "Brazil",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Amplitude is the leading AI analytics platform, helping over 5,200 customers—including Atlassian, Burger King, NBCUniversal, and Square—build better products and digital experiences. With powerful AI Agents embedded across our platform, teams can analyze, test, and optimize user experiences faster t",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.167380",
+    "first_seen": "2026-10-27T13:06:27.167382"
+  },
+  {
+    "id": "9a57889ebc8c551c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157304-senior-strategic-account-executive-accounts-1-billion",
+    "title": "Senior Strategic Account Executive (Accounts 1 billion+)",
+    "company": "Rithum",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Rithum ™ is the world’s most trusted commerce network, accelerating how brands, suppliers, and retailers work together to deliver seamless e-commerce experiences. We provide an unmatched platform for brands and retailers, enabling them to accelerate growth, optimize operations across channels, scale",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.167095",
+    "first_seen": "2026-10-27T13:06:27.167097"
+  },
+  {
+    "id": "e49b60c8dbf7f999",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157306-staff-machine-learning-engineer-recommendation-systems-quora",
+    "title": "Staff Machine Learning Engineer, Recommendation Systems - Quora",
+    "company": "Quora",
+    "location": "Canada,  Ireland,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "[ Quora is a privately held, \"remote-first\" company . This position can be performed remotely from multiple countries around the world. Please visit careers.quora.com/eligible-countries for details regarding employment eligibility by country.] About Quora : Quora’s mission is to grow the world's col",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.166745",
+    "first_seen": "2026-10-27T13:06:27.166746"
+  },
+  {
+    "id": "4ea4c44224bb9669",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157314-field-integration-engineer",
+    "title": "Field Integration Engineer",
+    "company": "Applied Intuition",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Applied Intuition , Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, tru",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.166492",
+    "first_seen": "2026-10-27T13:06:27.166494"
+  },
+  {
+    "id": "c73f1544ece2d3c5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157316-head-of-security-2",
+    "title": "Head of security",
+    "company": "Airtm",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About us: Airtm is a financial-infrastructure company building the future of the online-work economy. We are on a mission to empower the world's growing number of Digital Entrepreneurs in the Global South, giving them the financial freedom to thrive. The problem is clear: in emerging markets, access",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.166240",
+    "first_seen": "2026-10-27T13:06:27.166241"
+  },
+  {
+    "id": "394697bf6394bc44",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157321-senior-director-product-management-unified-communications",
+    "title": "Senior Director, Product Management – Unified Communications",
+    "company": "Vonage",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Join Vonage and help us innovate cloud communications for businesses worldwide! Why this role matters: The UC product organization is at the heart of Vonage's Applications business. As Senior Director of Product Management for Unified Communications , you will have full ownership of execution across",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.165933",
+    "first_seen": "2026-10-27T13:06:27.165935"
+  },
+  {
+    "id": "3531de44452180b4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157322-regional-sales-lead-north-dakota",
+    "title": "Regional Sales Lead (North Dakota)",
+    "company": "Halter",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Halter At Halter, we’re on a mission to enable farmers and graziers to run the most productive and sustainable operations. Our customers are using Halter to break free from the time-intensive constraints of conventional practices. Imagine watching 500 cattle stand up and walk calmly towards th",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.165726",
+    "first_seen": "2026-10-27T13:06:27.165727"
+  },
+  {
+    "id": "ffd82bb481f24658",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157324-contract-senior-data-analyst-sqltelemetrybrowser-engine",
+    "title": "Contract Senior Data Analyst (SQL,Telemetry,Browser Engine)",
+    "company": "Mozilla",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "The Gecko platform is the core engine of our product experience. To maintain competitiveness and user satisfaction, we must move beyond surface-level metrics to understand the deep correlations between engine performance and real-world user behavior. We currently face challenges with data quality, s",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.165422",
+    "first_seen": "2026-10-27T13:06:27.165423"
+  },
+  {
+    "id": "999c5eb3292e0263",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157325-partner-sales-engineer-uk-2",
+    "title": "Partner Sales Engineer - UK",
+    "company": "Chainguard",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.165322",
+    "first_seen": "2026-10-27T13:06:27.165324"
+  },
+  {
+    "id": "dfabd05d059bd369",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157327-contract-sr-data-analyst-sqltelemetrybrowser-engine-2",
+    "title": "Contract Sr Data Analyst (SQL,Telemetry,Browser Engine)",
+    "company": "Mozilla",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "The Gecko platform is the core engine of our product experience. To maintain competitiveness and user satisfaction, we must move beyond surface-level metrics to understand the deep correlations between engine performance and real-world user behavior. We currently face challenges with data quality, s",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.165063",
+    "first_seen": "2026-10-27T13:06:27.165064"
+  },
+  {
+    "id": "9cceb8fd314bc254",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157328-principal-product-security-engineer",
+    "title": "Principal Product Security Engineer",
+    "company": "Chainguard",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.164959",
+    "first_seen": "2026-10-27T13:06:27.164961"
+  },
+  {
+    "id": "e771facd5bf55c69",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157330-principal-product-security-researcher-2",
+    "title": "Principal Product Security Researcher",
+    "company": "Chainguard",
+    "location": "Canada,  UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.164666",
+    "first_seen": "2026-10-27T13:06:27.164668"
+  },
+  {
+    "id": "d7e41b4c4eaf5d8d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157334-senior-manager-detection-engineering-threat-hunting",
+    "title": "Senior Manager, Detection Engineering & Threat Hunting",
+    "company": "Huntress",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.164391",
+    "first_seen": "2026-10-27T13:06:27.164393"
+  },
+  {
+    "id": "81c60d8b097d356d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157336-senior-sales-engineer-9",
+    "title": "Senior Sales Engineer",
+    "company": "Commvault",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Recruitment Fraud Alert We’ve learned that scammers are impersonating Commvault team members—including HR and leadership—via email or text. These bad actors may conduct fake interviews and ask for personal information, such as your social security number. What to know: Commvault does not conduct int",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.164123",
+    "first_seen": "2026-10-27T13:06:27.164125"
+  },
+  {
+    "id": "4826df19b491a941",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157337-engineering-manager-13",
+    "title": "Engineering Manager",
+    "company": "Customer.io",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Hi, I'm Paul, VP of Engineering at Customer.io . We're always looking for thoughtful, driven Engineering Managers to add to our org. Some of our teams are building customer-facing product and workflows; others keep our distributed systems reliable, observable, and ready to scale. Whichever kind of p",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.163782",
+    "first_seen": "2026-10-27T13:06:27.163784"
+  },
+  {
+    "id": "be21f2bb6bbeae04",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157338-enterprise-account-executive-dach-7",
+    "title": "Enterprise Account Executive, DACH",
+    "company": "Sonatype",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise-grade SBOM management, and the leading open-source dependency management ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.163517",
+    "first_seen": "2026-10-27T13:06:27.163518"
+  },
+  {
+    "id": "c8f6bb14664ce835",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157339-senior-phishing-tradecraft-researcher",
+    "title": "Senior Phishing Tradecraft Researcher",
+    "company": "Huntress",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.163253",
+    "first_seen": "2026-10-27T13:06:27.163255"
+  },
+  {
+    "id": "20cec7cef84c4e69",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157340-global-controller-2",
+    "title": "Global Controller",
+    "company": "Customer.io",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "About Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive. We help teams send smarter, more rel",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.162962",
+    "first_seen": "2026-10-27T13:06:27.162965"
+  },
+  {
+    "id": "00ea994aaeadb68b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157342-senior-product-manager-soc-experience",
+    "title": "Senior Product Manager, SOC Experience",
+    "company": "Huntress",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact. Founded in 2015 by former",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.162713",
+    "first_seen": "2026-10-27T13:06:27.162715"
+  },
+  {
+    "id": "cf85095e8e3b4d8f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157343-gtm-ai-engineer",
+    "title": "GTM AI Engineer",
+    "company": "Customer.io",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive. We help teams send smarter, more rel",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:27.162316",
+    "first_seen": "2026-10-27T13:06:27.162328"
+  },
+  {
+    "id": "e2261bc7ec13c422",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
+    "title": "Senior Software Engineer LATAM",
+    "company": "Wagmo",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "USD 100,000 – 140,000/year",
+    "job_type": "N/A",
+    "tags": [
+      "dev",
+      "design",
+      "react",
+      "sys admin",
+      "python",
+      "django",
+      "typescript",
+      "senior",
+      "medical",
+      "engineer"
+    ],
+    "description_snippet": "Senior Software Engineer Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time. Â What We Do Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet an",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-27T13:06:25.768412",
+    "first_seen": "2026-10-27T13:06:25.768414"
+  },
+  {
+    "id": "15a8b78ddbbc07c5",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-account-executive-huzzle-1137573",
+    "title": "Account Executive",
+    "company": "Huzzle",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "saas",
+      "dev",
+      "video",
+      "finance",
+      "exec",
+      "senior",
+      "marketing",
+      "sales",
+      "digital nomad"
+    ],
+    "description_snippet": "About Huzzle At Huzzle, we connect exceptional talent with exciting opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients range from startups and digital agencies to tech platforms in industries such as SaaS, MarTech, FinTech, and EdTech. Unlike traditional",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-27T13:06:25.768151",
+    "first_seen": "2026-10-27T13:06:25.768158"
+  },
+  {
+    "id": "b09e663cdecec6fa",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=60f70afd293d16d7",
+    "title": "Senior Systems Engineer - Security & Data Engineering",
+    "company": "Fusion Innovation",
+    "location": "Chantilly, VA, USA",
+    "is_remote": false,
+    "salary": "USD 100,000 – 215,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "aws",
+      "data engineering",
+      "machine learning",
+      "ci/cd",
+      "java",
+      "scala",
+      "llm"
+    ],
+    "description_snippet": "Job Description\n  \n  \nFusion Innovation's recent growth has earned us a top spot in the Inc 5000 Fastest Growing Private Companies in America and in Washington Business Journal's Best Places to Work multiple years in a row. Our team members are passionate about their work and are empowered to contri",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T13:06:21.097390",
+    "first_seen": "2026-10-27T13:06:21.097392"
+  },
+  {
+    "id": "1e89cea2c54cbe5b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3deb8c1d5f99051a",
+    "title": "Senior Sales Engineer, Data Products",
+    "company": "CentralReach",
+    "location": "Holmdel, NJ, USA",
+    "is_remote": false,
+    "salary": "USD 125,000 – 160,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "dbt",
+      "snowflake",
+      "databricks",
+      "data warehouse",
+      "scala",
+      "rust",
+      "llm"
+    ],
+    "description_snippet": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies ",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-27T13:06:11.591261",
+    "first_seen": "2026-10-27T13:06:11.591264"
+  },
+  {
+    "id": "493c119fb0a33955",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=08e96ee1925b42b4",
+    "title": "Senior Data Engineer & Architect",
+    "company": "J.H. Findorff & Son, Inc",
+    "location": "Milwaukee, WI, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "aws",
+      "data engineering",
+      "snowflake",
+      "data warehouse",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "At Findorff, we bring expertise and value that extends far beyond construction. Since 1890, we've built our reputation on strong relationships, innovative thinking, and a commitment to helping our teams and clients succeed. As technology becomes increasingly essential to how we operate, we're invest",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-27T13:06:01.993349",
+    "first_seen": "2026-10-27T13:06:01.993351"
+  },
+  {
     "id": "64e14ffdae8d28e2",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/ignition-inc-msp-mac-help-desk-guru-work-from-home",
