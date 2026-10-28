@@ -1,5 +1,638 @@
 [
   {
+    "id": "888abf57613391f1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157598-senior-data-engineer-6",
+    "title": "Senior Data Engineer",
+    "company": "WOO X",
+    "location": "APAC",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About WOO X WOO X is a global centralised crypto trading platform offering spot and perpetual futures trading. With roots in quantitative trading, we focus on the details that matter to traders: liquidity, execution quality, and reliable tools. Transparency is part of the product. Our live Proof of ",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.927109",
+    "first_seen": "2026-10-28T19:15:28.927110"
+  },
+  {
+    "id": "c5ea2e559414a58c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157599-systems-architect",
+    "title": "Systems Architect",
+    "company": "Elevenlabs",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.926994",
+    "first_seen": "2026-10-28T19:15:28.926995"
+  },
+  {
+    "id": "8e3f739722c35d42",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157601-growth-engineer",
+    "title": "Growth Engineer",
+    "company": "Cresta",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.926739",
+    "first_seen": "2026-10-28T19:15:28.926741"
+  },
+  {
+    "id": "f801365d7e3e6658",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157604-director-product-management-instore-selling",
+    "title": "Director, Product Management (Instore Selling)",
+    "company": "Lightspeed Commerce",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Hi there! Thanks for stopping by Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place! As Director, Product Management , you will define strategy and drive execution across Lightspeed’s Instore Selling product portfolio, shaping key ",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.926460",
+    "first_seen": "2026-10-28T19:15:28.926462"
+  },
+  {
+    "id": "5360ad6c198d775a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157606-principal-product-manager-agentic-ai",
+    "title": "Principal Product Manager, Agentic AI",
+    "company": "Legion",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Principal Product Manager, Agentic AI REMOTE, United States JOB OVERVIEW Legion is building AI agents that carry out workforce management work, not agents that describe it. Much of what is presented as AI in workforce management today is a conversational layer over an existing scheduling screen. The",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.926114",
+    "first_seen": "2026-10-28T19:15:28.926115"
+  },
+  {
+    "id": "4bc156d10c3d7078",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157607-staff-software-engineer-13",
+    "title": "Staff Software Engineer",
+    "company": "Juniper Square",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Juniper Square Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full potential. We’re the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services ",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.925405",
+    "first_seen": "2026-10-28T19:15:28.925406"
+  },
+  {
+    "id": "38ed5d96e0befae9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157608-privacy-counsel-2",
+    "title": "Privacy Counsel",
+    "company": "Elevenlabs",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.925049",
+    "first_seen": "2026-10-28T19:15:28.925050"
+  },
+  {
+    "id": "a41b6a575dbf256f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157612-head-of-borrower-success",
+    "title": "Head of Borrower Success",
+    "company": "Upstart",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confi",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.924815",
+    "first_seen": "2026-10-28T19:15:28.924817"
+  },
+  {
+    "id": "2df5270f71777804",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157617-commercial-counsel-us",
+    "title": "Commercial Counsel - US",
+    "company": "Elevenlabs",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.924517",
+    "first_seen": "2026-10-28T19:15:28.924518"
+  },
+  {
+    "id": "f1bb0bdb83bf2804",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157619-infrastructure-engineer-sre",
+    "title": "Infrastructure Engineer/SRE",
+    "company": "Cresta",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.924301",
+    "first_seen": "2026-10-28T19:15:28.924302"
+  },
+  {
+    "id": "cd18e345779d3c08",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157622-senior-product-designer-capital-advances",
+    "title": "Senior Product Designer, Capital Advances",
+    "company": "Lightspeed Commerce",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Hi there! Thanks for stopping by Actively looking for a new opportunity to work on a team focusing on projects with real business impact? Do you thrive in environments where you can help raise the bar for quality, drive collaboration, and mentor others to reach their full potential? If so, you might",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.924111",
+    "first_seen": "2026-10-28T19:15:28.924112"
+  },
+  {
+    "id": "a0814571a0d3be46",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157626-account-manager-lead-corporate",
+    "title": "Account Manager Lead - Corporate",
+    "company": "Elevenlabs",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.923758",
+    "first_seen": "2026-10-28T19:15:28.923759"
+  },
+  {
+    "id": "4f263de7c12a3dda",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157628-product-manager-8",
+    "title": "Product Manager",
+    "company": "AlertMedia",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Do work that matters. At AlertMedia , we help organizations protect their people, operations, and brand. Our modern Risk Intelligence and Response platform empowers teams to detect emerging threats, assess impact, and respond with confidence. We believe building resilience should be simpler—and it s",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.923493",
+    "first_seen": "2026-10-28T19:15:28.923495"
+  },
+  {
+    "id": "10b0eb642de6ecfd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157632-director-customer-support",
+    "title": "Director, Customer Support",
+    "company": "Wheel",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About the Company Wheel is evolving the traditional care ecosystem by equipping the nation's most innovative companies with a premier platform to deliver high-quality virtual care at scale. We offer proven strategies and cutting-edge technologies to foster consumer engagement, build brand loyalty, a",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.923086",
+    "first_seen": "2026-10-28T19:15:28.923087"
+  },
+  {
+    "id": "39fb0dc1d8091080",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157633-ai-solution-architect",
+    "title": "AI Solution Architect",
+    "company": "Veeam Software",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for th",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.922863",
+    "first_seen": "2026-10-28T19:15:28.922865"
+  },
+  {
+    "id": "cad698b0658e9358",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157639-sr-product-manager",
+    "title": "Sr. Product Manager",
+    "company": "AlertMedia",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Do work that matters. At AlertMedia , we help organizations protect their people, operations, and brand. Our modern Risk Intelligence and Response platform empowers teams to detect emerging threats, assess impact, and respond with confidence. We believe building resilience should be simpler—and it s",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.922607",
+    "first_seen": "2026-10-28T19:15:28.922608"
+  },
+  {
+    "id": "d0114e7c548d820a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157640-associate-product-manager-data-governance",
+    "title": "Associate Product Manager, Data Governance",
+    "company": "Toast",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy. The Enterprise Data Solutions (EDS) team at Toast is on a mission to deliver a trusted, scalable, and governed da",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.922184",
+    "first_seen": "2026-10-28T19:15:28.922186"
+  },
+  {
+    "id": "560b2b93c112ff8b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157641-staff-software-engineer-machine-learning-consumer-revenue",
+    "title": "Staff Software Engineer, Machine Learning (Consumer Revenue)",
+    "company": "Discord",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and mor",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.921916",
+    "first_seen": "2026-10-28T19:15:28.921917"
+  },
+  {
+    "id": "f6cbe295ccadd5f3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157650-brand-experience-designer-consumer",
+    "title": "Brand Experience Designer, Consumer",
+    "company": "Toast",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "creative & design"
+    ],
+    "description_snippet": "Location(s): US (remote), Boston (hybrid), or New York (hybrid) - EST preferred Toast is expanding into the B2C market and is looking for a Brand Experience Designer to define and build the consumer-facing brand that millions of diners will come to know. This role is critical for turning a fledgling",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.921770",
+    "first_seen": "2026-10-28T19:15:28.921771"
+  },
+  {
+    "id": "d6ca4d3a5839d568",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157652-federal-health-va-dha-hhs-account-executive-remote-dc-md-va",
+    "title": "Federal Health (VA, DHA, HHS) Account Executive (Remote: DC/MD/VA)",
+    "company": "Veeam Software",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for th",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.921334",
+    "first_seen": "2026-10-28T19:15:28.921335"
+  },
+  {
+    "id": "d98a71f34529b3e1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157654-director-ucc-tax-lien-compliance",
+    "title": "Director, UCC & Tax Lien Compliance",
+    "company": "Toast",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "At Toast , we are passionate about creating raving fans and delivering an unparalleled customer experience — and that includes assisting our restaurant customers when their business becomes entangled in a creditor dispute. When a lien, levy, or garnishment is filed against a merchant, our customers ",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.921047",
+    "first_seen": "2026-10-28T19:15:28.921049"
+  },
+  {
+    "id": "f0debe38370c49cd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157658-art-director-2",
+    "title": "Art Director",
+    "company": "StackAdapt",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "creative & design"
+    ],
+    "description_snippet": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable resul",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:28.920661",
+    "first_seen": "2026-10-28T19:15:28.920675"
+  },
+  {
+    "id": "5a2be3201a64ccfb",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3c2ad223edb4b03a",
+    "title": "Software Engineer",
+    "company": "Trideum Corporation",
+    "location": "Huntsville, AL, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "azure",
+      "aws",
+      "gcp",
+      "snowflake",
+      "databricks",
+      "ci/cd"
+    ],
+    "description_snippet": "**Software Engineer (Mid-level)**  \nFull-time  \n**Huntsville, AL**\n\n**About Us**\n\nTrideum Corporation is a 100% employee-owned company, committed to embracing the world’s toughest challenges with a servant’s heart. Through dedicated hard work and commitment, we provide distinctive quality and unpara",
+    "posted_date": "2026-10-02",
+    "scraped_at": "2026-10-28T19:15:17.664018",
+    "first_seen": "2026-10-28T19:15:17.664019"
+  },
+  {
+    "id": "6ce19c53e1f92460",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=203bf2e8ce83d659",
+    "title": "ADMS Test Engineer",
+    "company": "Kanak It service",
+    "location": "Birmingham, AL, USA",
+    "is_remote": false,
+    "salary": "USD 60 – 70/hourly",
+    "job_type": "contract",
+    "tags": [
+      "sql",
+      "azure"
+    ],
+    "description_snippet": "**Title: ADMS Test Engineer**\n\n**Location: Birmingham, AL Onsite**\n\n**Visa: US Citizen or Green Card**\n\n**70% of matching candidates would work for this role!**\n\n**Note: The interviews will be on this will be this Thursday and Friday so do take some availabilities beforehand.**\n\n**Job Overview**\n\nWe",
+    "posted_date": "2026-10-07",
+    "scraped_at": "2026-10-28T19:15:17.663211",
+    "first_seen": "2026-10-28T19:15:17.663213"
+  },
+  {
+    "id": "f664a676b63b1243",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=580064bd4b42e559",
+    "title": "Databricks Administrator / Platform Engineer",
+    "company": "Changeis, Inc.",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "aws",
+      "power bi",
+      "tableau",
+      "mlflow",
+      "data engineering",
+      "snowflake",
+      "databricks",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Databricks Administrator / Platform Engineer**\n================================================\n\n**Location:** Remote\n\n**Position Overview**\n---------------------\n\nWe are seeking an experienced candidate to manage, maintain, secure, and optimize our enterprise Databricks environment. The ideal can",
+    "posted_date": "2026-10-10",
+    "scraped_at": "2026-10-28T19:15:17.662939",
+    "first_seen": "2026-10-28T19:15:17.662940"
+  },
+  {
+    "id": "4d08596e45fbc1f8",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=cc3593d299813ecf",
+    "title": "Devops Engineer",
+    "company": "VeeRteq Solutions Inc.",
+    "location": "Philadelphia, PA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "azure",
+      "power bi",
+      "tableau",
+      "data engineering",
+      "databricks",
+      "ci/cd"
+    ],
+    "description_snippet": "Job description\n\n**Job Title -** **Devops Engineer**\n\n**Location - Hybrid (Candidate should be able to work from the Philly office thrice a week)**\n\n**Experience - 8+ years**\n\n**Type: Contract-to-Hire**\n\nAs a **Devops Engineer**, you will be a part of an Agile team to build healthcare applications a",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-10-28T19:15:17.662198",
+    "first_seen": "2026-10-28T19:15:17.662200"
+  },
+  {
+    "id": "bb52408d3e2bb0cd",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=68a13c3ab88822fd",
+    "title": "Software Engineer III",
+    "company": "Sprouts Farmers Market",
+    "location": "Phoenix, AZ, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "ci/cd",
+      "llm"
+    ],
+    "description_snippet": "Overview:\n\nOwn the design, delivery, operation, and continuous improvement of assigned services or feature areas within the professional discipline. Deliver operational targets with significant impact on departmental results, resolve difficult problems through detailed analysis, and communicate tech",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-28T19:15:17.661596",
+    "first_seen": "2026-10-28T19:15:17.661597"
+  },
+  {
+    "id": "dee6c38f9d09805b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1335c5f93f064aba",
+    "title": "Senior Software Engineer in Test",
+    "company": "Akoya",
+    "location": "Raleigh, NC, USA",
+    "is_remote": false,
+    "salary": "USD 120,000 – 140,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "docker",
+      "aws",
+      "ci/cd"
+    ],
+    "description_snippet": "### **Description**\n\nWe're looking for a Senior Software Engineer in Test who brings a builder's mindset to quality engineering. You'll be a hands-on senior engineer and mentor who helps shape our test automation strategy alongside our Principal Software Engineer in Test, raises the bar for engineer",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-28T19:15:17.661330",
+    "first_seen": "2026-10-28T19:15:17.661332"
+  },
+  {
+    "id": "34287f89824ca26d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=a4382226530ad7a9",
+    "title": "R&D Associate Engineer - Electrical",
+    "company": "ABB",
+    "location": "Fort Smith, AR, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "rust"
+    ],
+    "description_snippet": "At **ABB**, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.\n\n**This position reports to:**\n\nDirector of Research & Development\n\n\\_\\",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-28T19:15:17.660370",
+    "first_seen": "2026-10-28T19:15:17.660372"
+  },
+  {
+    "id": "f9e29eefe058371e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=0254f6ac9cf543b5",
+    "title": "Staff AI Platform Engineer",
+    "company": "Form Energy",
+    "location": "Weirton, WV, USA",
+    "is_remote": false,
+    "salary": "USD 128,660 – 184,966/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "data engineering",
+      "postgres",
+      "snowflake",
+      "databricks",
+      "data warehouse",
+      "ci/cd",
+      "llm"
+    ],
+    "description_snippet": "Are you ready to build America’s energy future? Form Energy is an American manufacturing and energy technology company. We’re revolutionizing energy storage with cost-effective, multi-day technology designed to keep the electric grid secure and reliable, even during extended periods of stress. By st",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-28T19:15:17.659661",
+    "first_seen": "2026-10-28T19:15:17.659663"
+  },
+  {
+    "id": "efd6524557d533a7",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7c2abb2931d5aed0",
+    "title": "API Integration Engineer",
+    "company": "DHANU GLOBAL ENTERPRISES, INC.",
+    "location": "Dallas, TX, USA",
+    "is_remote": false,
+    "salary": "USD 40 – 45/yearly",
+    "job_type": "nan",
+    "tags": [
+      "aws",
+      "scala"
+    ],
+    "description_snippet": "API Integration Engineer to design, develop, and manage integrations across multiple systems and platforms. The ideal candidate will have strong experience in building robust, scalable APIs and integrations, with exposure to security and compliance tools like Vanta considered an added advantage.  \nT",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-28T19:15:17.659228",
+    "first_seen": "2026-10-28T19:15:17.659233"
+  },
+  {
+    "id": "2a6bbc086ae36027",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=83a2cd6f07c5b258",
+    "title": "Network Implementation Engineer I",
+    "company": "Forged Fiber 37",
+    "location": "Cape Coral, FL, USA",
+    "is_remote": false,
+    "salary": "USD 49,000 – 81,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "aws",
+      "rust"
+    ],
+    "description_snippet": "**About Forged Fiber**\n\nAt Forged Fiber, our mission is bold but simple: deliver fast, reliable, future-proof connectivity that builds the foundation for everything online. As we execute, we believe the right way to do something is the only way. This foundation guides how the company builds, operate",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T19:15:12.550805",
+    "first_seen": "2026-10-28T19:15:12.550809"
+  },
+  {
+    "id": "e2c6c31077a7bf87",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=147309f2c65eb135",
+    "title": "Observability and Evaluation Engineer",
+    "company": "Symphony Solutions",
+    "location": "Charlotte, NC, USA",
+    "is_remote": false,
+    "salary": "USD 50 – 60/hourly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "llm"
+    ],
+    "description_snippet": "**Role: Observability and Evaluation Engineer**\n\n**Location: Charlotte, North Carolina (Onsite)**\n\n**Experienced : 12+ Years**\n\n**Role Description:**\n\nImplements telemetry, traces, dashboards, evaluation suites, s, service objectives, runbooks, and readiness evidence for priority agent releases.\n\n**",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-28T19:15:07.228937",
+    "first_seen": "2026-10-28T19:15:07.228938"
+  },
+  {
     "id": "61cefa9df1a5e526",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor",
