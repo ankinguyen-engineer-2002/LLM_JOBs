@@ -1,5 +1,1215 @@
 [
   {
+    "id": "61cefa9df1a5e526",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor",
+    "title": "Web Developer: WordPress & HubSpot (U.S. Based, Remote Contractor)",
+    "company": "SimpleTiger",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "front-end programming"
+    ],
+    "description_snippet": "Headquarters: Sarasota, FL URL: https://www.simpletiger.com/ SimpleTiger is hiring a part-time contract web developer to build, improve, and troubleshoot client websites in WordPress and HubSpot, with the potential to grow into a larger role. We’re a B2B SaaS marketing agency helping software compan",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:52:13.393247",
+    "first_seen": "2026-10-28T16:52:13.393257"
+  },
+  {
+    "id": "3350429bd09cdca6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157536-elevenmusic-content-creator-strategist",
+    "title": "ElevenMusic - Content Creator & Strategist",
+    "company": "Elevenlabs",
+    "location": "Canada,  Europe,  Japan,  Mexico,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:52.589647",
+    "first_seen": "2026-10-28T16:47:52.589661"
+  },
+  {
+    "id": "28c557897ff0b6cf",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157463-staff-product-manager-enterprise-products",
+    "title": "Staff Product Manager, Enterprise Products",
+    "company": "Headway.co",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "1 in 4 people in the US have a treatable mental health condition, but most providers don't accept insurance, making therapy too expensive for most people. Headway’s mission is to fix this by building a new mental healthcare system everyone can access. We started by solving the biggest barrier to car",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.389686",
+    "first_seen": "2026-10-28T16:47:51.389686"
+  },
+  {
+    "id": "9f8061768b780d5e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157465-procurement-specialist",
+    "title": "Procurement Specialist",
+    "company": "Aescape",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Aescape is a New York-based physical AI and robotics company redefining human recovery through intelligent, precision bodywork, elevating it into a consistent, outcomes-driven practice. Powered by real-time body mapping, advanced robotics, and proprietary software, Aescape delivers deeply personaliz",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.389500",
+    "first_seen": "2026-10-28T16:47:51.389501"
+  },
+  {
+    "id": "e0a18a94266daff2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157468-product-manager-b2b-customer-solutions",
+    "title": "Product Manager, B2B Customer Solutions",
+    "company": "ŌURA",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Our mission at Oura is to empower every person to own their inner potential. Our award-winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep quality by using their Oura Ring and its connected app. We've helped millions of people understand and imp",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.389224",
+    "first_seen": "2026-10-28T16:47:51.389224"
+  },
+  {
+    "id": "48057d35a58db1b7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157476-senior-customer-experience-strategist",
+    "title": "Senior Customer Experience Strategist",
+    "company": "ŌURA",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Our mission at Oura is to empower every person to own their inner potential. Our award-winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep quality by using their Oura Ring and its connected app. We've helped millions of people understand and imp",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.388939",
+    "first_seen": "2026-10-28T16:47:51.388940"
+  },
+  {
+    "id": "afd2436db7adb8dc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157480-senior-data-scientist-marketing",
+    "title": "Senior Data Scientist - Marketing",
+    "company": "ŌURA",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Our mission at Oura is to empower every person to own their inner potential. Our award-winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep quality by using their Oura Ring and its connected app. We've helped millions of people understand and imp",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.388652",
+    "first_seen": "2026-10-28T16:47:51.388652"
+  },
+  {
+    "id": "9af0701669a5c9f6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157484-senior-fullstack-engineer-commerce-mission",
+    "title": "Senior Fullstack Engineer, Commerce Mission",
+    "company": "ŌURA",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Our mission at Oura is to empower every person to own their inner potential. Our award-winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep quality by using their Oura Ring and its connected app. We've helped millions of people understand and imp",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.388345",
+    "first_seen": "2026-10-28T16:47:51.388345"
+  },
+  {
+    "id": "131b34c8693f8aa0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157485-senior-fullstack-software-engineer",
+    "title": "Senior Fullstack Software Engineer",
+    "company": "Headway.co",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "1 in 4 people in the US have a treatable mental health condition, but most providers don't accept insurance, making therapy too expensive for most people. Headway’s mission is to fix this by building a new mental healthcare system everyone can access. We started by solving the biggest barrier to car",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.388099",
+    "first_seen": "2026-10-28T16:47:51.388099"
+  },
+  {
+    "id": "e0b2b1b7b7b2857f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157488-senior-ios-engineer-4",
+    "title": "Senior iOS Engineer",
+    "company": "ŌURA",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Our mission at Oura is to empower every person to own their inner potential. Our award-winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep quality by using their Oura Ring and its connected app. We've helped millions of people understand and imp",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.387823",
+    "first_seen": "2026-10-28T16:47:51.387824"
+  },
+  {
+    "id": "ab088554e03c87f8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157489-senior-backend-software-engineer",
+    "title": "Senior Backend Software Engineer",
+    "company": "Headway.co",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "1 in 4 people in the US have a treatable mental health condition, but most providers don't accept insurance, making therapy too expensive for most people. Headway’s mission is to fix this by building a new mental healthcare system everyone can access. We started by solving the biggest barrier to car",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.387558",
+    "first_seen": "2026-10-28T16:47:51.387559"
+  },
+  {
+    "id": "bd61f1097024abf6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157491-machine-learning-engineer-core-engineering",
+    "title": "Machine Learning Engineer, Core Engineering",
+    "company": "Pinterest",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Pinterest : Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the pe",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.387282",
+    "first_seen": "2026-10-28T16:47:51.387283"
+  },
+  {
+    "id": "398783c47088337e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157494-clinical-product-specialist-ai-development",
+    "title": "Clinical Product Specialist, AI Development",
+    "company": "Lyra Health",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "healthcare & medical"
+    ],
+    "description_snippet": "About Lyra Health Lyra Health is a leading provider of evidence-based mental health care, serving more than 20 million people globally in partnership with employers and more than 100 million through health plan and partner relationships. The company has delivered more than 15 million sessions of men",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.387092",
+    "first_seen": "2026-10-28T16:47:51.387092"
+  },
+  {
+    "id": "7421ed6e6a08eece",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157502-senior-product-designer-compute-nebius-console",
+    "title": "Senior Product Designer - Compute, Nebius Console",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.386807",
+    "first_seen": "2026-10-28T16:47:51.386808"
+  },
+  {
+    "id": "dc7d711e5af761c2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157503-manager-delivery",
+    "title": "Manager, Delivery",
+    "company": "LastPass",
+    "location": "Portugal",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "About LastPass LastPass delivers Secure Access Essentials, helping individuals and organizations manage and protect access to AI, applications, and credentials straight from the browser. Trusted by more than 100,000 businesses and millions of users worldwide, LastPass blends strong security with eve",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.386604",
+    "first_seen": "2026-10-28T16:47:51.386605"
+  },
+  {
+    "id": "aefb175b0390ad8a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157507-senior-sales-engineer-token-factory",
+    "title": "Senior Sales Engineer - Token Factory",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.386387",
+    "first_seen": "2026-10-28T16:47:51.386388"
+  },
+  {
+    "id": "714ee34105e57e60",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157508-data-engineer-4",
+    "title": "Data Engineer",
+    "company": "Elevenlabs",
+    "location": "Bulgaria,  France,  Hungary,  Italy,  Netherlands,  Poland,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.386194",
+    "first_seen": "2026-10-28T16:47:51.386194"
+  },
+  {
+    "id": "b745c28edaefa892",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157510-senior-site-reliability-engineer-devtools",
+    "title": "Senior Site Reliability Engineer (DevTools)",
+    "company": "Nebius",
+    "location": "Europe,  Israel",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.386038",
+    "first_seen": "2026-10-28T16:47:51.386039"
+  },
+  {
+    "id": "f9fd84882f30ebe4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157511-lead-generation-strategy-and-operations",
+    "title": "Lead Generation Strategy and Operations",
+    "company": "Elevenlabs",
+    "location": "UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.385905",
+    "first_seen": "2026-10-28T16:47:51.385905"
+  },
+  {
+    "id": "f60d7f716747c3f5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157513-senior-site-reliability-engineer-sre",
+    "title": "Senior Site Reliability Engineer (SRE)",
+    "company": "Nebius",
+    "location": "Europe,  Israel",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.385668",
+    "first_seen": "2026-10-28T16:47:51.385669"
+  },
+  {
+    "id": "5c4ee6aa038c8c3a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157514-b2b-marketing-nordics",
+    "title": "B2B Marketing - Nordics",
+    "company": "Elevenlabs",
+    "location": "Sweden",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.385610",
+    "first_seen": "2026-10-28T16:47:51.385611"
+  },
+  {
+    "id": "74ea5e52bd680686",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157516-senior-site-reliability-engineer-sre-compute-node-team",
+    "title": "Senior Site Reliability Engineer (SRE, Compute Node Team)",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.385412",
+    "first_seen": "2026-10-28T16:47:51.385412"
+  },
+  {
+    "id": "d5452d0d3d899fcb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157518-senior-site-reliability-engineer-search",
+    "title": "Senior Site Reliability Engineer - Search",
+    "company": "Algolia",
+    "location": "France",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Algolia is the retrieval intelligence layer that turns intent into trusted, decision-grade outcomes. Powering more than 1.7 trillion queries a year for over 18,000 customers with millisecond latency and 99.999% reliability, we are the recognized leader for Search and Product Discovery by top industr",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.385321",
+    "first_seen": "2026-10-28T16:47:51.385321"
+  },
+  {
+    "id": "7375881a2f781af6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157519-senior-site-reliability-engineer-token-factory-inference-platform",
+    "title": "Senior Site Reliability Engineer — Token Factory (Inference Platform)",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.385117",
+    "first_seen": "2026-10-28T16:47:51.385118"
+  },
+  {
+    "id": "320debb0c012db16",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157522-senior-software-engineer-agentic-search-web-rendering-chromium",
+    "title": "Senior Software Engineer (Agentic Search) – Web Rendering (Chromium)",
+    "company": "Nebius",
+    "location": "Europe,  Israel",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.384966",
+    "first_seen": "2026-10-28T16:47:51.384966"
+  },
+  {
+    "id": "3a82f096a9405923",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157523-account-manager-southern-europe",
+    "title": "Account Manager - Southern Europe",
+    "company": "Elevenlabs",
+    "location": "Italy,  Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.384846",
+    "first_seen": "2026-10-28T16:47:51.384847"
+  },
+  {
+    "id": "80b688a14ef80a09",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157525-senior-software-engineer-ydb-team",
+    "title": "Senior Software Engineer (YDB Team)",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.384627",
+    "first_seen": "2026-10-28T16:47:51.384627"
+  },
+  {
+    "id": "99f757729c4ef9aa",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157528-senior-staff-application-security-engineer",
+    "title": "Senior/Staff Application Security Engineer",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.384436",
+    "first_seen": "2026-10-28T16:47:51.384436"
+  },
+  {
+    "id": "4ec53f2912148abc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157521-senior-software-engineer-data-platform",
+    "title": "Senior Software Engineer, Data Platform",
+    "company": "Algolia",
+    "location": "France",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Algolia is the retrieval intelligence layer that turns intent into trusted, decision-grade outcomes. Powering more than 1.7 trillion queries a year for over 18,000 customers with millisecond latency and 99.999% reliability, we are the recognized leader for Search and Product Discovery by top industr",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.384339",
+    "first_seen": "2026-10-28T16:47:51.384340"
+  },
+  {
+    "id": "fc2de4fb69e3cdc2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157531-senior-system-engineer-cloudgate",
+    "title": "Senior System Engineer (CloudGate)",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.384133",
+    "first_seen": "2026-10-28T16:47:51.384133"
+  },
+  {
+    "id": "644b34747d6568a8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157533-senior-systems-hpc-engineer",
+    "title": "Senior Systems HPC Engineer",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.384061",
+    "first_seen": "2026-10-28T16:47:51.384061"
+  },
+  {
+    "id": "eed27db3a630f8a3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157534-account-manager-uk-i",
+    "title": "Account Manager - UK/I",
+    "company": "Elevenlabs",
+    "location": "Ireland,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.383924",
+    "first_seen": "2026-10-28T16:47:51.383924"
+  },
+  {
+    "id": "b0e7f7a7f039859e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157535-senior-technical-product-manager-ai-compute-platform",
+    "title": "Senior Technical Product Manager - AI Compute Platform",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.383706",
+    "first_seen": "2026-10-28T16:47:51.383707"
+  },
+  {
+    "id": "01e247c2eb80d558",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157537-senior-technical-product-manager-token-factory-2",
+    "title": "Senior Technical Product Manager - Token Factory",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.383348",
+    "first_seen": "2026-10-28T16:47:51.383349"
+  },
+  {
+    "id": "2a599ef9f4e7c2dc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157541-solutions-engineer-sydney",
+    "title": "Solutions Engineer, Sydney",
+    "company": "Cribl",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl , we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telem",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.383209",
+    "first_seen": "2026-10-28T16:47:51.383210"
+  },
+  {
+    "id": "bd6145b8a8771b94",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157542-field-operations-specialist-victoria",
+    "title": "Field Operations Specialist (Victoria)",
+    "company": "Halter",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "About Halter At Halter, we’re on a mission to enable farmers and graziers to run the most productive and sustainable operations. Our customers are using Halter to break free from the time-intensive constraints of conventional practices. Imagine watching 500 cattle stand up and walk calmly towards th",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.383104",
+    "first_seen": "2026-10-28T16:47:51.383105"
+  },
+  {
+    "id": "5681eb85b15ce496",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157545-field-operations-specialist-queensland",
+    "title": "Field Operations Specialist (Queensland)",
+    "company": "Halter",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "About Halter At Halter, we’re on a mission to enable farmers and graziers to run the most productive and sustainable operations. Our customers are using Halter to break free from the time-intensive constraints of conventional practices. Imagine watching 500 cattle stand up and walk calmly towards th",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.382864",
+    "first_seen": "2026-10-28T16:47:51.382865"
+  },
+  {
+    "id": "45b82047ee0ac236",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157554-staff-analytics-engineer-2",
+    "title": "Staff Analytics Engineer",
+    "company": "Pleo",
+    "location": "Denmark,  Portugal,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees a",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.382600",
+    "first_seen": "2026-10-28T16:47:51.382601"
+  },
+  {
+    "id": "288f32b9e949e9be",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157557-partner-solution-architect-sai",
+    "title": "Partner Solution Architect - SAI",
+    "company": "Veeam Software",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for th",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.382159",
+    "first_seen": "2026-10-28T16:47:51.382160"
+  },
+  {
+    "id": "3c90377e3bb0c24a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157560-sr-partner-manager",
+    "title": "Sr Partner Manager",
+    "company": "Veeam Software",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for th",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.381594",
+    "first_seen": "2026-10-28T16:47:51.381595"
+  },
+  {
+    "id": "7f02781b12b7801c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157568-staff-applied-scientist-adtech-2",
+    "title": "Staff Applied Scientist, AdTech",
+    "company": "Launch Potato",
+    "location": "Brazil",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "WHO ARE WE? Launch Potato is the discovery and conversion company. We reach tens of millions of people every month through our brands, including FinanceBuzz , All About Cookies , and OnlyInYourState . We turn that attention into real outcomes for our partners, some of the world's leading companies. ",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.381325",
+    "first_seen": "2026-10-28T16:47:51.381325"
+  },
+  {
+    "id": "9af3be7827e0dc73",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157569-automation-specialist-mexico",
+    "title": "Automation Specialist- Mexico",
+    "company": "Welo Global",
+    "location": "Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About the Role We're looking for an Automation Specialist to join our Movie and TV Metadata team — a unique, blended role for someone who wants to combine hands-on content work with the chance to build real AI and automation solutions. You'll start by working as a fully contributing project speciali",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.381236",
+    "first_seen": "2026-10-28T16:47:51.381236"
+  },
+  {
+    "id": "ef13be2f28540a2e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157570-senior-customer-success-manager-21",
+    "title": "Senior Customer Success Manager",
+    "company": "Samsara",
+    "location": "Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.381058",
+    "first_seen": "2026-10-28T16:47:51.381059"
+  },
+  {
+    "id": "89ba76e3e6ada55c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157571-head-of-business-development-latam",
+    "title": "Head of Business Development, LATAM",
+    "company": "OpenAI",
+    "location": "Brazil",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "About the Role The Head of Business Development, LATAM will lead OpenAI ’s regional BD strategy and execution. You will serve as the single-threaded point of contact for regional leadership across the full Business Development organization, setting priorities and coordinating the teams needed to del",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.380757",
+    "first_seen": "2026-10-28T16:47:51.380758"
+  },
+  {
+    "id": "f5ec02f05da9f5b0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157573-staff-data-scientist-lead-generation",
+    "title": "Staff Data Scientist, Lead Generation",
+    "company": "Launch Potato",
+    "location": "Brazil",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "WHO ARE WE? Launch Potato is the discovery and conversion company. We reach tens of millions of people every month through our brands, including FinanceBuzz , All About Cookies , and OnlyInYourState . We turn that attention into real outcomes for our partners, some of the world's leading companies. ",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.380527",
+    "first_seen": "2026-10-28T16:47:51.380528"
+  },
+  {
+    "id": "1b6af5b3bfc011f4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157575-technical-account-manager-11",
+    "title": "Technical Account Manager",
+    "company": "Samsara",
+    "location": "Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.380428",
+    "first_seen": "2026-10-28T16:47:51.380429"
+  },
+  {
+    "id": "07093cacf5124e05",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157580-solution-integrations-architect-oracle",
+    "title": "Solution Integrations Architect - Oracle",
+    "company": "Zip",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Zip Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before. The world’s most i",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.380047",
+    "first_seen": "2026-10-28T16:47:51.380047"
+  },
+  {
+    "id": "a6cab86ceaa8d2d1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157583-ai-solutions-engineer",
+    "title": "AI Solutions Engineer",
+    "company": "Ramp",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.379811",
+    "first_seen": "2026-10-28T16:47:51.379811"
+  },
+  {
+    "id": "b396539c049c28a5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157585-support-engineer-apac-weekends",
+    "title": "Support Engineer (APAC - Weekends)",
+    "company": "Supabase",
+    "location": "APAC",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We are seeking Support Engineers to pr",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.379415",
+    "first_seen": "2026-10-28T16:47:51.379415"
+  },
+  {
+    "id": "4a6e92c2b2cf7525",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157590-enterprise-architect",
+    "title": "Enterprise Architect",
+    "company": "Zip",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Zip Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before. The world’s most i",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.379251",
+    "first_seen": "2026-10-28T16:47:51.379252"
+  },
+  {
+    "id": "84ea800c484dbab6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157592-money-laundering-reporting-officer-canada",
+    "title": "Money Laundering Reporting Officer, Canada",
+    "company": "Ramp",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.379064",
+    "first_seen": "2026-10-28T16:47:51.379064"
+  },
+  {
+    "id": "bf52a6a3705c02fd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157594-member-of-technical-staff-2",
+    "title": "Member of Technical Staff",
+    "company": "Supabase",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Member of Technical Staff Location - San Francisco Bay Area (required) About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:51.378800",
+    "first_seen": "2026-10-28T16:47:51.378814"
+  },
+  {
+    "id": "173bb8b7c9a9bb93",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4a5b3bf8ea1bfa10",
+    "title": "Databricks SME (R-00117)",
+    "company": "True Zero Technologies",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "azure",
+      "aws",
+      "gcp",
+      "data engineering",
+      "databricks",
+      "ci/cd",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "True Zero Technologies, a veteran-owned small business, was founded on the principle that the purposeful enablement of people and technology in an organization directly ties to the quality of its outcomes. True Zero recognizes that those outcomes begin and end with our people, and that is what we ha",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-28T16:47:45.387999",
+    "first_seen": "2026-10-28T16:47:45.388000"
+  },
+  {
+    "id": "b81ff25036697e0d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=8a215e0d150a8bda",
+    "title": "Analytics Engineer",
+    "company": "Harbor Compliance",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 93,800 – 117,300/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "aws",
+      "tableau",
+      "data engineering",
+      "analytics engineering",
+      "snowflake",
+      "rust"
+    ],
+    "description_snippet": "Great Place to Work® Certified | USA\n\nHarbor Compliance is a leading technology platform for entity compliance, helping more than 80,000 businesses and nonprofits manage licensing, tax registration, and legal entity requirements nationwide. Founded in 2012 and recognized repeatedly by the Inc. 5000 ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-28T16:47:40.559667",
+    "first_seen": "2026-10-28T16:47:40.559671"
+  },
+  {
+    "id": "2a3a1750a74bf8f8",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=01aceb3d1b6b68e5",
+    "title": "Network Implementation Engineer II-ISP/OSP-Utah",
+    "company": "Forged Fiber 37",
+    "location": "Ogden, UT, USA",
+    "is_remote": false,
+    "salary": "USD 63,000 – 106,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "aws",
+      "rust"
+    ],
+    "description_snippet": "**About Forged Fiber**\n\nAt Forged Fiber, our mission is bold but simple: deliver fast, reliable, future-proof connectivity that builds the foundation for everything online. As we execute, we believe the right way to do something is the only way. This foundation guides how the company builds, operate",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-28T16:47:35.530584",
+    "first_seen": "2026-10-28T16:47:35.530585"
+  },
+  {
+    "id": "57345744fa394131",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5afe73d35e30f9b1",
+    "title": "Electric Grid Planning Engineer",
+    "company": "ISO New England",
+    "location": "Hartford, CT, USA",
+    "is_remote": false,
+    "salary": "USD 86,000 – 115,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql"
+    ],
+    "description_snippet": "ISO New England is the independent system operator responsible for ensuring the safe and reliable flow of electricity in our region and planning for the future of the electric grid. We are at the forefront of New England's ongoing transition to clean energy.\n\nISO New England is at the forefront of t",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-28T16:47:35.530432",
+    "first_seen": "2026-10-28T16:47:35.530432"
+  },
+  {
+    "id": "be945c68ce205d00",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=806387ad4d21cad8",
+    "title": "Performance Engineer I",
+    "company": "Carolina Solar Services",
+    "location": "Durham, NC, USA",
+    "is_remote": false,
+    "salary": "USD 63,000 – 71,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql"
+    ],
+    "description_snippet": "**Performance Engineer I**\n\n**Reporting To:** Performance Engineer Manager\n\n**Department:** Performance Engineering\n\n**Employment Type:** Full-time\n\n**FLSA Status:** Exempt\n\n**Location:** Durham, NC\n\n**Carolina Solar Services provides solutions for renewable energy systems to support a sustainable f",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-28T16:47:35.530269",
+    "first_seen": "2026-10-28T16:47:35.530270"
+  },
+  {
+    "id": "5b65047870d46d43",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=bb9bb4a95adf50cf",
+    "title": "Research Engineer",
+    "company": "Toyota Material Handling",
+    "location": "Greene, NY, USA",
+    "is_remote": false,
+    "salary": "USD 73,840 – 94,667/yearly",
+    "job_type": "internship",
+    "tags": [
+      "python",
+      "machine learning",
+      "java"
+    ],
+    "description_snippet": "Join our Team as a **Research Engineer**!\n\n**The Role:**\n\nWe're looking for an innovative Research Engineer to explore emerging technologies and build proof-of-concept prototypes that advance robotics, automation, and operator assist technologies for next-generation forklift and material handling eq",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-28T16:47:35.530151",
+    "first_seen": "2026-10-28T16:47:35.530151"
+  },
+  {
+    "id": "dd148716cfdc17b0",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=cc8848a9006b41f3",
+    "title": "Electrical Engineer",
+    "company": "Advantech",
+    "location": "Ottawa, IL, USA",
+    "is_remote": false,
+    "salary": "USD 80,000 – 90,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "aws",
+      "rust"
+    ],
+    "description_snippet": "**Job Title:** Electrical Engineer\n\n**Location(s):** Ottawa, IL - Onsite\n\n**Compensation:** $80,000-$90,000\n\n**About This Position**\n\nAdvantech is seeking an Electrical Engineer to join our Project Development and Solutions team. This role focuses on electrical and electronic design for computer-bas",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-28T16:47:35.530002",
+    "first_seen": "2026-10-28T16:47:35.530003"
+  },
+  {
+    "id": "424f26b034d4a5a8",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d32385ae7db221f0",
+    "title": "Network Implementation Engineer II - FT Meyers, FL",
+    "company": "Forged Fiber 37",
+    "location": "Fort Myers, FL, USA",
+    "is_remote": false,
+    "salary": "USD 63,000 – 106,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "rust"
+    ],
+    "description_snippet": "**About Forged Fiber**\n\nAt Forged Fiber, our mission is bold but simple: deliver fast, reliable, future-proof connectivity that builds the foundation for everything online. As we execute, we believe the right way to do something is the only way. This foundation guides how the company builds, operate",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-28T16:47:35.529817",
+    "first_seen": "2026-10-28T16:47:35.529818"
+  },
+  {
+    "id": "069ad97bfb2e7e6f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=209ac2f31b1a55e6",
+    "title": "Robotics Engineer",
+    "company": "Katalyst Healthcares & Life Sciences",
+    "location": "Asheville, NC, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [],
+    "description_snippet": "**Job Description:**\n  \nWe are looking for a Robotics Engineer to support robotics and automation initiatives at the Pratt & Whitney manufacturing site in Asheville, NC. The candidate will work on FANUC robotics and autonomous mobile robot manufacturing processes, improve manufacturing methods, and ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-28T16:47:35.529228",
+    "first_seen": "2026-10-28T16:47:35.529228"
+  },
+  {
+    "id": "016aaa3e3a847f97",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=61cce4fa72fbfdf5",
+    "title": "Biomedical Technician II",
+    "company": "Avante Health Solutions",
+    "location": "San Clemente, CA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "rust"
+    ],
+    "description_snippet": "***Job Summary***\n\nReporting to the Senior Operations Manager in the Engineering Department, the Biomedical Technician II, is responsible to complete accurately and efficiently component level repairs in multiple biomedical device modalities. This position serves as a key role in the company’s repai",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-28T16:47:35.529128",
+    "first_seen": "2026-10-28T16:47:35.529132"
+  },
+  {
+    "id": "b5adc80530eefe14",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=ede2763797092481",
+    "title": "AI Engineer",
+    "company": "FIT Solutions",
+    "location": "San Marcos, CA, USA",
+    "is_remote": false,
+    "salary": "USD 100,000 – 120,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "power bi",
+      "machine learning",
+      "bigquery",
+      "data warehouse",
+      "rust",
+      "generative ai"
+    ],
+    "description_snippet": "The Manager, AI & Business Transformation leads Fresh Origins’ AI program from the business side. This is a business analyst and project manager first: someone who can sit with Operations, Sales, Accounting, and Production, understand how work actually gets done, find where AI and automation will pa",
+    "posted_date": "2026-10-02",
+    "scraped_at": "2026-10-28T16:47:32.128391",
+    "first_seen": "2026-10-28T16:47:32.128391"
+  },
+  {
+    "id": "1c83d034aaf277cc",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f69f59676e3448b5",
+    "title": "Controls Engineer - Data Center",
+    "company": "SLS Consultants LLC",
+    "location": "Atlanta, GA, USA",
+    "is_remote": false,
+    "salary": "USD 150,000 – 185,000/yearly",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "SLS Consultants is one of the fastest growing real estate development and construction consulting firms in the industry today. We are embedded in the ever-expanding Data Center market, as well as Advanced Manufacturing, Life Science, and Healthcare asset classes. As we enter the next phase of our gr",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:28.258231",
+    "first_seen": "2026-10-28T16:47:28.258231"
+  },
+  {
+    "id": "97e60e5fa18fff49",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=15901c77402bf944",
+    "title": "Data Engineer",
+    "company": "OneAmerica Financial Partners, Inc",
+    "location": "Indianapolis, IN, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "aws",
+      "data engineering",
+      "snowflake",
+      "medallion",
+      "ci/cd",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "At OneAmerica Financial, our purpose is to create more certainty for our customers that leads to better moments, every day. Our commitment is to advance stability and growth in every solution and relationship. We deliver financial strength that builds for generations, and we are always aspiring, loo",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-28T16:47:28.258089",
+    "first_seen": "2026-10-28T16:47:28.258092"
+  },
+  {
     "id": "225f81aec0a22b16",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=cb4f75f848c80cc4",
