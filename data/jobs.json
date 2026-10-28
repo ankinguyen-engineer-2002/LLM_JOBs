@@ -1,5 +1,195 @@
 [
   {
+    "id": "566306181beefd24",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157435-account-executive-enterprise-suite-corporate",
+    "title": "Account Executive, Enterprise Suite - Corporate",
+    "company": "AlphaSense",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About AlphaSense : AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI with a vast content universe of over 5",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T23:56:31.299047",
+    "first_seen": "2026-10-27T23:56:31.299049"
+  },
+  {
+    "id": "12555a0311481493",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157436-manager-product-design-growth-upper-funnel",
+    "title": "Manager, Product Design, Growth (Upper Funnel)",
+    "company": "Mural",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "ABOUT THE TEAM At Mural , we’re reimagining how teams think and create together. The Design and Research team brings clarity to complexity, shaping experiences that help people collaborate, ideate, and solve problems visually. We partner deeply with engineering, product, and research to invent the n",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T23:56:31.298811",
+    "first_seen": "2026-10-27T23:56:31.298813"
+  },
+  {
+    "id": "41abe201e09dee09",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157445-senior-product-manager-data-products",
+    "title": "Senior Product Manager, Data Products",
+    "company": "Mural",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "ABOUT THE TEAM When the world's largest organizations bet on Mural , Govern &amp; Trust is the team that earns that trust at scale. We build the experiences that help enterprises roll out Mural with confidence, keep it secure, and see the impact it has on how their people work. Data sits at the cent",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T23:56:31.298500",
+    "first_seen": "2026-10-27T23:56:31.298511"
+  },
+  {
+    "id": "e43557f4b8382bde",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1cb1a1820fe4c162",
+    "title": "Senior Kafka Engineer",
+    "company": "Data Science Software LLC",
+    "location": "St. Louis, MO, USA",
+    "is_remote": false,
+    "salary": "USD 60 – 65/hourly",
+    "job_type": "contract",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "kafka",
+      "azure",
+      "aws",
+      "data engineering",
+      "data warehouse",
+      "java",
+      "rust"
+    ],
+    "description_snippet": "**Job Summary**\n\nAs a Senior Kafka Engineer, you’ll build and maintain reliable data streaming systems that help teams move, manage, and use information effectively. You’ll partner with data engineering, analytics, and software teams to design integrations, support cloud-based platforms, and deliver",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T23:56:25.798155",
+    "first_seen": "2026-10-27T23:56:25.798158"
+  },
+  {
+    "id": "d45516e22a24635f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5958c0fa7a3ab8a7",
+    "title": "Data Engineer",
+    "company": "OneOncology",
+    "location": "Nashville, TN, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "databricks",
+      "medallion",
+      "scala"
+    ],
+    "description_snippet": "OneOncology is positioning community oncologists to drive the future of medical care through a patient-centric, physician-driven, and technology-powered model to help improve the lives of everyone living with cancer and other diseases. Our team is bringing together leaders to the market place to hel",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T23:56:25.797802",
+    "first_seen": "2026-10-27T23:56:25.797804"
+  },
+  {
+    "id": "71e857bd174c6174",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=af1e0a0b2e7de5ef",
+    "title": "Senior PLM Software Engineer, Manufacturing Systems",
+    "company": "Anduril",
+    "location": "San Diego, CA, USA",
+    "is_remote": false,
+    "salary": "USD 191,000 – 254,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "ci/cd",
+      "java",
+      "rust"
+    ],
+    "description_snippet": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century's most innovative companies to the defense industry, Anduril is changing how mi",
+    "posted_date": "2026-10-16",
+    "scraped_at": "2026-10-27T23:56:21.986387",
+    "first_seen": "2026-10-27T23:56:21.986389"
+  },
+  {
+    "id": "ad4b9e72b68e1295",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f76c27e46570c19e",
+    "title": "Lead AI & Automation Engineer – Business Process & Healthcare Operations",
+    "company": "Custom Care Pharmacy",
+    "location": "Milton, PA, USA",
+    "is_remote": false,
+    "salary": "USD 150,000 – 180,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "docker",
+      "azure",
+      "aws",
+      "llm"
+    ],
+    "description_snippet": "### **About the role**\n\nWe operate multiple businesses, including pharmacy and senior-living operations, and are building an internal AI and automation capability.\n\nWe are looking for **one highly hands-on engineer and problem solver** who can work directly with ownership and employees to identify i",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-27T23:56:21.983532",
+    "first_seen": "2026-10-27T23:56:21.983535"
+  },
+  {
+    "id": "739878ca129d505a",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5d9581fd6ac29e7e",
+    "title": "Senior Software Engineer (Controls)",
+    "company": "Seneca",
+    "location": "Sausalito, CA, USA",
+    "is_remote": false,
+    "salary": "USD 140,000 – 200,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "machine learning",
+      "deep learning",
+      "pytorch",
+      "tensorflow"
+    ],
+    "description_snippet": "**The Job:**\n\nWe are seeking an exceptional and innovative Controls Engineer to design, develop, and implement control systems for our unmanned aerial vehicles (UAVs). The ideal candidate will have a strong background in control theory and hands-on experience with UAV systems. Experience applying ma",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-27T23:56:21.983077",
+    "first_seen": "2026-10-27T23:56:21.983081"
+  },
+  {
+    "id": "09b30bcdd864610f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=fbfb5972f8123782",
+    "title": "AI/ML Security Specialist - Junior, Mid-Level & Senior [U.S. Citizenship Required]",
+    "company": "Via Logic LLC",
+    "location": "Fairfax, VA, USA",
+    "is_remote": false,
+    "salary": "USD 90,000 – 139,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**Start Your Adventure at Via Logic**\n-------------------------------------\n\n**Location:** Primarily onsite at a government site in Ashburn, VA. Specific worksite expectations will be confirmed for the assignment.  \n**Type:** Full-time, W-2  \n**Compensation:** $90,000-$139,000 annually, depending on",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-27T23:56:17.309211",
+    "first_seen": "2026-10-27T23:56:17.309212"
+  },
+  {
     "id": "c0aacefb9a917654",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=9977bd9551541055",
