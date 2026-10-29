@@ -1,5 +1,306 @@
 [
   {
+    "id": "7bba53b5343ed604",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157841-enterprise-solutions-engineering-manager",
+    "title": "Enterprise Solutions Engineering Manager",
+    "company": "Ashby",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "As the Enterprise Solutions Engineering Manager at Ashby , you’ll lead and grow a high-performing team of Solutions Engineers who own our most strategic, complex deals. Your team partners closely with Enterprise Account Executives to secure both the technical and commercial win—guiding large organiz",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T19:24:18.769276",
+    "first_seen": "2026-10-29T19:24:18.769279"
+  },
+  {
+    "id": "421c66613a53bbb3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157843-director-category-management-hims",
+    "title": "Director, Category Management, Hims",
+    "company": "hims &#038; hers",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatmen",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T19:24:18.768944",
+    "first_seen": "2026-10-29T19:24:18.768946"
+  },
+  {
+    "id": "4951cf47c92b6557",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157844-senior-vice-president-deputy-general-counsel-global-commercial-and-privacy",
+    "title": "Senior Vice President, Deputy General Counsel, Global Commercial and Privacy",
+    "company": "HackerOne",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "HackerOne is a global leader in Continuous Threat Exposure Management (CTEM) and the only solution provider that pairs the simultaneous trust of the Fortune 500 and the world's largest community of security researchers to secure the AI-native enterprise. The H1 Platform unites agentic AI solutions w",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T19:24:18.768580",
+    "first_seen": "2026-10-29T19:24:18.768582"
+  },
+  {
+    "id": "a5177458274564a4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157848-sr-staff-engineer-care-fullstack-backend",
+    "title": "Sr. Staff Engineer, Care (Fullstack/Backend)",
+    "company": "hims &#038; hers",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatmen",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T19:24:18.768230",
+    "first_seen": "2026-10-29T19:24:18.768232"
+  },
+  {
+    "id": "822a85b60224cf53",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157850-staff-platform-engineer-americas",
+    "title": "Staff Platform Engineer - Americas",
+    "company": "Ashby",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "We’re looking for a curious, rigorous, problem-hungry platform software engineer (who codes!) to carry the ball as we bring Ashby to the big leagues. Ashby builds software that lets talent teams build an efficient, delightful, respectful hiring process. Similarly, you’re an engineer who wants to bui",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T19:24:18.767946",
+    "first_seen": "2026-10-29T19:24:18.767947"
+  },
+  {
+    "id": "063e5df7571e2093",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157854-staff-product-designer-7",
+    "title": "Staff Product Designer",
+    "company": "Ashby",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Hi! I'm Chris , head of Product Design at Ashby . We're looking for a versatile, intrinsically motivated designer who is excited to contribute to rethinking how modern software is designed. At Ashby, you'll be part designer, part product manager, part consultant, and part design system manager (or s",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T19:24:18.767098",
+    "first_seen": "2026-10-29T19:24:18.767100"
+  },
+  {
+    "id": "990df56bb8648680",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157855-research-engineer-machine-learning-systems",
+    "title": "Research Engineer, Machine Learning Systems",
+    "company": "Deepgram",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voic",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T19:24:18.766627",
+    "first_seen": "2026-10-29T19:24:18.766628"
+  },
+  {
+    "id": "bb7cd926cb300a7f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157858-support-engineering-manager-namer",
+    "title": "Support Engineering Manager - NAMER",
+    "company": "Ashby",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Hello! I’m Allie, Head of Support at Ashby . I’m excited to share that we’re hiring our first Support Engineering Manager in AMER. Support Engineering is the technical bridge between frontline Support, Product, and Engineering. The team investigates complex product and customer issues, helps confirm",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T19:24:18.766376",
+    "first_seen": "2026-10-29T19:24:18.766378"
+  },
+  {
+    "id": "d1fbf37401c04fdb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157860-staff-analyst-ai-product",
+    "title": "Staff Analyst, AI Product",
+    "company": "hims &#038; hers",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatmen",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T19:24:18.765948",
+    "first_seen": "2026-10-29T19:24:18.765949"
+  },
+  {
+    "id": "c46d8c760f911ce1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157863-principal-data-engineer",
+    "title": "Principal Data Engineer",
+    "company": "hims &#038; hers",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatmen",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T19:24:18.765655",
+    "first_seen": "2026-10-29T19:24:18.765657"
+  },
+  {
+    "id": "7ede1ed1e7c035e9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157866-sr-software-engineer-fullstack-frontend",
+    "title": "Sr. Software Engineer, (Fullstack/Frontend)",
+    "company": "hims &#038; hers",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatmen",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T19:24:18.765267",
+    "first_seen": "2026-10-29T19:24:18.765269"
+  },
+  {
+    "id": "2d6a382f62c5f126",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157868-ml-ops-infrastructure-engineer",
+    "title": "ML Ops Infrastructure Engineer",
+    "company": "Deepgram",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voic",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T19:24:18.764936",
+    "first_seen": "2026-10-29T19:24:18.764938"
+  },
+  {
+    "id": "64e77fb6378d14ce",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157871-billing-analytics-software-engineer",
+    "title": "Billing & Analytics Software Engineer",
+    "company": "Deepgram",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voic",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T19:24:18.764672",
+    "first_seen": "2026-10-29T19:24:18.764683"
+  },
+  {
+    "id": "0031e27c8d88296a",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7ca71869b67097da",
+    "title": "Network Implementation Engineer II-ISP/OSP-Texas",
+    "company": "Forged Fiber 37",
+    "location": "Dallas, TX, USA",
+    "is_remote": false,
+    "salary": "USD 63,000 – 106,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "aws",
+      "rust"
+    ],
+    "description_snippet": "**About Forged Fiber**\n\nAt Forged Fiber, our mission is bold but simple: deliver fast, reliable, future-proof connectivity that builds the foundation for everything online. As we execute, we believe the right way to do something is the only way. This foundation guides how the company builds, operate",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-29T19:24:05.126581",
+    "first_seen": "2026-10-29T19:24:05.126583"
+  },
+  {
+    "id": "937af6a6b628e33b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4517a478aa3f64b0",
+    "title": "GIS Analyst",
+    "company": "TWO95 International, Inc",
+    "location": "Jersey City, NJ, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "python",
+      "azure",
+      "java"
+    ],
+    "description_snippet": "**Job Title: GIS Analyst**\n\n**Organization:** Port Authority of New York & New Jersey  \n**Location:** Jersey City, NJ  \n**Work Arrangement:** Hybrid, with preferred in-office attendance Tuesdays and Thursdays\n\n**Position Overview**\n\nThe Port Authority of New York & New Jersey is seeking a hands-on *",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-10-29T19:24:05.125862",
+    "first_seen": "2026-10-29T19:24:05.125864"
+  },
+  {
+    "id": "e5436871f11db7f2",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=adccf4566b07fd47",
+    "title": "Sr Data Engineer",
+    "company": "Baker Tilly Canada",
+    "location": "Pasadena, CA, USA",
+    "is_remote": false,
+    "salary": "USD 185,000 – 230,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "aws",
+      "data engineering",
+      "machine learning",
+      "databricks",
+      "medallion",
+      "scala",
+      "llm"
+    ],
+    "description_snippet": "**Overview**\n============\n\nBaker Tilly is a leading advisory, tax and assurance firm, providing clients with a genuine coast-to-coast and global advantage in major regions of the U.S. and in many of the world’s leading financial centers – New York, London, San Francisco, Los Angeles, Chicago and Bos",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T19:23:57.369210",
+    "first_seen": "2026-10-29T19:23:57.369215"
+  },
+  {
     "id": "e4bee17e0612a0e8",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/157824-senior-software-engineer-security-assurance-spain-remote",
