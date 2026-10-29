@@ -1,5 +1,878 @@
 [
   {
+    "id": "346c6525ac452edc",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/calm-com-software-development-engineer-in-test",
+    "title": "Software Development Engineer in Test",
+    "company": "Calm.com",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote, United States About Calm Calm is the leading mental health brand on a mission to make the world happier and healthier. Known for its flagship consumer app—ranked #1 in its category with over 180 million downloads and availability in ten languages across 190 countries—Calm helps",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:25:45.217956",
+    "first_seen": "2026-10-29T10:25:45.217959"
+  },
+  {
+    "id": "1198791621149343",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-data-engineer",
+    "title": "Principal Data Engineer",
+    "company": "ZoomInfo Technologies LLC",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote-US ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your a",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:25:45.217384",
+    "first_seen": "2026-10-29T10:25:45.217394"
+  },
+  {
+    "id": "2cdea73205a6d7c3",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/bybit-client-service-analyst-livechat-czech-required",
+    "title": "Client Service Analyst - Livechat (Czech required)",
+    "company": "Bybit",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "front-end programming"
+    ],
+    "description_snippet": "Headquarters: Europe - Remote About Us Established in 2018, Bybit is one of the world’s leading cryptocurrency exchanges and digital financial platforms, serving over 80 million users across more than 200 countries and regions. Powered by world-class technology and a user-first mindset, Bybit delive",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:25:44.956767",
+    "first_seen": "2026-10-29T10:25:44.956776"
+  },
+  {
+    "id": "03f496c5ac3f43c2",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/salesloft-hr-enablement-lead",
+    "title": "HR Enablement Lead",
+    "company": "Salesloft",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: United States, Remote Job Title: HR Enablement Lead Job Location: United States, Remote&nbsp; This is a fully remote opportunity and can be worked from any location in the United States. ABOUT THE COMPANY: Salesloft is building the next era of enterprise revenue — one where teams make ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:25:44.706435",
+    "first_seen": "2026-10-29T10:25:44.706445"
+  },
+  {
+    "id": "db0bc867f8def88a",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer",
+    "title": "Senior Integration Engineer",
+    "company": "Legion",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "back-end programming"
+    ],
+    "description_snippet": "Headquarters: Remote, Mexico Senior Integration Engineer Remote, Mexico JOB OVERVIEW Are you passionate about building large-scale applications leveraging public cloud services and integration design patterns? As an Integration Engineer, you will work on developing and maintaining Integration &amp; ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:25:44.335750",
+    "first_seen": "2026-10-29T10:25:44.335760"
+  },
+  {
+    "id": "2498af349034939b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151936-enterprise-account-executive-benelux",
+    "title": "Enterprise Account Executive - Benelux",
+    "company": "Chainguard",
+    "location": "Netherlands",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.653963",
+    "first_seen": "2026-10-29T10:21:21.653964"
+  },
+  {
+    "id": "c997475730ef5447",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154130-senior-product-marketing-manager-6",
+    "title": "Senior Product Marketing Manager",
+    "company": "TRM Labs",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.653731",
+    "first_seen": "2026-10-29T10:21:21.653733"
+  },
+  {
+    "id": "0f3f9227060f5da9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/147811-customer-success-manager-ii-west",
+    "title": "Customer Success Manager II - West",
+    "company": "Tines",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Founded in 2018 with co-headquarters in Dublin and Boston, Tines powers some of the world's most important workflows. Our intelligent workflow platform applies AI, automation, and integration with human ingenuity to drive real business results. Tines serves a diverse range of customers, from startup",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.653090",
+    "first_seen": "2026-10-29T10:21:21.653092"
+  },
+  {
+    "id": "8324c6b83afc78ff",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151920-account-manager-3",
+    "title": "Account Manager",
+    "company": "Cloudbeds",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "What Makes Cloudbeds Unique At Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform o",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.652873",
+    "first_seen": "2026-10-29T10:21:21.652874"
+  },
+  {
+    "id": "0ea76632ee3582c6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151890-customer-success-team-manager",
+    "title": "Customer Success - Team Manager",
+    "company": "Canonical",
+    "location": "APAC",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.651893",
+    "first_seen": "2026-10-29T10:21:21.651894"
+  },
+  {
+    "id": "a3f8ad6e6ac4b36f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154129-product-counsel",
+    "title": "Product Counsel",
+    "company": "Solace",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to m",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.651091",
+    "first_seen": "2026-10-29T10:21:21.651093"
+  },
+  {
+    "id": "72897456f6b6c274",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154166-threat-detection-analyst-japanese-speaking",
+    "title": "Threat Detection Analyst (Japanese Speaking)",
+    "company": "Fastly",
+    "location": "Japan",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our customers’ applications as close to their end-users as possible — at the ed",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.649614",
+    "first_seen": "2026-10-29T10:21:21.649615"
+  },
+  {
+    "id": "15edfdbf6c4de0c6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/154126-territory-sales-specialist-twin-cities-minneapolis",
+    "title": "Territory Sales Specialist, Twin Cities, Minneapolis",
+    "company": "Juul Labs",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "THE COMPANY: Juul Labs 's mission is to transition the world’s billion adult smokers away from combustible cigarettes, eliminate their use, and combat underage usage of our products. We have the opportunity to address one of the world’s most intractable challenges through a commitment to exceptional",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.648566",
+    "first_seen": "2026-10-29T10:21:21.648568"
+  },
+  {
+    "id": "e1cdd9fc9771b360",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157697-binance-accelerator-program-data-scientist-llm-trading",
+    "title": "Binance Accelerator Program - Data Scientist (LLM & Trading)",
+    "company": "Binance",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.648367",
+    "first_seen": "2026-10-29T10:21:21.648368"
+  },
+  {
+    "id": "13daa300e238aa4c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157700-binance-accelerator-program-data-scientist-recommendation-square-community",
+    "title": "Binance Accelerator Program - Data Scientist (Recommendation/Square Community)",
+    "company": "Binance",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.648150",
+    "first_seen": "2026-10-29T10:21:21.648152"
+  },
+  {
+    "id": "2f269145ddd0e104",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157702-binance-accelerator-program-data-scientist-user-growth",
+    "title": "Binance Accelerator Program - Data Scientist (User Growth)",
+    "company": "Binance",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "internship",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.647999",
+    "first_seen": "2026-10-29T10:21:21.648000"
+  },
+  {
+    "id": "ca46951d0fbae314",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157718-principal-product-analytics",
+    "title": "Principal, Product Analytics",
+    "company": "Synthesia",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance vi",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.647802",
+    "first_seen": "2026-10-29T10:21:21.647804"
+  },
+  {
+    "id": "04d3e2fad510e972",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157719-senior-sales-systems-engineer",
+    "title": "Senior Sales Systems Engineer",
+    "company": "Veeam Software",
+    "location": "Türkiye",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for th",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.647586",
+    "first_seen": "2026-10-29T10:21:21.647588"
+  },
+  {
+    "id": "6fbcbfa261bf5331",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157722-senior-account-executive-10",
+    "title": "Senior Account Executive",
+    "company": "Rithum",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Rithum ™ is the world’s most trusted commerce network, accelerating how brands, suppliers, and retailers work together to deliver seamless e-commerce experiences. We provide an unmatched platform for brands and retailers, enabling them to accelerate growth, optimize operations across channels, scale",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.647394",
+    "first_seen": "2026-10-29T10:21:21.647395"
+  },
+  {
+    "id": "5b90d876547c9600",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157724-senior-data-scientist-product-2",
+    "title": "Senior Data Scientist, Product",
+    "company": "RevenueCat",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volum",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.647094",
+    "first_seen": "2026-10-29T10:21:21.647096"
+  },
+  {
+    "id": "6ee22ccb7b9b29c4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157725-business-intelligence-data-architect",
+    "title": "Business Intelligence Data Architect",
+    "company": "Contentstack",
+    "location": "Netherlands,  Portugal",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "What is Contentstack ? Contentstack is redefining how modern digital experiences are built and managed. As the pioneer of the Agentic Experience Platform (AXP), Contentstack brings together structured content and brand governance (Content Cloud), real-time customer data, omnichannel personalization ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.646844",
+    "first_seen": "2026-10-29T10:21:21.646845"
+  },
+  {
+    "id": "eb8f6f4efe05a2ed",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157730-lead-web-designer-developer",
+    "title": "Lead Web Designer & Developer",
+    "company": "YipitData",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.646556",
+    "first_seen": "2026-10-29T10:21:21.646557"
+  },
+  {
+    "id": "cd2ef6e7287ca996",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157734-manager-field-engineering-strategic-digital-native-business-2",
+    "title": "Manager, Field Engineering - Strategic Digital Native Business",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "As the manager of the Digital Natives Solutions Architect (SA) team, you will focus on growing and developing a team of SAs, driving the adoption of the Databricks Platform at the largest, fastest-growing tech companies. You'll be responsible for leading the team in establishing best practices throu",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.646214",
+    "first_seen": "2026-10-29T10:21:21.646215"
+  },
+  {
+    "id": "c5ca83524ee8f838",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157735-organic-growth-manager-seo-aeo",
+    "title": "Organic Growth Manager, SEO & AEO",
+    "company": "YipitData",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "seo"
+    ],
+    "description_snippet": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.646019",
+    "first_seen": "2026-10-29T10:21:21.646021"
+  },
+  {
+    "id": "05021b86a93bc4c6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157737-solutions-architect-communications-media-entertainment-and-games",
+    "title": "Solutions Architect - Communications, Media, Entertainment and Games",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "FEQ227R273 While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered. #CMEG As a Solutions Architect, you will lead the technical strategy for your customers — owning architecture discussions, driving platform adoption, and serving as a",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.645703",
+    "first_seen": "2026-10-29T10:21:21.645704"
+  },
+  {
+    "id": "70ff0c843028e86d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157738-product-development-associate-us",
+    "title": "Product Development Associate (US)",
+    "company": "YipitData",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.645474",
+    "first_seen": "2026-10-29T10:21:21.645476"
+  },
+  {
+    "id": "01f7db4e2eaaa4ed",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157740-solutions-architect-digital-native-business-fintech",
+    "title": "Solutions Architect - Digital Native Business (Fintech)",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "The Role As a Solutions Architect, you will lead the technical strategy for your customers — owning architecture discussions, driving platform adoption, and serving as a trusted advisor to customer technical leads and architects. You combine deep technical expertise with strategic thinking to positi",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.645176",
+    "first_seen": "2026-10-29T10:21:21.645177"
+  },
+  {
+    "id": "103ba4428805baf5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157743-solutions-architect-digital-native-business-healthtech",
+    "title": "Solutions Architect - Digital Native Business (Healthtech)",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "The Role As a Solutions Architect, you will lead the technical strategy for your customers — owning architecture discussions, driving platform adoption, and serving as a trusted advisor to customer technical leads and architects. You combine deep technical expertise with strategic thinking to positi",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.644932",
+    "first_seen": "2026-10-29T10:21:21.644934"
+  },
+  {
+    "id": "e3b83aeae009d82f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157746-solutions-architect-digital-native-business-named-accounts",
+    "title": "Solutions Architect - Digital Native Business, Named Accounts",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "FEQ327R210 While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered. #LI-REMOTE As a Solutions Architect on the Digital Natives team, you will shape the future of the big data landscape by working with the most sophisticated data engin",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.644681",
+    "first_seen": "2026-10-29T10:21:21.644682"
+  },
+  {
+    "id": "ab12fe05fbf192cb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157749-solutions-architect-healthcare-life-sciences-team-hls",
+    "title": "Solutions Architect - Healthcare/Life Sciences Team (HLS)",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "P-146 While candidates in the listed locations are encouraged for this role, we are open to remote candidates in other locations in various cities around the US. We are looking for experienced pre-sales professionals who have a successful track record helping large enterprises become more data-drive",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.644472",
+    "first_seen": "2026-10-29T10:21:21.644474"
+  },
+  {
+    "id": "75419b49a7ce994c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157752-solutions-architect-manufacturing",
+    "title": "Solutions Architect - Manufacturing",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "FEQ427R286 We are looking for experienced pre-sales professionals with a proven track record of helping large enterprises become more data-driven. Working with the Enterprise Account Executive (AE), the Solutions Architect defines and directs the technical strategy for our largest and important acco",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.644233",
+    "first_seen": "2026-10-29T10:21:21.644234"
+  },
+  {
+    "id": "8f9c917ad4916944",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157755-solutions-architect-public-sector-sled",
+    "title": "Solutions Architect - Public Sector (SLED)",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "FEQ427R58 Mission Solutions Architects at Databricks lead the growth of the Databricks Unified Analytics Platform. As a team, we have expertise in cloud platforms, data engineering, data analytics, and data science and machine learning. As a member of our team, you will exercise and develop expertis",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.644019",
+    "first_seen": "2026-10-29T10:21:21.644020"
+  },
+  {
+    "id": "5c2ff1256ec70e1c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157758-solutions-architect-retail-consumer-goods-travel-hospitality",
+    "title": "Solutions Architect - Retail, Consumer Goods, Travel & Hospitality",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "FEQ327R526 Solutions Architect (L5) The Role As a Solutions Architect, you will lead the technical strategy for your customers — owning architecture discussions, driving platform adoption, and serving as a trusted advisor to customer technical leads and architects. You combine deep technical experti",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.643823",
+    "first_seen": "2026-10-29T10:21:21.643824"
+  },
+  {
+    "id": "32ccb39e82283898",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157759-senior-data-analyst-3",
+    "title": "Senior Data Analyst",
+    "company": "YipitData",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.643580",
+    "first_seen": "2026-10-29T10:21:21.643583"
+  },
+  {
+    "id": "ed3f57ee6bbb142d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157761-solutions-architect-strategic-high-tech",
+    "title": "Solutions Architect - Strategic High Tech",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered. #LI-REMOTE As a Strategic Solutions Architect on the Digital Natives team, you will shape the future of the big data landscape of one of the largest global tech companies by wor",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:21.643188",
+    "first_seen": "2026-10-29T10:21:21.643199"
+  },
+  {
+    "id": "a0f31008ac3d07df",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=da4311d6fb510b52",
+    "title": "Data Engineer",
+    "company": "KLAS Research",
+    "location": "Pleasant Grove, UT, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "data engineering",
+      "machine learning",
+      "postgres",
+      "data warehouse",
+      "ci/cd",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "The Data Engineer works with a multidisciplinary Agile team to build and maintain high-quality data pipelines that support KLAS’s research, operations, and public web application, and will be key in supporting current and future reporting and analytic solutions.\n\n**What You’ll Do**\n\n* Build and opti",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-10-29T10:21:16.211332",
+    "first_seen": "2026-10-29T10:21:16.211334"
+  },
+  {
+    "id": "4676cb89b529cea4",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=39ff03d9de83cc53",
+    "title": "Data QA",
+    "company": "NTT DATA",
+    "location": "Atlanta, GA, USA",
+    "is_remote": false,
+    "salary": "USD 60 – 70/hourly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "azure",
+      "power bi",
+      "data engineering",
+      "snowflake",
+      "databricks",
+      "synapse",
+      "data warehouse",
+      "rust"
+    ],
+    "description_snippet": "### **About NTT DATA**\n\nNTT DATA strives to hire exceptional, innovative, and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. We are currently seeking a professional to join our team in Atlanta, Georgia",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-29T10:21:16.209970",
+    "first_seen": "2026-10-29T10:21:16.209972"
+  },
+  {
+    "id": "45707e1e46605698",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=e2544b3f2610c896",
+    "title": "Data Modeler",
+    "company": "HCA Healthcare",
+    "location": "Nashville, TN, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "gcp",
+      "machine learning",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "##### **This is OUR story... and YOUR next chapter**\n\nAt HCA Healthcare, our Digital Transformation and Innovation (DT&I) team is redefining what’s possible inpatient care. By leveraging the power of artificial intelligence, automation, and digital technologies, DT&I is helping drive meaningful impr",
+    "posted_date": "2026-10-20",
+    "scraped_at": "2026-10-29T10:21:16.209700",
+    "first_seen": "2026-10-29T10:21:16.209702"
+  },
+  {
+    "id": "19fea17ef53b818d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b14dac51730030cb",
+    "title": "Principal Solutions Engineer - Data",
+    "company": "The Fresh Market",
+    "location": "Greensboro, NC, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "azure",
+      "aws",
+      "snowflake",
+      "scala"
+    ],
+    "description_snippet": "The Fresh Market & You::\n\nOur mission is to make everyday eating extraordinary for our guests. We create a warm, welcoming, memorable experience with exceptional, personal service. We’re looking for a new team member who strives for excellence and brings positive energy, commitment, and a “can-do” a",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-29T10:21:16.209171",
+    "first_seen": "2026-10-29T10:21:16.209175"
+  },
+  {
+    "id": "87408be766f5d11c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=a8de061327eb6707",
+    "title": "Solutions Engineer",
+    "company": "Minerva",
+    "location": "New York, NY, USA",
+    "is_remote": false,
+    "salary": "USD 215,000 – 241,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "data engineering",
+      "bigquery",
+      "snowflake",
+      "databricks"
+    ],
+    "description_snippet": "**ABOUT MINERVA**\n-----------------\n\nMinerva builds AI for marketing leaders. We work together with marketers to automate and accelerate their workflows with AI agents. Our agents augment the end-to-end workflow of the marketer by automating analysis, campaign planning, activation, measurement and r",
+    "posted_date": "2026-10-23",
+    "scraped_at": "2026-10-29T10:21:11.418170",
+    "first_seen": "2026-10-29T10:21:11.418172"
+  },
+  {
+    "id": "268deafc57fd1a46",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d2c45747763cabe0",
+    "title": "Integration Engineer",
+    "company": "Rize Beyond Banking",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 87,500 – 121,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "ci/cd",
+      "rust"
+    ],
+    "description_snippet": "**Integration Engineer**\n\n  \n\n**Location:** Irwindale, CA (100% remote flexibility is an option)\n\n**About the Role**\n------------------\n\nRize Credit Union is looking for an Integration Engineer to build and operate the integrations and automated processes that connect our core, ancillary, and SaaS a",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:11.416843",
+    "first_seen": "2026-10-29T10:21:11.416849"
+  },
+  {
+    "id": "53b8de2f7f064a61",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3311ad3f996bfc9f",
+    "title": "Test Engineer- St. Louis, MO",
+    "company": "Hubbell",
+    "location": "St. Louis, MO, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python"
+    ],
+    "description_snippet": "**Job Overview**\n----------------\n\nThe Test Engineer functionally test embedded firmware in AMI (Advanced Metering Infrastructure) in products. The Test Engineer designs, develops, modifies and evaluates electronic parts, components or integrated circuitry for electronic equipment, or other hardware",
+    "posted_date": "2026-10-01",
+    "scraped_at": "2026-10-29T10:21:07.586542",
+    "first_seen": "2026-10-29T10:21:07.586544"
+  },
+  {
+    "id": "cabf9e5913e25948",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7affd3467f438775",
+    "title": "Senior Custom Order Engineer",
+    "company": "Eaton",
+    "location": "Fayetteville, NC, USA",
+    "is_remote": false,
+    "salary": "USD 86,000 – 126,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "aws"
+    ],
+    "description_snippet": "Eaton’s Electrical Sector - ARS PDCA division is currently seeking a Senior Custom Order Engineer based onsite at our Eaton Fayetteville, NC facility. Relocation assistance is available to candidates currently residing in the US.\n\nThe Sr Customer Order Engineer is responsible for providing electrica",
+    "posted_date": "2026-10-12",
+    "scraped_at": "2026-10-29T10:21:07.583887",
+    "first_seen": "2026-10-29T10:21:07.583889"
+  },
+  {
+    "id": "c825728672f685b7",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3ab3b5fdce8f284c",
+    "title": "OSP Engineer",
+    "company": "Pearce Services",
+    "location": "Fort Collins, CO, USA",
+    "is_remote": true,
+    "salary": "USD 36 – 38/hourly",
+    "job_type": "nan",
+    "tags": [],
+    "description_snippet": "At **PEARCE**, **we've got a career for you!**\n\nPearce is a leading technology-enabled provider of asset management solutions for mission-critical electromechanical infrastructure throughout North America. Pearce provides technical maintenance, repair, operations, and engineering services for uninte",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T10:21:07.581300",
+    "first_seen": "2026-10-29T10:21:07.581306"
+  },
+  {
+    "id": "a330f0247454b315",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=6ec045b1799f885c",
+    "title": "Senior Analytics Engineer, Topps Digital",
+    "company": "Fanatics",
+    "location": "New York, NY, USA",
+    "is_remote": false,
+    "salary": "USD 140,120 – 175,150/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "power bi",
+      "tableau",
+      "analytics engineering",
+      "databricks"
+    ],
+    "description_snippet": "**About Us**\n------------\n\nFanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fanatics Collectibles, a",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-29T10:21:04.442017",
+    "first_seen": "2026-10-29T10:21:04.442022"
+  },
+  {
+    "id": "b1c69e4f9cd1a699",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=90a8901238532893",
+    "title": "Senior Data Engineer",
+    "company": "Guardian Pharmacy",
+    "location": "Atlanta, GA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "azure",
+      "data engineering",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "Atlanta, Georgia, United States of America\n\n**Extraordinary Care. Extraordinary Careers.**\n\n**With one of the nation’s largest, most innovative long-term care pharmacy services providers, there is no limit to the growth of your career.**\n\nOur unique business model combines the personal touch of loca",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-29T10:20:59.519195",
+    "first_seen": "2026-10-29T10:20:59.519197"
+  },
+  {
     "id": "ee408fc276e3fea4",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=d801fbee0f583785",
