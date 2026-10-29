@@ -1,5 +1,640 @@
 [
   {
+    "id": "0f6aa52a0ef40f40",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157765-senior-product-marketing-manager-uk-remote",
+    "title": "Senior Product Marketing Manager | UK | Remote",
+    "company": "Grafana Labs",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.721160",
+    "first_seen": "2026-10-29T14:03:42.721162"
+  },
+  {
+    "id": "f2676bfec192fb90",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157766-engineering-manager-architecture-engineering-async",
+    "title": "Engineering Manager, Architecture Engineering: Async",
+    "company": "GitLab",
+    "location": "Poland,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.720872",
+    "first_seen": "2026-10-29T14:03:42.720873"
+  },
+  {
+    "id": "ca4eb65c070fac74",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157768-general-counsel-2",
+    "title": "General Counsel",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "We are hiring a General Counsel , reporting to the Chief Operating Officer (COO). This role leads Canonical ’s global Legal and Compliance function. This is a unique opportunity for an exceptional and commercially-minded senior lawyer to lead the legal and compliance function of a profitable, fast-g",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.720631",
+    "first_seen": "2026-10-29T14:03:42.720632"
+  },
+  {
+    "id": "93fb717f44d405ee",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157770-senior-software-engineer-security-assurance-germany-remote",
+    "title": "Senior Software Engineer, Security Assurance | Germany | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.720362",
+    "first_seen": "2026-10-29T14:03:42.720363"
+  },
+  {
+    "id": "e304be7216722a79",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157771-intermediate-backend-engineer-pipeline-authoring",
+    "title": "Intermediate Backend Engineer, Pipeline Authoring",
+    "company": "GitLab",
+    "location": "Poland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.720035",
+    "first_seen": "2026-10-29T14:03:42.720037"
+  },
+  {
+    "id": "c64e4ecc85e9fa67",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157772-golang-software-engineer-commercial-systems",
+    "title": "Golang Software Engineer, Commercial Systems",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include t",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.719734",
+    "first_seen": "2026-10-29T14:03:42.719735"
+  },
+  {
+    "id": "3f2f33ab677876fe",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157774-senior-software-engineer-security-assurance-ireland-remote",
+    "title": "Senior Software Engineer, Security Assurance | Ireland | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.719507",
+    "first_seen": "2026-10-29T14:03:42.719509"
+  },
+  {
+    "id": "739c4dd20f03d799",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157777-customer-success-manager-56",
+    "title": "Customer Success Manager",
+    "company": "Ping Identity",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About Ping Identity : At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.719164",
+    "first_seen": "2026-10-29T14:03:42.719165"
+  },
+  {
+    "id": "d2307e09819834ce",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157779-senior-devops-engineer-12",
+    "title": "Senior DevOps Engineer",
+    "company": "Bloomreach",
+    "location": "Slovakia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Bloomreach is building the world’s premier agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more in",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.718604",
+    "first_seen": "2026-10-29T14:03:42.718605"
+  },
+  {
+    "id": "2d9d02f5d48e95bc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157782-principal-technical-consultant",
+    "title": "Principal Technical Consultant",
+    "company": "Ping Identity",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About Ping Identity : At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.718201",
+    "first_seen": "2026-10-29T14:03:42.718202"
+  },
+  {
+    "id": "dc4f9fb6de248642",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157784-staff-devops-engineer-4",
+    "title": "Staff DevOps Engineer",
+    "company": "Bloomreach",
+    "location": "Czechia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Bloomreach is building the world’s premier agentic platform for personalization .We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more in",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.717891",
+    "first_seen": "2026-10-29T14:03:42.717893"
+  },
+  {
+    "id": "df18b8f4a056b0d1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157787-senior-software-engineer-18",
+    "title": "Senior Software Engineer",
+    "company": "Twilio",
+    "location": "Ireland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Who we are At Twilio , we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.717463",
+    "first_seen": "2026-10-29T14:03:42.717465"
+  },
+  {
+    "id": "565a75ddfbbbfcca",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157793-software-development-engineer",
+    "title": "Software Development Engineer",
+    "company": "Twilio",
+    "location": "Ireland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Who we are At Twilio , we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.717149",
+    "first_seen": "2026-10-29T14:03:42.717150"
+  },
+  {
+    "id": "5f560376712a762c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157798-staff-analyst-product-marketing",
+    "title": "Staff Analyst, Product & Marketing",
+    "company": "hims &#038; hers",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatmen",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.716869",
+    "first_seen": "2026-10-29T14:03:42.716870"
+  },
+  {
+    "id": "13ab886f0d40faf1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157800-head-of-partner-programs-strategy-and-operations",
+    "title": "Head of Partner Programs, Strategy and Operations",
+    "company": "Apollo.io",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Apollo.io is the leading go-to-market solution for revenue teams, trusted by over 500,000 companies and millions of users globally, from rapidly growing startups to some of the world's largest enterprises. Founded in 2015, the company is one of the fastest growing companies in SaaS, raising approxim",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.716595",
+    "first_seen": "2026-10-29T14:03:42.716597"
+  },
+  {
+    "id": "c72b77c465d925e3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157803-product-manager-9",
+    "title": "Product Manager",
+    "company": "Thumbtack",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urg",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.716039",
+    "first_seen": "2026-10-29T14:03:42.716040"
+  },
+  {
+    "id": "f6fe9fcde3848b50",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157806-director-of-gtm-data-processes-and-ai-enablement",
+    "title": "Director of GTM Data, Processes, and AI Enablement",
+    "company": "MaintainX",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "MaintainX is a leading mobile-first work execution platform for industrial and frontline teams. More than 13,000 customers , including Duracell, McDonald's, Shell, DHL and Volvo, use MaintainX to cut unplanned downtime and run better operations, across 13.9 million managed assets and 79.5 million co",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.715818",
+    "first_seen": "2026-10-29T14:03:42.715820"
+  },
+  {
+    "id": "c0e3eb40e509e4d7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157809-sr-hr-business-partner",
+    "title": "Sr. HR Business Partner",
+    "company": "Thumbtack",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urg",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.715527",
+    "first_seen": "2026-10-29T14:03:42.715529"
+  },
+  {
+    "id": "adb3f9632838b264",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157814-project-development-manager-data-centers-emea-2",
+    "title": "Project Development Manager- Data Centers, EMEA",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.715278",
+    "first_seen": "2026-10-29T14:03:42.715280"
+  },
+  {
+    "id": "026b76ca3b4a288f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157815-head-of-tax-information-reporting",
+    "title": "Head of Tax Information Reporting",
+    "company": "OKX",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "Who We Are At OKX , we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.714916",
+    "first_seen": "2026-10-29T14:03:42.714918"
+  },
+  {
+    "id": "75039873de5bdf6c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157816-senior-product-manager-panel-remote-eu-uk",
+    "title": "Senior Product Manager, Panel (Remote, EU/UK)",
+    "company": "Maze",
+    "location": "Europe,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Maze Maze is the user research platform that helps companies build the right products faster by making user insights available at the speed of product development. In most companies, research demand far exceeds supply. Time, cost, and lack of access to expertise hold teams back. In today’s AI-",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.714601",
+    "first_seen": "2026-10-29T14:03:42.714604"
+  },
+  {
+    "id": "417f2e04c83c6536",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157817-senior-director-of-global-tax",
+    "title": "Senior Director of Global Tax",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.714063",
+    "first_seen": "2026-10-29T14:03:42.714065"
+  },
+  {
+    "id": "f2044390e6915aad",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157819-senior-technical-program-manager-new-data-center-launches",
+    "title": "Senior Technical Program Manager - New Data Center Launches",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.713734",
+    "first_seen": "2026-10-29T14:03:42.713736"
+  },
+  {
+    "id": "34a0135f707b0ac0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157820-senior-fraud-risk-manager",
+    "title": "Senior Fraud Risk Manager",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.713535",
+    "first_seen": "2026-10-29T14:03:42.713537"
+  },
+  {
+    "id": "11183849970a7282",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157821-engineering-director-100-remote-within-poland",
+    "title": "Engineering Director (100% Remote within Poland)",
+    "company": "Docplanner",
+    "location": "Poland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Build the AI-native healthcare journey Every month, around 100 million people come to Docplanner to find a doctor, book a visit, stay in touch with their care and pay for it. Each of those steps is now being reinvented with AI. Search is turning into conversation. Booking is becoming something an ag",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.713211",
+    "first_seen": "2026-10-29T14:03:42.713214"
+  },
+  {
+    "id": "41d412b62d5f3d1e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157822-site-reliability-engineer-in-hardware-infrastructure",
+    "title": "Site Reliability Engineer in Hardware Infrastructure",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:42.712813",
+    "first_seen": "2026-10-29T14:03:42.712824"
+  },
+  {
+    "id": "b988eaa381f1ae4a",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c44ae8f38e6f5d7c",
+    "title": "Data Engineer - ETL",
+    "company": "Levi, Ray & Shoup, Inc.",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 50 – 55/hourly",
+    "job_type": "contract",
+    "tags": [
+      "sql",
+      "azure",
+      "power bi",
+      "snowflake"
+    ],
+    "description_snippet": "Position Overview\n\nThe SSIS Developer for a P&C Insurance company that will design, develop, enhance and support enterprise reporting and data integration solutions for a recent company aqusition. The developer will work heavily with SSRS, SSIS and T-SQL to deliver reliable reporting, ETL processes ",
+    "posted_date": "2026-10-27",
+    "scraped_at": "2026-10-29T14:03:36.251085",
+    "first_seen": "2026-10-29T14:03:36.251087"
+  },
+  {
+    "id": "f06d445657d13737",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=dc5e92889c1640d8",
+    "title": "Microsoft Azure Cloud Developer",
+    "company": "Planned Systems International",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "azure",
+      "power bi",
+      "databricks"
+    ],
+    "description_snippet": "Overview:\n\nPlanned Systems International (PSI) is seeking a developer in the data analysis group supporting multiple technologies. This role will support enterprise reporting, analytics, and cloud modernization initiatives leveraging Microsoft technologies, including Power BI, Azure Cloud Services, ",
+    "posted_date": "2026-09-30",
+    "scraped_at": "2026-10-29T14:03:31.167613",
+    "first_seen": "2026-10-29T14:03:31.167615"
+  },
+  {
+    "id": "ede2120fff68890d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=cac7c81c5ed6e5dd",
+    "title": "Snowflake Data Engineer",
+    "company": "JPS Tech Solutions",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "aws",
+      "gcp",
+      "snowflake",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Core Skills client looking : with Strong AWS Skills(Glue, Lambda)**\n\n**Job Description:**\n\n**Snowflake Architect (12–15 years):**\n\nLead the architecture, design and delivery of secure, scalable cloud data platforms on Snowflake.\n\nDefine target-state architecture, data models, ingestion and ELT pat",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:31.164016",
+    "first_seen": "2026-10-29T14:03:31.164022"
+  },
+  {
+    "id": "aefdbafc23eb885c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=80da2cbe1ae95a8c",
+    "title": "Data Architect (DataOps) | SME",
+    "company": "The Amatriot Group",
+    "location": "Chantilly, VA, USA",
+    "is_remote": false,
+    "salary": "USD 160,000 – 189,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "docker",
+      "data engineering",
+      "postgres",
+      "kubernetes",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**Location:** Chantilly, VA  \n**Security Clearance:** Active TS or higher [Required] Must be able to obtain CI Polygraph  \n**Job Type:** Full-Time  \n**Target Salary Range\\*:**$160,000 - $189,000\n\n* This represents the potential salary range for this position depending on education level, years of ex",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:27.849795",
+    "first_seen": "2026-10-29T14:03:27.849801"
+  },
+  {
+    "id": "c094fecc8fa27f64",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=faffde2124e21e4d",
+    "title": "Power BI Developer & Analytics Engineer - No C2C",
+    "company": "Talentfactor Inc",
+    "location": "Atlanta, GA, USA",
+    "is_remote": false,
+    "salary": "USD 50 – 66/hourly",
+    "job_type": "fulltime, contract",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "power bi",
+      "data engineering",
+      "analytics engineering",
+      "databricks",
+      "microsoft fabric",
+      "synapse",
+      "scala"
+    ],
+    "description_snippet": "**Job Title:** Power BI Developer & Analytics Engineer\n\n**Pay Rate:** $50.00 to 66.17/hr (W2 contract)\n\n**Location:** Atlanta, GA 30313 – On-site 5 days in office\n\n**Description:**\n\nThe ideal candidate will bring 2–5 years of relevant professional experience in Business Intelligence, Data Analytics,",
+    "posted_date": "2026-09-30",
+    "scraped_at": "2026-10-29T14:03:23.655938",
+    "first_seen": "2026-10-29T14:03:23.655941"
+  },
+  {
+    "id": "42d16c0c48fa6e01",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1c86f368d316c20c",
+    "title": "Cloud Security Engineer (R-00235)",
+    "company": "True Zero Technologies",
+    "location": "Ashburn, VA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "rust"
+    ],
+    "description_snippet": "True Zero Technologies, a veteran-owned small business, was founded on the principle that the purposeful enablement of people and technology in an organization directly ties to the quality of its outcomes. True Zero recognizes that those outcomes begin and end with our people, and that is what we ha",
+    "posted_date": "2026-10-03",
+    "scraped_at": "2026-10-29T14:03:23.655179",
+    "first_seen": "2026-10-29T14:03:23.655182"
+  },
+  {
+    "id": "151b4d9c733586b5",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=9845a8450d6071ad",
+    "title": "Sr Data Engineer",
+    "company": "Baker Tilly Canada",
+    "location": "Woodland Hills, CA, USA",
+    "is_remote": false,
+    "salary": "USD 185,000 – 230,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "aws",
+      "data engineering",
+      "machine learning",
+      "databricks",
+      "medallion",
+      "scala",
+      "llm"
+    ],
+    "description_snippet": "**Overview**\n============\n\nBaker Tilly is a leading advisory, tax and assurance firm, providing clients with a genuine coast-to-coast and global advantage in major regions of the U.S. and in many of the world’s leading financial centers – New York, London, San Francisco, Los Angeles, Chicago and Bos",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-29T14:03:18.250675",
+    "first_seen": "2026-10-29T14:03:18.250681"
+  },
+  {
     "id": "346c6525ac452edc",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/calm-com-software-development-engineer-in-test",
