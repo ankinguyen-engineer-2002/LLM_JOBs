@@ -1,5 +1,462 @@
 [
   {
+    "id": "d168ae0d71c454b8",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/welocalize-automation-specialist",
+    "title": "Automation Specialist",
+    "company": "Welocalize",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Ciudad de México, Mexico URL: https://t.mtrbio.com/WeloData About the Role We're looking for an Automation Specialist to join our Movie and TV Metadata team — a unique, blended role for someone who wants to combine hands-on content work with the chance to build real AI and automation s",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-30T16:54:24.639982",
+    "first_seen": "2026-10-30T16:54:24.639987"
+  },
+  {
+    "id": "c31b88adfb422546",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157696-renewal-specialist-services-sales-apac",
+    "title": "Renewal Specialist, Services Sales - APAC",
+    "company": "Zone &#038; Co",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Zone &amp; Company Software Consulting LLC (“Zone”) is the ERP-native AI platform for financial operations, purpose-built for organizations running on Oracle NetSuite. We are redefining how finance teams operate by delivering an AI-powered system that automates, connects, and scales financial workfl",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T16:50:04.828638",
+    "first_seen": "2026-10-30T16:50:04.828640"
+  },
+  {
+    "id": "39db6c233e270cf0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157701-regional-sales-manager-lower-north-island-dairy",
+    "title": "Regional Sales Manager (Lower North Island, Dairy)",
+    "company": "Halter",
+    "location": "New Zealand",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Halter At Halter, we’re on a mission to enable farmers and graziers to run the most productive and sustainable operations. Our customers are using Halter to break free from the time-intensive constraints of conventional practices. Imagine watching 500 cattle stand up and walk calmly towards th",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T16:50:04.828373",
+    "first_seen": "2026-10-30T16:50:04.828374"
+  },
+  {
+    "id": "bbd6d045b3a5f596",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157723-sales-development-representative-2-2",
+    "title": "Sales Development Representative 2",
+    "company": "Twilio",
+    "location": "Ireland,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Who we are At Twilio , we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T16:50:04.827875",
+    "first_seen": "2026-10-30T16:50:04.827876"
+  },
+  {
+    "id": "9c08343e765592b0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157741-sales-associate-investor",
+    "title": "Sales Associate - Investor",
+    "company": "YipitData",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T16:50:04.827630",
+    "first_seen": "2026-10-30T16:50:04.827632"
+  },
+  {
+    "id": "889418b056ef2afb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157742-regional-sales-director-california",
+    "title": "Regional Sales Director - California",
+    "company": "Garner Health",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "What you’ll be part of Garner is on a mission to transform the U.S. healthcare system — and we’re the only proven player doing exactly that. We partner with employers to redesign how healthcare works: applying 550+ proprietary clinical metrics across 80+ specialties to a dataset of 320M+ patients to",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T16:50:04.827395",
+    "first_seen": "2026-10-30T16:50:04.827396"
+  },
+  {
+    "id": "0cb08c73a7d77598",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157744-sales-development-representative-15",
+    "title": "Sales Development Representative",
+    "company": "YipitData",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T16:50:04.827170",
+    "first_seen": "2026-10-30T16:50:04.827171"
+  },
+  {
+    "id": "e493b88c84e4676b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157745-regional-sales-director-northeast",
+    "title": "Regional Sales Director - Northeast",
+    "company": "Garner Health",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "What you’ll be part of Garner is on a mission to transform the U.S. healthcare system — and we’re the only proven player doing exactly that. We partner with employers to redesign how healthcare works: applying 550+ proprietary clinical metrics across 80+ specialties to a dataset of 320M+ patients to",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T16:50:04.826936",
+    "first_seen": "2026-10-30T16:50:04.826938"
+  },
+  {
+    "id": "4001b528b3f184e6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157748-regional-sales-director-pacific-northwest",
+    "title": "Regional Sales Director - Pacific Northwest",
+    "company": "Garner Health",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "What you’ll be part of Garner is on a mission to transform the U.S. healthcare system — and we’re the only proven player doing exactly that. We partner with employers to redesign how healthcare works: applying 550+ proprietary clinical metrics across 80+ specialties to a dataset of 320M+ patients to",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T16:50:04.826709",
+    "first_seen": "2026-10-30T16:50:04.826711"
+  },
+  {
+    "id": "4ccae0ebb5df9530",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157756-senior-business-development-executive-quant-sales",
+    "title": "Senior Business Development Executive - Quant Sales",
+    "company": "YipitData",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T16:50:04.826472",
+    "first_seen": "2026-10-30T16:50:04.826474"
+  },
+  {
+    "id": "94416aac4e7b3dbd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157875-sales-manager-dach",
+    "title": "Sales Manager – DACH",
+    "company": "ChargePoint",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Us With electric vehicles expected to be nearly 30% of new vehicle sales by 2025 and more than 50% by 2040, electric mobility is becoming a reality. ChargePoint (NYSE: CHPT) is at the center of this revolution, powering one of the world’s leading EV charging networks and a comprehensive set of",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T16:50:04.826235",
+    "first_seen": "2026-10-30T16:50:04.826237"
+  },
+  {
+    "id": "87b1eb8f4de42f4c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157896-regional-sales-director-3",
+    "title": "Regional Sales Director",
+    "company": "GitLab",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T16:50:04.826009",
+    "first_seen": "2026-10-30T16:50:04.826011"
+  },
+  {
+    "id": "a00e1ed8aae1393f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157915-sales-development-representative-apac",
+    "title": "Sales Development Representative, APAC",
+    "company": "Cresta",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T16:50:04.825433",
+    "first_seen": "2026-10-30T16:50:04.825435"
+  },
+  {
+    "id": "b76bd0aaf416a7c6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157916-presales-architect",
+    "title": "Presales Architect",
+    "company": "Twilio",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Who we are At Twilio , we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T16:50:04.825220",
+    "first_seen": "2026-10-30T16:50:04.825222"
+  },
+  {
+    "id": "6d87f7ec323ac559",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151996-founding-sales-development-representative-europe",
+    "title": "Founding Sales Development Representative (Europe)",
+    "company": "Tremendous",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Tremendous is the global platform built for businesses to send thousands of payouts to anyone, anywhere, for free. We're trusted by 20,000 organizations like Atlassian, MIT, and United Way to deliver gift cards and money to millions of recipients worldwide. Our customers (researchers, marketers, HR ",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-30T16:50:04.824644",
+    "first_seen": "2026-10-30T16:50:04.824646"
+  },
+  {
+    "id": "a00ffa611bff808a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151997-founding-sales-development-representative-dach",
+    "title": "Founding Sales Development Representative (DACH)",
+    "company": "Tremendous",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Tremendous is the fast, free, flexible way to send bulk payouts to people in over 230 countries and regions. 20,000+ companies ranging from mom-and-pops to Google, MIT, and United Way have sent over $1 billion, saving 15 hours a month on average. In both our product and our workplace, we’re intentio",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-30T16:50:04.824477",
+    "first_seen": "2026-10-30T16:50:04.824479"
+  },
+  {
+    "id": "67d51e16efcadac3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151972-regional-sales-manager-asia",
+    "title": "Regional Sales Manager - Asia",
+    "company": "Echodyne",
+    "location": "APAC",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Radar Reinvented. Echodyne offers the world’s first compact solid-state true beam-steering radar for a wide range of industries and applications. Our high-performance radars work in all weather and are designed for autonomous vehicles, uncrewed aircraft &amp; drones, and security of borders, critica",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-30T16:50:04.824289",
+    "first_seen": "2026-10-30T16:50:04.824291"
+  },
+  {
+    "id": "87aa9ff49bb0468e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157971-sales-lead-government",
+    "title": "Sales Lead - Government",
+    "company": "Elevenlabs",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-30T16:50:04.823867",
+    "first_seen": "2026-10-30T16:50:04.823868"
+  },
+  {
+    "id": "15b9b75474a7986a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157977-field-sales-development-representative",
+    "title": "Field Sales Development Representative",
+    "company": "Roofr",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "At Roofr , we’re obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That’s what makes Roofr’s CRM special. We started by building essential sales tools like aerial roof measurements and digital sales proposals. But when our custo",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-30T16:50:04.823643",
+    "first_seen": "2026-10-30T16:50:04.823646"
+  },
+  {
+    "id": "4746de80bd0fb746",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157992-regional-sales-director-nordics-sweden",
+    "title": "Regional Sales Director, Nordics (Sweden)",
+    "company": "Kong Inc.",
+    "location": "Sweden",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. About ",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-30T16:50:04.823307",
+    "first_seen": "2026-10-30T16:50:04.823315"
+  },
+  {
+    "id": "3c7bfd17b3476aab",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157988-supply-chain-manager",
+    "title": "Supply Chain Manager",
+    "company": "Nebius",
+    "location": "APAC",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-30T16:50:02.294882",
+    "first_seen": "2026-10-30T16:50:02.294888"
+  },
+  {
+    "id": "7fbd92fbe436aac8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158018-ai-trainers-network-chinese-simplified",
+    "title": "AI Trainers Network - Chinese (Simplified)",
+    "company": "Welo Global",
+    "location": "Canada,  China,  Malaysia,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-30T16:49:59.974668",
+    "first_seen": "2026-10-30T16:49:59.974672"
+  },
+  {
+    "id": "36917d1265aceeda",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158022-sales-engineering-manager-core-mainland-europe",
+    "title": "Sales Engineering Manager Core - Mainland Europe",
+    "company": "Samsara",
+    "location": "France,  Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-30T16:49:59.601398",
+    "first_seen": "2026-10-30T16:49:59.601407"
+  },
+  {
+    "id": "fdd76b71e84a0b1f",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+    "title": "Cloud Engineer Automation",
+    "company": "Smile Digital Health",
+    "location": "Toronto, Ontario",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "design",
+      "grafana",
+      "infosec",
+      "python",
+      "customer support",
+      "marketing",
+      "dev",
+      "quality assurance",
+      "devops",
+      "education"
+    ],
+    "description_snippet": "Working for a company like Smile Digital Health means supporting our mandate for #BetterGlobalHealth . We strive towards this goal every day, and the results can be seen in the impact of our innovative health data platform and data management solutions, which are used in over 20 countries. We were #",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T16:49:54.579182",
+    "first_seen": "2026-10-30T16:49:54.579188"
+  },
+  {
+    "id": "8353eeb77b165935",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=8ded676ad40222cb",
+    "title": "Energy Engineer",
+    "company": "Qualus",
+    "location": "Reno, NV, USA",
+    "is_remote": true,
+    "salary": "USD 65,000 – 115,000/yearly",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "Position Overview:\n\n**Power your future with Qualus as** an Energy Engineer. Our engineers provide engineering and/or technical services in support of our Evaluation Measurement & Verification projects and to our utility clients. The successful candidate will be responsible for performing basic engi",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-30T16:49:42.009203",
+    "first_seen": "2026-10-30T16:49:42.009206"
+  },
+  {
     "id": "e3045f12d044a100",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/157929-ai-trainers-network-belarusian",
