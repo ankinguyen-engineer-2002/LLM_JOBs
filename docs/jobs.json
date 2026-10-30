@@ -1,5 +1,367 @@
 [
   {
+    "id": "0aeb894d21289e1c",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/keeper-security-consumer-support-specialist-weekend-shift-sunday-thursday",
+    "title": "Consumer Support Specialist (Weekend Shift, Sunday - Thursday)",
+    "company": "Keeper Security",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote, US Keeper is hiring a passionate Technical Consumer Support Specialist to contribute knowledge and expertise to our B2C Support team. This is a 100% remote position from select locations (Central, Mountain or Eastern Time Zones) with an opportunity to work a hybrid schedule for",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-30T10:27:27.583793",
+    "first_seen": "2026-10-30T10:27:27.583794"
+  },
+  {
+    "id": "e019c9a0316dfa3f",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/smartsheet-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria",
+    "title": "DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria)",
+    "company": "Smartsheet",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: -REMOTE, BULGARIA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncoverin",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-30T10:27:27.583207",
+    "first_seen": "2026-10-30T10:27:27.583208"
+  },
+  {
+    "id": "a4e44e0010a7e490",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer",
+    "title": "Sr. IT Systems Engineer",
+    "company": "Carrot",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand multinational employers, health plans, and health ",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-30T10:27:27.582820",
+    "first_seen": "2026-10-30T10:27:27.582822"
+  },
+  {
+    "id": "264cc5064ab775af",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/anthropic-autonomous-systems-security-engineer",
+    "title": "Autonomous Systems Security Engineer",
+    "company": "Anthropic",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Remote-Friendly (Travel Required) | San Francisco, CA About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed rese",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-30T10:27:27.582228",
+    "first_seen": "2026-10-30T10:27:27.582230"
+  },
+  {
+    "id": "b952e27154e41be1",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/wrike-cloudops-engineer-network-engineer",
+    "title": "CloudOps Engineer (Network Engineer)",
+    "company": "Wrike",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: Cyprus - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus o",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-30T10:27:27.581556",
+    "first_seen": "2026-10-30T10:27:27.581567"
+  },
+  {
+    "id": "1e6b0f8b9ff9054c",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect",
+    "title": "Principal Enterprise Architect",
+    "company": "Jumio",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: India (remote) Enterprise Architect - Cloud &amp; AI Role Overview Jumio is not just processing transactions; we are pioneering the future of identity intelligence. To lead this transformation, you serve as a visionary AI Adoption Catalyst and Systems Architect , redefining our technic",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-30T10:27:27.203592",
+    "first_seen": "2026-10-30T10:27:27.203604"
+  },
+  {
+    "id": "ddd60b594f87fbc6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156970-dental-field-trainer-birmingham",
+    "title": "Dental Field Trainer - Birmingham",
+    "company": "Dandy",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "education & e-learning"
+    ],
+    "description_snippet": "Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the dental practice through technology. As we expand our reach globall",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-30T10:23:05.781775",
+    "first_seen": "2026-10-30T10:23:05.781778"
+  },
+  {
+    "id": "f579755ad2b553d3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157769-ai-trainers-network-amharic",
+    "title": "AI Trainers Network - Amharic",
+    "company": "Welo Global",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T10:23:05.781565",
+    "first_seen": "2026-10-30T10:23:05.781566"
+  },
+  {
+    "id": "5c0733241a4db031",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157773-ai-trainers-network-basque",
+    "title": "AI Trainers Network - Basque",
+    "company": "Welo Global",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T10:23:05.781473",
+    "first_seen": "2026-10-30T10:23:05.781483"
+  },
+  {
+    "id": "64e73c9fb40db075",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/149532-sustaining-operations-engineer",
+    "title": "Sustaining Operations Engineer",
+    "company": "Canonical",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (Docker and LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networkin",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-30T10:23:05.504169",
+    "first_seen": "2026-10-30T10:23:05.504170"
+  },
+  {
+    "id": "bfb798139e8c2aa8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/156858-senior-software-engineer-fundraising-remote",
+    "title": "Senior Software Engineer (Fundraising) — Remote",
+    "company": "GiveDirectly",
+    "location": "Canada,  UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About GiveDirectly What if the most effective way to fight poverty was also the simplest: give people money and trust them to decide what they need? Since 2011, GiveDirectly has proven that idea at scale. We’ve delivered more than $1B in cash directly to 2+ million people living in poverty and crisi",
+    "posted_date": "2026-10-24",
+    "scraped_at": "2026-10-30T10:23:05.503471",
+    "first_seen": "2026-10-30T10:23:05.503472"
+  },
+  {
+    "id": "ff0ac9940508cf17",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151470-blockchain-security-engineer-solidity-rust-golang",
+    "title": "Blockchain Security Engineer - (Solidity / Rust / Golang)",
+    "company": "CertiK",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "About the Company CertiK is the largest blockchain security auditor and provides a comprehensive suite of tools to secure the industry at scale. To date, CertiK has worked with over 4,900 Enterprise clients, secured over $557 billion worth of digital assets, and has detected over 18,000 vulnerabilit",
+    "posted_date": "2026-10-25",
+    "scraped_at": "2026-10-30T10:23:05.503170",
+    "first_seen": "2026-10-30T10:23:05.503171"
+  },
+  {
+    "id": "0363312a8649ad49",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157614-staff-solutions-engineer-ai-specialist",
+    "title": "Staff Solutions Engineer - AI Specialist",
+    "company": "Kong Inc.",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. About ",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-30T10:23:05.501722",
+    "first_seen": "2026-10-30T10:23:05.501724"
+  },
+  {
+    "id": "ff57c58788238d01",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157649-sr-software-engineer-ai-tools-mxc",
+    "title": "Sr. Software Engineer, AI Tools (MXC)",
+    "company": "AlertMedia",
+    "location": "Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Do work that matters. At AlertMedia , we help organizations protect their people, operations, and brand. Our modern Risk Intelligence and Response platform empowers teams to detect emerging threats, assess impact, and respond with confidence. We believe building resilience should be simpler—and it s",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-30T10:23:05.501592",
+    "first_seen": "2026-10-30T10:23:05.501593"
+  },
+  {
+    "id": "776eafa9121c5c87",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157644-sr-software-engineer-ai-agent-orchestration-mxc",
+    "title": "Sr. Software Engineer, AI Agent & Orchestration (MXC)",
+    "company": "AlertMedia",
+    "location": "Mexico",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Do work that matters. At AlertMedia , we help organizations protect their people, operations, and brand. Our modern Risk Intelligence and Response platform empowers teams to detect emerging threats, assess impact, and respond with confidence. We believe building resilience should be simpler—and it s",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-10-30T10:23:05.501405",
+    "first_seen": "2026-10-30T10:23:05.501406"
+  },
+  {
+    "id": "b8a65344937528d8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157805-principal-engineer-applied-ai-fullstack-backend",
+    "title": "Principal Engineer, Applied AI (Fullstack/Backend)",
+    "company": "hims &#038; hers",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatmen",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T10:23:05.500458",
+    "first_seen": "2026-10-30T10:23:05.500459"
+  },
+  {
+    "id": "00a57663a77eb399",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157831-staff-solutions-engineer-dubai",
+    "title": "Staff Solutions Engineer (Dubai)",
+    "company": "Kong Inc.",
+    "location": "UAE",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. About ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T10:23:05.500019",
+    "first_seen": "2026-10-30T10:23:05.500020"
+  },
+  {
+    "id": "cc3c962b3d446fa5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/157842-people-ai-automation-engineer",
+    "title": "People AI & Automation Engineer",
+    "company": "Deepgram",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voic",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T10:23:05.499921",
+    "first_seen": "2026-10-30T10:23:05.499922"
+  },
+  {
+    "id": "a0134814aec8d9de",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/151566-senior-ml-engineer",
+    "title": "Senior ML Engineer",
+    "company": "Quilter",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Quilter At Quilter, we are helping electrical engineers save time and accomplish more by automating the tedious and time-consuming task of designing printed circuit boards (PCBs). Our small team is composed of experts in electrical engineering, electromagnetic simulation, ML/AI, and high-perfo",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-10-30T10:23:04.366321",
+    "first_seen": "2026-10-30T10:23:04.366322"
+  },
+  {
+    "id": "11ad7fe67b18b35c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c80d63f8fa498ba7",
+    "title": "Product Data Scientist",
+    "company": "Hipcamp",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "data engineering",
+      "rust"
+    ],
+    "description_snippet": "### **About Hipcamp**\n\nOver the past decade, Hipcamp has unlocked access to 5 million acres of private camping around the world. In addition to hosting over 120k campsites you won’t find anywhere else, Hipcamp also has the best collection of bookable tent, RV and cabin sites for all camping styles. ",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-10-30T10:22:47.330212",
+    "first_seen": "2026-10-30T10:22:47.330213"
+  },
+  {
     "id": "bccba969ad0e5751",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=198a1b38a0edace7",
