@@ -1,5 +1,43 @@
 [
   {
+    "id": "bccba969ad0e5751",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=198a1b38a0edace7",
+    "title": "Manufacturing Engineer",
+    "company": "Anduril",
+    "location": "Waltham, MA, USA",
+    "is_remote": false,
+    "salary": "USD 132,000 – 175,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century's most innovative companies to the defense industry, Anduril is changing how mi",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-30T05:34:22.409131",
+    "first_seen": "2026-10-30T05:34:22.409132"
+  },
+  {
+    "id": "eb46783d77f8989c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=fd09b95b68658525",
+    "title": "Engineering Technician",
+    "company": "GEORG FISCHER",
+    "location": "Shawnee, OK, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "scala"
+    ],
+    "description_snippet": "The Engineering Technician I supports Product Engineering by creating and maintaining engineering drawings, product documentation, and controlled product master data. The position uses SolidWorks and SAP/ECTR to complete defined assignments involving product models and drawings, specification sheets",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-10-30T05:34:19.179247",
+    "first_seen": "2026-10-30T05:34:19.179252"
+  },
+  {
     "id": "cc883f9ec6053cda",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes",
