@@ -1,5 +1,217 @@
 [
   {
+    "id": "0e739838919cf97f",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/bybit-client-service-analyst-livechat-turkish-required",
+    "title": "Client Service Analyst - Livechat (Turkish required)",
+    "company": "Bybit",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "front-end programming"
+    ],
+    "description_snippet": "Headquarters: Europe - Remote; Istanbul, Turkey About Us Established in 2018, Bybit is one of the world’s leading cryptocurrency exchanges and digital financial platforms, serving over 80 million users across more than 200 countries and regions. Powered by world-class technology and a user-first min",
+    "posted_date": "2026-10-31",
+    "scraped_at": "2026-10-31T10:00:42.111001",
+    "first_seen": "2026-10-31T10:00:42.111005"
+  },
+  {
+    "id": "a1f028079b3461bd",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/bybit-client-service-analyst-p2p",
+    "title": "Client Service Analyst - P2P",
+    "company": "Bybit",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "front-end programming"
+    ],
+    "description_snippet": "Headquarters: APAC - Remote About Us Established in 2018, Bybit is one of the world’s leading cryptocurrency exchanges and digital financial platforms, serving over 80 million users across more than 200 countries and regions. Powered by world-class technology and a user-first mindset, Bybit delivers",
+    "posted_date": "2026-10-31",
+    "scraped_at": "2026-10-31T10:00:42.110593",
+    "first_seen": "2026-10-31T10:00:42.110603"
+  },
+  {
+    "id": "809cfbb9cf558ea3",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/ritual-developer-experience-engineer",
+    "title": "Developer Experience Engineer",
+    "company": "Ritual",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote About Ritual&nbsp; Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications ",
+    "posted_date": "2026-10-31",
+    "scraped_at": "2026-10-31T10:00:41.616081",
+    "first_seen": "2026-10-31T10:00:41.616083"
+  },
+  {
+    "id": "2d492594f4bd01dc",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-knowledge-graph",
+    "title": "Backend Engineer, Knowledge Graph",
+    "company": "GitLab",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote, Canada; Remote, United States GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 5",
+    "posted_date": "2026-10-31",
+    "scraped_at": "2026-10-31T10:00:41.615799",
+    "first_seen": "2026-10-31T10:00:41.615803"
+  },
+  {
+    "id": "9b7f41ddd7bda992",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/ritual-distributed-systems-engineer",
+    "title": "Distributed Systems Engineer",
+    "company": "Ritual",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote About Ritual&nbsp; Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications ",
+    "posted_date": "2026-10-31",
+    "scraped_at": "2026-10-31T10:00:41.614927",
+    "first_seen": "2026-10-31T10:00:41.614937"
+  },
+  {
+    "id": "77cd45fded399a80",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer",
+    "title": "Backend Product Software Engineer",
+    "company": "Dropbox",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "back-end programming"
+    ],
+    "description_snippet": "Headquarters: Remote - Mexico Role Description As a Product Engineer at Dropbox, you will play a pivotal role in shaping the future of collaboration and file sharing. Your responsibilities will revolve around developing and enhancing our suite of Dropbox Products to deliver exceptional user experien",
+    "posted_date": "2026-10-31",
+    "scraped_at": "2026-10-31T10:00:41.091849",
+    "first_seen": "2026-10-31T10:00:41.091852"
+  },
+  {
+    "id": "071d2d6c800b828d",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1",
+    "title": "Backend Product Software Engineer",
+    "company": "Dropbox",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "back-end programming"
+    ],
+    "description_snippet": "Headquarters: Remote - Mexico Role Description As a Product Engineer at Dropbox, you will play a pivotal role in shaping the future of collaboration and file sharing. Your responsibilities will revolve around developing and enhancing our suite of Dropbox Products to deliver exceptional user experien",
+    "posted_date": "2026-10-31",
+    "scraped_at": "2026-10-31T10:00:41.091455",
+    "first_seen": "2026-10-31T10:00:41.091466"
+  },
+  {
+    "id": "db7f65a86c83307f",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-online-client-support-amp-travel-booking-we-will-train-you-destination-careers-1137604",
+    "title": "Online Client Support &amp; Travel Booking We Will Train You",
+    "company": "Destination Careers",
+    "location": "Dallas, Texas",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "travel",
+      "education",
+      "customer support",
+      "virtual assistant",
+      "non tech"
+    ],
+    "description_snippet": "We are seeking a reliable and service-driven Client Support &amp; Booking Assistant to help clients with planning needs, booking coordination, and general customer support. This remote role is ideal for someone who enjoys assisting others, communicates professionally, and thrives in a flexible work ",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-10-31T09:56:19.691979",
+    "first_seen": "2026-10-31T09:56:19.691987"
+  },
+  {
+    "id": "a77c94918d5415c6",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c82e268db7b77e32",
+    "title": "Lead AWS Data/Generative AI Data Enginee",
+    "company": "Acquitynode LLC",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 58 – 70/hourly",
+    "job_type": "contract",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "aws",
+      "data engineering",
+      "data warehouse",
+      "java",
+      "scala",
+      "generative ai"
+    ],
+    "description_snippet": "**Job Overview**\n\nWe are seeking a dynamic and experienced Lead AWS Data/Generative AI Data Engineer to spearhead the development and management of cutting-edge data solutions in a cloud-first environment. This role offers an exciting opportunity to lead innovative projects involving big data system",
+    "posted_date": "2026-10-19",
+    "scraped_at": "2026-10-31T09:56:15.677246",
+    "first_seen": "2026-10-31T09:56:15.677248"
+  },
+  {
+    "id": "2332bea409325e00",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7a65ae14ba65e10f",
+    "title": "Power BI Consulting Engineer",
+    "company": "HCA Healthcare",
+    "location": "Nashville, TN, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "power bi",
+      "rust"
+    ],
+    "description_snippet": "Last year our HCA Healthcare colleagues invested over 156,000 hours volunteering in our communities. As a(an) Consulting Application Engineer with HCA Healthcare you can be a part of an organization that is devoted to giving back!\n\n##### **Job Summary and Qualifications**\n\n##### **JOB SUMMARY** **Th",
+    "posted_date": "2026-10-31",
+    "scraped_at": "2026-10-31T09:56:15.675677",
+    "first_seen": "2026-10-31T09:56:15.675682"
+  },
+  {
+    "id": "62e65123e54f269d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=498d06dc3396eabc",
+    "title": "Commissioning Engineer Associate",
+    "company": "M.C. Dean, Inc.",
+    "location": "York, SC, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "rust"
+    ],
+    "description_snippet": "Overview:\n\n**About M.C. Dean**\n\nM.C. Dean is *Building Intelligence®.* We design, build, operate, and maintain cyber-physical solutions for the nation’s most recognizable mission critical facilities, secure environments, complex infrastructure, and global enterprises. The company’s capabilities incl",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-31T09:56:05.671419",
+    "first_seen": "2026-10-31T09:56:05.671421"
+  },
+  {
     "id": "03bece2e928b13a5",
     "source": "remoteok",
     "url": "https://remoteOK.com/remote-jobs/remote-country-manager-canada-polaroid-1137602",
