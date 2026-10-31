@@ -1,5 +1,97 @@
 [
   {
+    "id": "607fddb5082c5bb5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158145-ai-trainers-network-croatian-talent-hub",
+    "title": "AI Trainers Network - Croatian Talent Hub",
+    "company": "Welo Global",
+    "location": "Croatia,  Serbia,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’",
+    "posted_date": "2026-10-31",
+    "scraped_at": "2026-10-31T13:29:51.605031",
+    "first_seen": "2026-10-31T13:29:51.605033"
+  },
+  {
+    "id": "ad007452ff68a8fd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158151-ai-trainers-network-czech",
+    "title": "AI Trainers Network - Czech",
+    "company": "Welo Global",
+    "location": "Czechia,  Slovakia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’",
+    "posted_date": "2026-10-31",
+    "scraped_at": "2026-10-31T13:29:51.604924",
+    "first_seen": "2026-10-31T13:29:51.604926"
+  },
+  {
+    "id": "2fc81b985bdcd74b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158155-ai-trainers-network-danish",
+    "title": "AI Trainers Network - Danish",
+    "company": "Welo Global",
+    "location": "Denmark,  France,  Germany,  Spain,  Sweden,  UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’",
+    "posted_date": "2026-10-31",
+    "scraped_at": "2026-10-31T13:29:51.604799",
+    "first_seen": "2026-10-31T13:29:51.604808"
+  },
+  {
+    "id": "89416515d9600328",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158160-senior-data-intelligence-engineer",
+    "title": "Senior Data Intelligence Engineer",
+    "company": "Deepgram",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voic",
+    "posted_date": "2026-10-31",
+    "scraped_at": "2026-10-31T13:29:47.236140",
+    "first_seen": "2026-10-31T13:29:47.236150"
+  },
+  {
+    "id": "0c219e6ee65d10f7",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=692af44bfd2a6ed8",
+    "title": "Data Architect",
+    "company": "Osair Technologies",
+    "location": "Clarksburg, WV, USA",
+    "is_remote": true,
+    "salary": "USD 180,000 – 200,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "data engineering",
+      "data warehouse"
+    ],
+    "description_snippet": "**Job Title:** Data Architect / Program Lead\n\n**Location:** Remote (Must be able to travel to Clarksburg, WV, approximately once a month as needed)\n\n**Clearance:** US Citizenship with Active Secret Clearance (Mandatory)\n\n**Key Skills Required:**\n\n* Strong hands-on experience with **Data Mesh Archite",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-10-31T13:29:33.125549",
+    "first_seen": "2026-10-31T13:29:33.125551"
+  },
+  {
     "id": "0e739838919cf97f",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/bybit-client-service-analyst-livechat-turkish-required",
