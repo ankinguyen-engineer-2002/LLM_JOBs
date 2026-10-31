@@ -1,5 +1,27 @@
 [
   {
+    "id": "e16bf69c466f9256",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=bf1ea5e0d550d2c5",
+    "title": "AI Specialist",
+    "company": "Emerald Technologies",
+    "location": "Salem, NH, USA",
+    "is_remote": false,
+    "salary": "USD 65 – 80/hourly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "data engineering",
+      "scala"
+    ],
+    "description_snippet": "Emerald Technologies is seeking an experienced AI Specialist to build out solutions and features for our transformational AI Data Platform. This will entail a mixture of software and data engineering, agentic ai builds, and analytics. The ideal candidate is technically fluent, highly organized, and ",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-10-30T23:59:30.615890",
+    "first_seen": "2026-10-30T23:59:30.615892"
+  },
+  {
     "id": "bbab39f8d4d78ca7",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/158126-dental-field-trainer-seattle",
