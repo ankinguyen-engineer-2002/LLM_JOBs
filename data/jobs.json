@@ -1,5 +1,447 @@
 [
   {
+    "id": "9db64f7380e89198",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
+    "title": "Senior ML Engineer (R14284)",
+    "company": "Oportun",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote - India Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:51:06.958228",
+    "first_seen": "2026-11-01T10:51:06.958231"
+  },
+  {
+    "id": "04f63212eb76b95a",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/oportun-sr-dataops-engineer-r14334",
+    "title": "Sr DataOps Engineer (R14334)",
+    "company": "Oportun",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote - MX Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with the confidence to build a better financial fu",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:51:06.957503",
+    "first_seen": "2026-11-01T10:51:06.957506"
+  },
+  {
+    "id": "072d221165b78572",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-product-management-growth",
+    "title": "Principal Product Management, Growth",
+    "company": "ZoomInfo Technologies LLC",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Remote ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambi",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:51:06.956749",
+    "first_seen": "2026-11-01T10:51:06.956752"
+  },
+  {
+    "id": "0a0fc511ed971172",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/doximity-senior-software-engineer-data",
+    "title": "Senior Software Engineer, Data",
+    "company": "Doximity",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: San Francisco, CA or Remote (U.S.) Location : This role is remote in the United States, Canada, or some countries in South America. Visa sponsorship is not available for this role.&nbsp; Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:51:06.955429",
+    "first_seen": "2026-11-01T10:51:06.955438"
+  },
+  {
+    "id": "b17ee76bbf433b26",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158308-ai-trainers-network-english-australia",
+    "title": "AI Trainers Network - English (Australia)",
+    "company": "Welo Global",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:46:47.941127",
+    "first_seen": "2026-11-01T10:46:47.941130"
+  },
+  {
+    "id": "06f8a7ac7bf93c21",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158310-ai-trainers-network-english-new-zealand",
+    "title": "AI Trainers Network - English (New Zealand)",
+    "company": "Welo Global",
+    "location": "New Zealand",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:46:47.941012",
+    "first_seen": "2026-11-01T10:46:47.941014"
+  },
+  {
+    "id": "49d5d8eea8bc279b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158312-ai-trainers-network-english-philippines",
+    "title": "AI Trainers Network - English (Philippines)",
+    "company": "Welo Global",
+    "location": "Philippines",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:46:47.940915",
+    "first_seen": "2026-11-01T10:46:47.940916"
+  },
+  {
+    "id": "4bfec34be54093d5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158317-ai-trainers-network-dutch-talent-hub",
+    "title": "AI Trainers Network - Dutch Talent Hub",
+    "company": "Welo Global",
+    "location": "Belgium,  Canada,  France,  Germany,  Netherlands,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:46:47.940814",
+    "first_seen": "2026-11-01T10:46:47.940816"
+  },
+  {
+    "id": "544666a5622c02e7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158321-ai-trainers-network-english-united-kingdom",
+    "title": "AI Trainers Network - English (United Kingdom)",
+    "company": "Welo Global",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About Welo Data Welo Data, a Welo Global brand, is the multilingual data and evaluation partner for foundation labs and enterprises deploying GenAI systems globally. They deliver the human judgment, data infrastructure, and evaluation systems that ensure AI models perform reliably across languages, ",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:46:47.940704",
+    "first_seen": "2026-11-01T10:46:47.940706"
+  },
+  {
+    "id": "93092637f2ed3c8c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158328-ai-trainers-network-korean",
+    "title": "AI Trainers Network - Korean",
+    "company": "Welo Global",
+    "location": "Australia,  Brazil,  Canada,  China,  Germany,  Japan,  Malaysia,  New Zealand,  Philippines,  Singapore,  South Korea,  Thailand,  UK,  USA,  Vietnam",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:46:47.940563",
+    "first_seen": "2026-11-01T10:46:47.940565"
+  },
+  {
+    "id": "b28dbd0a098251af",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158333-ai-trainers-network-korean-and-chinese-simplified-bilingual",
+    "title": "AI Trainers Network - Korean and Chinese Simplified Bilingual",
+    "company": "Welo Global",
+    "location": "Europe,  South Korea",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:46:47.940428",
+    "first_seen": "2026-11-01T10:46:47.940437"
+  },
+  {
+    "id": "70cd5404144c7294",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158284-ai-engineer-customer-success",
+    "title": "AI Engineer, Customer Success",
+    "company": "Samsara",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:46:47.504157",
+    "first_seen": "2026-11-01T10:46:47.504159"
+  },
+  {
+    "id": "67bc8fe7481d2847",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158296-golang-system-software-engineer-containers-virtualisation",
+    "title": "Golang System Software Engineer - Containers / Virtualisation",
+    "company": "Canonical",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:46:47.503675",
+    "first_seen": "2026-11-01T10:46:47.503677"
+  },
+  {
+    "id": "c226ac58ee68f445",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158318-senior-ai-engineer-agentic-platform",
+    "title": "Senior AI Engineer, Agentic Platform",
+    "company": "WorkWave",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "We are looking for a product-minded AI engineer to turn what our customers are trying to decide into agents they actually rely on. AskWaive, our in-product assistant, is already live; the work now is quality, coverage, and an experience that wows. This is not a role for a prompt author or a demo bui",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:46:47.503477",
+    "first_seen": "2026-11-01T10:46:47.503488"
+  },
+  {
+    "id": "c1f53d68f0bb36dc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158300-senior-backend-engineer-database-excellence-ruby",
+    "title": "Senior Backend Engineer, Database Excellence (Ruby)",
+    "company": "GitLab",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:46:44.462366",
+    "first_seen": "2026-11-01T10:46:44.462368"
+  },
+  {
+    "id": "c08e95457c988a81",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158315-staff-software-engineer-databases-sre-germany-remote",
+    "title": "Staff Software Engineer - Databases SRE | Germany | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Spain,  Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:46:44.462042",
+    "first_seen": "2026-11-01T10:46:44.462044"
+  },
+  {
+    "id": "22dbf7dc3800d925",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158320-staff-software-engineer-databases-sre-ireland-remote",
+    "title": "Staff Software Engineer - Databases SRE | Ireland | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:46:44.461708",
+    "first_seen": "2026-11-01T10:46:44.461710"
+  },
+  {
+    "id": "620a032a3c84ea93",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158322-senior-applied-data-scientist-ml-engineer",
+    "title": "Senior Applied Data Scientist / ML Engineer",
+    "company": "WorkWave",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "We are looking for a product-minded applied data scientist or engineer to turn raw operational data into products that measurably improve how our customers make decisions and run their businesses. Which label you carry matters less to us than whether customers end up better off. This is not a resear",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:46:44.461353",
+    "first_seen": "2026-11-01T10:46:44.461355"
+  },
+  {
+    "id": "964bc4312202f8fd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158324-staff-software-engineer-databases-sre-spain-remote",
+    "title": "Staff Software Engineer - Databases SRE | Spain | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Spain,  Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T10:46:44.461041",
+    "first_seen": "2026-11-01T10:46:44.461052"
+  },
+  {
+    "id": "2254a0ddf65bad15",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=48ab32b1c3682595",
+    "title": "Data Pipeline Engineer",
+    "company": "Lcmg",
+    "location": "Washington, DC, USA",
+    "is_remote": true,
+    "salary": "USD 65 – 75/hourly",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "gcp",
+      "tableau",
+      "data warehouse"
+    ],
+    "description_snippet": "**Job Overview:**  \nWe are seeking a highly motivated Data Pipeline Engineer to join our team.\n\nThis is a remote position - however local candidates are preferred (DC-Metropolitan Area).\n\n**Strong Experience with the following:**\n\n* Google Cloud Platform (GCP)\n* Amazon Web Services (AWS)\n* Informati",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-11-01T10:46:34.259734",
+    "first_seen": "2026-11-01T10:46:34.259736"
+  },
+  {
+    "id": "c3af13b6a89335fd",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5299043f8e48571c",
+    "title": "Junior Data Engineer",
+    "company": "Rize Beyond Banking",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 40 – 53/hourly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "aws",
+      "power bi",
+      "data engineering",
+      "data warehouse"
+    ],
+    "description_snippet": "**Junior Data Engineer**\n\n**Technology & Innovation Team**\n\n**Location:** Irwindale, CA (100% Remote Work Opportunity)  \n**Employment Type:** Full-Time | Non-Exempt\n\n### **Turn Data Into Possibilities. Build What's Next at Rize!**\n\nAre you passionate about data, technology, and solving problems? Do ",
+    "posted_date": "2026-10-31",
+    "scraped_at": "2026-11-01T10:46:34.257870",
+    "first_seen": "2026-11-01T10:46:34.257873"
+  },
+  {
+    "id": "37f1004c78b3713e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=17f2673aa5bce148",
+    "title": "Microwave and Linac Scientist",
+    "company": "Siemens Healthineers",
+    "location": "Palo Alto, CA, USA",
+    "is_remote": false,
+    "salary": "USD 111,460 – 153,252/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "aws"
+    ],
+    "description_snippet": "Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably.  \n  \nOur inspiring and caring environment forms a global community that celebrates diversity and individuality. We encourage you to step beyond your comfort zone, offering resources and flexibility to foster yo",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-11-01T10:46:29.187557",
+    "first_seen": "2026-11-01T10:46:29.187560"
+  },
+  {
+    "id": "bac44dfb60d08b71",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=04d72ee9e6c55523",
+    "title": "Electromagnetic Effects Scientist I (Aerospace & Defense)",
+    "company": "Electro Magnetic Applications, Inc.",
+    "location": "Lakewood, CO, USA",
+    "is_remote": false,
+    "salary": "USD 72,000 – 81,000/yearly",
+    "job_type": "fulltime",
+    "tags": [],
+    "description_snippet": "**About the Role**\n\nEMA is looking for an early-career scientist to model how electromagnetic energy affects aircraft, spacecraft, and other complex systems. You will run simulations, support testing, and write up results for aerospace primes and emerging technology companies. This is a hands-on tec",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-11-01T10:46:29.185696",
+    "first_seen": "2026-11-01T10:46:29.185699"
+  },
+  {
+    "id": "3698e0ac5f43621d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=bf641e63f2f7778c",
+    "title": "Data Software Engineer",
+    "company": "Render Analytics",
+    "location": "Orlando, FL, USA",
+    "is_remote": false,
+    "salary": "USD 85,000 – 115,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "data engineering",
+      "java"
+    ],
+    "description_snippet": "About the Company\n\nRender Analytics is presented here as a technology-focused business specializing in data engineering, analytics, and software solutions. The company profile should be verified before publishing, as the exact Orlando business identity and its official services have not been confirm",
+    "posted_date": "2026-10-31",
+    "scraped_at": "2026-11-01T10:46:19.410642",
+    "first_seen": "2026-11-01T10:46:19.410645"
+  },
+  {
     "id": "8a0e10efff812c30",
     "source": "remoteok",
     "url": "https://remoteOK.com/remote-jobs/remote-scientific-account-executive-adaptyv-1137608",
