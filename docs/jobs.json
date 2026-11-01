@@ -1,5 +1,89 @@
 [
   {
+    "id": "f7dc5e606e35abf9",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=ea0bc7162f037178",
+    "title": "Digitalization Engineer",
+    "company": "Freudenberg Group",
+    "location": "Findlay, OH, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "power bi"
+    ],
+    "description_snippet": "Working at Freudenberg: \"We will wow your world!\" This is our promise. As a global technology group, we not only make the world cleaner, healthier and more comfortable, but also offer our 52,000 employees a networked and diverse environment where everyone can thrive individually. Be surprised and ex",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-11-01T18:43:10.047103",
+    "first_seen": "2026-11-01T18:43:10.047104"
+  },
+  {
+    "id": "a1e13f48c05eacad",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=ce55a308b20bfba6",
+    "title": "Pricefx Configuration Engineer - 1099 Contractor",
+    "company": "Canidium",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime, contract",
+    "tags": [
+      "sql",
+      "java"
+    ],
+    "description_snippet": "**Pricefx Configuration Engineer**\n==================================\n\n### **Position Type: Independent Contractor (1099)**\n\n### **Engagement Duration: Anticipated 6 months (subject to project milestones and phase extensions)**\n\n### **Estimated Effort: Variable, 20–40 hours/week**\n\n### **Location: R",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-11-01T18:43:10.046110",
+    "first_seen": "2026-11-01T18:43:10.046111"
+  },
+  {
+    "id": "0055e9d06f856351",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d5e3ee92f7bfcb92",
+    "title": "AI Innovation Engineer",
+    "company": "Ellwood Group, Inc.",
+    "location": "New Castle, PA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "aws",
+      "power bi",
+      "scala"
+    ],
+    "description_snippet": "The AI Innovation Engineer is instrumental in identifying, evaluating, developing, and implementing new technology solutions, processes, and products that align with the organization’s strategic goals. This person enhances efficiency, improves quality, and drives competitive advantage in a manufactu",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-11-01T18:43:10.044564",
+    "first_seen": "2026-11-01T18:43:10.044565"
+  },
+  {
+    "id": "f10ba81797b62bc4",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=ccb568294b1c66cd",
+    "title": "Infrastructure Engineer",
+    "company": "Excelsior University",
+    "location": "Albany, NY, USA",
+    "is_remote": false,
+    "salary": "USD 85,000 – 90,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "azure",
+      "aws",
+      "kubernetes",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "We are seeking an infrastructure engineer with broad experience across various technologies to work in a complex and growing environment with a talented Infrastructure team.\n\nThe Infrastructure Engineer is responsible for the support and organization of the Tier 3 Service Desk queue, as well as back",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-11-01T18:43:02.646840",
+    "first_seen": "2026-11-01T18:43:02.646841"
+  },
+  {
     "id": "cca70694eeb3fab8",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/cpg-beyond-mechanical-commissioning-agent-ii",
