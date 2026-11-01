@@ -1,5 +1,68 @@
 [
   {
+    "id": "cca70694eeb3fab8",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/cpg-beyond-mechanical-commissioning-agent-ii",
+    "title": "Mechanical Commissioning Agent II",
+    "company": "CPG Beyond",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: URL: https://www.cpgbeyondthecloud.com TITLE: Mechanical Commissioning Agent II LOCATION: REMOTE &nbsp; POSITION SUMMMARY : &nbsp; The Data Center Mechanical Commissioning Agent II &nbsp;executes commissioning of data center critical systems including generators, CRAC, roof top AHUs, h",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T17:03:18.554867",
+    "first_seen": "2026-11-01T17:03:18.554870"
+  },
+  {
+    "id": "d270d5d4ea605528",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/general-dynamics-information-technology-healthcare-fraud-sme",
+    "title": "Healthcare Fraud SME",
+    "company": "General Dynamics Information Technology",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Maryland, United States URL: https://www.gdit.com Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Public Trust/Other Required: NACI (T1) Job Family: Functional Experts Job Qualifications: Skills: Fraud Analytics, Le",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T17:03:18.554259",
+    "first_seen": "2026-11-01T17:03:18.554271"
+  },
+  {
+    "id": "33b0ca178226d921",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=0ea759aa1bb3e4a9",
+    "title": "Data Engineer",
+    "company": "InductiveHealth",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 130,000 – 145,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "docker",
+      "kafka",
+      "azure",
+      "aws",
+      "data engineering",
+      "kubernetes",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Mission + People + Culture**: With a corporate **Mission** to *stop disease through technology,* InductiveHealth is the market leader in software-as-a-service (SaaS) solutions to public health agencies. Our **People** come from all backgrounds and walks of life ranging from world class experts in ",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-11-01T16:58:35.954517",
+    "first_seen": "2026-11-01T16:58:35.954521"
+  },
+  {
     "id": "4582f26f498d0511",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/158292-associate-sales-engineer-se-desk-french-bilingual",
