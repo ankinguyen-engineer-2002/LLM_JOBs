@@ -1,5 +1,41 @@
 [
   {
+    "id": "825d3e9404c4df9c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158399-senior-software-engineer-enterprise-ai",
+    "title": "Senior Software Engineer - Enterprise AI",
+    "company": "Spotify",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities need",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T23:46:41.225150",
+    "first_seen": "2026-11-01T23:46:41.225162"
+  },
+  {
+    "id": "9d59b4df2e724f85",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158395-senior-mlops-engineer",
+    "title": "Senior MLOps Engineer",
+    "company": "ŌURA",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Our mission at ŌURA is to empower every person to own their inner potential. Our award-winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep quality by using their Oura Ring and its connected app. We've helped millions of people understand and imp",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-01T23:46:40.012964",
+    "first_seen": "2026-11-01T23:46:40.012977"
+  },
+  {
     "id": "49934eae1a8e9905",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=e6d10524e19288c9",
