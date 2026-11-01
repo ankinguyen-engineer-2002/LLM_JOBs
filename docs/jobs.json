@@ -1,5 +1,25 @@
 [
   {
+    "id": "49934eae1a8e9905",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=e6d10524e19288c9",
+    "title": "Sr. Data & AI Platform Engineer",
+    "company": "Altimate Medical",
+    "location": "Morton, MN, USA",
+    "is_remote": false,
+    "salary": "USD 125,000 – 140,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "machine learning"
+    ],
+    "description_snippet": "At AltimateMedical, we improve the quality of life for the individuals and clinicians who rely on our products every day. Our story began with EasyStand, our line of standing devices. Over the years, we have expanded our brand portfolio through both innovation and strategic growth, adding respected ",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-11-01T20:57:47.165993",
+    "first_seen": "2026-11-01T20:57:47.165994"
+  },
+  {
     "id": "f7dc5e606e35abf9",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=ea0bc7162f037178",
