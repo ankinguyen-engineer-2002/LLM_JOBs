@@ -1,5 +1,143 @@
 [
   {
+    "id": "eda109d7fb4de849",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/salesloft-salesforce-business-systems-administrator",
+    "title": "Salesforce Business Systems Administrator",
+    "company": "Salesloft",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "devops and sysadmin"
+    ],
+    "description_snippet": "Headquarters: United States, Remote ROLE: Business Systems Administrator Location: United States, Remote This is a fully remote opportunity and can be worked from any location in the United States. ABOUT THE COMPANY:&nbsp; Salesloft is building the next era of enterprise revenue — one where teams ma",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T11:39:01.914314",
+    "first_seen": "2026-11-02T11:39:01.914318"
+  },
+  {
+    "id": "cfdbb913ea4673ec",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/descript-software-engineer-infrastructure",
+    "title": "Software Engineer, Infrastructure",
+    "company": "Descript",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: San Francisco, CA or Remote, US Platform owns the foundation the company runs on: compute and deployment, reliability and on-call, CI/CD and monorepo health, developer environments, the infrastructure that model training and inference run on, and the security boundaries around all of i",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T11:39:01.465471",
+    "first_seen": "2026-11-02T11:39:01.465477"
+  },
+  {
+    "id": "247526af9b56662e",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/smartsheet-principal-software-engineer-remote-eligible-in-bulgaria",
+    "title": "Principal Software Engineer (Remote Eligible in Bulgaria)",
+    "company": "Smartsheet",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "back-end programming"
+    ],
+    "description_snippet": "Headquarters: -REMOTE, BULGARIA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncoverin",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T11:39:01.138270",
+    "first_seen": "2026-11-02T11:39:01.138280"
+  },
+  {
+    "id": "cb1aa618edb821e6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158448-staff-software-engineer-databases-sre-sweden-remote",
+    "title": "Staff Software Engineer - Databases SRE | Sweden | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Spain,  Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T11:34:40.807183",
+    "first_seen": "2026-11-02T11:34:40.807184"
+  },
+  {
+    "id": "1eed9eaba46aaf50",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158452-staff-software-engineer-databases-sre-uk-remote",
+    "title": "Staff Software Engineer - Databases SRE | UK | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Spain,  Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T11:34:40.806956",
+    "first_seen": "2026-11-02T11:34:40.806961"
+  },
+  {
+    "id": "44f0ac95f72e525b",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-virtual-scheduling-assistant-destination-careers-1137610",
+    "title": "Virtual Scheduling Assistant",
+    "company": "Destination Careers",
+    "location": "Texas",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "travel",
+      "admin",
+      "exec",
+      "ops"
+    ],
+    "description_snippet": "Job Title: Virtual Scheduling Assistant &nbsp; &nbsp; About Us: We are a dynamic travel company committed to delivering seamless and personalized travel planning experiences. We specialize in luxury vacations, destination weddings, honeymoons, cruises, and family getaways. Our team thrives on organi",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-02T11:34:39.633370",
+    "first_seen": "2026-11-02T11:34:39.633375"
+  },
+  {
+    "id": "f6421e17f595ffe7",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c4810b57b2511cb4",
+    "title": "Data Engineer",
+    "company": "Platinum Consulting Agency",
+    "location": "College Park, GA, USA",
+    "is_remote": false,
+    "salary": "USD 100,000 – 130,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "aws",
+      "data engineering",
+      "data warehouse"
+    ],
+    "description_snippet": "Job Description\n\nPlatinum Consulting Agency is seeking a skilled Data Engineer to build, maintain, and optimize data systems that support business operations and decision-making. The ideal candidate will have experience developing data pipelines, managing databases, and working with modern data tech",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-02T11:34:35.339082",
+    "first_seen": "2026-11-02T11:34:35.339083"
+  },
+  {
     "id": "cc5f2c4a84366282",
     "source": "remoteok",
     "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
