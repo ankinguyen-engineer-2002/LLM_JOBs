@@ -1,5 +1,121 @@
 [
   {
+    "id": "47afd19612e0133d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1e3db91a22ab7332",
+    "title": "Database Administrator",
+    "company": "Mission Vista Academy",
+    "location": "Poway, CA, USA",
+    "is_remote": false,
+    "salary": "USD 50 – 53/hourly",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "aws",
+      "scala"
+    ],
+    "description_snippet": "**IMPORTANT: THE POSITION WILL NOT BEGIN WORK UNTIL JAN 2027**\n\n**NEED TO BE ABLE TO COMMUTE TO: 13475 Danielson St., Poway, CA 92064**\n\n**Summary of Position**\n\nThe Database Administrator (DBA) serves as the primary custodian of data assets, ensuring that systems remain highly available, performant",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-11-02T22:34:29.393136",
+    "first_seen": "2026-11-02T22:34:29.393139"
+  },
+  {
+    "id": "7b3f6eae9dfcc93e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4000ac640dc22538",
+    "title": "GenAI Engineer, Associate",
+    "company": "Huron Consulting Group",
+    "location": "Chicago, IL, USA",
+    "is_remote": true,
+    "salary": "USD 85,000 – 129,800/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "openai",
+      "generative ai"
+    ],
+    "description_snippet": "Huron is redefining what a global consulting organization can be. Advancing new ideas every day to build even stronger clients, individuals and communities. We’re helping our clients find new ways to drive growth, enhance business performance and sustain leadership in the markets they serve. And, we",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T22:34:24.427842",
+    "first_seen": "2026-11-02T22:34:24.427846"
+  },
+  {
+    "id": "6218c3a93c1fb362",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=eb6992515f16c3fc",
+    "title": "Data Engineer",
+    "company": "Accenture Federal Services",
+    "location": "Arlington, VA, USA",
+    "is_remote": true,
+    "salary": "USD 91,700 – 178,700/yearly",
+    "job_type": "nan",
+    "tags": [
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "At Accenture Federal Services, nothing matters more than helping the US federal government make the nation stronger and safer and life better for people. Our 13,000+ people are united in a shared purpose to pursue the limitless potential of technology and ingenuity for clients across defense, nation",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T22:34:19.308179",
+    "first_seen": "2026-11-02T22:34:19.308183"
+  },
+  {
+    "id": "ca555137358c925a",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=9caad441ed3f8c3a",
+    "title": "PV Power Plant Startup & Testing Manager",
+    "company": "Westinghouse Electric - USA",
+    "location": "Juno Beach, FL, USA",
+    "is_remote": true,
+    "salary": "USD 99 – 104/hourly",
+    "job_type": "contract",
+    "tags": [],
+    "description_snippet": "**PV Power Plant Startup & Testing Manager**\n============================================\n\n**Why this role matters**\n-------------------------\n\nHelp accelerate clean energy by bringing utility-scale solar assets online—safely, reliably, and on schedule. As our client’s commissioning partner, you’ll ",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T22:34:15.092711",
+    "first_seen": "2026-11-02T22:34:15.092713"
+  },
+  {
+    "id": "757aa2ae4cb588fa",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=ebaa9267994b4b60",
+    "title": "Senior Staff Cloud Engineer",
+    "company": "HCA Healthcare",
+    "location": "Nashville, TN, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "azure",
+      "aws",
+      "gcp",
+      "scala"
+    ],
+    "description_snippet": "Are you passionate about the patient experience? At HCA Healthcare, we are committed to caring for patients with purpose and integrity. We care like family! Jump-start your career as a Senior Staff Cloud Engineer today with HCA Healthcare.\n\n##### **Job Summary and Qualifications**\n\n##### **Position ",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T22:34:15.092532",
+    "first_seen": "2026-11-02T22:34:15.092537"
+  },
+  {
+    "id": "c62be7a9d35ff92f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=37744ad8166892a4",
+    "title": "Data Engineer",
+    "company": "DuCharme, McMillen & Associates, Inc.",
+    "location": "Fort Wayne, IN, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "data engineering",
+      "data warehouse"
+    ],
+    "description_snippet": "As an employee-owned company, DMA prioritizes employees. Low turnover rates and tenured teams are living proof:\n\n* 2026 Great Places to Work Certified\n* Employee stock ownership program eligibility begins on day one of employment (ESOP contribution is targeted at 6% of your annual compensation)\n* Co",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T22:34:09.505669",
+    "first_seen": "2026-11-02T22:34:09.505673"
+  },
+  {
     "id": "8d017798525ef615",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/158557-frontend-engineer-ads-campaign-manager",
