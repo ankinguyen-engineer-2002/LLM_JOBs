@@ -1,5 +1,39 @@
 [
   {
+    "id": "8d017798525ef615",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158557-frontend-engineer-ads-campaign-manager",
+    "title": "Frontend Engineer, Ads Campaign Manager",
+    "company": "Reddit",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T20:30:12.847310",
+    "first_seen": "2026-11-02T20:30:12.847323"
+  },
+  {
+    "id": "bcd25d09bd4b75c5",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=35aaccb6f282e262",
+    "title": "Circuit Design Engineer",
+    "company": "Aquila Technology",
+    "location": "Lexington, MA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [],
+    "description_snippet": "**Circuit Design Engineer**\n\n**Clearance Level:** Must be able to obtain an active Secret Clearance due to the nature of the work - Must be US Citizen\n\n**Location:** This role will require Hybrid schedule with at least 2 of those days being on site - must live within 100miles of Lexington, MA\n\nAt Aq",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-11-02T20:29:47.155673",
+    "first_seen": "2026-11-02T20:29:47.155674"
+  },
+  {
     "id": "19782223a05e8bc6",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer",
