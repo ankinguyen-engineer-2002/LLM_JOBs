@@ -1,5 +1,335 @@
 [
   {
+    "id": "19782223a05e8bc6",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer",
+    "title": "Senior Software Engineer",
+    "company": "WelcomeHome Software",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Atlanta, Georgia URL: https://www.welcomehomesoftware.com/homecarecrm?utm_term=home%20care%20software&amp;utm_campaign=Lead+Gen+-+Home+Care+-+Branded+%26+General&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_acc=3279896849&amp;hsa_cam=22158696391&amp;hsa_grp=179100793812&amp;hsa_ad",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T17:02:00.847298",
+    "first_seen": "2026-11-02T17:02:00.847302"
+  },
+  {
+    "id": "038fae70a3f79db5",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/american-straight-a-academy-computer-science-instructor",
+    "title": "Computer Science Instructor",
+    "company": "American Straight A Academy",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: United States URL: https://www.asaaedu.com/home American Straight A Academy (ASAA) Part-Time Remote High School Science Teachers Wanted &nbsp; Teach globally. Work flexibly. Join a fast-growing international online school delivering American high school education to students worldwide.",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T17:02:00.847007",
+    "first_seen": "2026-11-02T17:02:00.847010"
+  },
+  {
+    "id": "3dc042f167db7e25",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/crowdstrike-regional-principal-analyst-falcon-complete-remote",
+    "title": "Regional Principal Analyst, Falcon Complete (Remote)",
+    "company": "CrowdStrike",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Missouri, United States URL: http://www.crowdstrike.com As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern sec",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T17:02:00.846810",
+    "first_seen": "2026-11-02T17:02:00.846821"
+  },
+  {
+    "id": "a44bcac2f4072153",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158495-enterprise-sales-director-healthcare",
+    "title": "Enterprise Sales Director, Healthcare",
+    "company": "Sierra",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About us Sierra is the leading platform for customer-facing AI agents, working with many of the world's biggest brands — including The GAP, Rocket Mortgage, SoFi, Sutter Health, and SoftBank — to transform how they serve customers and grow their businesses. We are primarily an in-person company base",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T16:57:42.841542",
+    "first_seen": "2026-11-02T16:57:42.841548"
+  },
+  {
+    "id": "613a957d4a7dced8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158499-enterprise-sales-director-retail",
+    "title": "Enterprise Sales Director, Retail",
+    "company": "Sierra",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About us Sierra is the leading platform for customer-facing AI agents, working with many of the world's biggest brands — including The GAP, Rocket Mortgage, SoFi, Sutter Health, and SoftBank — to transform how they serve customers and grow their businesses. We are primarily an in-person company base",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T16:57:42.841209",
+    "first_seen": "2026-11-02T16:57:42.841214"
+  },
+  {
+    "id": "2d3d0a13826902c5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158503-enterprise-sales-leader-consumer-business-services",
+    "title": "Enterprise Sales Leader, Consumer Business Services",
+    "company": "Sierra",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About us Sierra is the leading platform for customer-facing AI agents, working with many of the world's biggest brands — including The GAP, Rocket Mortgage, SoFi, Sutter Health, and SoftBank — to transform how they serve customers and grow their businesses. We are primarily an in-person company base",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T16:57:42.840919",
+    "first_seen": "2026-11-02T16:57:42.840921"
+  },
+  {
+    "id": "36cd63100434cd4d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158506-embedded-devices-software-solution-sales-account-manager",
+    "title": "Embedded Devices Software Solution Sales Account Manager",
+    "company": "Canonical",
+    "location": "APAC,  EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T16:57:42.840651",
+    "first_seen": "2026-11-02T16:57:42.840653"
+  },
+  {
+    "id": "1779b197998121e5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158511-embedded-devices-software-solution-sales-manager-americas",
+    "title": "Embedded Devices Software Solution Sales Manager (Americas)",
+    "company": "Canonical",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T16:57:42.840409",
+    "first_seen": "2026-11-02T16:57:42.840413"
+  },
+  {
+    "id": "b0e739f978bc47ab",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158522-sales-manager-mid-market-emea",
+    "title": "Sales Manager, Mid-Market - EMEA",
+    "company": "Ashby",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Why Join Sales at Ashby Sales at Ashby is a unique opportunity to sell a product customers genuinely love during an AI-fueled market expansion. Over 5,000 companies rely on Ashby, including OpenAI, Doctolib, Bolt, Mistral and Monday.com , and our business is durably growing faster than 100% year-ove",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T16:57:42.840094",
+    "first_seen": "2026-11-02T16:57:42.840106"
+  },
+  {
+    "id": "2ed3083dc393008c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158492-forward-deployed-ai-solutions-engineer",
+    "title": "Forward Deployed AI Solutions Engineer",
+    "company": "Natera",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About the role The Forward Deployed Solutions Engineer will work directly within a business domain (e.g., Commercial, Clinical Operations, Lab Operations, Sales &amp; Marketing, Customer Experience etc.). In your role, you’ll find opportunities for enhancing efficiency and productivity by looking fo",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T16:57:39.263752",
+    "first_seen": "2026-11-02T16:57:39.263754"
+  },
+  {
+    "id": "453b407301f1f67c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158494-containerization-virtualisation-engineer-2",
+    "title": "Containerization & Virtualisation Engineer",
+    "company": "Canonical",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T16:57:39.263426",
+    "first_seen": "2026-11-02T16:57:39.263438"
+  },
+  {
+    "id": "c2ef0b12ce41aa61",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158512-manager-of-data-engineering-delivery-data-science-production-engineering",
+    "title": "Manager of Data Engineering & Delivery (Data Science Production Engineering)",
+    "company": "Natera",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "This is an exciting opportunity to lead a Data Engineering &amp; Delivery (DED) team at Natera , a global leader in precision medicine and genomics testing. As a Manager of the DED team inside our Data Science Production Engineering (DSPE) department, you will have the opportunity to work with Nater",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T16:57:36.236783",
+    "first_seen": "2026-11-02T16:57:36.236794"
+  },
+  {
+    "id": "58abed9f8743a4de",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4238900864f4293c",
+    "title": "Intelligent Automation Engineer - Team Lead | 10+ | Shiloh IL",
+    "company": "Silverthorne Advisory Group, LLC.",
+    "location": "Shiloh, IL, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "aws",
+      "power bi",
+      "machine learning",
+      "databricks",
+      "java",
+      "scala",
+      "generative ai"
+    ],
+    "description_snippet": "Job Description\n  \n  \nSilverthorne Advisory Group is seeking an Intelligent Automation Team Lead to support an exciting and growing opportunity serving Defense sector clients. This position is ideal for an experienced automation leader who enjoys solving complex enterprise automation and business pr",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-11-02T16:57:26.571729",
+    "first_seen": "2026-11-02T16:57:26.571731"
+  },
+  {
+    "id": "8e9c018efd401747",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c48b71e93fb83f1d",
+    "title": "Senior Domain Data Steward",
+    "company": "Vanguard",
+    "location": "Dallas, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "data engineering",
+      "data warehouse",
+      "rust"
+    ],
+    "description_snippet": "The Senior Domain Data Steward serves as the primary domain authority and cross-functional connector across assigned USDI (e.g., Client & Household, Account, Portfolio & Performance, Advisor, Alternative Products, or Reference Data).\n\nWorking hand in hand with Data Product Managers, IT/Engineering t",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-11-02T16:57:26.570348",
+    "first_seen": "2026-11-02T16:57:26.570351"
+  },
+  {
+    "id": "20a73d99b864a1dd",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5b79e273708c9f2d",
+    "title": "Commissioning-Engineer-Telecom-SME, Boise, ID",
+    "company": "FusionIRX",
+    "location": "Boise, ID, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "FusionIRX is seeking a highly accomplished IT/Telecom Network Subject Matter Expert to support the Commissioning Team on a large-scale, high-tech memory manufacturing facility in Boise, Idaho.\n\nThis senior-level contractor will provide technical leadership and commissioning expertise for the facilit",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T16:57:26.570064",
+    "first_seen": "2026-11-02T16:57:26.570069"
+  },
+  {
+    "id": "93a093874246c781",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=68added328445c32",
+    "title": "Senior Financial Data Engineer",
+    "company": "Silverthorne Advisory Group, LLC.",
+    "location": "Crystal City, VA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "data engineering",
+      "databricks",
+      "scala"
+    ],
+    "description_snippet": "Job Description\n  \n  \nSenior Financial Data Engineer\n  \n**Location:** Pentagon or Mark Center (approximately 2x a week)\n  \n**Clearance:** Active Secret Clearance Required\n  \n**Employment Type:** Fulltime Salaried\n  \n**Experience Level:** Experienced/Senior\n  \n**Education:** Bachelor’s or Master’s De",
+    "posted_date": "2026-10-22",
+    "scraped_at": "2026-11-02T16:57:22.181520",
+    "first_seen": "2026-11-02T16:57:22.181523"
+  },
+  {
+    "id": "4793df9d815237e9",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=26f01801aca88653",
+    "title": "Data Engineer ( Entry Level )",
+    "company": "Parahunt Global Solutions",
+    "location": "Houston, TX, USA",
+    "is_remote": false,
+    "salary": "USD 29 – 35/hourly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "aws",
+      "data engineering",
+      "data warehouse",
+      "java"
+    ],
+    "description_snippet": "**Job Summary**\n\nLaunch your data engineering career by helping build reliable data pipelines and analytics-ready datasets. As an entry-level Data Engineer, you’ll work with experienced teammates to support data management integration, data modeling, and data warehousing across public cloud and SQL ",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-02T16:57:13.741009",
+    "first_seen": "2026-11-02T16:57:13.741013"
+  },
+  {
     "id": "eda109d7fb4de849",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/salesloft-salesforce-business-systems-administrator",
