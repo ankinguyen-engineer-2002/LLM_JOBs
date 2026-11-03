@@ -1,5 +1,564 @@
 [
   {
+    "id": "12a6b8cf25e5a9f0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158693-material-supply-planner",
+    "title": "Material Supply Planner",
+    "company": "Halter",
+    "location": "New Zealand",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Halter At Halter, we’re on a mission to enable farmers and graziers to run the most productive and sustainable operations. Our customers are using Halter to break free from the time-intensive constraints of conventional practices. Imagine watching 500 cattle stand up and walk calmly towards th",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.171879",
+    "first_seen": "2026-11-03T20:23:16.171880"
+  },
+  {
+    "id": "e1d163e4a0b8d6fb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158713-product-manager-social-features-content",
+    "title": "Product Manager - Social Features (Content)",
+    "company": "Binance",
+    "location": "Hong Kong",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.171709",
+    "first_seen": "2026-11-03T20:23:16.171709"
+  },
+  {
+    "id": "1c7b0870a6e21c30",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158714-partner-sales-director-3",
+    "title": "Partner Sales Director",
+    "company": "Kong Inc.",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. A stro",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.171612",
+    "first_seen": "2026-11-03T20:23:16.171613"
+  },
+  {
+    "id": "d2485e212b5174fc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158715-data-analytics-engineer-3",
+    "title": "Data Analytics Engineer",
+    "company": "Ruby Labs",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking fo",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.171476",
+    "first_seen": "2026-11-03T20:23:16.171477"
+  },
+  {
+    "id": "3f4f9d41aed4ca5e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158716-strategic-account-executive-15",
+    "title": "Strategic Account Executive",
+    "company": "GitLab",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.171339",
+    "first_seen": "2026-11-03T20:23:16.171339"
+  },
+  {
+    "id": "066504c05d3a95fa",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158719-staff-data-scientist",
+    "title": "Staff Data Scientist",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "part_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.171190",
+    "first_seen": "2026-11-03T20:23:16.171190"
+  },
+  {
+    "id": "5e2cb7320797bdca",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158720-head-of-global-support",
+    "title": "Head of Global Support",
+    "company": "Cloudbeds",
+    "location": "LATAM,  Canada,  Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "What Makes Cloudbeds Unique At Cloudbeds , we're not just building software, we're transforming hospitality. Our platform powers hotels across 150 countries, processing billions in bookings annually. From boutique properties to large hotel groups, we help hoteliers transform operations and uplevel t",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.170981",
+    "first_seen": "2026-11-03T20:23:16.170982"
+  },
+  {
+    "id": "b487d8851e23ca12",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158724-it-manager",
+    "title": "IT Manager",
+    "company": "Paddle",
+    "location": "Ireland,  Portugal,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "What do we do? Paddle offers digital product companies a completely different approach to their payments infrastructure. Instead of assembling and maintaining a complex stack of payments-related apps and services, we’re a Merchant of Record for our customers. That means we take away 100% of the pain",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.170792",
+    "first_seen": "2026-11-03T20:23:16.170793"
+  },
+  {
+    "id": "84e13ac7db930075",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158725-senior-enterprise-security-engineer",
+    "title": "Senior Enterprise Security Engineer",
+    "company": "Tenable",
+    "location": "Denmark",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Who is Tenable ? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.170628",
+    "first_seen": "2026-11-03T20:23:16.170629"
+  },
+  {
+    "id": "fb16cd1274dad70b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158727-network-planning-technical-project-manager-2",
+    "title": "Network Planning Technical Project Manager",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.170485",
+    "first_seen": "2026-11-03T20:23:16.170485"
+  },
+  {
+    "id": "87667d017defae91",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158729-test-automation-engineer-f-m-d",
+    "title": "Test Automation Engineer (f/m/d)",
+    "company": "ecosio",
+    "location": "Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "qa & testing"
+    ],
+    "description_snippet": "ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX). Our brand slogan is",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.170349",
+    "first_seen": "2026-11-03T20:23:16.170350"
+  },
+  {
+    "id": "a44c00ff155c87e3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158730-territory-account-manager-2",
+    "title": "Territory Account Manager",
+    "company": "Tenable",
+    "location": "Belgium",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Who is Tenable ? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.170263",
+    "first_seen": "2026-11-03T20:23:16.170263"
+  },
+  {
+    "id": "a979788f5cb2b81b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158732-staff-applied-ai-researcher-agentic-search",
+    "title": "Staff Applied AI Researcher (Agentic Search)",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.170066",
+    "first_seen": "2026-11-03T20:23:16.170067"
+  },
+  {
+    "id": "3d46aa1c245cdd48",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158735-system-engineer-compute-node",
+    "title": "System Engineer (Compute Node)",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.169960",
+    "first_seen": "2026-11-03T20:23:16.169961"
+  },
+  {
+    "id": "cb061a57d7a20152",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158736-strategic-account-executive-public-sector",
+    "title": "Strategic Account Executive - Public Sector",
+    "company": "GitLab",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.169887",
+    "first_seen": "2026-11-03T20:23:16.169887"
+  },
+  {
+    "id": "cbf28278eeb6395a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158738-system-engineer-token-factory",
+    "title": "System Engineer (Token Factory)",
+    "company": "Nebius",
+    "location": "Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.169738",
+    "first_seen": "2026-11-03T20:23:16.169738"
+  },
+  {
+    "id": "a40719fc8d2ef6c4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158740-technical-due-diligence-manager-data-centers-emea-2",
+    "title": "Technical Due Diligence Manager- Data Centers, EMEA",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.169647",
+    "first_seen": "2026-11-03T20:23:16.169648"
+  },
+  {
+    "id": "2a30ada7a0f72eb9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158742-technical-program-manager-data-centers-2",
+    "title": "Technical Program Manager, Data Centers",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.169450",
+    "first_seen": "2026-11-03T20:23:16.169451"
+  },
+  {
+    "id": "2f4fb83a0d39f920",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158746-forward-deployed-engineer-managed-ai",
+    "title": "Forward Deployed Engineer - Managed AI",
+    "company": "TITAN",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Titan Titan is building the AI workforce for IT. We deploy AI agents across our portfolio of Managed Service Providers and enterprise customers: agents that monitor, triage, and resolve work across the service desk, infrastructure, security, identity, endpoint, and application operations. The ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.169304",
+    "first_seen": "2026-11-03T20:23:16.169305"
+  },
+  {
+    "id": "a4d5565c86d0fd42",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158749-director-product-management-payments",
+    "title": "Director, Product Management (Payments)",
+    "company": "Lightspeed Commerce",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Hi there! Thanks for stopping by Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place! Lightspeed is seeking a Director of Product Management to own the Payments line of business within Financial Services. You will lead Group PMs and",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.169147",
+    "first_seen": "2026-11-03T20:23:16.169148"
+  },
+  {
+    "id": "dacccea4abb1ea6c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158751-business-development-representative-autonomous-systems",
+    "title": "Business Development Representative - Autonomous Systems",
+    "company": "Defense Unicorns",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Role Overview: As a Business Development Rep at Defense Unicorns , you will play a pivotal role in the company's success by identifying, cultivating, and managing new opportunities, partnerships and relationships within the ecosystem. You will leverage your deep understanding of market trends and in",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.168888",
+    "first_seen": "2026-11-03T20:23:16.168889"
+  },
+  {
+    "id": "70b0e34f5b325794",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158755-data-center-compute-openhouse-savannah-2026",
+    "title": "Data Center Compute, OpenHouse Savannah 2026",
+    "company": "OpenAI",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About the Team OpenAI ’s Compute organization turns ambitious AI research into real-world capability by delivering the compute infrastructure behind our most advanced models. The team works across software, hardware, facilities, operations, and engineering disciplines to make enormous amounts of com",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.168750",
+    "first_seen": "2026-11-03T20:23:16.168750"
+  },
+  {
+    "id": "b55f9f4e98fee52d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158756-principal-product-manager-ai-workflows",
+    "title": "Principal Product Manager, AI Workflows",
+    "company": "Mural",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "ABOUT THE TEAM Mural helps teams think, decide, and follow through together. AI made producing content cheap. It did not make agreement, commitment, or follow-through any easier. The AI Workflows team builds the AI and agentic experiences inside Mural that help teams reach decisions and keep them. Y",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.168599",
+    "first_seen": "2026-11-03T20:23:16.168600"
+  },
+  {
+    "id": "342b9fb099c196a2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158762-business-development-representative-cyber",
+    "title": "Business Development Representative - Cyber",
+    "company": "Defense Unicorns",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "EMPLOYER IS A CONTRACTOR FOR THE U.S. GOVERNMENT. THIS POSITION WILL REQUIRE U.S. CITIZENSHIP. Role Description: We are seeking a dynamic and driven Business Development Representative (BDR) to join our team. Highly qualified candidates will have a background in Cyber Operations The BDR will play a ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.168501",
+    "first_seen": "2026-11-03T20:23:16.168501"
+  },
+  {
+    "id": "beeefbdca3dd8c80",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158764-senior-program-manager-commercial-systems-fixed-term",
+    "title": "Senior Program Manager, Commercial Systems (Fixed Term)",
+    "company": "ŌURA",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Our mission at ŌURA is to empower every person to own their inner potential. Our award-winning products help our global community gain a deeper knowledge of their readiness, activity, and sleep quality by using their Oura Ring and its connected app. We've helped millions of people understand and imp",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.168330",
+    "first_seen": "2026-11-03T20:23:16.168331"
+  },
+  {
+    "id": "f9fb61e58cf06272",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158765-support-delivery-lead-toronto",
+    "title": "Support Delivery Lead - Toronto",
+    "company": "OpenAI",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "About the Team OpenAI ’s User Operations team shepherds our customer’s adoption of AI and ensures that our customers' product experience is nothing short of exceptional. We are building the very first post-AGI support team. We resolve complex issues, provide technical guidance, and support customers",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.168170",
+    "first_seen": "2026-11-03T20:23:16.168171"
+  },
+  {
+    "id": "f3e4c1b4c53946d8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158767-senior-tech-recruiter",
+    "title": "Senior Tech Recruiter",
+    "company": "Socure",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "Why Socure ? Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people ever",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.167999",
+    "first_seen": "2026-11-03T20:23:16.167999"
+  },
+  {
+    "id": "0024d73a5adbe135",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158773-senior-support-engineer-toronto",
+    "title": "Senior Support Engineer - Toronto",
+    "company": "OpenAI",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "About the Team The Technical Support team is responsible for ensuring that developers and enterprises can reliably build mission critical solutions using OpenAI models. We provide technical guidance, resolve complex issues and support customers in maximizing value and adoption from deploying our hig",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.167887",
+    "first_seen": "2026-11-03T20:23:16.167888"
+  },
+  {
+    "id": "0dd645add72e53b5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158775-account-executive-director-finserv",
+    "title": "Account Executive Director, Finserv",
+    "company": "Socure",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Why Socure ? Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people ever",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.167708",
+    "first_seen": "2026-11-03T20:23:16.167709"
+  },
+  {
+    "id": "d5ae0e5757cb8472",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158778-business-development-representative-usmc",
+    "title": "Business Development Representative - USMC",
+    "company": "Defense Unicorns",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Role Overview: As a Business Development Rep at Defense Unicorns , you will play a pivotal role in the company's success by identifying, cultivating, and managing new opportunities, partnerships and relationships within the ecosystem. You will leverage your deep understanding of market trends and in",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T20:23:16.167597",
+    "first_seen": "2026-11-03T20:23:16.167612"
+  },
+  {
+    "id": "fdad5ce53c07c354",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=14bba30eb84fda97",
+    "title": "Water Agency Engineer I - Extra Help",
+    "company": "County of Sonoma (CA)",
+    "location": "Santa Rosa, CA, USA",
+    "is_remote": false,
+    "salary": "USD 59 – 72/hourly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql"
+    ],
+    "description_snippet": "**Position Information**\n------------------------\n\n**Grow your water resources engineering career with a development opportunity at the Sonoma County Water Agency (Sonoma Water).**\n\n  \n  \nAs a Water Agency Engineer I - Extra Help, you will work independently and collaboratively on projects within So",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-11-03T20:23:01.039711",
+    "first_seen": "2026-11-03T20:23:01.039720"
+  },
+  {
     "id": "cdcb7fc8d9e93c3d",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/custom-mechanical-solutions-quality-and-reliability-engineer",
