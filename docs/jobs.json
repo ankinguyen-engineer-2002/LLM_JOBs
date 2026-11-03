@@ -1,5 +1,1280 @@
 [
   {
+    "id": "cdcb7fc8d9e93c3d",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/custom-mechanical-solutions-quality-and-reliability-engineer",
+    "title": "Quality and Reliability Engineer",
+    "company": "Custom Mechanical Solutions",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: URL: http://cmswa.com Custom Mechanical Solutions delivers energy-efficient HVAC systems across the Pacific Northwest, with deep expertise in healthcare, education, data centers, and retrofit projects. We work with top manufacturers to meet performance and sustainability goals—always f",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:06:19.771625",
+    "first_seen": "2026-11-03T18:06:19.771626"
+  },
+  {
+    "id": "4263a70a40f406d7",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/mantech-quantum-research-scientist",
+    "title": "Quantum Research Scientist",
+    "company": "MANTECH",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: United States URL: https://www.MANTECH.com Description &amp; Requirements Elevate your career with MANTECH International Corporation! Join a dynamic team dedicated to national security through cutting-edge technology. Since 1968, MANTECH has led in delivering advanced solutions to gove",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:06:19.771079",
+    "first_seen": "2026-11-03T18:06:19.771091"
+  },
+  {
+    "id": "39704edb79b4e616",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158183-engineering-manager-bank-accounts",
+    "title": "Engineering Manager - Bank Accounts",
+    "company": "Mercury",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Roman aqueducts quietly carried water across cities and made daily life possible. Their value was not in the structures themselves, but in everything they enabled. The Bank Accounts team plays a similar role at Mercury . We build the foundation for depository accounts*: managing money held in Mercur",
+    "posted_date": "2026-10-31",
+    "scraped_at": "2026-11-03T18:01:51.206108",
+    "first_seen": "2026-11-03T18:01:51.206109"
+  },
+  {
+    "id": "d427e0f8498ae340",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158214-land-development-due-diligence-lead",
+    "title": "Land Development & Due Diligence Lead",
+    "company": "OpenAI",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "About the Team OpenAI is building the world’s most advanced AI infrastructure ecosystem. The Site Readiness &amp; Development team owns the upstream diligence and development work required to convert powered-land opportunities into executable infrastructure options. About the Role Responsible for va",
+    "posted_date": "2026-10-31",
+    "scraped_at": "2026-11-03T18:01:51.205980",
+    "first_seen": "2026-11-03T18:01:51.205981"
+  },
+  {
+    "id": "dbbc84612bb48df7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158270-product-engineer",
+    "title": "Product Engineer",
+    "company": "Roboflow",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Who We Are Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too. We’re building the tools, community, and resources needed to make the world programmable with artificial intelligence. Roboflow sim",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-03T18:01:51.205831",
+    "first_seen": "2026-11-03T18:01:51.205843"
+  },
+  {
+    "id": "43eaee45fbe909e3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158342-growth-pm",
+    "title": "Growth PM",
+    "company": "Elevenlabs",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-03T18:01:45.119260",
+    "first_seen": "2026-11-03T18:01:45.119261"
+  },
+  {
+    "id": "25c734aa0ed78645",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158354-finance-data-scientist",
+    "title": "Finance Data Scientist",
+    "company": "Elevenlabs",
+    "location": "Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-03T18:01:45.118936",
+    "first_seen": "2026-11-03T18:01:45.118937"
+  },
+  {
+    "id": "b110cf2fd110724d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158363-product-manager-elevencreative-self-serve",
+    "title": "Product Manager (ElevenCreative Self-Serve)",
+    "company": "Elevenlabs",
+    "location": "Netherlands,  Poland,  UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-03T18:01:45.118758",
+    "first_seen": "2026-11-03T18:01:45.118759"
+  },
+  {
+    "id": "3e01c2f718e9bb43",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158377-data-scientist-music-promotion-2",
+    "title": "Data Scientist - Music Promotion",
+    "company": "Spotify",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "The Music Mission enables Music creators to grow, engage &amp; monetize their fan bases on Spotify . Central to the Music Mission's vision is the development of promotional tools for artist and label teams, powered by Spotify's deep knowledge of listener behavior. Products like Discovery Mode, Marqu",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-03T18:01:45.118543",
+    "first_seen": "2026-11-03T18:01:45.118544"
+  },
+  {
+    "id": "e47d9dcca64a1860",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158411-principal-product-manager-payments",
+    "title": "Principal Product Manager, Payments",
+    "company": "Zuora",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Zuora At Zuora, we help businesses grow smarter and adapt faster. Our platform powers modern business models — from subscriptions and usage-based pricing to AI-driven and outcome-based offerings — helping companies launch new products, automate complex billing, and unlock predictable, recurrin",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-03T18:01:45.115841",
+    "first_seen": "2026-11-03T18:01:45.115843"
+  },
+  {
+    "id": "10b16baf5be18bcc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158436-life-sciences-payer-sales-leader-u-s",
+    "title": "Life Sciences & Payer Sales Leader (U.S.)",
+    "company": "Qualtrics",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "At Qualtrics , we create software the world’s best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients gl",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-03T18:01:45.115531",
+    "first_seen": "2026-11-03T18:01:45.115532"
+  },
+  {
+    "id": "5238845bcd24c4a3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158437-data-analyst-12-months-contract",
+    "title": "Data Analyst (12 months contract)",
+    "company": "Binance",
+    "location": "Hong Kong,  Malaysia,  Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an ",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-03T18:01:45.115229",
+    "first_seen": "2026-11-03T18:01:45.115230"
+  },
+  {
+    "id": "697e5caa37b915dc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158451-senior-technical-data-seo-specialist",
+    "title": "Senior Technical & Data SEO Specialist",
+    "company": "Docplanner",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "seo"
+    ],
+    "description_snippet": "At Docplanner Group, we’re on a mission to help people live longer, healthier lives. As the world’s largest healthcare platform, each month, we connect 24 million patients with 280k doctors across 13 countries (through brands like ZnanyLekarz, Doctoralia, MioDottore, DoktorTakvimi, and jameda). Our ",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-03T18:01:45.115113",
+    "first_seen": "2026-11-03T18:01:45.115114"
+  },
+  {
+    "id": "cbba5b4b38071dcc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158472-data-scientist-3",
+    "title": "Data Scientist",
+    "company": "Doximity",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "This role can be filled in our San Francisco headquarters OR remotely in the U.S. Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is ",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-03T18:01:45.114826",
+    "first_seen": "2026-11-03T18:01:45.114828"
+  },
+  {
+    "id": "59cc9eba6235067d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158474-senior-product-manager-authorization-optimization",
+    "title": "Senior Product Manager, Authorization Optimization",
+    "company": "Signifyd",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "At Signifyd , we help merchants confidently grow their businesses by building trusted relationships with their customers. Our advanced technology, combined with a team genuinely invested in our clients’ success, creates frictionless shopping experiences, approving more good orders, protecting revenu",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-03T18:01:45.114640",
+    "first_seen": "2026-11-03T18:01:45.114641"
+  },
+  {
+    "id": "114167abe7c2cadb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158477-forward-deployed-ai-lead",
+    "title": "Forward Deployed AI Lead",
+    "company": "Caylent",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s ",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-03T18:01:45.114443",
+    "first_seen": "2026-11-03T18:01:45.114444"
+  },
+  {
+    "id": "490738eb8a18b8e6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158480-finance-functional-lead-oracle-fusion-cloud",
+    "title": "Finance Functional Lead, Oracle Fusion Cloud",
+    "company": "Natera",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "Natera is seeking a hands-on Finance Functional Lead, Oracle Fusion Cloud within IS&amp;T to serve as the single functional owner and key point of contact for Finance leadership across an aggressive Oracle Fusion Finance transformation. This role owns Oracle Fusion Financials end-to-end, from roadma",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-03T18:01:45.114102",
+    "first_seen": "2026-11-03T18:01:45.114103"
+  },
+  {
+    "id": "d5308702beb6f917",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158500-lead-campaign-manager-pharma",
+    "title": "Lead Campaign Manager, Pharma",
+    "company": "Natera",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Role Summary Natera 's Oncology Pharma Marketing team is hiring a Lead Campaign Manager to own campaign strategy and execution end to end. This is a senior individual-contributor role, not a coordination or support function: you will set the strategy, direct execution across channels and partners, r",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-03T18:01:45.113825",
+    "first_seen": "2026-11-03T18:01:45.113827"
+  },
+  {
+    "id": "84a4947371010550",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158575-solutions-architect-retail",
+    "title": "Solutions Architect - Retail",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Solutions Architect (L5) FEQ128R82 The Role As a Solutions Architect, you will lead the technical strategy for your customers — owning architecture discussions, driving platform adoption, and serving as a trusted advisor to customer technical leads and architects. You combine deep technical expertis",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-03T18:01:45.112954",
+    "first_seen": "2026-11-03T18:01:45.112955"
+  },
+  {
+    "id": "931a8a060aec7898",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158580-staff-gtm-process-analyst",
+    "title": "Staff GTM Process Analyst",
+    "company": "LastPass",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "About LastPass LastPass delivers Secure Access Essentials, helping individuals and organizations manage and protect access to AI, applications, and credentials straight from the browser. Trusted by more than 100,000 businesses and millions of users worldwide, LastPass blends strong security with eve",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-03T18:01:45.112768",
+    "first_seen": "2026-11-03T18:01:45.112770"
+  },
+  {
+    "id": "9be0b028adc6622a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158581-specialist-solutions-architect-ai-ml-2",
+    "title": "Specialist Solutions Architect - AI/ML",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "FEQ427R382 As an AI/ML Specialist Solutions Architect (SSA), you will lead the advanced AI/ML technical strategy for your customers — owning complex architecture discussions, driving platform adoption, and serving as a trusted advisor to customer technical leads and architects. You combine deep tech",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-03T18:01:45.112543",
+    "first_seen": "2026-11-03T18:01:45.112544"
+  },
+  {
+    "id": "885d0a83d4afdea5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158589-chief-of-staff",
+    "title": "Chief of Staff",
+    "company": "LaunchDarkly",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About the Job: LaunchDarkly is hiring a Chief of Staff to report to the CEO and partner with the Executive Leadership Team (ELT) as the company continues to scale. This is a senior, individual contributor role for a strategic operator and trusted advisor who thrives at the intersection of strategy, ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.274863",
+    "first_seen": "2026-11-03T18:01:41.274864"
+  },
+  {
+    "id": "48d8962b0a858197",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158592-director-new-business-operations",
+    "title": "Director, New Business Operations",
+    "company": "Cloudinary",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Cloudinary is the Image and Video API platform trusted by millions of developers and over 10,000 companies worldwide. Our powerful tools fuel websites to be faster, richer in user engagement, and breakthrough creativity. With a growing suite of products that support everything from developer efficie",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.274641",
+    "first_seen": "2026-11-03T18:01:41.274642"
+  },
+  {
+    "id": "a12215ed883a0029",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158593-product-manager-salesforce",
+    "title": "Product Manager, Salesforce",
+    "company": "Kaseya",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Kaseya Kaseya is the leading provider of AI-powered IT management and cybersecurity software, serving Managed Service Providers (MSPs) and internal IT organizations worldwide. Our comprehensive platform helps organizations efficiently manage, secure, and automate their IT environments, driving",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.274484",
+    "first_seen": "2026-11-03T18:01:41.274485"
+  },
+  {
+    "id": "6a364d59aff70559",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158596-senior-director-enablement",
+    "title": "Senior Director, Enablement",
+    "company": "LaunchDarkly",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "About the Job: LaunchDarkly is seeking a Sr. Director, Enablement to join our Revenue team. This position will report to the VP, Revenue Operations and Enablement. The Revenue Operations and Enablement team is responsible for sales strategy, technology, and enablement. The Sr. Director, Enablement w",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.274236",
+    "first_seen": "2026-11-03T18:01:41.274237"
+  },
+  {
+    "id": "bd1d8fb34ca39544",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158600-juju-software-engineer-go",
+    "title": "Juju Software Engineer (Go)",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.273992",
+    "first_seen": "2026-11-03T18:01:41.273993"
+  },
+  {
+    "id": "0ed53be7c32aa90c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158601-senior-engineering-manager-3",
+    "title": "Senior Engineering Manager",
+    "company": "Vonage",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Join Vonage and help us innovate cloud communications for businesses worldwide! Why this role matters: Vonage's API Business Unit is building a modern, lean architecture practice in a small central architecture team that empowers distributed teams to make fast, sound decisions independently. This is",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.273823",
+    "first_seen": "2026-11-03T18:01:41.273825"
+  },
+  {
+    "id": "1e5cb809c1d98a5e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158603-lead-product-designer-100-remote-within-poland",
+    "title": "Lead Product Designer (100% Remote within Poland)",
+    "company": "Docplanner",
+    "location": "Poland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "About us Docplanner 's mission is to help people live longer, healthier lives. Every month about 100 million people visit our sites and 25 million appointments are booked across 13 countries, and 300,000 doctors use our software ( docplanner.com ). You'll join PMS Global , the group building the sof",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.273675",
+    "first_seen": "2026-11-03T18:01:41.273676"
+  },
+  {
+    "id": "d6b570e48be4731d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158604-junior-ads-specialist",
+    "title": "Junior Ads Specialist",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "The role of a Junior Ads Specialist at Canonical Canonical has provided developers with open source since 2004, helping them build innovations such as public cloud, machine learning, robotics or blockchain. Marketing at Canonical means being at the forefront of technology adoption, for our customers",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.273438",
+    "first_seen": "2026-11-03T18:01:41.273439"
+  },
+  {
+    "id": "64341d236a8ed80d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158606-junior-campaign-manager",
+    "title": "Junior Campaign Manager",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "The role of an Junior Campaign Manager at Canonical Canonical has provided developers with open source since 2004, helping them build innovations such as public cloud, machine learning, robotics or blockchain. Marketing at Canonical means being at the forefront of technology adoption, for our custom",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.273297",
+    "first_seen": "2026-11-03T18:01:41.273298"
+  },
+  {
+    "id": "793e5d6778cfcc68",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158608-junior-product-manager",
+    "title": "Junior Product Manager",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.273150",
+    "first_seen": "2026-11-03T18:01:41.273151"
+  },
+  {
+    "id": "d4dae5b959383d79",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158613-senior-lead-lifecycle-marketing-manager-full-remote-uk",
+    "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - UK)",
+    "company": "EverAI",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.272731",
+    "first_seen": "2026-11-03T18:01:41.272733"
+  },
+  {
+    "id": "66c3274e93b6ee90",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158614-enterprise-sales-engineer-denmark",
+    "title": "Enterprise Sales Engineer - Denmark",
+    "company": "Chainguard",
+    "location": "Denmark",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.272458",
+    "first_seen": "2026-11-03T18:01:41.272459"
+  },
+  {
+    "id": "afad3daafa1e60b5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158615-senior-financial-crime-analyst",
+    "title": "Senior Financial Crime Analyst",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.272301",
+    "first_seen": "2026-11-03T18:01:41.272301"
+  },
+  {
+    "id": "99957c951fda62d3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158618-senior-analyst-treasury-tax-operations",
+    "title": "Senior Analyst, Treasury & Tax Operations",
+    "company": "EDB",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world.",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.272091",
+    "first_seen": "2026-11-03T18:01:41.272092"
+  },
+  {
+    "id": "66c256c367e7a9da",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158620-staff-solutions-architect",
+    "title": "Staff Solutions Architect",
+    "company": "Fivetran",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "From Fivetran ’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizatio",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.271852",
+    "first_seen": "2026-11-03T18:01:41.271854"
+  },
+  {
+    "id": "99091515f38e5233",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158622-business-applications-specialist-order-to-cash",
+    "title": "Business Applications Specialist (Order to Cash)",
+    "company": "Pleo",
+    "location": "Portugal",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees a",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.271595",
+    "first_seen": "2026-11-03T18:01:41.271596"
+  },
+  {
+    "id": "f3f63a2f6463209e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158626-senior-solutions-architect-uae",
+    "title": "Senior Solutions Architect - UAE",
+    "company": "GitLab",
+    "location": "UAE",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.271368",
+    "first_seen": "2026-11-03T18:01:41.271369"
+  },
+  {
+    "id": "cac5d86befd22e4e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158627-manager-product-manager",
+    "title": "Manager, Product Manager",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.271142",
+    "first_seen": "2026-11-03T18:01:41.271143"
+  },
+  {
+    "id": "86817c574fc3bfcb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158628-senior-lead-lifecycle-marketing-manager-full-remote-france",
+    "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - France)",
+    "company": "EverAI",
+    "location": "France",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.270859",
+    "first_seen": "2026-11-03T18:01:41.270861"
+  },
+  {
+    "id": "e1eaf584bff86a74",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158629-enterprise-sales-engineer-middle-east",
+    "title": "Enterprise Sales Engineer - Middle East",
+    "company": "Chainguard",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.270583",
+    "first_seen": "2026-11-03T18:01:41.270584"
+  },
+  {
+    "id": "25cad4277dfaf2a4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158632-business-applications-analyst-customer-success-and-support",
+    "title": "Business Applications Analyst (Customer Success and Support)",
+    "company": "Pleo",
+    "location": "Portugal",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees a",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.270138",
+    "first_seen": "2026-11-03T18:01:41.270139"
+  },
+  {
+    "id": "ad83248def578e0f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158635-staff-software-engineer-security-factory-static-analysis",
+    "title": "Staff Software Engineer, Security Factory: Static Analysis",
+    "company": "GitLab",
+    "location": "Canada,  Israel,  UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.269934",
+    "first_seen": "2026-11-03T18:01:41.269935"
+  },
+  {
+    "id": "0ff502448d4a285c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158636-marketing-team-lead",
+    "title": "Marketing Team Lead",
+    "company": "Canonical",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.269604",
+    "first_seen": "2026-11-03T18:01:41.269605"
+  },
+  {
+    "id": "952215a378909bbe",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158637-senior-lead-lifecycle-marketing-manager-full-remote-netherlands",
+    "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - Netherlands)",
+    "company": "EverAI",
+    "location": "Netherlands",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.269410",
+    "first_seen": "2026-11-03T18:01:41.269411"
+  },
+  {
+    "id": "5b6becc3b914a382",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158638-grc-analyst-emea",
+    "title": "GRC Analyst (EMEA)",
+    "company": "Chainguard",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.269149",
+    "first_seen": "2026-11-03T18:01:41.269150"
+  },
+  {
+    "id": "58341b4e26916586",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158639-staff-backend-engineer-4",
+    "title": "Staff Backend Engineer",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.268891",
+    "first_seen": "2026-11-03T18:01:41.268892"
+  },
+  {
+    "id": "4250dbedd86013b5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158640-sales-engineer-italy-2",
+    "title": "Sales Engineer, Italy",
+    "company": "Cribl",
+    "location": "Italy",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl , we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telem",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.268630",
+    "first_seen": "2026-11-03T18:01:41.268631"
+  },
+  {
+    "id": "67fadb3830d6fa85",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158642-staff-solutions-architect-ai-subject-matter-expert",
+    "title": "Staff Solutions Architect, AI Subject Matter Expert",
+    "company": "GitLab",
+    "location": "France,  Germany,  Netherlands,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.268519",
+    "first_seen": "2026-11-03T18:01:41.268520"
+  },
+  {
+    "id": "14a1a6e770de49e5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158643-netsuite-administrator",
+    "title": "NetSuite Administrator",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include t",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.268245",
+    "first_seen": "2026-11-03T18:01:41.268246"
+  },
+  {
+    "id": "14d13ab6991b7881",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158644-senior-lead-lifecycle-marketing-manager-full-remote-greece",
+    "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - Greece)",
+    "company": "EverAI",
+    "location": "Greece",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Our Vision &amp; Products EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users and",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.268091",
+    "first_seen": "2026-11-03T18:01:41.268092"
+  },
+  {
+    "id": "70b3ce3baf60fae3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158648-software-engineer-data-analytics-platform",
+    "title": "Software Engineer, Data & Analytics Platform",
+    "company": "Bayesian Health",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Software Engineer, Data &amp; Analytics Platform In Brief We’re a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. We’re looking for a software engineer to join the team to build and scale our",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.267843",
+    "first_seen": "2026-11-03T18:01:41.267844"
+  },
+  {
+    "id": "3157f9dd9c820afb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158650-senior-solutions-delivery-engineer-devops",
+    "title": "Senior Solutions Delivery Engineer- DevOps",
+    "company": "Sonatype",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management p",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.267696",
+    "first_seen": "2026-11-03T18:01:41.267697"
+  },
+  {
+    "id": "5d368ce8917c8dc3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158656-lead-principal-product-manager-tax-agents",
+    "title": "Lead/Principal Product Manager, Tax Agents",
+    "company": "Fieldguide",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Us Fieldguide is establishing a new state of trust for global commerce and capital markets through automating and streamlining the work of advisory, audit, and tax practitioners at the world's largest CPA firms. Put simply, we build software for the people who enable trust between businesses. ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.267523",
+    "first_seen": "2026-11-03T18:01:41.267524"
+  },
+  {
+    "id": "bc4f0ff3443c7cf4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158657-head-of-product-business-banking",
+    "title": "Head of Product - Business Banking",
+    "company": "Mercury",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "In 1851, a New York bookkeeper named George D. Lyman observed the same absurd ritual each afternoon: porters carried bags of coins and bundles of checks bank to bank down Wall Street, settling by hand, a fortune exposed to error and theft. Lyman's fix: send everything through one central office and ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.267396",
+    "first_seen": "2026-11-03T18:01:41.267397"
+  },
+  {
+    "id": "e4a57f12543a0704",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158660-head-of-product-personal-banking",
+    "title": "Head of Product - Personal Banking",
+    "company": "Mercury",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "In 1967, John Shepherd-Barron reached his bank minutes after closing and could not get at his own money. In the bath that evening, he thought of a chocolate bar dispenser and swapped the chocolate for cash. On 27 June, outside a Barclays branch on Enfield High Street, an actor named Reg Varney drew ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.267252",
+    "first_seen": "2026-11-03T18:01:41.267254"
+  },
+  {
+    "id": "05e9c0423aa48398",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158665-senior-manager-product-strategy-operations",
+    "title": "Senior Manager, Product Strategy & Operations",
+    "company": "Fieldguide",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Us Fieldguide is the agentic AI-native platform for audit and advisory. We're establishing a new state of trust for global commerce and capital markets by putting AI agents to work alongside the practitioners who verify how the economy actually operates. The profession is facing a structural c",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.267096",
+    "first_seen": "2026-11-03T18:01:41.267097"
+  },
+  {
+    "id": "0d3d818c9486dc3a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158666-lead-compliance-risk-manager-product-compliance-ai",
+    "title": "Lead Compliance Risk Manager, Product Compliance - AI",
+    "company": "Mercury",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "About the role: As Mercury continues its rapid growth trajectory, navigating an increasingly complex regulatory, partner, and product landscape is critical. Compliance is not only a requirement, but a competitive advantage that enables Mercury to move faster, build trust, and launch innovative produ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.266949",
+    "first_seen": "2026-11-03T18:01:41.266950"
+  },
+  {
+    "id": "cba3d641ffeedcce",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158667-head-of-marketing-remote-usa",
+    "title": "Head of Marketing - Remote, USA",
+    "company": "Formic",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Who we are: Formic is on a mission to reshape American manufacturing by making automation accessible to every factory. As labor constraints rise, costs increase, and global competition intensifies, automation is no longer optional for manufacturers that want to stay competitive. We deliver automatio",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.266625",
+    "first_seen": "2026-11-03T18:01:41.266626"
+  },
+  {
+    "id": "285b0cfaf3d43968",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158669-marketing-engineer-2",
+    "title": "Marketing Engineer",
+    "company": "Mercury",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Good marketing depends on systems that work: conversion signals that arrive accurately, audiences that stay current, and tools that make new ideas easier to try. We’re hiring a Marketing Engineer to build and maintain those systems at Mercury . You’ll work directly with marketers to understand what ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.266050",
+    "first_seen": "2026-11-03T18:01:41.266051"
+  },
+  {
+    "id": "a22f0684347ef92e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158672-model-risk-manager",
+    "title": "Model Risk Manager",
+    "company": "Mercury",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "About the role: Mercury is looking for a Model Risk Manager to help build and operate a practical, risk-based Model Risk Management program as we continue to scale and prepare for life as a regulated bank. Models support an increasingly broad range of decisions across Mercury, including credit under",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.265882",
+    "first_seen": "2026-11-03T18:01:41.265884"
+  },
+  {
+    "id": "d195a84ff2423aca",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158675-open-call-for-founders-founding-teams-product-management-and-engineering",
+    "title": "Open Call for Founders / Founding Teams - Product Management and Engineering",
+    "company": "Mercury",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Open call for Founders / Founding Teams (Product Management / Engineering roles) In 1973 at Xerox PARC, Bob Metcalfe sketched a way for many computers to share a single wire — borrowing the throughput math from his study of Hawaii's ALOHAnet — and he and David Boggs built it and measured it until it",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.265620",
+    "first_seen": "2026-11-03T18:01:41.265621"
+  },
+  {
+    "id": "c80e9e674cf021b9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158677-software-engineer-quality-automation",
+    "title": "Software Engineer, Quality & Automation",
+    "company": "Fieldguide",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "qa & testing"
+    ],
+    "description_snippet": "About Us Fieldguide is establishing a new state of trust for global commerce and capital markets by automating and streamlining the work of assurance and audit practitioners — specifically in cybersecurity, privacy, and financial audits. We build software for the people who enable trust between busi",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.265477",
+    "first_seen": "2026-11-03T18:01:41.265479"
+  },
+  {
+    "id": "238f991180425d03",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158684-recruiter-technical",
+    "title": "Recruiter - Technical",
+    "company": "Mercury",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "Since 2019, Mercury has been rebuilding banking* for the way modern companies work. We combine thoughtful design with strong engineering to offer checking and savings accounts, cards, payments, credit, treasury and the analytics that tie it all together. Everything we build comes from one belief: fi",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:41.265206",
+    "first_seen": "2026-11-03T18:01:41.265221"
+  },
+  {
+    "id": "043886a5a18259bc",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=363420cc32f2caf7",
+    "title": "Data Engineer",
+    "company": "Moog, Inc",
+    "location": "Buffalo, NY, USA",
+    "is_remote": false,
+    "salary": "USD 85,000 – 110,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "azure",
+      "power bi",
+      "databricks",
+      "synapse",
+      "data warehouse",
+      "rust"
+    ],
+    "description_snippet": "Moog is a performance culture that empowers people to achieve great things. Our people enjoy solving interesting technical challenges in a culture where everyone trusts each other to do the right thing. For you, working with us can mean deeper job satisfaction, better rewards, and a great quality of",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:32.567095",
+    "first_seen": "2026-11-03T18:01:32.567097"
+  },
+  {
+    "id": "806be7d029d852e8",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f20e73e87b746b14",
+    "title": "Data Engineer",
+    "company": "Parallon",
+    "location": "Brentwood, TN, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "airflow",
+      "gcp",
+      "power bi",
+      "bigquery",
+      "data warehouse"
+    ],
+    "description_snippet": "This Work from Home position requires that you live and will perform the duties of the position; within 60 miles of an HCA Healthcare Hospital (Our hospitals are located in the following states: FL, GA, ID, KS, KY, MO, NV, NH, NC, SC, TN, TX, UT, VA).\n\nDo you want to join an organization that invest",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:27.477714",
+    "first_seen": "2026-11-03T18:01:27.477718"
+  },
+  {
+    "id": "7450261fbd51b948",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=55e01625727ca6d6",
+    "title": "Azure Databricks Lead Engineer",
+    "company": "Blumetra",
+    "location": "Alameda, CA, USA",
+    "is_remote": false,
+    "salary": "USD 75 – 85/hourly",
+    "job_type": "fulltime, contract",
+    "tags": [
+      "sql",
+      "aws",
+      "data engineering",
+      "analytics engineering",
+      "databricks",
+      "medallion",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Job Title: Senior Tech Lead - Clinical Data Engineering/ Data Platforms**\n\nLocation: Alameda, CA\n\nContract type: C2C or 1099\n\nOnsite/In-person: 4 days\n\nGreen Card, US Citizen or H1B with LCA to work in Alameda, CA and Dublin, CA with minimum 1 year visa validity.\n\n**Role Overview**\n\nWe are seeking",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:19.227486",
+    "first_seen": "2026-11-03T18:01:19.227490"
+  },
+  {
+    "id": "c68a4e39dc646f01",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=03dc9d63ab2a1f77",
+    "title": "Data Engineer",
+    "company": "Eagle Brook Church",
+    "location": "Centerville, MN, USA",
+    "is_remote": false,
+    "salary": "USD 75,000 – 78,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "power bi",
+      "data engineering",
+      "microsoft fabric",
+      "synapse",
+      "data warehouse",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**DATA ENGINEER** // EAGLE BROOK CHURCH\n\n  \n\n**JOB OBJECTIVES**\n\n  \n\n* Helps build and maintain reliable data infrastructure that supports reporting, analytics, and business intelligence across Eagle Brook Church\n* Ensures data is accurate, accessible, and fit for purpose by maintaining data pipelin",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:15.687507",
+    "first_seen": "2026-11-03T18:01:15.687508"
+  },
+  {
+    "id": "ec9c12a8b9caa1db",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=8083e5e839e84f98",
+    "title": "Azure Data Engineer",
+    "company": "Tekcogno",
+    "location": "Greenfield, IN, USA",
+    "is_remote": false,
+    "salary": "USD 130,000 – 140,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "azure",
+      "databricks"
+    ],
+    "description_snippet": "**Job Title: Azure Data Engineer**\n\n**Location: Greenfield, IN**\n\n**Relocation is fine, but must go onsite from day-1 itself**\n\nExperience: 12+ Years\n\n**Primary skills:**\n\n4+ years of experience in Azure Databricks with PySpark.  \n2+ years of experience in Databricks workflow & Unity catalog.  \n3+ y",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T18:01:15.687261",
+    "first_seen": "2026-11-03T18:01:15.687266"
+  },
+  {
     "id": "abda7a172e45f35e",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/158630-staff-analytics-engineer-3",
