@@ -1,5 +1,153 @@
 [
   {
+    "id": "e32cbfd4b53a5dc4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158781-senior-software-engineer-21",
+    "title": "Senior Software Engineer",
+    "company": "Vonage",
+    "location": "Poland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Join Vonage and help us innovate cloud communications for businesses worldwide! About Vonage Vonage is the emerging leader in the $100B+ cloud communications platform (CPaaS) market. Customers like Airbnb, Viber, WhatsApp, Snapchat, and many others depend on our APIs and SDKs to connect with their c",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T22:12:07.598991",
+    "first_seen": "2026-11-03T22:12:07.598993"
+  },
+  {
+    "id": "e6586abb09050e8a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158783-security-analyst-governance-and-trust",
+    "title": "Security Analyst (Governance and Trust)",
+    "company": "Chainguard",
+    "location": "Canada,  Germany,  UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T22:12:07.598827",
+    "first_seen": "2026-11-03T22:12:07.598845"
+  },
+  {
+    "id": "597ed1467157558b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158786-senior-early-talent-ga-recruiter",
+    "title": "Senior Early Talent & G&A Recruiter",
+    "company": "Samsara",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T22:12:07.598577",
+    "first_seen": "2026-11-03T22:12:07.598579"
+  },
+  {
+    "id": "46622437fc8dbb52",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158818-senior-full-stack-engineer-9",
+    "title": "Senior Full Stack Engineer",
+    "company": "Solace",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to m",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T22:12:07.598281",
+    "first_seen": "2026-11-03T22:12:07.598282"
+  },
+  {
+    "id": "49efee9ee6a58d56",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158819-director-engineering-the-americas",
+    "title": "Director, Engineering (The Americas)",
+    "company": "Zone &#038; Co",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Zone &amp; Company Software Consulting LLC (“Zone”) is the ERP-native AI platform for financial operations, purpose-built for organizations running on Oracle NetSuite. We are redefining how finance teams operate by delivering an AI-powered system that automates, connects, and scales financial workfl",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T22:12:07.598121",
+    "first_seen": "2026-11-03T22:12:07.598123"
+  },
+  {
+    "id": "2ac3a1b483e83b84",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158821-senior-account-executive-13",
+    "title": "Senior Account Executive",
+    "company": "Roofr",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "At Roofr , we’re obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That’s what makes Roofr’s CRM special. We started by building essential sales tools like aerial roof measurements and digital sales proposals. But when our custo",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T22:12:07.597820",
+    "first_seen": "2026-11-03T22:12:07.597847"
+  },
+  {
+    "id": "583801a65233d93e",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5eebbdd0f70ba3f6",
+    "title": "1263 - GNC Engineer",
+    "company": "Monte Sano Research Corporation",
+    "location": "Huntsville, AL, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "aws"
+    ],
+    "description_snippet": "Monte Sano Research Corporation (MSRC) is a Huntsville-based Small Business specializing in providing full-spectrum defense system engineering, research, design, development, integration, test, evaluation, and planning services to the U.S. Government.\n\nAs an ESOP company, our employee-owners are per",
+    "posted_date": "2026-10-06",
+    "scraped_at": "2026-11-03T22:11:52.342259",
+    "first_seen": "2026-11-03T22:11:52.342262"
+  },
+  {
+    "id": "9af8afe1366178b2",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5cdc2f17ddc7f664",
+    "title": "BI Engineer II",
+    "company": "QTR",
+    "location": "Tulsa, OK, USA",
+    "is_remote": false,
+    "salary": "USD 99,600 – 149,400/yearly",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "power bi",
+      "data engineering",
+      "rust"
+    ],
+    "description_snippet": "Create, manage and maintain performant BI and reporting solutions – 30%\n\n* Develop, enhance, and support BI models and applications (e.g. reports, dashboards, data visualizations) in support of customer needs in assigned business areas.\n* Partner with assigned business areas to ensure that BI applic",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-11-03T22:11:48.149350",
+    "first_seen": "2026-11-03T22:11:48.149352"
+  },
+  {
     "id": "12a6b8cf25e5a9f0",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/158693-material-supply-planner",
