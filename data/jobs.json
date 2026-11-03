@@ -1,5 +1,64 @@
 [
   {
+    "id": "95389bdbb14cb2a1",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=e6fa84109143a7a6",
+    "title": "Mechanical Engineering",
+    "company": "Microsoft",
+    "location": "Quincy, WA, USA",
+    "is_remote": false,
+    "salary": "USD 102,100 – 219,200/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "azure",
+      "aws"
+    ],
+    "description_snippet": "**Overview**\n\nMicrosoft’s Cloud Operations & Innovation (CO+I) is the engine that powers our cloud services. As a CO+I **Mechanical Engineer**, you will perform a key role in delivering the core infrastructure and foundational technologies for Microsoft's online services including Bing, Office 365, ",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-03T06:29:53.760970",
+    "first_seen": "2026-11-03T06:29:53.760973"
+  },
+  {
+    "id": "7fa927b98340b70c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f2c89f051719eae8",
+    "title": "Test and Launch Operations Engineer I",
+    "company": "Rocket Lab USA",
+    "location": "Wallops Island, VA, USA",
+    "is_remote": false,
+    "salary": "USD 100,000 – 113,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "aws"
+    ],
+    "description_snippet": "**ABOUT ROCKET LAB**\n\nRocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity's reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible r",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T06:29:53.760673",
+    "first_seen": "2026-11-03T06:29:53.760676"
+  },
+  {
+    "id": "3f5fec50ee747bb0",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7776b35bd4600e4a",
+    "title": "Automation Engineer",
+    "company": "NICOLET NATIONAL BANK",
+    "location": "Iowa City, IA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "aws",
+      "snowflake",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "At Nicolet National Bank, our culture is based on the principles of community banking, putting the needs of our customers at the forefront of our decision-making. Our Core Values drive everything we do, and we are committed to serving our customers with excellence. We believe that every job in our o",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-03T06:29:53.760388",
+    "first_seen": "2026-11-03T06:29:53.760392"
+  },
+  {
     "id": "c95188e1080582e8",
     "source": "remoteok",
     "url": "https://remoteOK.com/remote-jobs/remote-team-lead-account-executive-capmo-1137613",
