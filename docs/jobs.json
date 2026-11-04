@@ -1,5 +1,157 @@
 [
   {
+    "id": "dc9adfddcd88f907",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
+    "title": "Tech lead",
+    "company": "Ringbook Limited",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "USD 40,000 – 50,000/year",
+    "job_type": "N/A",
+    "tags": [
+      "dev",
+      "exec",
+      "accounting",
+      "saas"
+    ],
+    "description_snippet": "What Youâll Do ãDesign the architecture of the application and make key technical decisions. ãBuild and maintain scalable features across the Ringbook web application. ãIntegrate AI capabilities throughout the platform to create innovative features. ãDevelop clean, responsive, and intuitiv",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-04T15:17:45.082423",
+    "first_seen": "2026-11-04T15:17:45.082431"
+  },
+  {
+    "id": "dc3ea57a94dbd5d2",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4518968452bce4b4",
+    "title": "Data Architect",
+    "company": "Fasiokart",
+    "location": "Cary, NC, USA",
+    "is_remote": false,
+    "salary": "USD 160,000 – 170,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "azure",
+      "data engineering",
+      "databricks",
+      "medallion",
+      "scala",
+      "llm",
+      "langchain",
+      "openai",
+      "prompt engineering"
+    ],
+    "description_snippet": "Role: Data Architect\n\nClient: MetLife |\n\nLocation: Cary, NC\n\nWork Model: Day 1 onsite; hybrid schedule, Tuesday–Thursday onsite\n\nExperience: 10–15 years\n\nEmployment: Full-time with Altimetrik\n\n1. Compensation & Visa Requirements\n\n* Visa-independent candidates:\n\n* H-1B transfer candidates:\n\n* H-1B tr",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T15:17:35.658405",
+    "first_seen": "2026-11-04T15:17:35.658409"
+  },
+  {
+    "id": "323654cbd0af1a55",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=8d5f308dcfa94629",
+    "title": "Sr. Anaplan Consultant",
+    "company": "Fixity Technologies",
+    "location": "Seattle, WA, USA",
+    "is_remote": true,
+    "salary": "USD 70 – 75/hourly",
+    "job_type": "contract",
+    "tags": [
+      "python",
+      "airflow",
+      "azure",
+      "aws",
+      "power bi",
+      "tableau",
+      "snowflake",
+      "databricks"
+    ],
+    "description_snippet": "**Job Overview**\n\n* **Role :** Sr. Anaplan Consultant\n* **Location :** Seattle, WA (**Remote**) Need only PST Time Zone\n* **Position type :** Contract\n\n**Mandatory Skills : Anaplan, ALM, FP&A, Required Model Builder Certificate Level 3/Solution Architect**\n\n**Job description:**\n\nWe are seeking a hig",
+    "posted_date": "2026-10-14",
+    "scraped_at": "2026-11-04T15:17:30.943239",
+    "first_seen": "2026-11-04T15:17:30.943241"
+  },
+  {
+    "id": "69b4c88efa378ca7",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1bcb66c2d8eed49e",
+    "title": "Infrastructure Engineer - Teradata",
+    "company": "Health Care Service Corporation",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 69,800 – 125,900/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "scala"
+    ],
+    "description_snippet": "Remote Full time 10/31/2026 R0056199 Compensation: $69,800.00 - $125,900.00\n\nAt HCSC, our employees are the cornerstone of our business and the foundation to our success. We empower employees with curated development plans that foster growth and promote rewarding, fulfilling careers.\n\nJoin HCSC and ",
+    "posted_date": "2026-11-01",
+    "scraped_at": "2026-11-04T15:17:27.654713",
+    "first_seen": "2026-11-04T15:17:27.654718"
+  },
+  {
+    "id": "713644929dd4b08d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=6530c662666d8f1e",
+    "title": "Data Engineer",
+    "company": "SSR Mining",
+    "location": "Cripple Creek, CO, USA",
+    "is_remote": false,
+    "salary": "USD 95,000 – 115,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql"
+    ],
+    "description_snippet": "**Who Are We?**\n\n  \n\nSSR Mining Inc. is an intermediate gold company with four producing assets located in the USA, Canada, and Argentina, combined with a global pipeline of high-quality development and exploration assets in the USA and Canada.\n\n  \n\nSSR’s commitment to safety, collaboration, and exc",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-04T15:17:27.653886",
+    "first_seen": "2026-11-04T15:17:27.653889"
+  },
+  {
+    "id": "0e476678e5809cf2",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1d692a19de85ab60",
+    "title": "Engineering Program Manager, Analytics & Data Engineering, Apple Services Engineering",
+    "company": "Apple",
+    "location": "Seattle, WA, USA",
+    "is_remote": false,
+    "salary": "USD 137,500 – 250,700/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "data engineering"
+    ],
+    "description_snippet": "Summary\n  \n  \nThe Apple Services Engineering team is one of the most exciting examples of Apple’s long-held passion for combining art and technology. These are the people who power the Wallet, Apple Gift Card, Apple Card, Apple Pay Later, App Store, Apple TV, Apple Sports, Apple Music, Apple Fitness",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T15:17:27.653567",
+    "first_seen": "2026-11-04T15:17:27.653569"
+  },
+  {
+    "id": "fe2e60cc76fa3cbd",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5c346645ccce904e",
+    "title": "Engineering Program Manager, Services Data Science & Analytics",
+    "company": "Apple",
+    "location": "Culver City, CA, USA",
+    "is_remote": false,
+    "salary": "USD 166,600 – 250,700/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "data engineering",
+      "analytics engineering",
+      "machine learning",
+      "gpt"
+    ],
+    "description_snippet": "Summary\n  \n  \nServices at Apple help hundreds of millions of customers get the most out of the devices they love through amazing apps, award-winning shows and movies, immersive music in spatial audio, world-class workouts and meditations, fun games and more. The Services Data Science & Analytics org",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T15:17:27.653293",
+    "first_seen": "2026-11-04T15:17:27.653297"
+  },
+  {
     "id": "82d07e9bea4f5c14",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/158090-technical-support-engineer-5",
