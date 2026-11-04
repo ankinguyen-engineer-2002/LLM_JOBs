@@ -1,5 +1,1268 @@
 [
   {
+    "id": "4851d8f905a0b9c6",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/mindrift-physician-md-do-put-medical-ai-to-the-test-remote",
+    "title": "Physician (MD/DO) - Put Medical AI to the Test, Remote",
+    "company": "Mindrift",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Idaho, United States URL: https://jobs.workable.com/company/r7muFeAbcksMFWASJu45jA/jobs-at-mindrift About the company Paid per approved task, about $100/hr equivalent.&nbsp;One flat rate for every approved task. Built to fit around a clinical practice: Tasks estimated at about 10–20 hr",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:15:13.212360",
+    "first_seen": "2026-11-04T18:15:13.212375"
+  },
+  {
+    "id": "ad8192ead1d16351",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158864-senior-compliance-manager-tokenized-securities-venue-americas",
+    "title": "Senior Compliance Manager, Tokenized Securities Venue (Americas)",
+    "company": "OKX",
+    "location": "LATAM,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "Who We Are At OKX , we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.093567",
+    "first_seen": "2026-11-04T18:10:43.093568"
+  },
+  {
+    "id": "04a4af9c9e055f53",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158869-customer-research-advisor",
+    "title": "Customer Research Advisor",
+    "company": "dscout",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "At Dscout , we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Faceb",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.093457",
+    "first_seen": "2026-11-04T18:10:43.093458"
+  },
+  {
+    "id": "3d63957847b395e8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158873-recruiting-systems-administrator",
+    "title": "Recruiting Systems Administrator",
+    "company": "Quince",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "ABOUT QUINCE Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manufac",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.093283",
+    "first_seen": "2026-11-04T18:10:43.093284"
+  },
+  {
+    "id": "2f8f39600a77df80",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158876-mentor-claude-corps-2",
+    "title": "Mentor, Claude Corps",
+    "company": "CodePath",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "education & e-learning"
+    ],
+    "description_snippet": "CodePath is the largest educator of college computer science students in the country. We've trained over 50,000 students from more than 1,000 universities. Our partners include Amazon, Google, and other leading technology companies. After nearly a decade of training technical talent, we launched a $",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.093102",
+    "first_seen": "2026-11-04T18:10:43.093103"
+  },
+  {
+    "id": "f39286e9596a1efa",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158877-senior-forward-deployed-engineer-full-stack",
+    "title": "Senior Forward Deployed Engineer (Full-Stack)",
+    "company": "dscout",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At Dscout , we’re building the most flexible and powerful UX research platform on the market—trusted by the world’s top brands in finance (JP Morgan Chase, Intuit, Charles Schwab, PayPal), healthcare (Aya, Headspace), consumer goods (Keen, Verizon, Target, Northface), and tech (Google, Amazon, Faceb",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.092842",
+    "first_seen": "2026-11-04T18:10:43.092842"
+  },
+  {
+    "id": "96954ce1a53dacbf",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158879-gtm-engineer-marketing",
+    "title": "GTM Engineer, Marketing",
+    "company": "Tremendous",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Tremendous is the global platform built for businesses to send thousands of payouts to anyone, anywhere, for free. We’re trusted by 20,000 leading organizations like Atlassian, MIT, and United Way to deliver gift cards and money to millions of recipients worldwide. In both our product and our workpl",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.092582",
+    "first_seen": "2026-11-04T18:10:43.092583"
+  },
+  {
+    "id": "f98f2b552f0508c1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158885-territory-account-executive-saskatchewan-manitoba",
+    "title": "Territory Account Executive, Saskatchewan / Manitoba",
+    "company": "Cloudflare, Inc.",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Us At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects ",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.092480",
+    "first_seen": "2026-11-04T18:10:43.092480"
+  },
+  {
+    "id": "e9b110bb0eafe095",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158887-sr-manager-product-marketing",
+    "title": "Sr. Manager, Product Marketing",
+    "company": "hims &#038; hers",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatmen",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.092307",
+    "first_seen": "2026-11-04T18:10:43.092308"
+  },
+  {
+    "id": "cd224ebd15710f41",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158889-ai-application-security-engineer",
+    "title": "AI Application Security Engineer",
+    "company": "Brain Co.",
+    "location": "UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Our Mission Rebuild how the world works, to make institutions work better for the people they serve. About Brain Co. Brain Co. builds AI-native operating systems for large, regulated institutions. Each system is built for a specific industry, powered by agents that push real workflows forward. Under",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.092160",
+    "first_seen": "2026-11-04T18:10:43.092161"
+  },
+  {
+    "id": "97a9afbf316e7aac",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158890-director-sales-engineering-2",
+    "title": "Director, Sales Engineering",
+    "company": "Dataiku",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Dataiku is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enterprises require. Sitting above data",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.091971",
+    "first_seen": "2026-11-04T18:10:43.091972"
+  },
+  {
+    "id": "115367e99e8e7095",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158894-senior-recruiting-partner-contract",
+    "title": "Senior Recruiting Partner (Contract)",
+    "company": "ClassDojo",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "ClassDojo 's goal is to give every child on Earth an education they love. We started by building a powerful network for communication. ClassDojo’s flagship app is the #1 communication app connecting K-12 teachers, children, and families globally. Teachers use it to share what’s happening throughout ",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.091810",
+    "first_seen": "2026-11-04T18:10:43.091811"
+  },
+  {
+    "id": "e7dfc2f9407f6c53",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158898-forward-deployed-product-manager",
+    "title": "Forward Deployed Product Manager",
+    "company": "Caylent",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s ",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.091680",
+    "first_seen": "2026-11-04T18:10:43.091681"
+  },
+  {
+    "id": "a67a6dd9d9b588ea",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158899-product-at-nash",
+    "title": "Product at Nash",
+    "company": "Nash",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Product at Nash The Role Join Nash, an autonomic logistics platform helping enterprises plan, execute, and manage deliveries across diverse fleets, partners, and networks. As a Product Manager, you’ll be at the heart of shaping innovative logistics solutions powered by advanced AI models and integra",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.091450",
+    "first_seen": "2026-11-04T18:10:43.091451"
+  },
+  {
+    "id": "125520ada7d289d6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158904-director-technology-communications-hims-hers",
+    "title": "Director, Technology Communications, Hims & Hers",
+    "company": "hims &#038; hers",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatmen",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.091322",
+    "first_seen": "2026-11-04T18:10:43.091322"
+  },
+  {
+    "id": "d67f78c2d06bc1d6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158906-account-executive-financial-services-2",
+    "title": "Account Executive, Financial Services",
+    "company": "Brain Co.",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Our Mission Rebuild how the world works, to make institutions work better for the people they serve. About Brain Co. Brain Co. builds AI-native operating systems for large, regulated institutions. Each system is built for a specific industry, powered by agents that push real workflows forward. Under",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.091132",
+    "first_seen": "2026-11-04T18:10:43.091133"
+  },
+  {
+    "id": "107583b991bbc16c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158912-frontend-architect-2",
+    "title": "Frontend Architect",
+    "company": "Caylent",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s ",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.091009",
+    "first_seen": "2026-11-04T18:10:43.091010"
+  },
+  {
+    "id": "4195a96b3d750dae",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158913-enterprise-solutions-consultant-regional-launcher-latam",
+    "title": "Enterprise Solutions Consultant/Regional Launcher, LATAM",
+    "company": "Nash",
+    "location": "LATAM",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "ABOUT NASH Nash is last-mile delivery infrastructure. We help the world's largest retailers and commerce companies orchestrate, optimize, and manage their delivery operations. Founded in San Francisco in 2021, backed by Andreessen Horowitz and Y Combinator, Nash works with enterprise customers acros",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.090792",
+    "first_seen": "2026-11-04T18:10:43.090793"
+  },
+  {
+    "id": "470c66e96c3628f6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158914-automation-engineer-agentic-orchestration",
+    "title": "Automation Engineer, Agentic Orchestration",
+    "company": "StackAdapt",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable resul",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.090582",
+    "first_seen": "2026-11-04T18:10:43.090583"
+  },
+  {
+    "id": "e7204b55b817fe00",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158918-account-executive-insurance",
+    "title": "Account Executive, Insurance",
+    "company": "Brain Co.",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Our Mission Rebuild how the world works, to make institutions work better for the people they serve. About Brain Co. Brain Co. builds AI-native operating systems for large, regulated institutions. Each system is built for a specific industry, powered by agents that push real workflows forward. Under",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.090406",
+    "first_seen": "2026-11-04T18:10:43.090406"
+  },
+  {
+    "id": "ff22fada12bc0c09",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158919-senior-director-marketing-operations-analytics",
+    "title": "Senior Director, Marketing Operations & Analytics",
+    "company": "Dataiku",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Dataiku is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enterprises require. Sitting above data",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.090279",
+    "first_seen": "2026-11-04T18:10:43.090280"
+  },
+  {
+    "id": "8bda72aee5bbb48c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158922-head-of-legal",
+    "title": "Head of Legal",
+    "company": "ClassDojo",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "About Dojo Dojo started as a simple way for teachers to show parents what happened in class. Today it's used in 95% of US K-8 schools and by 1 in 4 American families, and reaches about 50 million kids in 180 countries. We got here with around 220 people and have never paid for a user. Families trust",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.090115",
+    "first_seen": "2026-11-04T18:10:43.090115"
+  },
+  {
+    "id": "89a2e2c1b4a74405",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158923-principal-data-architect",
+    "title": "Principal Data Architect",
+    "company": "Caylent",
+    "location": "Brazil",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s ",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.089918",
+    "first_seen": "2026-11-04T18:10:43.089918"
+  },
+  {
+    "id": "6a7e16514f9de61b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158925-commercial-ip-legal-counsel",
+    "title": "Commercial & IP Legal Counsel",
+    "company": "StackAdapt",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable resul",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.089771",
+    "first_seen": "2026-11-04T18:10:43.089772"
+  },
+  {
+    "id": "e5d35d07b652a0ce",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158926-commercial-counsel-bridge",
+    "title": "Commercial Counsel, Bridge",
+    "company": "Stripe",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.089553",
+    "first_seen": "2026-11-04T18:10:43.089553"
+  },
+  {
+    "id": "1304f532875bf25d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158930-observability-engineering-manager",
+    "title": "Observability Engineering Manager",
+    "company": "Canonical",
+    "location": "EMEA,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.089450",
+    "first_seen": "2026-11-04T18:10:43.089451"
+  },
+  {
+    "id": "79a58727e9e4ea83",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158932-senior-staff-software-engineer-sap-connectors",
+    "title": "Senior Staff Software Engineer - SAP Connectors",
+    "company": "Fivetran",
+    "location": "Netherlands",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "From Fivetran ’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizatio",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.089286",
+    "first_seen": "2026-11-04T18:10:43.089287"
+  },
+  {
+    "id": "edc6aca961e4a3fd",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158935-organisational-development-associate",
+    "title": "Organisational Development Associate",
+    "company": "Canonical",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.089080",
+    "first_seen": "2026-11-04T18:10:43.089080"
+  },
+  {
+    "id": "610e256dbbc9e68a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158937-full-stack-engineer-backend-leaning-studio",
+    "title": "Full-Stack Engineer (Backend Leaning) - Studio",
+    "company": "Elevenlabs",
+    "location": "Bulgaria,  Poland,  UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.088935",
+    "first_seen": "2026-11-04T18:10:43.088935"
+  },
+  {
+    "id": "3ff768dd8791e6c7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158938-product-manager-12",
+    "title": "Product Manager",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.088838",
+    "first_seen": "2026-11-04T18:10:43.088839"
+  },
+  {
+    "id": "f8306465f525ac57",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158940-product-manager-ai",
+    "title": "Product Manager - AI",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.088640",
+    "first_seen": "2026-11-04T18:10:43.088640"
+  },
+  {
+    "id": "90a13de99e94717f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158941-account-manager-dach",
+    "title": "Account Manager - DACH",
+    "company": "Elevenlabs",
+    "location": "Germany",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.088435",
+    "first_seen": "2026-11-04T18:10:43.088436"
+  },
+  {
+    "id": "119d8891952de80b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158942-product-manager-cloud",
+    "title": "Product Manager - Cloud",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.088303",
+    "first_seen": "2026-11-04T18:10:43.088304"
+  },
+  {
+    "id": "9c9e8645e3da995a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158943-product-marketing-agents-government",
+    "title": "Product Marketing - Agents - Government",
+    "company": "Elevenlabs",
+    "location": "Ireland,  Poland,  UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.088128",
+    "first_seen": "2026-11-04T18:10:43.088129"
+  },
+  {
+    "id": "e776ebb6459914d8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158944-product-manager-data",
+    "title": "Product Manager - Data",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.088013",
+    "first_seen": "2026-11-04T18:10:43.088014"
+  },
+  {
+    "id": "7d2e221680880b60",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158945-full-stack-engineer-backend-leaning-platform-engineering",
+    "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
+    "company": "Elevenlabs",
+    "location": "Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.087815",
+    "first_seen": "2026-11-04T18:10:43.087816"
+  },
+  {
+    "id": "798f061ce4f7299e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158946-product-manager-security-2",
+    "title": "Product Manager - Security",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.087669",
+    "first_seen": "2026-11-04T18:10:43.087670"
+  },
+  {
+    "id": "01639706cd4f0cc0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158947-full-stack-engineer-backend-leaning-payments-engineering",
+    "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
+    "company": "Elevenlabs",
+    "location": "Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.087456",
+    "first_seen": "2026-11-04T18:10:43.087457"
+  },
+  {
+    "id": "cdd4c8ba75590143",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158948-product-manager-ubuntu",
+    "title": "Product Manager - Ubuntu",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.087322",
+    "first_seen": "2026-11-04T18:10:43.087323"
+  },
+  {
+    "id": "58aa7b96b5147ecc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158950-product-marketing-lead-4",
+    "title": "Product Marketing Lead",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.087110",
+    "first_seen": "2026-11-04T18:10:43.087111"
+  },
+  {
+    "id": "19577227342eab90",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158951-fpa-lead",
+    "title": "FP&A Lead",
+    "company": "Elevenlabs",
+    "location": "Belgium,  France,  Poland,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.086954",
+    "first_seen": "2026-11-04T18:10:43.086954"
+  },
+  {
+    "id": "41ae698ea5182d91",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158952-python-software-engineer-commercial-systems",
+    "title": "Python Software Engineer, Commercial Systems",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include t",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.086819",
+    "first_seen": "2026-11-04T18:10:43.086820"
+  },
+  {
+    "id": "069b5f7cbec8e138",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158953-equity-administrator-2",
+    "title": "Equity Administrator",
+    "company": "Elevenlabs",
+    "location": "Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.086700",
+    "first_seen": "2026-11-04T18:10:43.086701"
+  },
+  {
+    "id": "1f326ca555d05b5e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158955-finance-systems-lead",
+    "title": "Finance Systems Lead",
+    "company": "Elevenlabs",
+    "location": "Belgium,  France,  Poland,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.086577",
+    "first_seen": "2026-11-04T18:10:43.086578"
+  },
+  {
+    "id": "e186e52d5ca58d0b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158957-partnerships-strategy-operations",
+    "title": "Partnerships Strategy & Operations",
+    "company": "Elevenlabs",
+    "location": "UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.086429",
+    "first_seen": "2026-11-04T18:10:43.086429"
+  },
+  {
+    "id": "c7221fc9cbd4a032",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158959-vertical-sales-strategy-and-operations",
+    "title": "Vertical Sales Strategy and Operations",
+    "company": "Elevenlabs",
+    "location": "UK,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.086257",
+    "first_seen": "2026-11-04T18:10:43.086258"
+  },
+  {
+    "id": "d73982e99a205609",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158960-senior-software-engineer-backend-2",
+    "title": "Senior Software Engineer, Backend",
+    "company": "Flex",
+    "location": "Brazil",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Flex is building the AI-native private bank for business owners . We’re re-architecting the entire financial system for entrepreneurs—from the first dollar a business earns to how that value compounds, moves, and is ultimately spent in real life. Banking, credit, payments, personal finance, and fina",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.086084",
+    "first_seen": "2026-11-04T18:10:43.086085"
+  },
+  {
+    "id": "a0f83db27c424c29",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158961-business-solutions-partner-enterprise-ai",
+    "title": "Business Solutions Partner - Enterprise AI",
+    "company": "6sense",
+    "location": "Costa Rica",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Our Mission: 6sense 's mission is to multiply what matters: growth, retention, and efficiency. We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.085942",
+    "first_seen": "2026-11-04T18:10:43.085943"
+  },
+  {
+    "id": "df931a234114616c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158968-principal-product-designer-2",
+    "title": "Principal Product Designer",
+    "company": "Customer.io",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "About Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive. We help teams send smarter, more rel",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.085608",
+    "first_seen": "2026-11-04T18:10:43.085608"
+  },
+  {
+    "id": "ec581f8f391c16c3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158970-product-manager-agent",
+    "title": "Product Manager, Agent",
+    "company": "Customer.io",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive. We help teams send smarter, more rel",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.085369",
+    "first_seen": "2026-11-04T18:10:43.085370"
+  },
+  {
+    "id": "341c7022537ea665",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/158977-senior-card-product-manager",
+    "title": "Senior Card Product Manager",
+    "company": "Binance",
+    "location": "Hong Kong,  Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an ",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:43.085209",
+    "first_seen": "2026-11-04T18:10:43.085225"
+  },
+  {
+    "id": "18ad81e560bfd020",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674",
+    "title": "Sales Operations Analyst",
+    "company": "Calabrio",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "USD 75,000 – 75,000/year",
+    "job_type": "N/A",
+    "tags": [
+      "analyst",
+      "saas",
+      "salesforce",
+      "education",
+      "customer support",
+      "dev",
+      "marketing",
+      "accounting",
+      "finance",
+      "exec"
+    ],
+    "description_snippet": "Location: US- Remote. Must be in EST or CT time zone only. VerintÂ is an innovative, fast-paced, growing software company that delivers integrated workforce optimization software for todayâs multi-channel contact centers. We are in an exciting growing phase and now is an excellent time to join and",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-04T18:10:41.809338",
+    "first_seen": "2026-11-04T18:10:41.809339"
+  },
+  {
+    "id": "9990814d52558492",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675",
+    "title": "Paid Media Manager US",
+    "company": "Kyra",
+    "location": "US",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "exec",
+      "customer support",
+      "testing",
+      "marketing",
+      "finance",
+      "scheme",
+      "content writing",
+      "excel",
+      "stats",
+      "legal"
+    ],
+    "description_snippet": "About Kyra Kyra is an enterprise influencer marketing platform working with brands like SharkNinja, Coach, H&amp;M, Ray-Ban, and Converse. Our platform manages the full lifecycle â creator discovery, campaign management, content review, payments, analytics, and AI-powered intelligence across TikTo",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-04T18:10:41.809143",
+    "first_seen": "2026-11-04T18:10:41.809152"
+  },
+  {
+    "id": "07cf56120fb53cc6",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=0323bcf3e0c7dad0",
+    "title": "Software Engineer II Data",
+    "company": "CDW",
+    "location": "Remote, USA",
+    "is_remote": false,
+    "salary": "USD 86,000 – 119,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "azure",
+      "data engineering",
+      "microsoft fabric",
+      "data warehouse",
+      "medallion",
+      "ci/cd",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**Description**\n\n**Job Summary:**\n\nThe Software Engineer II, Data builds and supports enterprise data ingestion, transformation, modeling, and integration solutions. This role translates business and source-system requirements into scalable, maintainable data solutions that support analytics, report",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:29.360575",
+    "first_seen": "2026-11-04T18:10:29.360576"
+  },
+  {
+    "id": "5ee1deee2d7b43ab",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=62c60bd4a521d8dc",
+    "title": "Data Engineer (Snowflake, MySQL, Python)",
+    "company": "Fidelity Investments",
+    "location": "Boston, MA, USA",
+    "is_remote": false,
+    "salary": "USD 83,000 – 158,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "azure",
+      "aws",
+      "snowflake"
+    ],
+    "description_snippet": "**Fidelity will not provide immigration sponsorship for this position.**\n\n### **Job Description:**\n\nThe Role:\n\n  \n\nDo you enjoy the challenge of solving problems and working in a fast-paced environment where no two days are the same? Are you able to identify big picture ideas/concepts and translate ",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:29.360177",
+    "first_seen": "2026-11-04T18:10:29.360178"
+  },
+  {
+    "id": "578a633fad8ec4fa",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=028f1d2bce1df884",
+    "title": "Senior Data Engineer",
+    "company": "Health-eCommerce.com",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 130,000 – 165,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "data engineering",
+      "synapse",
+      "data warehouse",
+      "java",
+      "scala"
+    ],
+    "description_snippet": "**About the Role**\n\nWe are seeking an experienced Senior Data Engineer to join our growing Data & Analytics team. This role will be responsible for designing, developing and maintaining scalable data pipelines and infrastructure to support our organization's data needs.\n\n**Specific Responsibilities:",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:29.359985",
+    "first_seen": "2026-11-04T18:10:29.359991"
+  },
+  {
+    "id": "4e95a4901e602598",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=72ff83b0275d90e7",
+    "title": "Data Engineer",
+    "company": "Robotics Technologies",
+    "location": "Jersey City, NJ, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "data engineering",
+      "java",
+      "llm"
+    ],
+    "description_snippet": "* Job ID:\n\n  J53337\n* Job Title:\n\n  Data Engineer\n* Location:\n\n  Jersey City, NJ\n* Duration:\n\n  10 Months + Extension\n* Domain Exposure:\n\n  Retail\n* Work Authorization:\n\n  US Citizen,Green Card,OPT-EAD,CPT,H-1B,H4-EAD,L2-EAD,GC-EAD\n* Client:\n\n  To Be Discussed Later\n* Employment Type:\n\n  W-2, 1099, ",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-11-04T18:10:25.671308",
+    "first_seen": "2026-11-04T18:10:25.671309"
+  },
+  {
+    "id": "23ef603c2be9778b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=cd58953ecb2bf4e3",
+    "title": "Senior Data Platform Engineer",
+    "company": "Robotics Technologies",
+    "location": "Sunnyvale, CA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "spark",
+      "dbt",
+      "azure",
+      "analytics engineering",
+      "kubernetes",
+      "ci/cd"
+    ],
+    "description_snippet": "* Job ID:\n\n  J53632\n* Job Title:\n\n  Senior Data Platform Engineer\n* Location:\n\n  Sunnyvale, CA\n* Duration:\n\n  10 Months + Extension\n* Domain Exposure:\n\n  Banking & Finance\n* Work Authorization:\n\n  US Citizen,Green Card,OPT-EAD,CPT,H-1B,H4-EAD,L2-EAD,GC-EAD\n* Client:\n\n  To Be Discussed Later\n* Employ",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-04T18:10:25.670933",
+    "first_seen": "2026-11-04T18:10:25.670934"
+  },
+  {
+    "id": "44bc3dc7d5da9ddc",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=573675e8876b4b5c",
+    "title": "Data Platform Engineer",
+    "company": "Accenture Federal Services",
+    "location": "Arlington, VA, USA",
+    "is_remote": false,
+    "salary": "USD 81,000 – 154,900/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "spark",
+      "pyspark",
+      "databricks",
+      "ci/cd"
+    ],
+    "description_snippet": "At Accenture Federal Services, nothing matters more than helping the US federal government make the nation stronger and safer and life better for people. Our 13,000+ people are united in a shared purpose to pursue the limitless potential of technology and ingenuity for clients across defense, nation",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:25.670189",
+    "first_seen": "2026-11-04T18:10:25.670194"
+  },
+  {
+    "id": "4a0fae0f527eb4ed",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=035ee4a08532c624",
+    "title": "Data Scientist 2",
+    "company": "United Launch Alliance (ULA)",
+    "location": "Centennial, CO, USA",
+    "is_remote": false,
+    "salary": "USD 92,783 – 154,638/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "azure",
+      "aws",
+      "machine learning"
+    ],
+    "description_snippet": "**Data Scientist 2**\n====================\n\n**Date:** Nov 2, 2026\n\n**Location:** Centennial, CO, US, 80112\n\n**Company:** United Launch Alliance\n\n**Requisition ID:** 2313\n\n**Standard Weekly Hours:** 40.00\n\n**Location:** ULA - Denver\n\n**Relocation:** Yes- Relocation may be available\n\n**Travel Requireme",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-04T18:10:21.365154",
+    "first_seen": "2026-11-04T18:10:21.365155"
+  },
+  {
+    "id": "442aeae374d71e6b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=51c473b10a1d03bd",
+    "title": "Director, Data Science",
+    "company": "Gap Inc.",
+    "location": "San Francisco, CA, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "gcp",
+      "snowflake",
+      "databricks",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**About Gap Inc.**\n------------------\n\nAt Gap Inc., we create culture as much as we create clothes. Our ambition is to become a high-performing house of iconic American brands that shape culture.\n\nOur portfolio—Old Navy, Gap, Banana Republic, and Athleta—each brings a distinct point of view to how w",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:21.364509",
+    "first_seen": "2026-11-04T18:10:21.364510"
+  },
+  {
+    "id": "634d83919618710f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d931f3a1e4a4ab1b",
+    "title": "Data Scientist - Strategic Data Solutions",
+    "company": "Apple",
+    "location": "Austin, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "machine learning"
+    ],
+    "description_snippet": "Summary\n  \n  \nApple’s Strategic Data Solutions (SDS) team leads efforts to mitigate monetary losses, ensure financial crimes regulatory compliance, optimize various business processes, and improve the customer journey across our programs. Our team applies data science and machine learning to drive s",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:21.364202",
+    "first_seen": "2026-11-04T18:10:21.364203"
+  },
+  {
+    "id": "6b7e0e62cc9ee8a7",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=e1d0be3d0e3d96b9",
+    "title": "ML Data Operations Engineer",
+    "company": "Apple",
+    "location": "Santa Clara, CA, USA",
+    "is_remote": false,
+    "salary": "USD 150,400 – 225,300/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "machine learning"
+    ],
+    "description_snippet": "Summary\n  \n  \nImagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Dynamic, smart people and inspiring, innovative",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:21.364028",
+    "first_seen": "2026-11-04T18:10:21.364029"
+  },
+  {
+    "id": "2f48d558ffb1bcbf",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=9da75d69257b66d2",
+    "title": "ML Data Operations Engineer",
+    "company": "Apple",
+    "location": "San Diego, CA, USA",
+    "is_remote": false,
+    "salary": "USD 175,000 – 308,500/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "machine learning"
+    ],
+    "description_snippet": "Summary\n  \n  \nImagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Dynamic, smart people and inspiring, innovative",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:21.363860",
+    "first_seen": "2026-11-04T18:10:21.363861"
+  },
+  {
+    "id": "b979591eaf54f91d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1242f535c5f7df2e",
+    "title": "Software Engineer (Transactional), AI & Data Platforms (AiDP)",
+    "company": "Apple",
+    "location": "Sunnyvale, CA, USA",
+    "is_remote": false,
+    "salary": "USD 150,400 – 225,300/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "machine learning",
+      "postgres",
+      "kubernetes",
+      "generative ai"
+    ],
+    "description_snippet": "Summary\n  \n  \nApple's AI & Data Platform (AiDP) Data Services organization is seeking a motivated database systems engineer to join our Data Services SRE team, focused on our transactional database fleet. Engineers on this team develop and contribute to platform tooling that manages relational and d",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:21.363670",
+    "first_seen": "2026-11-04T18:10:21.363671"
+  },
+  {
+    "id": "2f09d9ab627ce861",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=bb519b3b7a90c10f",
+    "title": "Data Engineer (Agentic AI, LLM Training), G&A Solutions Engineering (GSE)",
+    "company": "Apple",
+    "location": "Austin, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "machine learning",
+      "java",
+      "llm",
+      "langchain",
+      "generative ai"
+    ],
+    "description_snippet": "Summary\n  \n  \nImagine what you could do here. At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. The G&A Solutions Engineering organization at Apple p",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T18:10:21.363460",
+    "first_seen": "2026-11-04T18:10:21.363465"
+  },
+  {
     "id": "dc9adfddcd88f907",
     "source": "remoteok",
     "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
