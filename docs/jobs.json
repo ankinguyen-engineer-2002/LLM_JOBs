@@ -1,5 +1,44 @@
 [
   {
+    "id": "76e678f2cb0d2dda",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer",
+    "title": "ML Inference Engineer – Terminal-Bench Task Designer",
+    "company": "Toptal",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Overview We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working s",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T22:25:18.085174",
+    "first_seen": "2026-11-04T22:25:18.085183"
+  },
+  {
+    "id": "82a592ecb4b2a956",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=2019efdf3e1a574f",
+    "title": "Analytics Engineer",
+    "company": "Tantalus",
+    "location": "Chattanooga, TN, USA",
+    "is_remote": false,
+    "salary": "USD 70,000 – 80,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "machine learning",
+      "scala"
+    ],
+    "description_snippet": "**About Tantalus Systems (TSX: GRID)**\n\nTantalus is a technology company dedicated to helping utilities modernize their distribution grids by harnessing the power of data across all their devices and systems deployed throughout the entire distribution grid – from the substation to the EV charger loc",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-04T22:20:40.051935",
+    "first_seen": "2026-11-04T22:20:40.051940"
+  },
+  {
     "id": "d0fd97134d06ac52",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/158985-staff-software-engineer-firefox-enterprise",
