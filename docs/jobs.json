@@ -1,5 +1,67 @@
 [
   {
+    "id": "c5d3ce71d1bcbbcb",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=fe230663c04b0f19",
+    "title": "Python/AI Data Software Developer",
+    "company": "NTT DATA",
+    "location": "Mahwah, NJ, USA",
+    "is_remote": false,
+    "salary": "USD 50 – 60/hourly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "rust"
+    ],
+    "description_snippet": "**Company Overview:**  \n**Req ID:** 395646\n  \nNTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.\n  \nWe are currently seeking a Software Engineer to join",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-11-04T06:02:23.498513",
+    "first_seen": "2026-11-04T06:02:23.498515"
+  },
+  {
+    "id": "9ed54c11c686329d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=791a99862ab417ec",
+    "title": "Senior Infrastructure Engineer",
+    "company": "Grainger",
+    "location": "Lake Forest, IL, USA",
+    "is_remote": true,
+    "salary": "USD 88,000 – 146,600/yearly",
+    "job_type": "nan",
+    "tags": [
+      "scala"
+    ],
+    "description_snippet": "**Work Location Type:** **Remote**\n\n**Req Number** 331701\n\n**About Grainger**\n\nW.W. Grainger, Inc., is a leading broad line distributor with operations primarily in North America, Japan and the United Kingdom. At Grainger, We Keep the World Working® by serving more than 4.5 million customers worldwi",
+    "posted_date": "2026-11-02",
+    "scraped_at": "2026-11-04T06:02:18.848723",
+    "first_seen": "2026-11-04T06:02:18.848726"
+  },
+  {
+    "id": "6984060bfd3d6be2",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=b9345bca78670d17",
+    "title": "Azure Data Engineer",
+    "company": "Tiger Analytics",
+    "location": "Chicago, IL, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "machine learning",
+      "snowflake",
+      "databricks",
+      "rust"
+    ],
+    "description_snippet": "Tiger Analytics is a fast-growing advanced analytics consulting firm. Our consultants bring deep expertise in Data Science, Machine Learning and AI. We are the trusted analytics partner for multiple Fortune 500 companies, enabling them to generate business value from data. Our business value and lea",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-11-04T06:02:15.929208",
+    "first_seen": "2026-11-04T06:02:15.929210"
+  },
+  {
     "id": "2caf2aaf1c28b566",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/158822-lead-engineer-ai-agent-voice-experience",
