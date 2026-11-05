@@ -1,5 +1,73 @@
 [
   {
+    "id": "f7226732de110271",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680",
+    "title": "Entry Level Scheduling &amp; Coordinating Reservations Online",
+    "company": "Destination Careers",
+    "location": "South Carolina",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "education",
+      "coordinator",
+      "customer support",
+      "exec",
+      "ops"
+    ],
+    "description_snippet": "About Us: We are a client coordination and services company that supports individuals and organizations with scheduling, reservations, and service-related logistics. We focus on clear communication, organized workflows, and delivering a consistent, high-quality client experience. &nbsp; Position Ove",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-05T01:01:14.429388",
+    "first_seen": "2026-11-05T01:01:14.429396"
+  },
+  {
+    "id": "2a66674bb9ee26af",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=93d856a76fa7fb9a",
+    "title": "Senior Data Scientist",
+    "company": "Coalition Inc.",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 172,000 – 205,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "aws",
+      "tableau",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "#### **About us**\n\nCoalition is the world's first Active Insurance provider designed to help prevent digital risk before it strikes. Founded in 2017, Coalition combines comprehensive insurance coverage and innovative cybersecurity tools to help businesses manage and mitigate potential cyberattacks.\n",
+    "posted_date": "2026-11-03",
+    "scraped_at": "2026-11-05T01:01:01.845266",
+    "first_seen": "2026-11-05T01:01:01.845268"
+  },
+  {
+    "id": "0dc90b506de13e64",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3d6636b42bbf5fdf",
+    "title": "Data Scientist - SAC",
+    "company": "Langan Engineering and Environmental Services",
+    "location": "Panama City, FL, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "data engineering",
+      "machine learning",
+      "scala"
+    ],
+    "description_snippet": "Langan provides expert land development engineering and environmental consulting services for major developers, renewable energy producers, energy companies, corporations, healthcare systems, colleges/universities, and large infrastructure programs throughout North America and around the world. Our ",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-05T01:01:01.844685",
+    "first_seen": "2026-11-05T01:01:01.844690"
+  },
+  {
     "id": "76e678f2cb0d2dda",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer",
