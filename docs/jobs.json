@@ -1,5 +1,29 @@
 [
   {
+    "id": "f76c2a10f67817bf",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=7692ffca5cca83d5",
+    "title": "Sr. Data Scientist",
+    "company": "AppFolio Inc",
+    "location": "Goleta, CA, USA",
+    "is_remote": false,
+    "salary": "USD 138,400 – 173,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "snowflake",
+      "data warehouse",
+      "rust",
+      "llm"
+    ],
+    "description_snippet": "AppFolio is more than a company. We’re a community of dreamers, big thinkers, problem solvers, active listeners, and multipliers. At every opportunity, we set the pace while delivering innovation built to carry real estate into the future. One in which every experience feels effortless, yet meaningf",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T06:27:06.290169",
+    "first_seen": "2026-11-05T06:27:06.290174"
+  },
+  {
     "id": "f7226732de110271",
     "source": "remoteok",
     "url": "https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680",
