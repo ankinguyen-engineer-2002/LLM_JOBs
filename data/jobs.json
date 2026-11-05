@@ -1,5 +1,689 @@
 [
   {
+    "id": "f267cd2210f3f961",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159021-travel-operations-manager-remote-luxury-travel-leadership",
+    "title": "Travel Operations Manager | Remote | Luxury Travel Leadership",
+    "company": "Fresh Prints",
+    "location": "Philippines",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Frontier Frontier is a subsidiary of Fresh Prints . Fresh Prints is a New York-based, fast-growing, fully remote, 150-person company with most of our team based in India and the Philippines. A few years ago, Fresh Prints began helping other fast-growing companies build their teams. We got so g",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.560053",
+    "first_seen": "2026-11-05T11:23:17.560054"
+  },
+  {
+    "id": "24a41ef7f428dfe3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159022-senior-program-manager-application-security",
+    "title": "Senior Program Manager, Application Security",
+    "company": "Harness",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.559727",
+    "first_seen": "2026-11-05T11:23:17.559729"
+  },
+  {
+    "id": "506103dcdeccc299",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159023-communications-designer-developer-experience",
+    "title": "Communications Designer, Developer Experience",
+    "company": "Nebius",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "creative & design"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.559433",
+    "first_seen": "2026-11-05T11:23:17.559435"
+  },
+  {
+    "id": "0c7e456e00a867fe",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159025-program-manager-operations-process",
+    "title": "Program Manager, Operations Process",
+    "company": "Gatik AI",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Gatik, the leader in autonomous middle-mile logistics, is revolutionizing the B2B supply chain with its autonomous transportation-as-a-service (ATaaS) solution and prioritizing safe, consistent deliveries while streamlining freight movement by reducing congestion. The company focuses on short-haul, ",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.559205",
+    "first_seen": "2026-11-05T11:23:17.559207"
+  },
+  {
+    "id": "61af56719fe440ac",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159028-director-business-solutions",
+    "title": "Director, Business Solutions",
+    "company": "6sense",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Our Mission: 6sense 's mission is to multiply what matters: growth, retention, and efficiency. We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.558904",
+    "first_seen": "2026-11-05T11:23:17.558905"
+  },
+  {
+    "id": "a41e4178a74a44ad",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159029-sr-strategic-insights-manager",
+    "title": "Sr. Strategic Insights Manager",
+    "company": "H1",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "At H1 , we believe access to the best healthcare information is a basic human right. Our mission is to provide a platform that can optimally inform every doctor interaction globally. This promotes health equity and builds needed trust in healthcare systems. To accomplish this our teams harness the p",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.558494",
+    "first_seen": "2026-11-05T11:23:17.558496"
+  },
+  {
+    "id": "962808cdc6d2f8b1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159033-account-executive-director-payments-lending",
+    "title": "Account Executive Director, Payments & Lending",
+    "company": "Socure",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Why Socure ? Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people ever",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.558287",
+    "first_seen": "2026-11-05T11:23:17.558289"
+  },
+  {
+    "id": "f543e227d8104d44",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159035-lead-forward-deployed-engineer-ai-enablement",
+    "title": "Lead Forward Deployed Engineer (AI Enablement)",
+    "company": "Reddit",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.558135",
+    "first_seen": "2026-11-05T11:23:17.558137"
+  },
+  {
+    "id": "d70d4e60c21f11bf",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159037-compensation-business-partner-gtm",
+    "title": "Compensation Business Partner, GTM",
+    "company": "Nebius",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.557833",
+    "first_seen": "2026-11-05T11:23:17.557835"
+  },
+  {
+    "id": "ec5e57ba394f1155",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159039-sr-field-service-team-manager",
+    "title": "Sr. Field Service Team Manager",
+    "company": "Gatik AI",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Gatik, the leader in autonomous middle-mile logistics, is revolutionizing the B2B supply chain with its autonomous transportation-as-a-service (ATaaS) solution and prioritizing safe, consistent deliveries while streamlining freight movement by reducing congestion. The company focuses on short-haul, ",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.557588",
+    "first_seen": "2026-11-05T11:23:17.557590"
+  },
+  {
+    "id": "bf4fb1577440e5d1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159043-l1-support-engineer-spanish-backup",
+    "title": "L1 Support Engineer - Spanish Backup",
+    "company": "Instructure",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education an",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.557317",
+    "first_seen": "2026-11-05T11:23:17.557318"
+  },
+  {
+    "id": "ba8211b08fe2e15d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159044-senior-business-systems-engineer-product-engineering-platforms",
+    "title": "Senior Business Systems Engineer – Product & Engineering Platforms",
+    "company": "Socure",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Why Socure ? Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people ever",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.557124",
+    "first_seen": "2026-11-05T11:23:17.557125"
+  },
+  {
+    "id": "6d0a4f7d9069ffba",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159046-machine-learning-engineer-8",
+    "title": "Machine Learning Engineer",
+    "company": "Reddit",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.556716",
+    "first_seen": "2026-11-05T11:23:17.556718"
+  },
+  {
+    "id": "a2d350a3ede74c04",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159047-senior-sales-engineer-data-products",
+    "title": "Senior Sales Engineer, Data Products",
+    "company": "CentralReach",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis (ABA), multidisciplinary therapy, and special education. Trusted by more than 200,000 users, we enable therapy providers, educators, and employers to scale the way they deliver ABA and related therapies ",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.556462",
+    "first_seen": "2026-11-05T11:23:17.556464"
+  },
+  {
+    "id": "68ad9b262c964371",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159048-data-center-design-lead-2",
+    "title": "Data Center Design Lead",
+    "company": "Nebius",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.556199",
+    "first_seen": "2026-11-05T11:23:17.556201"
+  },
+  {
+    "id": "8e9060806700d8ce",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159054-l1-support-engineer-portuguese-part-time",
+    "title": "L1 Support Engineer - Portuguese (Part-time)",
+    "company": "Instructure",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "part_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education an",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.555969",
+    "first_seen": "2026-11-05T11:23:17.555971"
+  },
+  {
+    "id": "1d9234ddea25084e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159057-machine-learning-engineer-answers-relevance",
+    "title": "Machine Learning Engineer, Answers Relevance",
+    "company": "Reddit",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.555792",
+    "first_seen": "2026-11-05T11:23:17.555794"
+  },
+  {
+    "id": "6db61848e5adc723",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159063-director-decision-science",
+    "title": "Director, Decision Science",
+    "company": "Instructure",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education an",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.555573",
+    "first_seen": "2026-11-05T11:23:17.555574"
+  },
+  {
+    "id": "afad1c601442e40f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159068-field-cto-financial-services-ai-infrastructure",
+    "title": "Field CTO, Financial Services AI Infrastructure",
+    "company": "Nebius",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.555354",
+    "first_seen": "2026-11-05T11:23:17.555356"
+  },
+  {
+    "id": "2e713bdda3e4a309",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159069-senior-technical-product-manager",
+    "title": "Senior Technical Product Manager",
+    "company": "Keyfactor, Inc.",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital inter",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.554943",
+    "first_seen": "2026-11-05T11:23:17.554944"
+  },
+  {
+    "id": "1e960549c597ad84",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159070-senior-account-executive-continuous-opening",
+    "title": "Senior Account Executive (Continuous Opening)",
+    "company": "Instructure",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education an",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.554655",
+    "first_seen": "2026-11-05T11:23:17.554657"
+  },
+  {
+    "id": "760f354f3401d518",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159071-strategic-partner-director-channel-sales",
+    "title": "Strategic Partner Director, Channel Sales",
+    "company": "Socure",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Why Socure ? Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people ever",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.554486",
+    "first_seen": "2026-11-05T11:23:17.554487"
+  },
+  {
+    "id": "b9ba08ba8671b24b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159073-machine-learning-manager-feed-ecosystems",
+    "title": "Machine Learning Manager, Feed Ecosystems",
+    "company": "Reddit",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.554289",
+    "first_seen": "2026-11-05T11:23:17.554291"
+  },
+  {
+    "id": "6786592c6631c480",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159075-frontend-engineer-user-interface",
+    "title": "Frontend Engineer - User Interface",
+    "company": "Nebius",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.554038",
+    "first_seen": "2026-11-05T11:23:17.554040"
+  },
+  {
+    "id": "e9c52133d52da00a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159076-sr-federal-channel-account-manager",
+    "title": "Sr. Federal Channel Account Manager",
+    "company": "Keyfactor, Inc.",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital inter",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.553827",
+    "first_seen": "2026-11-05T11:23:17.553828"
+  },
+  {
+    "id": "fc5cde34d160bdc9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159082-gpu-cluster-architect",
+    "title": "GPU Cluster Architect",
+    "company": "Nebius",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.553512",
+    "first_seen": "2026-11-05T11:23:17.553514"
+  },
+  {
+    "id": "352818576edab216",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159083-sr-solutions-engineer-west",
+    "title": "Sr. Solutions Engineer, West",
+    "company": "Keyfactor, Inc.",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital inter",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.553326",
+    "first_seen": "2026-11-05T11:23:17.553328"
+  },
+  {
+    "id": "68afbc062cbfeadc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159084-ai-engineer-marketing",
+    "title": "AI Engineer, Marketing",
+    "company": "Instructure",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At Instructure , we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in their education an",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.553065",
+    "first_seen": "2026-11-05T11:23:17.553067"
+  },
+  {
+    "id": "5ab59b69b26afd96",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159085-legal-counsel-identity-trust-products",
+    "title": "Legal Counsel, Identity & Trust Products",
+    "company": "Socure",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "Why Socure ? Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people ever",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.552835",
+    "first_seen": "2026-11-05T11:23:17.552836"
+  },
+  {
+    "id": "a229f2422f47388e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159087-principal-data-scientist-ads",
+    "title": "Principal Data Scientist, Ads",
+    "company": "Reddit",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.552622",
+    "first_seen": "2026-11-05T11:23:17.552624"
+  },
+  {
+    "id": "27e81c5f6d3e41e1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159088-designer-web-presence-platform",
+    "title": "Designer, Web Presence & Platform",
+    "company": "Stripe",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.552326",
+    "first_seen": "2026-11-05T11:23:17.552327"
+  },
+  {
+    "id": "f28689cf1be2a161",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159089-head-of-strategic-partnerships-tavily",
+    "title": "Head of Strategic Partnerships, Tavily",
+    "company": "Nebius",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.552107",
+    "first_seen": "2026-11-05T11:23:17.552109"
+  },
+  {
+    "id": "30e9db0b35386aca",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159091-senior-account-executive-italy",
+    "title": "Senior Account Executive (Italy)",
+    "company": "emnify",
+    "location": "Italy",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Senior Account Executive — Italy (Remote) --- About emnify emnify is a leading cloud-native IoT connectivity provider helping businesses connect and manage devices globally through a single, modern platform. Our technology powers connected products across industries including mobility, logistics, en",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.551903",
+    "first_seen": "2026-11-05T11:23:17.551904"
+  },
+  {
+    "id": "6ad33d513537ccc2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159103-customer-success-engineer-sydney-2",
+    "title": "Customer Success Engineer, Sydney",
+    "company": "Cribl",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl , we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telem",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.551652",
+    "first_seen": "2026-11-05T11:23:17.551654"
+  },
+  {
+    "id": "828289b2ece1139d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159105-lead-account-management-thailand",
+    "title": "Lead, Account Management, Thailand",
+    "company": "Cloudbeds",
+    "location": "Thailand",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "What Makes Cloudbeds Unique At Cloudbeds , we're not just building software, we're transforming hospitality. Our platform powers hotels across 150 countries, processing billions in bookings annually. From boutique properties to large hotel groups, we help hoteliers transform operations and uplevel t",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.551449",
+    "first_seen": "2026-11-05T11:23:17.551451"
+  },
+  {
+    "id": "a9a162bc27ade92d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159110-lead-smb-onboarding-thailand",
+    "title": "Lead, SMB Onboarding, Thailand",
+    "company": "Cloudbeds",
+    "location": "Thailand",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "What Makes Cloudbeds Unique At Cloudbeds , we're not just building software, we're transforming hospitality. Our platform powers hotels across 150 countries, processing billions in bookings annually. From boutique properties to large hotel groups, we help hoteliers transform operations and uplevel t",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.551097",
+    "first_seen": "2026-11-05T11:23:17.551099"
+  },
+  {
+    "id": "90ab99ee82080720",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159104-developer-support-engineer",
+    "title": "Developer Support Engineer",
+    "company": "Algolia",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Algolia is the retrieval intelligence layer that turns intent into trusted, decision-grade outcomes. Powering more than 1.7 trillion queries a year for over 18,000 customers with millisecond latency and 99.999% reliability, we are the recognized leader for Search and Product Discovery by top industr",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-05T11:23:17.550628",
+    "first_seen": "2026-11-05T11:23:17.550634"
+  },
+  {
+    "id": "c311ae932caf0a75",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=bc0783ee51a8691b",
+    "title": "Lean Engineer - Data Center Construction",
+    "company": "Data Center Solutions-G-GROUP",
+    "location": "Pampa, TX, USA",
+    "is_remote": false,
+    "salary": "USD 78,800 – 110,400/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "rust"
+    ],
+    "description_snippet": "**SUMMARY**\n\nMortenson is currently seeking a **Lean Engineer** that will support project teams with applying Mortenson’s kaizen-based continuous improvement approach, as well as 5S and Flow Construction, to enhance work safety, streamline processes, and improve project outcomes.\n\n***This position o",
+    "posted_date": "2026-10-26",
+    "scraped_at": "2026-11-05T11:23:05.387347",
+    "first_seen": "2026-11-05T11:23:05.387350"
+  },
+  {
     "id": "f76c2a10f67817bf",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=7692ffca5cca83d5",
