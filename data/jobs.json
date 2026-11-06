@@ -1,5 +1,675 @@
 [
   {
+    "id": "21fd79f568232fc2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159273-billing-operations-manager",
+    "title": "Billing Operations Manager",
+    "company": "Elevenlabs",
+    "location": "Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "finance & accounting"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.813998",
+    "first_seen": "2026-11-06T17:40:38.814000"
+  },
+  {
+    "id": "ea5dd655207aa9e2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159274-partner-manager-uk",
+    "title": "Partner Manager, UK",
+    "company": "Chainguard",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.813739",
+    "first_seen": "2026-11-06T17:40:38.813740"
+  },
+  {
+    "id": "353e2d3a2a9bf5c8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159275-business-travel-consultant-brazilian-portuguese-late-shifts",
+    "title": "Business Travel Consultant - Brazilian-Portuguese - Late Shifts",
+    "company": "TripActions",
+    "location": "Portugal",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Join Navan in Powering In-Person Connections with Relentless Innovation At Navan, our mission is to make travel seamless and empowering, so travelers can focus on being there, not getting there. Our Travel Experience team is at the heart of this mission! As a key member of our fast-growing Travel Ex",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.813529",
+    "first_seen": "2026-11-06T17:40:38.813531"
+  },
+  {
+    "id": "e9fb4d57208521fe",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159278-full-stack-engineer-productions",
+    "title": "Full-Stack Engineer - Productions",
+    "company": "Elevenlabs",
+    "location": "Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.813391",
+    "first_seen": "2026-11-06T17:40:38.813393"
+  },
+  {
+    "id": "ced8e53b3a2fe010",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159279-salesforce-netsuite-engineering-manager-commercial-systems",
+    "title": "Salesforce/NetSuite Engineering Manager, Commercial Systems",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include t",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.813185",
+    "first_seen": "2026-11-06T17:40:38.813186"
+  },
+  {
+    "id": "daaa846ce1d9820c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159281-sales-operations-analyst-2",
+    "title": "Sales Operations Analyst",
+    "company": "Canonical",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.813009",
+    "first_seen": "2026-11-06T17:40:38.813011"
+  },
+  {
+    "id": "5ebe9e07e48f045f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159282-trust-strategy-operations",
+    "title": "Trust Strategy & Operations",
+    "company": "Elevenlabs",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.812793",
+    "first_seen": "2026-11-06T17:40:38.812794"
+  },
+  {
+    "id": "ef0a87b85e9de8f2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159284-senior-database-reliability-engineer-postgresql-iac",
+    "title": "Senior Database Reliability Engineer (PostgreSQL, IaC)",
+    "company": "capital.com",
+    "location": "Bulgaria,  Cyprus,  Poland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "We are a leading trading platform that is ambitiously expanding to the four corners of the globe. Our top-rated products have won prestigious industry awards for their cutting-edge technology and seamless client experience. We deliver only the best, so we are always in search of the best people to j",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.812591",
+    "first_seen": "2026-11-06T17:40:38.812593"
+  },
+  {
+    "id": "a0db151685529e88",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159286-data-director-growth-and-marketing",
+    "title": "Data Director, Growth and Marketing",
+    "company": "Monzo",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.812372",
+    "first_seen": "2026-11-06T17:40:38.812374"
+  },
+  {
+    "id": "bfc3740760672f63",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159289-compensation-lead",
+    "title": "Compensation Lead",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.812137",
+    "first_seen": "2026-11-06T17:40:38.812138"
+  },
+  {
+    "id": "3711980270916b50",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159292-senior-product-designer-knowledge-graph-spain-remote",
+    "title": "Senior Product Designer, Knowledge Graph | Spain | Remote",
+    "company": "Grafana Labs",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.811995",
+    "first_seen": "2026-11-06T17:40:38.811997"
+  },
+  {
+    "id": "d583915568aa1474",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159296-electrical-engineer-data-centers-2",
+    "title": "Electrical Engineer- Data Centers",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.811684",
+    "first_seen": "2026-11-06T17:40:38.811686"
+  },
+  {
+    "id": "007c1e17fa73962f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159297-android-engineer-creative-app",
+    "title": "Android Engineer - Creative App",
+    "company": "Elevenlabs",
+    "location": "Hungary,  Netherlands,  Poland,  Sweden,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.811363",
+    "first_seen": "2026-11-06T17:40:38.811365"
+  },
+  {
+    "id": "93afb4e718bd2591",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159298-senior-product-designer-knowledge-graph-sweden-remote",
+    "title": "Senior Product Designer, Knowledge Graph | Sweden | Remote",
+    "company": "Grafana Labs",
+    "location": "Sweden",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.811195",
+    "first_seen": "2026-11-06T17:40:38.811196"
+  },
+  {
+    "id": "e82dcc2b49576973",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159301-field-technical-lead-data-center-deployments-2",
+    "title": "Field Technical Lead – Data Center Deployments",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.810892",
+    "first_seen": "2026-11-06T17:40:38.810894"
+  },
+  {
+    "id": "e83119fa42287aa8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159302-ios-engineer-creative-app",
+    "title": "iOS Engineer - Creative App",
+    "company": "Elevenlabs",
+    "location": "Netherlands,  Poland,  Sweden,  Switzerland,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like D",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.810751",
+    "first_seen": "2026-11-06T17:40:38.810752"
+  },
+  {
+    "id": "cd3d58ad8b01a62f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159303-senior-product-designer-knowledge-graph-united-kingdom-remote",
+    "title": "Senior Product Designer, Knowledge Graph | United Kingdom | Remote",
+    "company": "Grafana Labs",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.810582",
+    "first_seen": "2026-11-06T17:40:38.810584"
+  },
+  {
+    "id": "f11f6c08e866697b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159305-ofci-equipment-procurement-manager",
+    "title": "OFCI Equipment Procurement Manager",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.810237",
+    "first_seen": "2026-11-06T17:40:38.810239"
+  },
+  {
+    "id": "324a974d3b72eaea",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159308-senior-hypervisor-engineer-2",
+    "title": "Senior Hypervisor Engineer",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.810029",
+    "first_seen": "2026-11-06T17:40:38.810031"
+  },
+  {
+    "id": "ce6f50df1625a6f1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159311-senior-product-analyst-data-scientist",
+    "title": "Senior Product Analyst / Data Scientist",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:38.809848",
+    "first_seen": "2026-11-06T17:40:38.809859"
+  },
+  {
+    "id": "ffc8055b6ae13ba2",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
+    "title": "Senior Vue Developer",
+    "company": "Lemon.io",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "USD 50,000 – 180,000/year",
+    "job_type": "N/A",
+    "tags": [
+      "engineer",
+      "dev",
+      "full time",
+      "full stack",
+      "remote",
+      "remote work",
+      "javascript",
+      "typescript",
+      "php",
+      "laravel"
+    ],
+    "description_snippet": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior Vue Engineers come in all the time, and ",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-06T17:40:37.465855",
+    "first_seen": "2026-11-06T17:40:37.465857"
+  },
+  {
+    "id": "2958110f79c8dec2",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
+    "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
+    "company": "Toptal",
+    "location": "Anywhere in the World",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "artificial intelligence",
+      "docker",
+      "git",
+      "graphics processing unit",
+      "llm"
+    ],
+    "description_snippet": "Overview We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working solution, and a",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-06T17:40:37.465633",
+    "first_seen": "2026-11-06T17:40:37.465635"
+  },
+  {
+    "id": "7176f6f54f5d909e",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
+    "title": "Operations Expert with Python for AI Supply Chain Task Design",
+    "company": "Toptal",
+    "location": "Anywhere in the World",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "docker",
+      "git",
+      "inventory management",
+      "supply chain",
+      "microsoft excel",
+      "python",
+      "sap",
+      "sap production planning",
+      "sql",
+      "supply chain operations"
+    ],
+    "description_snippet": "Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-06T17:40:37.465486",
+    "first_seen": "2026-11-06T17:40:37.465489"
+  },
+  {
+    "id": "8b304082bb41c846",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+    "title": "Feltsense AI Engineer",
+    "company": "Silver.dev",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "USD 60,000 – 110,000/year",
+    "job_type": "N/A",
+    "tags": [
+      "design",
+      "sys admin",
+      "exec",
+      "technical",
+      "customer support",
+      "dev",
+      "testing",
+      "javascript",
+      "cloud",
+      "postgres"
+    ],
+    "description_snippet": "About the company We raised $5.1M to build agents that operate as fully autonomous founders. Our backers include Matt Schlicht (founder of Moltbook), the founders of Crunchbase and Republic, and VCs including Draper, Precursor, and Liquid2. We're working at the frontier of autonomous systems, buildi",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-06T17:40:37.465322",
+    "first_seen": "2026-11-06T17:40:37.465331"
+  },
+  {
+    "id": "4e5cc46cf104684c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=61c5dd639f8fac9e",
+    "title": "Senior Data Engineer",
+    "company": "Allstate Insurance",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 98,100 – 167,850/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "aws",
+      "power bi",
+      "data engineering"
+    ],
+    "description_snippet": "At Allstate, great things happen when our people work together to protect families and their belongings from life’s uncertainties. And for more than 90 years, our innovative drive has kept us a step ahead of our customers’ evolving needs. From advocating for seat belts, air bags and graduated drivin",
+    "posted_date": "2026-10-15",
+    "scraped_at": "2026-11-06T17:40:32.850834",
+    "first_seen": "2026-11-06T17:40:32.850836"
+  },
+  {
+    "id": "4bb5a8c93c61847c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=40042de00cd13d04",
+    "title": "Principal Data Engineer",
+    "company": "Microsoft",
+    "location": "Redmond, WA, USA",
+    "is_remote": false,
+    "salary": "USD 142,800 – 304,200/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "aws",
+      "databricks",
+      "ci/cd",
+      "java",
+      "scala"
+    ],
+    "description_snippet": "**Overview**\n\nWe are looking for a Principal Data Engineer to lead the architecture, development, and operation of scalable, reliable data platforms. This role requires deep expertise in ETL, data pipelines, data modeling, and distributed systems, with strong hands-on proficiency in Apache Spark, Py",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-06T17:40:32.848920",
+    "first_seen": "2026-11-06T17:40:32.848922"
+  },
+  {
+    "id": "b64892a5e8b73ab6",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=2b4543756d7f7cb6",
+    "title": "Databricks Engineer",
+    "company": "Robotics Technologies",
+    "location": "Washington, DC, USA",
+    "is_remote": false,
+    "salary": "USD 62 – 62/hourly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "aws",
+      "mlflow",
+      "data engineering",
+      "machine learning",
+      "databricks",
+      "ci/cd",
+      "scala",
+      "llm",
+      "generative ai"
+    ],
+    "description_snippet": "* Job ID:\n\n  J54070\n* Job Title:\n\n  Databricks Engineer\n* Location:\n\n  Washington, DC\n* Duration:\n\n  8 Months + Extension\n* Domain Exposure:\n\n  Utilities/ Energy\n* Client:\n\n  To Be Discussed Later\n* Employment Type:\n\n  W-2, 1099, C2C\n* Work Authorization:\n\n  US Citizen, Green Card, H-1B, OPT-EAD, CP",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:32.847624",
+    "first_seen": "2026-11-06T17:40:32.847628"
+  },
+  {
+    "id": "fe953d4d0f32c59d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=5f6a56f43459bc02",
+    "title": "Junior Data Engineer/Scientist - Washington, D.C",
+    "company": "Serco",
+    "location": "Washington Navy Yard, DC, USA",
+    "is_remote": false,
+    "salary": "USD 73,552 – 119,523/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "aws",
+      "power bi"
+    ],
+    "description_snippet": "Washington Navy Yard, District of Columbia, US, 20374\n\nCategory: Navy\n\nJob ID: 36129\n\nwidget: Full-Time\n\nSecret\n\nNo - Teleworking not available for this position\n\n$73552.19-$119523.82\n\n  \n\n### **Position Description & Qualifications**\n\n  \n  \n\nIf you love high profile and challenging projects support",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-06T17:40:23.258126",
+    "first_seen": "2026-11-06T17:40:23.258128"
+  },
+  {
+    "id": "d396589764b6f20f",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=17d97fabb0004f1d",
+    "title": "ChaseNet Data Scientist",
+    "company": "JPMorganChase",
+    "location": "Plano, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "tableau",
+      "rust"
+    ],
+    "description_snippet": "**JOB DESCRIPTION**  \n  \n  \n\n**About ChaseNet**\n\nChaseNet is JPMorganChase's proprietary closed-loop payments network that connects Chase-issued cardholders directly with merchants acquired by Chase Merchant Services. By routing eligible transactions through a single Chase-owned rail rather than the",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:23.255399",
+    "first_seen": "2026-11-06T17:40:23.255403"
+  },
+  {
+    "id": "83588cf067428b41",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=f8d8cb08029d52f7",
+    "title": "Analytics Engineer II",
+    "company": "Branch Financial",
+    "location": "Columbus, OH, USA",
+    "is_remote": true,
+    "salary": "USD 70,000 – 100,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "analytics engineering",
+      "bigquery",
+      "java"
+    ],
+    "description_snippet": "**About Branch**\n================\n\nBranch is on a mission to make insurance more accessible, so more people can be covered. We innovate using data, tech, and automation to simplify insurance from start to finish—we eliminated inaccurate quotes in favor of real prices, created a better way to bundle,",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:18.778958",
+    "first_seen": "2026-11-06T17:40:18.778963"
+  },
+  {
+    "id": "355441c327b2119b",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=fb4519db19e29d98",
+    "title": "Data Engineer II",
+    "company": "Honeywell Aerospace",
+    "location": "Minneapolis, MN, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "scala"
+    ],
+    "description_snippet": "As a Data Engineer II here at Honeywell Aerospace, you will play a key role in designing, developing, and maintaining data pipelines and ETL processes to ensure the efficient and reliable movement of data across the organization. Your expertise will be critical in optimizing data workflows and ensur",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-06T17:40:15.143474",
+    "first_seen": "2026-11-06T17:40:15.143477"
+  },
+  {
+    "id": "a7bcb8976f5cf5e4",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1364946078f07c3d",
+    "title": "Data Engineer II",
+    "company": "Disney Entertainment & Sports LLC",
+    "location": "New York, NY, USA",
+    "is_remote": false,
+    "salary": "USD 106,900 – 150,100/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "airflow",
+      "data engineering",
+      "snowflake",
+      "databricks",
+      "scala"
+    ],
+    "description_snippet": "**Job Requirements**  \n\n**Disney Entertainment and ESPN Product & Technology**\n\nTechnology is at the heart of Disney’s past, present, and future. Disney Entertainment and ESPN Product & Technology is a global organization of engineers, product developers, designers, technologists, data scientists, a",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:15.142878",
+    "first_seen": "2026-11-06T17:40:15.142880"
+  },
+  {
+    "id": "784b3594e25b39f7",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=c861e219417d0b72",
+    "title": "Data Engineer",
+    "company": "Robotics Technologies",
+    "location": "Chicago, IL, USA",
+    "is_remote": false,
+    "salary": "USD 65 – 80/hourly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "aws",
+      "data warehouse",
+      "scala"
+    ],
+    "description_snippet": "* Job ID:\n\n  J54045\n* Job Title:\n\n  Data Engineer\n* Location:\n\n  Chicago, IL\n* Duration:\n\n  6 Months + Extension\n* Domain Exposure:\n\n  Utilities/ Energy\n* Client:\n\n  To Be Discussed Later\n* Employment Type:\n\n  W-2, 1099, C2C\n* Work Authorization:\n\n  US Citizen, Green Card, H-1B, OPT-EAD, CPT, Other\n",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T17:40:15.142536",
+    "first_seen": "2026-11-06T17:40:15.142539"
+  },
+  {
     "id": "6f9aceb4b63c8a35",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/159233-senior-security-engineer-2",
