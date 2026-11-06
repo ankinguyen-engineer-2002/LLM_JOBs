@@ -1,5 +1,909 @@
 [
   {
+    "id": "46ce0d9072b963da",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer",
+    "title": "Software Engineer Interviewer",
+    "company": "Karat",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Seattle URL: https://karat.com/ Come join Karat's Interview Engineer Community! Karat is always seeking talented engineers accross the world to join our Community. If you are interested in being considered for a future Interview Engineer opportunity, please submit your application to t",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:19:05.150933",
+    "first_seen": "2026-11-06T20:19:05.150935"
+  },
+  {
+    "id": "f086868bb4980dcf",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
+    "title": "Full-Stack Engineer",
+    "company": "OpenTrain AI",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: United States URL: https://opentrain.ai/ Full-Stack Engineer, Part-Time AI Code Evaluation - Remote (United States) • $50–$100 per hour equivalent, paid per accepted task • 100% remote • Part-time • Under 20 hours a week, you choose when Work on AI code evaluation on your own schedule,",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:19:05.150725",
+    "first_seen": "2026-11-06T20:19:05.150735"
+  },
+  {
+    "id": "5d326859801de456",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159314-senior-product-manager-workflows",
+    "title": "Senior Product Manager, Workflows",
+    "company": "Customer.io",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive. We help teams send smarter, more rel",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.487306",
+    "first_seen": "2026-11-06T20:14:46.487307"
+  },
+  {
+    "id": "f9c7330e2e2a7e20",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159318-product-lead-codepath-edu",
+    "title": "Product Lead, CodePath EDU",
+    "company": "CodePath",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "CodePath is the largest educator of college computer science students in the country. We've trained over 50,000 students from more than 1,000 universities. Our partners include Amazon, Google, and other leading technology companies. After nearly a decade of training technical talent, we launched a $",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.487113",
+    "first_seen": "2026-11-06T20:14:46.487114"
+  },
+  {
+    "id": "2cf9f2fa601d3aab",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159323-senior-ios-software-engineer-brazil",
+    "title": "Senior iOS Software Engineer - Brazil",
+    "company": "Housecall Pro",
+    "location": "Brazil",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Why Housecall Pro ? Help us build solutions that build better lives. At Housecall Pro, we show up to work every day to make a difference for real people: the home service professionals that support America’s 100 million homes. We’re all about the Pro, and dedicate our days to helping them streamline",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.486940",
+    "first_seen": "2026-11-06T20:14:46.486941"
+  },
+  {
+    "id": "b38757ea44342d57",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159325-account-executive-32",
+    "title": "Account Executive",
+    "company": "Osano",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Osano Osano is an innovative B-Corporation built around a simple belief: privacy is a fundamental right. Since day one, we’ve been focused on giving modern enterprises the ability to innovate quickly, stay competitive, and earn customer trust by respecting data privacy and complying with conse",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.486731",
+    "first_seen": "2026-11-06T20:14:46.486732"
+  },
+  {
+    "id": "4dca86c29f0220ee",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159328-solutions-architect-digital-native-business-geo",
+    "title": "Solutions Architect - Digital Native Business (Geo)",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "As a Solutions Architect, you will lead the technical strategy for your customers — owning architecture discussions, driving platform adoption, and serving as a trusted advisor to customer technical leads and architects. You combine deep technical expertise with strategic thinking to position Databr",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.486563",
+    "first_seen": "2026-11-06T20:14:46.486565"
+  },
+  {
+    "id": "65ae6a32a1ee4678",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159329-senior-software-engineer-backend-platform",
+    "title": "Senior Software Engineer - Backend Platform",
+    "company": "Customer.io",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Hi, I'm Manu, Engineering Manager at Customer.io . We're looking for experienced backend engineers who want to build and own the infrastructure that powers one of the most data-intensive platforms in marketing automation — systems that process millions of events per second, orchestrate complex workf",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.486399",
+    "first_seen": "2026-11-06T20:14:46.486400"
+  },
+  {
+    "id": "498d63b714918912",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159332-partner-manager-ai-ecosystems",
+    "title": "Partner Manager, AI Ecosystems",
+    "company": "Apollo.io",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Apollo.io is the leading go-to-market solution for revenue teams, trusted by over 500,000 companies and millions of users globally, from rapidly growing startups to some of the world's largest enterprises. Founded in 2015, the company is one of the fastest growing companies in SaaS, raising approxim",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.486203",
+    "first_seen": "2026-11-06T20:14:46.486204"
+  },
+  {
+    "id": "634ae99159e28025",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159336-staff-product-designer-family-experience",
+    "title": "Staff Product Designer, Family Experience",
+    "company": "A Place For Mom",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "A Place for Mom is building the future of senior care, and design is central to how families, caregivers, providers, and APFM teams navigate that experience. We are looking for a Staff Product Designer to own product design for Consumer Experience and help us turn emotionally complex care decisions ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.485992",
+    "first_seen": "2026-11-06T20:14:46.485994"
+  },
+  {
+    "id": "b434922a372a494d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159338-saas-sales-manager",
+    "title": "SaaS Sales Manager",
+    "company": "Osano",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "About Osano Osano is an innovative B-Corporation built around a simple belief: privacy is a fundamental right. Since day one, we’ve been focused on giving modern enterprises the ability to innovate quickly, stay competitive, and earn customer trust by respecting data privacy and complying with conse",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.485718",
+    "first_seen": "2026-11-06T20:14:46.485719"
+  },
+  {
+    "id": "47b3698d0020c8b3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159341-sr-forward-deployed-engineer-fde-retail",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "CSQ427R168 As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.485532",
+    "first_seen": "2026-11-06T20:14:46.485533"
+  },
+  {
+    "id": "9c4c19dc7347c349",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159342-staff-software-engineer-backend",
+    "title": "Staff Software Engineer, Backend",
+    "company": "Customer.io",
+    "location": "LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Hi, I'm Paul, VP of Engineering at Customer.io . We're looking for a staff engineer to set technical direction for the systems that move billions of messages a day. This isn't a role about shipping more, faster. It's about deciding what gets built, where the architecture needs to go next, and raisin",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.485345",
+    "first_seen": "2026-11-06T20:14:46.485346"
+  },
+  {
+    "id": "fab8b5845d4d6c22",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159345-senior-product-designer-18",
+    "title": "Senior Product Designer",
+    "company": "CodePath",
+    "location": "LATAM,  Canada,  Europe,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "CodePath is the largest educator of college computer science students in the country. We've trained over 50,000 students from more than 1,000 universities. Our partners include Amazon, Google, and other leading technology companies. After nearly a decade of training technical talent, we launched a $",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.485141",
+    "first_seen": "2026-11-06T20:14:46.485142"
+  },
+  {
+    "id": "dfcf5507240bf7e5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159347-sr-staff-sdet-customer-engineering",
+    "title": "Sr. Staff SDET, Customer Engineering",
+    "company": "hims &#038; hers",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "qa & testing"
+    ],
+    "description_snippet": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatmen",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.484994",
+    "first_seen": "2026-11-06T20:14:46.484995"
+  },
+  {
+    "id": "6a158627528c0cba",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159353-senior-developer-relations-twitter-brand-rep",
+    "title": "Senior Developer Relations, Twitter Brand Rep",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers: Database, Auth, Storage, Edge Functions, Realtime, and Vector Search, all deeply integrated. About the Role Developers decide what to build with by listening to people they trust, much of it on Twitter,",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.484707",
+    "first_seen": "2026-11-06T20:14:46.484708"
+  },
+  {
+    "id": "bd8230f3e5100e86",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159357-senior-qa-engineer-us-remote",
+    "title": "Senior QA Engineer - US Remote",
+    "company": "PerfectServe",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "qa & testing"
+    ],
+    "description_snippet": "What is PerfectServe ? PerfectServe is a leading provider of clinical communication and physician scheduling solutions in the health IT space. The company was founded in 1997 and has grown steadily since then, with a notable jump after several major acquisitions were announced in 2019. PerfectServe ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.484598",
+    "first_seen": "2026-11-06T20:14:46.484599"
+  },
+  {
+    "id": "5053241210206ea2",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159358-product-manager-strategic-partner-integrations-regular-travel-to-bay-area",
+    "title": "Product Manager - Strategic Partner Integrations (regular travel to Bay Area)",
+    "company": "Supabase",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. More than 10 million de",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.484384",
+    "first_seen": "2026-11-06T20:14:46.484385"
+  },
+  {
+    "id": "b6707102e966f34a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159363-manager-nonsterile-production-planning",
+    "title": "Manager, Nonsterile Production Planning",
+    "company": "hims &#038; hers",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatmen",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.484180",
+    "first_seen": "2026-11-06T20:14:46.484181"
+  },
+  {
+    "id": "33c225c2aa441da8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159366-platform-engineer-edge-networking",
+    "title": "Platform Engineer, Edge & Networking",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We are seeking a platform engineer to ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.483976",
+    "first_seen": "2026-11-06T20:14:46.483977"
+  },
+  {
+    "id": "feb5b19277e6b46b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159367-staff-data-scientist-2",
+    "title": "Staff Data Scientist",
+    "company": "hims &#038; hers",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatmen",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.483835",
+    "first_seen": "2026-11-06T20:14:46.483836"
+  },
+  {
+    "id": "a5e67b3b18b8f5c0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159370-finops-engineer",
+    "title": "FinOps Engineer",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We're lo",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.483627",
+    "first_seen": "2026-11-06T20:14:46.483629"
+  },
+  {
+    "id": "37d528ea490454eb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159374-sdk-engineer-python",
+    "title": "SDK Engineer - Python",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We're lo",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.483478",
+    "first_seen": "2026-11-06T20:14:46.483480"
+  },
+  {
+    "id": "cccf246c0f3de82e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159380-orioledb-deployment-engineer",
+    "title": "OrioleDB Deployment Engineer",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re lo",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.483273",
+    "first_seen": "2026-11-06T20:14:46.483274"
+  },
+  {
+    "id": "e4d56fd812715b06",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159382-head-of-ai-native-operations",
+    "title": "Head of AI Native Operations",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We are l",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.483088",
+    "first_seen": "2026-11-06T20:14:46.483089"
+  },
+  {
+    "id": "e56060e4d814d2fc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159383-state-and-local-strategic-account-manager",
+    "title": "State and Local Strategic Account Manager",
+    "company": "ICEYE",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Role highlights: State and Local Strategic Account Manager Location: US (Remote) Department: Solutions Sales Reports to: Head of Government Solutions, North America Employment type: Permanent Workplace model: Remote Employment is subject to applicable security screening (incl. SUPO, where required) ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.482849",
+    "first_seen": "2026-11-06T20:14:46.482850"
+  },
+  {
+    "id": "03838a56d0b2524e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159387-principal-engineer-enterprise-scalability-remote-east-coast-only",
+    "title": "Principal Engineer, Enterprise Scalability (Remote - East Coast Only)",
+    "company": "Klaviyo",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At Klaviyo , we value the unique backgrounds, experiences and perspectives each Klaviyo (we call ourselves Klaviyos) brings to our workplace each and every day. We believe everyone deserves a fair shot at success and appreciate the experiences each person brings beyond the traditional job requiremen",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.482620",
+    "first_seen": "2026-11-06T20:14:46.482622"
+  },
+  {
+    "id": "c567f729bba61dff",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159389-staff-information-security-engineer-2",
+    "title": "Staff Information Security Engineer",
+    "company": "Rithum",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Rithum ™ is the world’s most trusted commerce network, accelerating how brands, suppliers, and retailers work together to deliver seamless e-commerce experiences. We provide an unmatched platform for brands and retailers, enabling them to accelerate growth, optimize operations across channels, scale",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.482288",
+    "first_seen": "2026-11-06T20:14:46.482290"
+  },
+  {
+    "id": "4de7d6013cf0586b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159390-3d-lidar-data-annotation-analyst-2",
+    "title": "3D & LiDAR Data Annotation Analyst",
+    "company": "Appen",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About the Role We’re building high-quality ground-truth datasets used to train and validate perception models for autonomous and operator-assisted machines working in complex, real-world environments. As a Data Annotation Analyst, you’ll work with camera imagery, video, and LiDAR point clouds to cre",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.482008",
+    "first_seen": "2026-11-06T20:14:46.482009"
+  },
+  {
+    "id": "1629b93185e9fe1c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159391-regional-sales-manager-2",
+    "title": "Regional Sales Manager",
+    "company": "BigID",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Who we are: BigID is an innovative tech startup that focuses on solutions for data security, compliance, privacy, and AI data management. We're leading the market in all things data: helping our customers reduce risk, drive business innovation, achieve compliance, build customer trust, make better d",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.481878",
+    "first_seen": "2026-11-06T20:14:46.481879"
+  },
+  {
+    "id": "4e1a81989f6a9357",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159398-senior-federal-enterprise-solution-architect",
+    "title": "Senior Federal Enterprise Solution Architect",
+    "company": "Collibra",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Joining Collibra ’s Public Sector team At Collibra Public Sector, our Professional Services team relies on Federal Solution Architects to deliver on customer expectations for the services we sell, working directly with customer key projects stakeholders throughout the entire customer journey. Ensuri",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.481730",
+    "first_seen": "2026-11-06T20:14:46.481732"
+  },
+  {
+    "id": "58c64aa2a12c664e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159401-design-lead-consumer",
+    "title": "Design Lead, Consumer",
+    "company": "Maven Clinic",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.481508",
+    "first_seen": "2026-11-06T20:14:46.481509"
+  },
+  {
+    "id": "18a039f016a1007a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159403-software-engineer-ii-mobile-developer-android-kotlin",
+    "title": "Software Engineer II (Mobile Developer - Android/Kotlin)",
+    "company": "Klaviyo",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "At Klaviyo , we value the unique backgrounds, experiences and perspectives each Klaviyo (we call ourselves Klaviyos) brings to our workplace each and every day. We believe everyone deserves a fair shot at success and appreciate the experiences each person brings beyond the traditional job requiremen",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.481244",
+    "first_seen": "2026-11-06T20:14:46.481245"
+  },
+  {
+    "id": "fd727790473d43f7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159405-technical-account-manager-12",
+    "title": "Technical Account Manager",
+    "company": "Rithum",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Rithum ™ is the world’s most trusted commerce network, accelerating how brands, suppliers, and retailers work together to deliver seamless e-commerce experiences. We provide an unmatched platform for brands and retailers, enabling them to accelerate growth, optimize operations across channels, scale",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.480977",
+    "first_seen": "2026-11-06T20:14:46.480979"
+  },
+  {
+    "id": "9880bf7c33f20038",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159406-strategic-project-lead-finance-2",
+    "title": "Strategic Project Lead - Finance",
+    "company": "Appen",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Appen 's Strategic Project Management team is central to the company's growth strategy, partnering with leading AI companies and frontier model developers to deliver the data that makes models work. As Strategic Project Lead - Finance, you will run strategic finance pilots and research projects for ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.480688",
+    "first_seen": "2026-11-06T20:14:46.480689"
+  },
+  {
+    "id": "409bad06ddcbf753",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159408-senior-director-construction",
+    "title": "Senior Director, Construction",
+    "company": "Cologix, Inc.",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "About Our Company: Headquartered in Denver, Colorado, Cologix is a leading North America network-neutral interconnection and hyperscale edge data center company. Our platform gives customers access to 45+ digital edge and Scalelogix℠ hyperscale edge data centers in 13 markets across the United State",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.480607",
+    "first_seen": "2026-11-06T20:14:46.480609"
+  },
+  {
+    "id": "b535d2e562ba9391",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159410-gtm-engineering-sharegate",
+    "title": "GTM Engineering - ShareGate",
+    "company": "Workleap",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Company Description Workleap is a Montreal-based tech company, founded in 2006. We're builders at heart, we make simple products that actually matter to the people who use them. We have two product lines: Workleap Agent , our newest solution built to make every manager more effective, and ShareGate ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:46.480313",
+    "first_seen": "2026-11-06T20:14:46.480325"
+  },
+  {
+    "id": "e00fc564ff071d5f",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-front-end-developer-cambridge-information-group-1137597",
+    "title": "Front End Developer",
+    "company": "Cambridge Information Group",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "USD 80,000 – 100,000/year",
+    "job_type": "N/A",
+    "tags": [
+      "front end",
+      "other"
+    ],
+    "description_snippet": "Job Title: Front-End Developer Location: Fully Remote (US) Department: Global Enrollment Marketing and Sales Reports to: Director of Web Development Classification: Regular, Full-time FLSA Status: Exempt Prepared by: Global Head of Creative Prepared Date: 10/1/26 Salary range: $85,000â$100,000 Abo",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-11-06T20:14:45.622360",
+    "first_seen": "2026-11-06T20:14:45.622361"
+  },
+  {
+    "id": "44038b9662da35da",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=4db1b7eedf426e31",
+    "title": "Senior Data Engineer",
+    "company": "sharkanalytics",
+    "location": "Irving, TX, USA",
+    "is_remote": false,
+    "salary": "USD 55 – 65/hourly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "data engineering",
+      "databricks",
+      "scala"
+    ],
+    "description_snippet": "Hiring Now | Senior Data Engineer | Databricks | Hybrid  \nLocation: Irving, TX  \nExperience: 10+ Years**(Only w2 ) No c2c or 1099**  \nVisa: **H1B,H4-EAD,GC-EAD,GC,USC**\n\nWe are seeking a highly skilled and hands-on Senior Data Engineer with strong expertise in Databricks, Python, and SQL. This role ",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-11-06T20:14:41.071117",
+    "first_seen": "2026-11-06T20:14:41.071118"
+  },
+  {
+    "id": "e8f8c2c2b418bf70",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=aefeda6b2d042ff9",
+    "title": "Big Data Engineer",
+    "company": "Tech Vista",
+    "location": "King, NC, USA",
+    "is_remote": false,
+    "salary": "USD 50 – 60/hourly",
+    "job_type": "contract",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "azure",
+      "aws",
+      "data engineering",
+      "data warehouse",
+      "java"
+    ],
+    "description_snippet": "**Overview**\n\nJoin us as a Big Data Engineer and build dependable data solutions that help teams turn complex information into useful insights. You’ll develop and maintain data pipelines, support analytics and business intelligence, and work across public cloud and database technologies. This role s",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-06T20:14:41.070589",
+    "first_seen": "2026-11-06T20:14:41.070591"
+  },
+  {
+    "id": "2f297da1913caa15",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=eeb6141d575fe82b",
+    "title": "Snowflake Data Engineer",
+    "company": "HCLTech",
+    "location": "San Antonio, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "snowflake",
+      "scala"
+    ],
+    "description_snippet": "**Job Summary**\n---------------\n\nThe Developer specializing in Snowflake and SQL will be responsible for developing, and maintaining data solutions using Snowflake cloud data platform and SQL databases. The role involves optimizing data pipelines, ensuring data quality, and supporting data analytics",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:41.070454",
+    "first_seen": "2026-11-06T20:14:41.070458"
+  },
+  {
+    "id": "8290552fbc9b7dcd",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=458176de3c31afe9",
+    "title": "Implementation Engineer, Analytics & Tag Management",
+    "company": "Court Avenue",
+    "location": "Los Angeles, CA, USA",
+    "is_remote": false,
+    "salary": "USD 90,000 – 110,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "bigquery",
+      "snowflake",
+      "java"
+    ],
+    "description_snippet": "GTX Solutions, a CourtAvenue Company, is a boutique consulting firm focused on helping brands unlock the power of their customer data. We specialize in Customer Data Platforms (CDPs), real-time activation, personalization, and MarTech integrations. Our team blends strategic insight with technical ex",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-11-06T20:14:28.313923",
+    "first_seen": "2026-11-06T20:14:28.313925"
+  },
+  {
+    "id": "4c114dfa9adad087",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3e4d193a2f418981",
+    "title": "Staff Business Analytics Engineer",
+    "company": "Proofpoint",
+    "location": "Sunnyvale, CA, USA",
+    "is_remote": false,
+    "salary": "USD 124,100 – 244,200/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "sql",
+      "dbt",
+      "power bi",
+      "data engineering",
+      "analytics engineering",
+      "snowflake",
+      "rust",
+      "llm"
+    ],
+    "description_snippet": "**About Us:**\n\nProofpoint is a global leader in human- and agent-centric cybersecurity. We protect how people, data, and AI agents connect across email, cloud, and collaboration tools. Over 80 of the Fortune 100, 10,000 large enterprises, and millions of smaller organizations trust Proofpoint to sto",
+    "posted_date": "2026-10-29",
+    "scraped_at": "2026-11-06T20:14:28.313550",
+    "first_seen": "2026-11-06T20:14:28.313551"
+  },
+  {
+    "id": "5ee152421324847c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=66ba6323a1337b1f",
+    "title": "Analytics Engineer",
+    "company": "Wellthy",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 125,000 – 152,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "aws",
+      "tableau",
+      "analytics engineering",
+      "bigquery",
+      "snowflake",
+      "data warehouse",
+      "scala"
+    ],
+    "description_snippet": "**Why Wellthy is for you!**\n\nAt Wellthy, we dream of a world where everyone has the care infrastructure they need to manage their own health and the health and well-being of their loved ones.  \n  \nWe're building something new in the care space - reimagining how care is delivered, accessed, and suppo",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:28.311933",
+    "first_seen": "2026-11-06T20:14:28.311935"
+  },
+  {
+    "id": "5fdf19161fe17e49",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=2ad022f8c6c4e1f2",
+    "title": "Lead Strategic Finance & Analytics Engineer",
+    "company": "Klaviyo",
+    "location": "Boston, MA, USA",
+    "is_remote": false,
+    "salary": "USD 148,000 – 222,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "data engineering",
+      "analytics engineering",
+      "machine learning",
+      "scala",
+      "rust",
+      "llm"
+    ],
+    "description_snippet": "*At Klaviyo, we value the unique backgrounds, experiences and perspectives each Klaviyo (we call ourselves Klaviyos) brings to our workplace each and every day. We believe everyone deserves a fair shot at success and appreciate the experiences each person brings beyond the traditional job requiremen",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:28.310901",
+    "first_seen": "2026-11-06T20:14:28.310903"
+  },
+  {
+    "id": "e48e1b492210e0a9",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=d766214a1d289812",
+    "title": "Snowflake Data Engineer",
+    "company": "HCLTech",
+    "location": "San Antonio, TX, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "snowflake",
+      "scala"
+    ],
+    "description_snippet": "**Job Summary**\n---------------\n\nThe Developer specializing in Snowflake and SQL will be responsible for developing, and maintaining data solutions using Snowflake cloud data platform and SQL databases. The role involves optimizing data pipelines, ensuring data quality, and supporting data analytics",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:24.000986",
+    "first_seen": "2026-11-06T20:14:24.000988"
+  },
+  {
+    "id": "813dbf5271b70b3a",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=73b30366fa02411c",
+    "title": "Lead Data Engineer",
+    "company": "Alo",
+    "location": "Beverly Hills, CA, USA",
+    "is_remote": false,
+    "salary": "USD 180,000 – 220,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "kafka",
+      "azure",
+      "aws",
+      "gcp",
+      "tableau",
+      "data engineering",
+      "bigquery",
+      "snowflake",
+      "medallion",
+      "ci/cd",
+      "scala",
+      "llm"
+    ],
+    "description_snippet": "**WHY JOIN ALO?**\n\nMindful movement. It's at the core of why we do what we do at ALO—it's our calling. Because mindful movement in the studio leads to better living. It changes who yogis are off the mat, making their lives and their communities better. That's the real meaning of studio-to-street: ta",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T20:14:24.000866",
+    "first_seen": "2026-11-06T20:14:24.000870"
+  },
+  {
     "id": "21fd79f568232fc2",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/159273-billing-operations-manager",
