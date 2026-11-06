@@ -1,5 +1,149 @@
 [
   {
+    "id": "6f9aceb4b63c8a35",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159233-senior-security-engineer-2",
+    "title": "Senior Security Engineer",
+    "company": "Roofr",
+    "location": "Canada",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "At Roofr , we’re obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That’s what makes Roofr’s CRM special. We started by building essential sales tools like aerial roof measurements and digital sales proposals. But when our custo",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T11:20:16.926928",
+    "first_seen": "2026-11-06T11:20:16.926929"
+  },
+  {
+    "id": "43ca64824cf38bff",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159234-full-stack-engineer-music",
+    "title": "Full Stack Engineer - Music",
+    "company": "Spotify",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Music Expression builds the tools artists use to show who they are on Spotify and to connect with fans. A song doesn't have to be just a track in a list. On Spotify it can come with a looping Canvas visual, a music video, a vertical-video clip from the artist, or a countdown to a new release. Releas",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T11:20:16.926710",
+    "first_seen": "2026-11-06T11:20:16.926711"
+  },
+  {
+    "id": "1c20c432b4cd7c2a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159244-compliance-lead-cmmc-nist-sp-800-171",
+    "title": "Compliance Lead - CMMC (NIST SP 800-171)",
+    "company": "Defense Unicorns",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "legal & compliance"
+    ],
+    "description_snippet": "Role Description We are seeking a CMMC Compliance Lead to join Commercial Cyber Operations. This person is the customer-facing lead for CMMC Level 1 and Level 2 engagements and owns NIST SP 800-171 interpretation, scoping, documentation, and assessment readiness from kickoff through the C3PAO assess",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T11:20:16.926605",
+    "first_seen": "2026-11-06T11:20:16.926606"
+  },
+  {
+    "id": "98a263636259851b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159251-product-architect",
+    "title": "Product Architect",
+    "company": "Keyfactor, Inc.",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital inter",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T11:20:16.926369",
+    "first_seen": "2026-11-06T11:20:16.926370"
+  },
+  {
+    "id": "66c13c0b191edeac",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159254-forward-deployed-engineer-fde-c-uas",
+    "title": "Forward Deployed Engineer (FDE) C-UAS",
+    "company": "Defense Unicorns",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "EMPLOYER IS A CONTRACTOR FOR THE U.S. GOVERNMENT. THIS POSITION REQUIRES U.S. CITIZENSHIP. Role Description This is a forward-deployed engineering role . You'll work shoulder-to-shoulder with mission heroes- the users, operators, and program engineers who run real workloads in real DoD environments-",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T11:20:16.926214",
+    "first_seen": "2026-11-06T11:20:16.926214"
+  },
+  {
+    "id": "11d66bf3a9ea0dc1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159258-senior-staff-machine-learning-engineer-content-platform",
+    "title": "Senior Staff Machine Learning Engineer - Content Platform",
+    "company": "Spotify",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "We design Spotify ’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T11:20:16.925961",
+    "first_seen": "2026-11-06T11:20:16.925961"
+  },
+  {
+    "id": "b53b274fffb81d38",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159261-sr-principal-sales-training-manager",
+    "title": "Sr. Principal Sales Training Manager",
+    "company": "Keyfactor, Inc.",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "education & e-learning"
+    ],
+    "description_snippet": "About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard every digital inter",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T11:20:16.925836",
+    "first_seen": "2026-11-06T11:20:16.925837"
+  },
+  {
+    "id": "f25747d63f41532e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159265-data-scientist-7",
+    "title": "Data Scientist",
+    "company": "Solace",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About Solace Healthcare in the U.S. is fundamentally broken. The system is so complex that 88% of U.S. adults do not have the health literacy necessary to navigate it without help. Solace cuts through the red tape of healthcare by pairing patients with expert advocates and giving them the tools to m",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-06T11:20:16.925557",
+    "first_seen": "2026-11-06T11:20:16.925570"
+  },
+  {
     "id": "0493ed2a5f962d51",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/mindrift-freelance-mechanical-cfd-engineer-ai-trainer",
