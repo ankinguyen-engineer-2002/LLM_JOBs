@@ -1,5 +1,521 @@
 [
   {
+    "id": "f75a0fa990efbae0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159489-marketing-analytics-manager",
+    "title": "Marketing Analytics Manager",
+    "company": "impact.com",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "About impact.com impact.com is the world’s leading commerce partnership marketing platform, transforming the way businesses grow by enabling them to discover, manage, and scale partnerships across the entire customer journey. From affiliates and influencers to content publishers, brand ambassadors, ",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.449976",
+    "first_seen": "2026-11-07T16:37:33.449978"
+  },
+  {
+    "id": "aa7ff162c6e588c3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159490-sr-forward-deployed-engineer-public-sector",
+    "title": "Sr. Forward Deployed Engineer - Public Sector",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "CSQ327R221 PLEASE NOTE: Due to federal contract requirements and client site access obligations, eligibility for a U.S. government Public Trust, Secret and/or Top Secret clearance are required to access classified information. Candidates with the interest and eligibility to obtain an active Public T",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.449697",
+    "first_seen": "2026-11-07T16:37:33.449699"
+  },
+  {
+    "id": "b3edcb145820d5aa",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159495-enterprise-customer-success-manager-12",
+    "title": "Enterprise Customer Success Manager",
+    "company": "CoderPad",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "CoderPad 's mission is to surface a person's skills in order to form badass teams that create impactful companies. We’re looking for an Enterprise Customer Success Manager to support our enterprise net-new motion and protect existing customer revenue, working in a pod with one Enterprise Strategic A",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.449388",
+    "first_seen": "2026-11-07T16:37:33.449390"
+  },
+  {
+    "id": "babbeca758514e7d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159496-senior-product-manager-data-infrastructure",
+    "title": "Senior Product Manager, Data Infrastructure",
+    "company": "ANGI",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "For over 30 years, Angi has powered the future of the home services industry, creating an environment where homeowners and pros benefit from more jobs done well. For homeowners, our platform is a reliable way to find skilled pros. For pros, we're a reliable business partner who helps them find the w",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.449079",
+    "first_seen": "2026-11-07T16:37:33.449080"
+  },
+  {
+    "id": "bc4e9f182529d78a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159498-sr-manager-field-engineering",
+    "title": "Sr. Manager, Field Engineering",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "FEQ427R411 Req ID Mission Reporting to a Director, Field Engineering, the Sr. Manager, Field Engineering will help lead a team of Solutions Architects (SAs) for the Startups segment of Databricks ’ Field Engineering team. You will lead and promote a diverse team focusing on enterprise software, big ",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.448850",
+    "first_seen": "2026-11-07T16:37:33.448851"
+  },
+  {
+    "id": "d2388d3300749b72",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159499-technical-support-engineer-6",
+    "title": "Technical Support Engineer",
+    "company": "NetDocuments",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "NetDocuments is committed to providing an excellent candidate experience and will never ask you to engage in recruitment activity without phone, video, and in person meetings and communications from emails using the @netdocuments.com domain. If you have any concerns or questions about communications",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.448588",
+    "first_seen": "2026-11-07T16:37:33.448589"
+  },
+  {
+    "id": "c574891824208996",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159505-sr-manager-security-continuous-monitoring-v-2-0",
+    "title": "Sr. Manager, Security — Continuous Monitoring v 2.0",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "RDQ227R1175 While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered. About Databricks Databricks is the data and AI company. More than 12,000 organizations worldwide — including Comcast, Condé Nast, Grammarly, and over 50% of the Fort",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.448350",
+    "first_seen": "2026-11-07T16:37:33.448352"
+  },
+  {
+    "id": "53c68440320b8266",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159508-sr-security-engineer-enterprise-security",
+    "title": "Sr. Security Engineer, Enterprise Security",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "RDQ427R608 While candidates in the listed location(s) are encouraged for this role, candidates in other US locations will be considered. --- About the Team The Enterprise Security team at Databricks is responsible for securing the corporate environment, including the SaaS platforms, internal tools, ",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.447908",
+    "first_seen": "2026-11-07T16:37:33.447909"
+  },
+  {
+    "id": "82def1b6c8465789",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159509-senior-product-manager-enterprise",
+    "title": "Senior Product Manager, Enterprise",
+    "company": "Deepgram",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voic",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.447621",
+    "first_seen": "2026-11-07T16:37:33.447622"
+  },
+  {
+    "id": "049b563edb80a1c4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159510-sr-solutions-architect-digital-native-business-strategic-accounts",
+    "title": "Sr. Solutions Architect - Digital Native Business (Strategic Accounts)",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "The Role As a Sr. Solutions Architect, you are an expert-level technical leader responsible for the most complex strategic customer engagements within the Digital Native Business. You drive consumption strategy, own executive-level relationships, and serve as the definitive technical authority for y",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.447389",
+    "first_seen": "2026-11-07T16:37:33.447391"
+  },
+  {
+    "id": "2da7312b47acf867",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159511-staff-product-manager-agentic-experiences-former-engineer",
+    "title": "Staff Product Manager, Agentic Experiences (Former Engineer)",
+    "company": "Deepgram",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voic",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.447170",
+    "first_seen": "2026-11-07T16:37:33.447171"
+  },
+  {
+    "id": "2a492b2152ba463d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159512-sr-solutions-architect-travel-and-hospitality",
+    "title": "Sr. Solutions Architect - Travel and Hospitality",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Sr. Solutions Architect (L6) The Role As a Sr. Solutions Architect, you are an expert-level technical leader responsible for the organization's most complex customer engagements. You drive consumption strategy, own executive-level relationships, and serve as the definitive technical authority for yo",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.446911",
+    "first_seen": "2026-11-07T16:37:33.446912"
+  },
+  {
+    "id": "2a2466750c3f1ea1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159513-staff-product-manager-product-led-growth",
+    "title": "Staff Product Manager (Product-Led Growth)",
+    "company": "Deepgram",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voic",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.446681",
+    "first_seen": "2026-11-07T16:37:33.446683"
+  },
+  {
+    "id": "a9e674f671a64917",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159514-sr-solutions-engineer-digital-native-business-strategic-accounts",
+    "title": "Sr. Solutions Engineer - Digital Native Business (Strategic Accounts)",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "The Role As a Sr. Solutions Engineer, you will independently lead technical engagements for customers, owning discovery, solution design, and platform demonstrations. You are a builder who can code, architect, and present—combining technical depth with customer-facing skills to drive Databricks adop",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.446413",
+    "first_seen": "2026-11-07T16:37:33.446415"
+  },
+  {
+    "id": "4585fa332c58636a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159515-federal-partner-manager",
+    "title": "Federal Partner Manager",
+    "company": "Deepgram",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voic",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.446200",
+    "first_seen": "2026-11-07T16:37:33.446202"
+  },
+  {
+    "id": "106a770396668c22",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159516-sr-staff-security-software-engineer-agentic-security-engineering",
+    "title": "Sr. Staff Security Software Engineer - Agentic Security Engineering",
+    "company": "Databricks",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "RDQ327R179 While candidates in the listed location(s) are encouraged for this role, candidates in other (US) locations will be considered. About the Team The Agentic Security Engineering team is a horizontal, shared services engineering team that enables every Databricks security function AI-native.",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.445853",
+    "first_seen": "2026-11-07T16:37:33.445854"
+  },
+  {
+    "id": "7093040293913c11",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159517-strategic-account-executive-federal-civilian",
+    "title": "Strategic Account Executive (Federal Civilian)",
+    "company": "Deepgram",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voic",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.445501",
+    "first_seen": "2026-11-07T16:37:33.445503"
+  },
+  {
+    "id": "e1f87c7c2edb408f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159518-quality-assurance-engineer-m-f-d",
+    "title": "Quality Assurance Engineer (m/f/d)",
+    "company": "ecosio",
+    "location": "Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "qa & testing"
+    ],
+    "description_snippet": "ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX). Our brand slogan is",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.445192",
+    "first_seen": "2026-11-07T16:37:33.445194"
+  },
+  {
+    "id": "619f6becf1b56c0e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159519-head-of-platform-infrastructure-engineering",
+    "title": "Head of Platform & Infrastructure Engineering",
+    "company": "Ashby",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Hi 👋🏾, I’m Abhik , Ashby ’s Co-Founder and CTO. Ashby is growing fast, which means exponential growth across every product metric: jobs, applications, interviews, you name it. We’re not slowing down, and as a result, keeping Ashby performant and reliable is a company priority. We need your leadershi",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.445061",
+    "first_seen": "2026-11-07T16:37:33.445063"
+  },
+  {
+    "id": "426ade781445280f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159520-software-engineer-data-team",
+    "title": "Software Engineer - Data team",
+    "company": "Masabi",
+    "location": "Romania",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "contract",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Us_ // At Masabi , we’re driving the fare payment revolution, powering the journeys of millions all over the world. We build fare collection platforms that allow riders to seamlessly buy and present tickets for public transport either on their mobile phones, from a ticket machine, or even by t",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.444233",
+    "first_seen": "2026-11-07T16:37:33.444234"
+  },
+  {
+    "id": "061ef7680168ca3d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159523-business-development-representative-uk",
+    "title": "Business Development Representative - UK",
+    "company": "Chainguard",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.443975",
+    "first_seen": "2026-11-07T16:37:33.443977"
+  },
+  {
+    "id": "d8b99fadea04208f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159526-mid-senior-ai-llm-engineer-full-remote-spain",
+    "title": "Mid/Senior AI LLM Engineer (Full Remote - Spain)",
+    "company": "EverAI",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Our Vision &amp; Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users a",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.443725",
+    "first_seen": "2026-11-07T16:37:33.443727"
+  },
+  {
+    "id": "4889a4ce87a47f85",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159528-staff-revenue-operations-manager-emea",
+    "title": "Staff Revenue Operations Manager - EMEA",
+    "company": "Chainguard",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.443383",
+    "first_seen": "2026-11-07T16:37:33.443385"
+  },
+  {
+    "id": "4e541ac5db944760",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159529-enterprise-account-executive-36",
+    "title": "Enterprise Account Executive",
+    "company": "Chainguard",
+    "location": "Singapore",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprise",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.442979",
+    "first_seen": "2026-11-07T16:37:33.442981"
+  },
+  {
+    "id": "3d51265a669cf09d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159531-sr-staff-site-reliability-engineer",
+    "title": "Sr Staff Site Reliability Engineer",
+    "company": "Cribl",
+    "location": "Australia",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl , we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telem",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:33.442739",
+    "first_seen": "2026-11-07T16:37:33.442751"
+  },
+  {
+    "id": "e1bd1b3e8a087eaa",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=a75bf79223441e6b",
+    "title": "Data Engineer - Finance AI (PySpark)",
+    "company": "Target",
+    "location": "Brooklyn Park, MN, USA",
+    "is_remote": false,
+    "salary": "USD 75,400 – 135,700/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "azure",
+      "aws",
+      "gcp",
+      "java",
+      "scala"
+    ],
+    "description_snippet": "The pay range is $75,400.00 - $135,700.00\n\nPay is based on several factors which vary based on position. These include labor markets and in some instances may include education, work experience and certifications. In addition to your pay, Target cares about and invests in you as a team member, so th",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:28.025452",
+    "first_seen": "2026-11-07T16:37:28.025455"
+  },
+  {
+    "id": "5bcac029321d0cae",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=973e36a1ea6ded1e",
+    "title": "Senior Data Scientist",
+    "company": "HARBOR HEALTH",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "analytics engineering",
+      "snowflake"
+    ],
+    "description_snippet": "**Senior Data Scientist**\n\n**Harbor Health**\n\n**This is a FULLY REMOTE position**\n\n**POSITION OVERVIEW**\n\nHarbor Health runs both a health plan and a medical group, so data science here sits where cost, risk and care meet. We are hiring Senior Data Scientists to own whole problem areas, not slices o",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T16:37:20.075975",
+    "first_seen": "2026-11-07T16:37:20.075980"
+  },
+  {
+    "id": "4269ef0df9fe4e84",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=74da108f9fce070d",
+    "title": "Data Engineer - VA OCDAO Data and Analytics (Remote)",
+    "company": "Triumph Enterprises",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 150,000 – 176,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "data engineering"
+    ],
+    "description_snippet": "Triumph Enterprises, Inc. is recruiting a **Data Engineer** for our proposed support to the Department of Veterans Affairs (VA) Office of Information and Technology (OIT), Office of the Chief Data and Analytics Officer (OCDAO). **This position is contingent upon contract award.** Remote work from an",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T16:37:11.485357",
+    "first_seen": "2026-11-07T16:37:11.485362"
+  },
+  {
     "id": "ba0be8d38fafcba0",
     "source": "remoteok",
     "url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
