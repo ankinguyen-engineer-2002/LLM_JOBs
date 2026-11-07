@@ -1,5 +1,612 @@
 [
   {
+    "id": "da823c626d85789b",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/mindrift-licensed-physician-md-do-freelance-ai-trainer",
+    "title": "Licensed Physician (MD/DO) - Freelance AI Trainer",
+    "company": "Mindrift",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: Singapore URL: https://jobs.workable.com/company/r7muFeAbcksMFWASJu45jA/jobs-at-mindrift Please submit your CV in English and indicate your level of English proficiency. Mindrift connects specialists with project-based AI opportunities for leading tech companies, focused on testing, ev",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:31:33.187566",
+    "first_seen": "2026-11-07T18:31:33.187568"
+  },
+  {
+    "id": "b8e66336328be0fb",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/oneimaging-cloud-systems-administrator",
+    "title": "Cloud Systems Administrator",
+    "company": "OneImaging",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full-stack programming"
+    ],
+    "description_snippet": "Headquarters: URL: https://oneimaging.com Radiology is the second most used healthcare service, used by over 51% of the workforce annually. Despite the critical role of radiology in healthcare, the process for undergoing a medical imaging exam has remained unchanged for decades. OneImaging is solvin",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:31:33.187278",
+    "first_seen": "2026-11-07T18:31:33.187288"
+  },
+  {
+    "id": "f2be0293444e925b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159582-mid-senior-ai-llm-engineer-full-remote-germany",
+    "title": "Mid/Senior AI LLM Engineer (Full Remote - Germany)",
+    "company": "EverAI",
+    "location": "Germany,  Portugal",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Our Vision &amp; Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users a",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.866831",
+    "first_seen": "2026-11-07T18:27:17.866833"
+  },
+  {
+    "id": "089e4105ef972318",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159583-software-developer-in-observability",
+    "title": "Software Developer in Observability",
+    "company": "Canonical",
+    "location": "EMEA,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.866499",
+    "first_seen": "2026-11-07T18:27:17.866500"
+  },
+  {
+    "id": "ef4fd41f4a1fb00e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159584-mid-senior-ai-llm-engineer-full-remote-poland",
+    "title": "Mid/Senior AI LLM Engineer (Full Remote - Poland)",
+    "company": "EverAI",
+    "location": "Poland,  Portugal",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Our Vision &amp; Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users a",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.866301",
+    "first_seen": "2026-11-07T18:27:17.866303"
+  },
+  {
+    "id": "cb5b192fc8ba6d40",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159585-software-engineer-automotive-and-industrial-architecture",
+    "title": "Software Engineer, Automotive and Industrial Architecture",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.865982",
+    "first_seen": "2026-11-07T18:27:17.865983"
+  },
+  {
+    "id": "53b1936d47c0f3c5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159586-mid-senior-ai-llm-engineer-full-remote-netherlands",
+    "title": "Mid/Senior AI LLM Engineer (Full Remote - Netherlands)",
+    "company": "EverAI",
+    "location": "Netherlands,  Portugal",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Our Vision &amp; Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect with AI. With 50 million users a",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.865744",
+    "first_seen": "2026-11-07T18:27:17.865746"
+  },
+  {
+    "id": "97b26ce60c4bb95b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159587-software-engineer-ceph-distributed-storage-2",
+    "title": "Software Engineer, Ceph & Distributed Storage",
+    "company": "Canonical",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.865406",
+    "first_seen": "2026-11-07T18:27:17.865408"
+  },
+  {
+    "id": "a5564cfa518aadb8",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159588-software-engineer-cross-platform-c-multipass",
+    "title": "Software Engineer - Cross-platform C++ - Multipass",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Use your deep C++ skills on Windows and MacOS to build an amazing open source developer experience with Multipass , the workstation mini-cloud at your fingertips which provides Ubuntu and appliance VMs on demand for build, test and prototyping. The Multipass team is hiring a Software Engineer to joi",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.865210",
+    "first_seen": "2026-11-07T18:27:17.865211"
+  },
+  {
+    "id": "e2bdef55f8a18cce",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159590-software-engineer-openstack",
+    "title": "Software Engineer - OpenStack",
+    "company": "Canonical",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.865032",
+    "first_seen": "2026-11-07T18:27:17.865034"
+  },
+  {
+    "id": "4e60507f1640ff24",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159591-software-engineer-python-golang-kubernetes",
+    "title": "Software Engineer - Python/Golang - Kubernetes",
+    "company": "Canonical",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.864843",
+    "first_seen": "2026-11-07T18:27:17.864845"
+  },
+  {
+    "id": "4938cda49d773fbb",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159592-staff-design-engineer-cloud-networking-ux",
+    "title": "Staff Design Engineer - Cloud Networking UX",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.864667",
+    "first_seen": "2026-11-07T18:27:17.864668"
+  },
+  {
+    "id": "64c623b01b42d789",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159594-staff-software-engineer-for-identity-management-go-golang",
+    "title": "Staff Software Engineer for Identity Management (Go/Golang)",
+    "company": "Canonical",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.864436",
+    "first_seen": "2026-11-07T18:27:17.864438"
+  },
+  {
+    "id": "c57df9d3fae35356",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159597-technical-product-marketing-manager-cybersecurity",
+    "title": "Technical Product Marketing Manager - Cybersecurity",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.864217",
+    "first_seen": "2026-11-07T18:27:17.864218"
+  },
+  {
+    "id": "e9e70f69196dee9b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159599-telco-field-engineering-director",
+    "title": "Telco Field Engineering Director",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "This is an opportunity to run the worldwide Telco Field Engineering business, helping customers understand and implement Canonical 's open source solutions in public clouds and in their own data centers. We work across the entire spectrum of cloud offerings, from Ubuntu itself to virtualisation and ",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.864002",
+    "first_seen": "2026-11-07T18:27:17.864004"
+  },
+  {
+    "id": "78fd8ff5a1648b7f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159600-travel-operations-specialist",
+    "title": "Travel Operations Specialist",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.863659",
+    "first_seen": "2026-11-07T18:27:17.863661"
+  },
+  {
+    "id": "c9d4e451ea539ab3",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159601-usability-engineer-user-science",
+    "title": "Usability Engineer - User Science",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.863485",
+    "first_seen": "2026-11-07T18:27:17.863487"
+  },
+  {
+    "id": "4c122a93c71e331e",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159602-ux-designer-design-systems",
+    "title": "UX Designer - Design systems",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.863236",
+    "first_seen": "2026-11-07T18:27:17.863238"
+  },
+  {
+    "id": "151a0cfef4703c7c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159603-ux-designer-developer-experience",
+    "title": "UX Designer - Developer experience",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.863036",
+    "first_seen": "2026-11-07T18:27:17.863038"
+  },
+  {
+    "id": "d6f87cec3870cba6",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159604-ux-designer-infrastructure",
+    "title": "UX Designer - Infrastructure",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.862834",
+    "first_seen": "2026-11-07T18:27:17.862836"
+  },
+  {
+    "id": "a1d0258a9a741861",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159605-visual-designer",
+    "title": "Visual Designer",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Visual Designer Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our ",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.862606",
+    "first_seen": "2026-11-07T18:27:17.862608"
+  },
+  {
+    "id": "52a55dbe99446ead",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159606-web-developer",
+    "title": "Web Developer",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.862387",
+    "first_seen": "2026-11-07T18:27:17.862398"
+  },
+  {
+    "id": "d1c8d60c06a084df",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159595-storytelling-and-narrative-lead",
+    "title": "Storytelling and narrative lead",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "content & editorial"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.219827",
+    "first_seen": "2026-11-07T18:27:17.219830"
+  },
+  {
+    "id": "37b308af9b52b8ef",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159596-technical-product-manager-3",
+    "title": "Technical Product Manager",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:17.219562",
+    "first_seen": "2026-11-07T18:27:17.219574"
+  },
+  {
+    "id": "67503d4c4ff9efd0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159556-integrations-consultant-americas",
+    "title": "Integrations Consultant - Americas",
+    "company": "Ashby",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Hi! I'm John, Ashby 's Head of Professional Services. One of my favorite aspects of Ashby is our operating principle of Continuous Improvement . Coupled with our principle of caring deeply about our customers, we often find ourselves wondering ‘what is a better way to accomplish this’. That’s why I ",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:16.495353",
+    "first_seen": "2026-11-07T18:27:16.495355"
+  },
+  {
+    "id": "1060cdbdc0ff238d",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159563-director-of-knowledge-management-namer",
+    "title": "Director of Knowledge Management - NAMER",
+    "company": "Ashby",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "Hello! I’m Allie, Head of Support at Ashby . 👋 Knowledge is one of the most important levers we have for delivering a great customer experience. Our knowledge ecosystem shapes how customers learn Ashby, how our Specialists resolve tickets, and how many customers never need to file a ticket at all. W",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:16.494962",
+    "first_seen": "2026-11-07T18:27:16.494964"
+  },
+  {
+    "id": "7404bdbc42580b48",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159567-technical-program-manager-4",
+    "title": "Technical Program Manager",
+    "company": "Monks",
+    "location": "Brazil",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Please note that we will never request payment or bank account information at any stage of the recruitment process. As we continue to grow our teams, we urge you to be cautious of fraudulent job postings or recruitment activities that misuse our company name and information. Please protect your pers",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:16.494467",
+    "first_seen": "2026-11-07T18:27:16.494469"
+  },
+  {
+    "id": "40f4a85fcb7d07b7",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159568-demo-engineer-3",
+    "title": "Demo Engineer",
+    "company": "Ashby",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About this role As Ashby ’s first Demo Engineer, you’ll own the systems that make our demo environments reliable, current, and tailored — the infrastructure the entire go-to-market team leans on to show Ashby at its best. Today, AEs and SEs maintain and configure their own demo accounts by hand. Tha",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:16.494261",
+    "first_seen": "2026-11-07T18:27:16.494263"
+  },
+  {
+    "id": "d49e2f8236282e69",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159572-senior-product-manager-16",
+    "title": "Senior Product Manager",
+    "company": "Ashby",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Hi, I’m Geo, Ashby ’s VP of Product. I joined Ashby August ‘26; read more about why I joined here. I’m hiring for multiple Product Managers who will report directly to me. More on the specific product areas below. At Ashby, we have a unique approach to building products . As a PM, your primary goal ",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:16.493916",
+    "first_seen": "2026-11-07T18:27:16.493918"
+  },
+  {
+    "id": "5936807da2bd01b1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159573-mission-director-space-feds171b",
+    "title": "Mission Director - Space (FedS171B)",
+    "company": "Defense Unicorns",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "business development"
+    ],
+    "description_snippet": "This position offers a base salary of $145,000 - $185,000. (Total on-target earnings of $290,000 to $370,000) Role Description: Defense Unicorns is seeking mission-driven Mission Directors to spearhead full-lifecycle capture efforts across the Space ecosystem. In this high-impact role, you will shap",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:16.493491",
+    "first_seen": "2026-11-07T18:27:16.493492"
+  },
+  {
+    "id": "d8e6b3813535693f",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159574-director-product-strategy-monetization",
+    "title": "Director, Product Strategy & Monetization",
+    "company": "Motive",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Who we are: Motive empowers the people who run physical operations with tools to make their work safer, more productive, and more profitable. For the first time ever, safety, operations and finance teams can manage their drivers, vehicles, equipment, and fleet related spend in a single system. Combi",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:16.493255",
+    "first_seen": "2026-11-07T18:27:16.493257"
+  },
+  {
+    "id": "053efd9420de3f5b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159576-head-of-global-support-2",
+    "title": "Head of Global Support",
+    "company": "Ashby",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "Hi I’m Kelsey 👋 – VP of CS at Ashby . One of my favorite Ashby principles is Implementing Continuous Improvement ; it guides how we continually raise the bar on the customer experience. I’m thrilled to be hiring a Head of Global Support to lead our global team and take our world-class support to the",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:27:16.493050",
+    "first_seen": "2026-11-07T18:27:16.493059"
+  },
+  {
+    "id": "a600ac8293d27528",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=6eb4f85eb54d54fb",
+    "title": "Forward Deployed Engineer, Senior - Data & Analytics",
+    "company": "Humana",
+    "location": "New York, NY, USA",
+    "is_remote": true,
+    "salary": "USD 117,600 – 161,700/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "airflow",
+      "kafka",
+      "azure",
+      "mlflow",
+      "postgres",
+      "databricks",
+      "data warehouse",
+      "ci/cd",
+      "scala",
+      "rust"
+    ],
+    "description_snippet": "**Become a part of our caring community**\n=========================================\n\nThe Senior Data Engineer Designs, builds, and maintains data processing architectures and solutions enabling the efficient conversion of structured and unstructured data to insights at enterprise scale. The Senior D",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T18:26:57.694082",
+    "first_seen": "2026-11-07T18:26:57.694085"
+  },
+  {
     "id": "f75a0fa990efbae0",
     "source": "jobicy",
     "url": "https://jobicy.com/jobs/159489-marketing-analytics-manager",
