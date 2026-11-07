@@ -1,5 +1,407 @@
 [
   {
+    "id": "cd3cbc126bdbc37e",
+    "source": "weworkremotely",
+    "url": "https://weworkremotely.com/remote-jobs/cambridge-information-group-inc-front-end-developer",
+    "title": "Front-End Developer",
+    "company": "Cambridge Information Group Inc",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "front-end programming"
+    ],
+    "description_snippet": "Headquarters: New York, NY URL: https://edconic.com/ Job Title: Front-End Developer Location: Fully Remote (US) Department: Global Enrollment Marketing and Sales Reports to: Director of Web Development Classification: Regular, Full-time FLSA Status: Exempt Prepared by: Global Head of Creative Prepar",
+    "posted_date": "2026-10-28",
+    "scraped_at": "2026-11-07T10:41:35.803760",
+    "first_seen": "2026-11-07T10:41:35.803763"
+  },
+  {
+    "id": "82dca349ded92e14",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159461-senior-database-engineer-2",
+    "title": "Senior Database Engineer",
+    "company": "Spreedly",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Us: Spreedly is the Intelligent Payments Platform for businesses that want to own their payments strategy. Founded in 2007 and headquartered in Durham, NC, we give merchants, platforms, and fintechs a single API to connect to 150+ payment gateways and 40+ payment methods across 100+ countries,",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T10:37:18.278024",
+    "first_seen": "2026-11-07T10:37:18.278025"
+  },
+  {
+    "id": "a4f5ff1f2c57895b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159463-devsecops-engineer",
+    "title": "DevSecOps Engineer",
+    "company": "Oddball",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T10:37:18.277626",
+    "first_seen": "2026-11-07T10:37:18.277628"
+  },
+  {
+    "id": "f5fd9a74da25bd75",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159464-infrastructure-software-engineer-2",
+    "title": "Infrastructure Software Engineer",
+    "company": "Nebius",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T10:37:18.277446",
+    "first_seen": "2026-11-07T10:37:18.277447"
+  },
+  {
+    "id": "a022ca1096a59212",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159465-staff-backend-graph-engineer",
+    "title": "Staff Backend Graph Engineer",
+    "company": "Socure",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Why Socure ? Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people ever",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T10:37:18.277244",
+    "first_seen": "2026-11-07T10:37:18.277246"
+  },
+  {
+    "id": "ff6a0c4db9f2b49a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159468-technical-account-manager-apj",
+    "title": "Technical Account Manager (APJ)",
+    "company": "Supabase",
+    "location": "Japan",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "customer support & success"
+    ],
+    "description_snippet": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re se",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T10:37:18.277046",
+    "first_seen": "2026-11-07T10:37:18.277048"
+  },
+  {
+    "id": "7c7c9286b5993092",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159470-lead-data-engineer",
+    "title": "Lead Data Engineer",
+    "company": "Oddball",
+    "location": "USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "data science & analytics"
+    ],
+    "description_snippet": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T10:37:18.276832",
+    "first_seen": "2026-11-07T10:37:18.276834"
+  },
+  {
+    "id": "85c55af46f4a7421",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159466-global-benefits-specialist",
+    "title": "Global Benefits Specialist",
+    "company": "Cloudbeds",
+    "location": "Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "hr & recruiting"
+    ],
+    "description_snippet": "What Makes Cloudbeds Unique At Cloudbeds , we're not just building software, we're transforming hospitality. Our platform powers hotels across 150 countries, processing billions in bookings annually. From boutique properties to large hotel groups, we help hoteliers transform operations and uplevel t",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T10:37:18.276351",
+    "first_seen": "2026-11-07T10:37:18.276353"
+  },
+  {
+    "id": "76154e32fd6a2cf9",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159474-senior-optical-engineering-manager",
+    "title": "Senior Optical Engineering Manager",
+    "company": "Lambda",
+    "location": "Ireland",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Lambda , The Superintelligence Cloud, is a leader in AI cloud infrastructure serving tens of thousands of customers. Our customers range from AI researchers to enterprises and hyperscalers. Lambda's mission is to make compute as ubiquitous as electricity and give everyone the power of superintellige",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T10:37:18.275916",
+    "first_seen": "2026-11-07T10:37:18.275917"
+  },
+  {
+    "id": "d02a6e3efd85603a",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159477-senior-director-bss-transformation",
+    "title": "Senior Director, BSS Transformation",
+    "company": "Vonage",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Join Vonage and help us innovate cloud communications for businesses worldwide! Why This Role Matters: Vonage is transforming its business support systems across lead-to-cash, billing, rating, customer identity, account management, data, analytics and platform services. This role provides the senior",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T10:37:18.275643",
+    "first_seen": "2026-11-07T10:37:18.275645"
+  },
+  {
+    "id": "0c87a8223ae606cf",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159480-senior-sales-operations-analyst",
+    "title": "Senior Sales Operations Analyst",
+    "company": "Canonical",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T10:37:18.275393",
+    "first_seen": "2026-11-07T10:37:18.275394"
+  },
+  {
+    "id": "a137977ea877f4b4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159481-senior-software-engineer-digital-workplace",
+    "title": "Senior Software Engineer - Digital Workplace",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T10:37:18.275092",
+    "first_seen": "2026-11-07T10:37:18.275093"
+  },
+  {
+    "id": "86727490665a8246",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159482-senior-software-engineer-python-golang-kubernetes",
+    "title": "Senior Software Engineer - Python/Golang - Kubernetes",
+    "company": "Canonical",
+    "location": "EMEA,  LATAM,  Canada,  USA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T10:37:18.274881",
+    "first_seen": "2026-11-07T10:37:18.274896"
+  },
+  {
+    "id": "6ed47d85a99d142f",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-registered-nurse-caringhand-home-health-solutions-inc-1137695",
+    "title": "Registered Nurse",
+    "company": "Caringhand Home Health Solutions, Inc.",
+    "location": "Remote",
+    "is_remote": true,
+    "salary": "USD 110 – 130/year",
+    "job_type": "N/A",
+    "tags": [
+      "education",
+      "supervisor",
+      "customer support",
+      "travel",
+      "exec",
+      "medical",
+      "full time"
+    ],
+    "description_snippet": "Company: Caringhand Home Health Solutions, Inc. Position Type: Per Diem Work Arrangement: Field-Based â Patient Home Visits Compensation: $110â$130 per visit Caringhand Home Health Solutions, Inc. is committed to providing professional nursing and healthcare services that help patients achieve t",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T10:37:17.830234",
+    "first_seen": "2026-11-07T10:37:17.830244"
+  },
+  {
+    "id": "88633efd028b20ea",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1d817e70304ea9b6",
+    "title": "AI Data Engineer",
+    "company": "EAPPS TECH LLC dba Magicforce",
+    "location": "Las Vegas, NV, USA",
+    "is_remote": false,
+    "salary": "USD 60 – 70/hourly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "dbt",
+      "airflow",
+      "kafka",
+      "azure",
+      "aws",
+      "gcp",
+      "data engineering",
+      "analytics engineering",
+      "snowflake",
+      "scala",
+      "llm",
+      "openai"
+    ],
+    "description_snippet": "**Key Responsibilities**  \nDesign and implement AI-powered data solutions using Snowflake Cortex AI, CoCO, and CoCO Desktop.Develop and deploy RAG, agentic workflows, semantic layers, and enterprise AI applications.Architect scalable data platforms leveraging Snowflake, Kafka, Spark, Airflow, dbt, a",
+    "posted_date": "2026-11-04",
+    "scraped_at": "2026-11-07T10:37:09.735497",
+    "first_seen": "2026-11-07T10:37:09.735498"
+  },
+  {
+    "id": "a47df51ac5e16e2a",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=98959657be7fa010",
+    "title": "Data Engineer",
+    "company": "Higgsfield",
+    "location": "San Francisco, CA, USA",
+    "is_remote": false,
+    "salary": "USD 200,000 – 260,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "data engineering",
+      "analytics engineering",
+      "bigquery",
+      "snowflake",
+      "data warehouse",
+      "scala",
+      "rust",
+      "generative ai"
+    ],
+    "description_snippet": "**Why work at Higgsfield AI?**  \n  \nHiggsfield AI is the fastest-scaling generative AI company in history, hitting $1B in annual revenue run rate, 30M+ users worldwide, 6M+ generations per day, and powering 390 of Fortune 500 brands.  \n  \nWe're building at the absolute frontier of AI-powered video c",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T10:37:09.735215",
+    "first_seen": "2026-11-07T10:37:09.735219"
+  },
+  {
+    "id": "26e1731fdda2e1c0",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=31f7051c4ba92523",
+    "title": "Robot Development Researcher",
+    "company": "Synphony Co",
+    "location": "San Carlos, CA, USA",
+    "is_remote": false,
+    "salary": "USD 35 – 50/hourly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "rust"
+    ],
+    "description_snippet": "**Robot Development Researcher**\n\n**Make robot foundation models work on real jobs.**\n\nSynphony deploys robots for real physical work on customer sites. Robot models are improving fast. The hard part is getting them to succeed thousands of times in a row, at a speed that pays for itself. That’s what",
+    "posted_date": "2026-10-13",
+    "scraped_at": "2026-11-07T10:37:05.371899",
+    "first_seen": "2026-11-07T10:37:05.371902"
+  },
+  {
+    "id": "e8d0613b50e71cca",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=15e3d5918c144477",
+    "title": "Data Center Chiller Field Engineer",
+    "company": "LG Electronics",
+    "location": "Alpharetta, GA, USA",
+    "is_remote": false,
+    "salary": "USD 80,000 – 110,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "scala",
+      "llm"
+    ],
+    "description_snippet": "Step into the innovative world of LG Electronics. As a global leader in technology, LG Electronics is dedicated to creating innovative solutions for a better life. Our brand promise, 'Life's Good', embodies our commitment to ensuring a happier life for all. We have a rich history spanning over six d",
+    "posted_date": "2026-10-21",
+    "scraped_at": "2026-11-07T10:37:05.370716",
+    "first_seen": "2026-11-07T10:37:05.370717"
+  },
+  {
+    "id": "f997fe7b79eb6957",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=92724805c8a72378",
+    "title": "Junior Market Data Engineer",
+    "company": "DEEL",
+    "location": "Chicago, IL, USA",
+    "is_remote": false,
+    "salary": "USD 110,000 – 135,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "aws"
+    ],
+    "description_snippet": "Job details\n\nDepartment / Data\n\nSpiderRock Platform Services, LLC - Chicago Office\n\nFull-time\n\nOn-site\n\n$110,000 USD - $135,000 USD\n\nAbout SpiderRock Technology Solutions LLC\n\nSpiderRock Technology Solutions LLC is the parent company of SpiderRock EXS LLC, SpiderRock Platform Services LLC, SpiderRoc",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T10:36:57.246891",
+    "first_seen": "2026-11-07T10:36:57.246892"
+  },
+  {
+    "id": "f59e8ff425baa684",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=a7c3ee03090f411c",
+    "title": "Software Data Engineer",
+    "company": "Disney Entertainment Operations LLC",
+    "location": "New York, NY, USA",
+    "is_remote": false,
+    "salary": "USD 113,700 – 152,400/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "aws",
+      "data engineering",
+      "snowflake",
+      "databricks",
+      "llm"
+    ],
+    "description_snippet": "**Job Requirements**  \n\n**This in not a remote role. You must be in the local area or open to relocation.**\n\n**About the Role & Team**\n\nDo you remember seeing trailers for *The Devil Wears Prada 2* earlier this summer? What about digital spots for a cruise on the Disney Wish? Or the California Adven",
+    "posted_date": "2026-11-07",
+    "scraped_at": "2026-11-07T10:36:57.245906",
+    "first_seen": "2026-11-07T10:36:57.245912"
+  },
+  {
     "id": "4e7a58168bd3b03f",
     "source": "indeed",
     "url": "https://www.indeed.com/viewjob?jk=d8b2aadfdeef6e5a",
