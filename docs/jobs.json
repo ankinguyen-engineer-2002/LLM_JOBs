@@ -1,5 +1,724 @@
 [
   {
+    "id": "90902032da8f8e97",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159417-service-desk-l3-it-operations-technical-lead",
+    "title": "Service Desk L3 - IT Operations Technical Lead",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "technical support"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.758965",
+    "first_seen": "2026-11-07T00:14:31.758966"
+  },
+  {
+    "id": "461cec3a1aa2fec4",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159419-senior-full-stack-engineer-database-observability-grafana-cloud-germany-remote",
+    "title": "Senior Full Stack Engineer | Database Observability, Grafana Cloud | Germany | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Ireland,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.758611",
+    "first_seen": "2026-11-07T00:14:31.758612"
+  },
+  {
+    "id": "d8430a9aab64d707",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159420-site-reliability-engineer-in-network-infrastructure-2",
+    "title": "Site Reliability Engineer in Network Infrastructure",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.758260",
+    "first_seen": "2026-11-07T00:14:31.758262"
+  },
+  {
+    "id": "86f13b9d93aa2bc1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159422-senior-full-stack-engineer-database-observability-grafana-cloud-ireland-remote",
+    "title": "Senior Full Stack Engineer | Database Observability, Grafana Cloud | Ireland | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.758091",
+    "first_seen": "2026-11-07T00:14:31.758092"
+  },
+  {
+    "id": "e810fa956eeb448b",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159423-software-engineer-in-network-infrastructure-2",
+    "title": "Software Engineer in Network Infrastructure",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.757738",
+    "first_seen": "2026-11-07T00:14:31.757740"
+  },
+  {
+    "id": "fe4534f0652ec685",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159425-senior-full-stack-engineer-database-observability-grafana-cloud-spain-remote",
+    "title": "Senior Full Stack Engineer | Database Observability, Grafana Cloud | Spain | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Ireland,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.757555",
+    "first_seen": "2026-11-07T00:14:31.757557"
+  },
+  {
+    "id": "48770d0c1a013d10",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159426-technical-product-manager-storage",
+    "title": "Technical Product Manager – Storage",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.757186",
+    "first_seen": "2026-11-07T00:14:31.757187"
+  },
+  {
+    "id": "c7e5810074235344",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159428-senior-communications-manager-analyst-relations",
+    "title": "Senior Communications Manager - Analyst Relations",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Be the voice of Canonical Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, an",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.756884",
+    "first_seen": "2026-11-07T00:14:31.756886"
+  },
+  {
+    "id": "335ec93edc6ead34",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159429-senior-full-stack-engineer-database-observability-grafana-cloud-uk-remote",
+    "title": "Senior Full Stack Engineer | Database Observability, Grafana Cloud | UK | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Ireland,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.756625",
+    "first_seen": "2026-11-07T00:14:31.756627"
+  },
+  {
+    "id": "d933d5ed09865745",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159432-senior-communications-specialist-social-media",
+    "title": "Senior communications specialist - social media",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Be the voice of Canonical across channels Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineerin",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.756267",
+    "first_seen": "2026-11-07T00:14:31.756269"
+  },
+  {
+    "id": "068f2479b6de7ce0",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159433-staff-software-engineer-opentelemetry-python-instrumentation-germany-remote",
+    "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | Germany | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Ireland,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.756016",
+    "first_seen": "2026-11-07T00:14:31.756017"
+  },
+  {
+    "id": "d77aaead970dc073",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159434-technical-project-manager-hardware",
+    "title": "Technical Project Manager (Hardware)",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.755637",
+    "first_seen": "2026-11-07T00:14:31.755639"
+  },
+  {
+    "id": "c83971ca5182e245",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159435-installation-manager",
+    "title": "Installation Manager",
+    "company": "Samsara",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "project & program management"
+    ],
+    "description_snippet": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.755471",
+    "first_seen": "2026-11-07T00:14:31.755473"
+  },
+  {
+    "id": "bf1e5fb2f9e671dc",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159436-senior-design-researcher-user-science",
+    "title": "Senior Design Researcher - User Science",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "web, ui & ux design"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.755127",
+    "first_seen": "2026-11-07T00:14:31.755128"
+  },
+  {
+    "id": "dd8a1457f8d09681",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159437-staff-software-engineer-opentelemetry-python-instrumentation-ireland-remote",
+    "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | Ireland | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Ireland,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.754900",
+    "first_seen": "2026-11-07T00:14:31.754902"
+  },
+  {
+    "id": "74caf0325beb79a5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159438-transportation-logistics-specialist",
+    "title": "Transportation Logistics Specialist",
+    "company": "Nebius",
+    "location": "Europe",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "product & operations"
+    ],
+    "description_snippet": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-ho",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.754514",
+    "first_seen": "2026-11-07T00:14:31.754516"
+  },
+  {
+    "id": "ceb9517f02b63814",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159439-regional-sales-director-strategic-enterprise-uk-2",
+    "title": "Regional Sales Director, Strategic Enterprise - UK",
+    "company": "Samsara",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "sales"
+    ],
+    "description_snippet": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.754151",
+    "first_seen": "2026-11-07T00:14:31.754152"
+  },
+  {
+    "id": "fac0246a62fff999",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159440-senior-jira-administrator",
+    "title": "Senior Jira Administrator",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "devops & infrastructure"
+    ],
+    "description_snippet": "Canonical is a leading provider of open-source software and operating systems for global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include t",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.753830",
+    "first_seen": "2026-11-07T00:14:31.753831"
+  },
+  {
+    "id": "8ea759f01c72cfa1",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159441-staff-software-engineer-opentelemetry-python-instrumentation-spain-remote",
+    "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | Spain | Remote",
+    "company": "Grafana Labs",
+    "location": "Spain",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.753636",
+    "first_seen": "2026-11-07T00:14:31.753638"
+  },
+  {
+    "id": "fa9cde57375b3208",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159442-security-operations-engineer",
+    "title": "Security Operations Engineer",
+    "company": "Samsara",
+    "location": "UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "cybersecurity"
+    ],
+    "description_snippet": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.753315",
+    "first_seen": "2026-11-07T00:14:31.753317"
+  },
+  {
+    "id": "227313a572048b2c",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159443-senior-juju-software-engineer-go",
+    "title": "Senior Juju Software Engineer (Go)",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.752997",
+    "first_seen": "2026-11-07T00:14:31.752999"
+  },
+  {
+    "id": "3328734785fe0993",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159444-staff-software-engineer-opentelemetry-python-instrumentation-uk-remote",
+    "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | UK | Remote",
+    "company": "Grafana Labs",
+    "location": "Germany,  Ireland,  Spain,  UK",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "software engineering"
+    ],
+    "description_snippet": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.752762",
+    "first_seen": "2026-11-07T00:14:31.752764"
+  },
+  {
+    "id": "283a569d659457d5",
+    "source": "jobicy",
+    "url": "https://jobicy.com/jobs/159446-senior-product-marketing-manager-9",
+    "title": "Senior Product Marketing Manager",
+    "company": "Canonical",
+    "location": "EMEA",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "full_time",
+    "tags": [
+      "marketing & sales"
+    ],
+    "description_snippet": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers inclu",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:31.752343",
+    "first_seen": "2026-11-07T00:14:31.752353"
+  },
+  {
+    "id": "c2038bb12eb89338",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
+    "title": "Agile Program Manager",
+    "company": "Toptal",
+    "location": "Anywhere in the World",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "program management",
+      "agile",
+      "scrum"
+    ],
+    "description_snippet": "We're looking for an experienced Agile Program Manager to lead delivery across multiple cross-functional teams working toward a shared set of business outcomes. You'll sit at the intersection of strategy and execution: translating roadmap priorities into coordinated, predictable delivery, keeping de",
+    "posted_date": "2026-11-05",
+    "scraped_at": "2026-11-07T00:14:30.913266",
+    "first_seen": "2026-11-07T00:14:30.913268"
+  },
+  {
+    "id": "3a353cc09e0bb6d3",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693",
+    "title": "Senior Full Stack Engineer People Products",
+    "company": "Thumbtack",
+    "location": "Toronto",
+    "is_remote": true,
+    "salary": "N/A",
+    "job_type": "N/A",
+    "tags": [
+      "full stack",
+      "design",
+      "saas",
+      "react",
+      "salesforce",
+      "hr",
+      "front end",
+      "python",
+      "technical",
+      "customer support"
+    ],
+    "description_snippet": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home â from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete u",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:30.913119",
+    "first_seen": "2026-11-07T00:14:30.913122"
+  },
+  {
+    "id": "5652484635f13017",
+    "source": "remoteok",
+    "url": "https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694",
+    "title": "Accountant",
+    "company": "Serve Robotics",
+    "location": "los angeles",
+    "is_remote": true,
+    "salary": "USD 90,000 – 110,000/year",
+    "job_type": "N/A",
+    "tags": [
+      "accounting",
+      "design",
+      "customer support",
+      "dev",
+      "finance",
+      "robotics",
+      "microsoft",
+      "exec",
+      "ops",
+      "excel"
+    ],
+    "description_snippet": "At Serve Robotics, weâre reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. Itâs designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. The Serve fleet has been delighting me",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:30.912829",
+    "first_seen": "2026-11-07T00:14:30.912837"
+  },
+  {
+    "id": "b75b0ea31e45536d",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=2e669ead6742b5df",
+    "title": "AI Engineer",
+    "company": "Robotics Technologies",
+    "location": "Boston, MA, USA",
+    "is_remote": false,
+    "salary": "USD 78 – 78/hourly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "airflow",
+      "aws",
+      "data engineering",
+      "snowflake",
+      "data warehouse",
+      "scala"
+    ],
+    "description_snippet": "* Job ID:\n\n  J54180\n* Job Title:\n\n  AI Engineer\n* Location:\n\n  Boston,, MA\n* Duration:\n\n  12 Months + Extension\n* Domain Exposure:\n\n  Insurance\n* Client:\n\n  To Be Discussed Later\n* Employment Type:\n\n  W-2, 1099, C2C\n* Work Authorization:\n\n  US Citizen, Green Card, H-1B, OPT-EAD, CPT, Other\n\n  \n\n**Jo",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:26.239975",
+    "first_seen": "2026-11-07T00:14:26.239977"
+  },
+  {
+    "id": "3bc161dddd3a05e1",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=0ea6a5f15f84fb2e",
+    "title": "Data Engineer, Senior",
+    "company": "Purdue University",
+    "location": "Remote, USA",
+    "is_remote": false,
+    "salary": "USD 82,560 – 87,720/yearly",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "data warehouse"
+    ],
+    "description_snippet": "Req Id: 44887\n\nJob Title: Data Engineer, Senior\n\nCity: REMOTE\n\n**Job Summary**\n---------------\n\n### **Senior Data Engineer | Purdue IT | Remote for the right person**\n\n  \n\nThis is an exciting time to join our team as we modernize Purdue’s enterprise data environment, including our transition to Info",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:26.239782",
+    "first_seen": "2026-11-07T00:14:26.239785"
+  },
+  {
+    "id": "3fa3c373cb5ed36c",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=1b8115ea866b9249",
+    "title": "ETL Data Engineer",
+    "company": "Alpha Omega Integration",
+    "location": "Vienna, VA, USA",
+    "is_remote": false,
+    "salary": "USD 90,000 – 130,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "aws",
+      "java",
+      "rust"
+    ],
+    "description_snippet": "**Job Title: ETL Data Engineer**  \n**Clearance Required: Public Trust**  \n**Work Location: Hybrid; Vienna, VA**\n\nAlpha Omega is seeking a qualified ETL Data Engineer for one of our prime Federal projects in Arlington, VA. He will develop, maintain, and support four project areas: a downstream API, a",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:26.239507",
+    "first_seen": "2026-11-07T00:14:26.239510"
+  },
+  {
+    "id": "60a4dadfe84ed7df",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=119152859435eb74",
+    "title": "Staff, Data Engineer | Bentonville, Arkansas",
+    "company": "Walmart",
+    "location": "Bentonville, AR, USA",
+    "is_remote": false,
+    "salary": "N/A",
+    "job_type": "fulltime",
+    "tags": [
+      "spark",
+      "pyspark",
+      "airflow",
+      "data engineering",
+      "scala"
+    ],
+    "description_snippet": "**Position Summary...**\n-----------------------\n\n**What you'll do...**\n---------------------\n\n***\\*\\*Immigration sponsorship is not available for this role. Applicants must be authorized to work for any employer in the United States without current or future visa sponsorship. This is a full-time ons",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:26.239165",
+    "first_seen": "2026-11-07T00:14:26.239167"
+  },
+  {
+    "id": "d6220f64322d7925",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=3007762984bf0e01",
+    "title": "GCP Data Engineer",
+    "company": "Capgemini",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 51 – 80/hourly",
+    "job_type": "contract",
+    "tags": [
+      "python",
+      "sql",
+      "spark",
+      "pyspark",
+      "dbt",
+      "airflow",
+      "gcp",
+      "data engineering",
+      "pandas",
+      "bigquery",
+      "ci/cd",
+      "java",
+      "scala"
+    ],
+    "description_snippet": "Remote\n\nContract (6 months 9 days)\n\nPublished 5 hours ago\n\nPython (Pandas, PySpark), SQL, Apache Spark, Spark SQL\n\npyspark\n\nSQL\n\nGCP\n\n**Description**\n---------------\n\n* Leadership: Experience leading data engineering teams onshore and offshore. This is a lead position, not a senior data engineer pos",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:26.238833",
+    "first_seen": "2026-11-07T00:14:26.238835"
+  },
+  {
+    "id": "d1fb3c52e63f8753",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=9dd3beb9893f2bcb",
+    "title": "Data Engineer III",
+    "company": "CareSource",
+    "location": "Remote, USA",
+    "is_remote": true,
+    "salary": "USD 94,100 – 164,800/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "data engineering",
+      "machine learning",
+      "data warehouse",
+      "scala"
+    ],
+    "description_snippet": "**Job Summary:**\n\nThe Data Engineer III independently designs, develops, implements, and supports complex enterprise data pipelines, data models, and analytical solutions that deliver reliable, actionable information to the business. This role contributes to solution architecture, strengthens data q",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:26.238686",
+    "first_seen": "2026-11-07T00:14:26.238688"
+  },
+  {
+    "id": "0f06ee4ef4bdc0d6",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=ebda84abf34fea33",
+    "title": "ETL Engineer",
+    "company": "Robotics Technologies",
+    "location": "Columbia, SC, USA",
+    "is_remote": false,
+    "salary": "USD 68 – 68/hourly",
+    "job_type": "nan",
+    "tags": [
+      "sql",
+      "data warehouse",
+      "scala"
+    ],
+    "description_snippet": "* Job ID:\n\n  J54249\n* Job Title:\n\n  ETL Engineer\n* Location:\n\n  Columbia, SC\n* Duration:\n\n  8 Months + Extension\n* Domain Exposure:\n\n  Oil & Gas\n* Client:\n\n  To Be Discussed Later\n* Employment Type:\n\n  W-2, 1099, C2C\n* Work Authorization:\n\n  US Citizen, Green Card, H-1B, OPT-EAD, CPT, Other\n\n  \n\n**J",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:26.238297",
+    "first_seen": "2026-11-07T00:14:26.238301"
+  },
+  {
+    "id": "17285497fd6d3b08",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=da30514f570b377a",
+    "title": "Analytics Engineer",
+    "company": "Gamescape",
+    "location": "San Francisco, CA, USA",
+    "is_remote": false,
+    "salary": "USD 110,000 – 145,000/yearly",
+    "job_type": "fulltime",
+    "tags": [
+      "python",
+      "sql",
+      "data engineering",
+      "analytics engineering",
+      "data warehouse"
+    ],
+    "description_snippet": "Job Description\n\nGamescape is seeking a detail-oriented Analytics Engineer to transform raw data into reliable datasets and actionable business insights. The successful candidate will develop data models, improve reporting processes, and collaborate with technical and business teams to support data-",
+    "posted_date": "2026-10-11",
+    "scraped_at": "2026-11-07T00:14:21.394556",
+    "first_seen": "2026-11-07T00:14:21.394558"
+  },
+  {
+    "id": "8c47ff265a1d1294",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=57095db06a56878f",
+    "title": "Azure Senior Data Architect",
+    "company": "HCLTech",
+    "location": "Washington, VA, USA",
+    "is_remote": false,
+    "salary": "USD 148,000 – 211,000/yearly",
+    "job_type": "nan",
+    "tags": [
+      "azure",
+      "machine learning",
+      "databricks",
+      "synapse",
+      "ci/cd",
+      "scala"
+    ],
+    "description_snippet": "**Job Summary**\n---------------\n\nThe Azure Data Architecture Lead is responsible for providing architectural leadership in designing, implementing, and optimizing large-scale data solutions using Azure Data Factory and related Azure services. This role drives enterprise-scale data initiatives, ensur",
+    "posted_date": "2026-10-30",
+    "scraped_at": "2026-11-07T00:14:21.392821",
+    "first_seen": "2026-11-07T00:14:21.392823"
+  },
+  {
+    "id": "2ee1046ea431d264",
+    "source": "indeed",
+    "url": "https://www.indeed.com/viewjob?jk=70d54c35fac2da84",
+    "title": "Snowflake / Alation Data Engineer /Only Ohio",
+    "company": "American business solutions inc",
+    "location": "Columbus, OH, USA",
+    "is_remote": true,
+    "salary": "USD 1 – 1/hourly",
+    "job_type": "nan",
+    "tags": [
+      "python",
+      "sql",
+      "dbt",
+      "data engineering",
+      "snowflake",
+      "data warehouse",
+      "medallion",
+      "scala"
+    ],
+    "description_snippet": "Remote Position - candidates in Ohio only  \nInterviews will be remote\n\n##### **Complete Description**\n\n  \nPreferred Education: Bachelor’s Degree in Data Analytics, Computer Science, Information Technology, Computer Engineering, or a closely related field.  \nJob Description: Key Responsibilities: 1. ",
+    "posted_date": "2026-11-06",
+    "scraped_at": "2026-11-07T00:14:21.391897",
+    "first_seen": "2026-11-07T00:14:21.391900"
+  },
+  {
     "id": "46ce0d9072b963da",
     "source": "weworkremotely",
     "url": "https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer",
